@@ -8,7 +8,7 @@
 
 - Abrieron el nuevo repo para este nuevo proyecto
 
-- Revisión de los proyectos prototipo de *"cada"* estudiante (los que lo subieron al github solamente)
+- Revisión de los proyectos prototipo de cada estudiante
 
 - Darle más especificación a la descripción de los proyectos como cuál es la finalidad, por qué se me ocurrió este proyecto
 
