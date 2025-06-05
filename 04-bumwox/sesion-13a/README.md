@@ -22,4 +22,4 @@ __materiales__
 - se ha especializado en el área de Nuevos Medios y Sonido en el contexto de las artes visuales.
 
 __pregunta para monica__
--en que momento viste la electrónica como una herramienta la cual podias incluir en tu arte?
+- en que momento viste la electrónica como una herramienta la cual podias incluir en tu arte?
