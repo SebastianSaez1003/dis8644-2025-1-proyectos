@@ -18,3 +18,8 @@ __materiales__
 
 ## monica bate
 
+- mónica bate vidal (Santiago de Chile, 1978) es una artista visual y académica chilena
+- se ha especializado en el área de Nuevos Medios y Sonido en el contexto de las artes visuales.
+
+__pregunta para monica__
+-en que momento viste la electrónica como una herramienta la cual podias incluir en tu arte?
