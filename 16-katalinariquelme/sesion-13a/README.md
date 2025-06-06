@@ -9,7 +9,7 @@ Subir apuntes a un nuevo reformatorio (dis8644-2025-1-proyectos)
 - esta semana no subir fotos.
 - no subir archivos/imágenes con tilde en el nombre
     - ejem: captura_de_conversación
-- caracteres prohibidos en el nombre de los archivos/imágenes : [ "/", "//", ":", "*", "?", " " ", ">", "<", "|" ,"[]"] *recomendación en nombre de archivos con guión ( -, _ ) o mayúsculas y minúsculas.
+- caracteres prohibidos en el nombre de los archivos/imágenes : [ "/", "//", ":", "*", "?", " " ", ">", "<", "|" ,"[]"] **recomendación en nombre de archivos con guión ( -, _ ) o mayúsculas y minúsculas.**
     - ejem 1: KatalinaRiquelmeArchivo
     - ejem 2: katalina_riquelme_archivo
  
