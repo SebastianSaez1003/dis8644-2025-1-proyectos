@@ -1,6 +1,6 @@
 # sesion-13b
 
-__monica bate en clases__
+__charla de monica bate__
 - "lo sonoro, lo organico y lo maquinal"
 - hbala de su proyecto _la vida de los cristales_
 - el eje de lo maquinal, nace de su estudio de la fotografia, cual parte de uha curiosidad cientifica y ha tenido la oprotunida dde estar en constante cambio con la tecnologia
@@ -26,7 +26,6 @@ __monica bate en clases__
 - regleta de conexion
 - hay arquitecturas de amplificacion, para sonido
 - __yto aranda__ artista visual, tiene residencia en raocaya, creo software pure data
-- 
 
 __pregunta para monica__
 - en que momento viste la electrónica como una herramienta la cual podias incluir en tu arte?
