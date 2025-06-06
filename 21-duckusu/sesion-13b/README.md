@@ -21,3 +21,6 @@ Bibiliografías destacables despues de la presentación:
 - https://cajanegraeditora.com.ar/libros/una-geologia-de-los-medios-jussi-parikka/
 - https://www.tsonami.cl/
 - https://festival.tsonami.cl/
+
+
+## RECESO
