@@ -12,3 +12,12 @@ Preguntas que puede que le vaya a hacer:
 
 -	¿Cómo eliges los materiales y lenguajes tecnológicos para cada proyecto?
 -	¿Si esos son los materiales, existe una razón mas profunda de la selección, por que en especifico el cristal de cuarzo?
+
+Bibiliografías destacables despues de la presentación:
+
+- https://en.wikipedia.org/wiki/Francisco_Varela
+- https://es.wikipedia.org/wiki/Humberto_Maturana
+- https://youtu.be/I5W2cA-KmqY?si=TbTD6zuqZwl2xLFX
+- https://cajanegraeditora.com.ar/libros/una-geologia-de-los-medios-jussi-parikka/
+- https://www.tsonami.cl/
+- https://festival.tsonami.cl/
