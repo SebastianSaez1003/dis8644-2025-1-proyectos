@@ -34,3 +34,10 @@ Yto Aranda
 ### *El piezo eléctrico es un fenómeno no un material*
 
 
+## Equipos de trabajo
+
+Debemos encontrar conceptos mas precisos para conformar los equipos
+
+No pueden ser proyectos en solitario
+
+Debemos ponernos de acuerdo en quien trabajará en el input, el proceso y el output.
