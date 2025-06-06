@@ -134,3 +134,65 @@ La diferencia de amplitudes tiene que ver con que cada cristal es distinto, sens
 Perich montó en el MAC.
 
 Nada es 100% controlable.
+
+# proyecto_02
+
+##  roles
+
+###  grupo_0: colaboradores generales
+
+-  martín silva → materiales y tesorería
+-  félix → modelado e impresión 3d
+-  izhak → texto y redacción
+-  jota morales→ video
+-  bernardita → registro y montaje
+-  camila → diseño gráfico
+-  alanis → modelado e impresión 3d
+-  francisco → kicad y falstad
+
+### grupo_01:
+
+-  hazzaily
+-  katalinariquelme 
+-  thyare08 
+
+### grupo_02:
+
+-  Anto Fuentealba
+-  Sofia Perez
+-  Sofia Etchepare
+
+### grupo_03:
+
+-  valentina ruiz
+-  isabella
+-  sofia cartes
+
+###  grupo_04:
+
+-  braulio
+-  carlo
+-  bastián
+
+
+###  grupo_05:
+
+-  Anto Cristi
+-  Pau Vargas
+-  Natalia Pilar
+
+###  grupo_06:
+
+-  stgo
+-  sebastián
+-  anaís
+
+### grupo_07: (faltó)
+
+-  Braulio
+-  Bastián
+-  Carlo
+
+###  Tarea texto y redacción
+-  Documentar quién hace cada cosa
+-  Acreditación, créditos del proyecto.
