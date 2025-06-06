@@ -27,3 +27,9 @@ Bibiliografías destacables despues de la presentación:
 
 ### Elección de grupos
 
+![yo](https://github.com/duckusu/dis8644-2025-1-proyectos/blob/main/21-duckusu/sesion-13b/archivos/yo.png)
+
+- Me hice responsable de este hermoso task con el proposito de mantener todo a salvo.
+- No olvidar revisar el github de misaaaaaa como referente para el bill of material.
+- Usar excel o google sheets para ordenar todo.
+- usar mi auto si es necesario.
