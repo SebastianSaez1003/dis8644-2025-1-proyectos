@@ -24,3 +24,6 @@ Bibiliografías destacables despues de la presentación:
 
 
 ## RECESO
+
+### Elección de grupos
+
