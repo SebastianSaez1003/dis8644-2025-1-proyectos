@@ -1,7 +1,8 @@
 # sesion-13b
-*6 de junio de 2025*
 
-## Charla de Monica Bate Artista visual 
+6 de junio de 2025
+
+## Charla de Monica Bate Artista visual
 
 ### *Lo sonoro, lo orgánico, lo maquinal*
 
@@ -29,10 +30,9 @@
 
 Yto Aranda
 
- (https://www.youtube.com/watch?v=HJHltLFaKhk)
+ (<https://www.youtube.com/watch?v=HJHltLFaKhk>)
 
 ### *El piezo eléctrico es un fenómeno no un material*
-
 
 ## Equipos de trabajo
 

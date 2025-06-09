@@ -2,7 +2,7 @@
 
 Martes 03 de junio 2025 (falté)
 
-### Ejemplos de proyectos y medios artísticos
+## Ejemplos de proyectos y medios artísticos
 
 - Luminist Garden: Instrumento electroacústico.  
 - The Useless Machine Máquinas con funcionalidad absurda.
@@ -28,15 +28,15 @@ Martes 03 de junio 2025 (falté)
 
 Gracias a la utilización de un servomotor con una precisión angular en una placa giratoria se pretende que mediante interacción con botones pulsadores se logre cerrar circuitos anteriormente abiertos (sin conexión), de manera similar a un teclado mediante resistencias pero que esta vez sea un motor el intermediario de dicho sistema. Cada posición del motor se conecta con una resistencia variable distinta, se pretende también que el generador de tonos sea un chip 555 o, por otro lado, una síntesis mediante software (muy probablemente Arduino).
 
-1. **¿Cuáles son las motivaciones de este proyecto?:**
+#### 1. **¿Cuáles son las motivaciones de este proyecto?:**
 
 - Siguiendo la idea del projecto_1 (el cual fue un piano electrónico conectado mediante resistencias y botones pulsadores) es que he decidido desarrollar la idea del piano pero de manera "no tan convencional", las oscilaciones del servomotor influirían totalmente en el diseño de nuestro instrumento.
 
-2. **Objetivo:**
+#### 2. **Objetivo:**
 
 - Experimentar acerca de la electrónica mediante sistemas audibles y resistencias variables para un ajuste fino de frecuencias, entender el cómo llegamos a cierto ruido en específico estableciendo escalas musicales y descubrir los secretos del 555 en relación al circuito o la placa impresa. Todo mediante decisiones de diseño.
 
-3. **Alcances:**
+#### 3. **Alcances:**
 
 - Como se mencionó anteriormente se pretende que el circuito presente resistencias variables, estas a su vez pueden presentarse de diferentes maneras y cantidades (en ohms). También se puede añadir un feedback visual (LED's) que nos ayuden a indicar la posición de cada resistencia y nuestro servomotor o si es que el circuito funciona plenamente como es esperado.
 
