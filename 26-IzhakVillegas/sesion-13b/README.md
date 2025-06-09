@@ -56,7 +56,7 @@ Medición de la frecuencia de resonancia de cristales. 4000 Hz a 8000 Hz.
 
 Piezoeléctro operan en las frecuencias más altas
 
-### **The Life of Crystals [C][O][R][O]**
+### **The Life of Crystals `[C][O][R][O]`**
 
 Coro de 8 cristales, 8 salidas, 8 parlantes. Con ayuda de un cristalógrafo.
 
