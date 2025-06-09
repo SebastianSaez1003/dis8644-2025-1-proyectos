@@ -1,6 +1,7 @@
 # sesion-13b
 
-__charla de monica bate__
+## charla de monica bate
+
 - "lo sonoro, lo organico y lo maquinal"
 - hbala de su proyecto _la vida de los cristales_
 - el eje de lo maquinal, nace de su estudio de la fotografia, cual parte de uha curiosidad cientifica y ha tenido la oprotunida dde estar en constante cambio con la tecnologia
@@ -14,7 +15,7 @@ __charla de monica bate__
 - no es necesario innovar todo el rato
 - el este royecto profundizo en al electronica, lo fenomenos lectronicos estan en todo, mas aun en la naturaleza
 - cuando un trabaja en crudo, sacarle trote a eso es terrible, se parte de cero, estuvo un año y medio tratando de hacer parecer el sonido
-- hay que conocer a __francisco varela__, cientifico chileno 
+- hay que conocer a __francisco varela__, cientifico chileno
 - libro geologia del medio de __jussi parikka__
 - festuvales sonami de valparaiso, sobre hacer arte sonoro
 - al quere trabajar con caurzo real fue a la quinta region a una mina de cuarzo
@@ -27,5 +28,6 @@ __charla de monica bate__
 - hay arquitecturas de amplificacion, para sonido
 - __yto aranda__ artista visual, tiene residencia en raocaya, creo software pure data
 
-__pregunta para monica__
+## pregunta para monica
+
 - en que momento viste la electrónica como una herramienta la cual podias incluir en tu arte?
