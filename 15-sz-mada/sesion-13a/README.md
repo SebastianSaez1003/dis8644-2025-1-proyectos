@@ -2,7 +2,7 @@
 
 [3 de junio del 2025]
 
-### NO SUBIR IMÁGENES HASTA NUEVO AVISO
+## NO SUBIR IMÁGENES HASTA NUEVO AVISO
 
 ## Apuntes
 
