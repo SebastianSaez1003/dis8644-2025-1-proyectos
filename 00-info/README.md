@@ -1,3 +1,4 @@
 # 00-info
 
-* [subir fotos](./subir-fotos.md)
+* [subir-imagenes](./subir-imagenes.md)
+* [pedir-evaluacion](./)
