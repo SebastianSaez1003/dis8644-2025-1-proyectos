@@ -10,11 +10,13 @@ Considerando que la mayoría de los equipos están en el proceso creativo inicia
 ## Grupos
 
 grupo_01: output luz
+
 Hazzaily
 Katalinariquelme
 Thyare08
 
 grupo_02: input proximidad, output Sonido
+
 Anto Fuentealba
 Sofia Perez
 Sofia Etchepare
