@@ -1,5 +1,5 @@
 # sesion-14a
-*10 de junio de 2025*
+10 de junio de 2025
 
 Durante la clase se reunio el equipo de colaboradores y definimos distintos aspectos, como la documentacion individual de los procesos realizados por cada uno al ayudar a nuestros compañeros.
 
