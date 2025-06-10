@@ -11,39 +11,39 @@ Considerando que la mayoría de los equipos están en el proceso creativo inicia
 
 grupo_01: output luz
 
-Hazzaily
-Katalinariquelme
-Thyare08
+* Hazzaily
+* Katalinariquelme
+* Thyare08
 
 grupo_02: input proximidad, output Sonido
 
-Anto Fuentealba
-Sofia Perez
-Sofia Etchepare
+* Anto Fuentealba
+* Sofia Perez
+* Sofia Etchepare
 
 grupo_03: input sonido, output luz
 
-Valentina ruiz
-Isabella
-Sofia cartes
+* Valentina ruiz
+* Isabella
+* Sofia cartes
 
 grupo_04: No definido al momento
 
-Braulio
-Carlo
-Bastián
+* Braulio
+* Carlo
+* Bastián
 
 grupo_05: Movimiento, sonido y luz
 
-Anto Cristi
-Pau Vargas
-Natalia Pilar
+* Anto Cristi
+* Pau Vargas
+* Natalia Pilar
 
 grupo_06: input luminico, output kinetico
 
-Stgo
-Sebastián
-Anaí
+* Stgo
+* Sebastián
+* Anaí
 
 Materiales a proponer, impresión 3d, madera, acrílico, 
 
