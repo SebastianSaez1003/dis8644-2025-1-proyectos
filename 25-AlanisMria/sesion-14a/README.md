@@ -43,7 +43,7 @@ grupo_06: input luminico, output kinetico
 
 * Stgo
 * Sebastián
-* Anaí
+* Anaís
 
 Materiales a proponer, impresión 3d, madera, acrílico, etc.
 
