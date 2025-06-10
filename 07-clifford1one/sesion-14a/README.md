@@ -16,7 +16,7 @@ tras una retroalimentación con misa, nos recomendó seguir con una propuesta cu
 
 para ello, primero seguimos [este tutorial](https://www.youtube.com/watch?v=J-QO7jQGfoE&t=2s), con el que se controla un servo motor.
 
-decidimos usar un servomotor, puesto que funciona por posicion, a diferencia de otros motores que funcionan mediante rpm. Esto quiere decir, que un servo, al recibir una señal, se mueve de un punto x a un punto y. Mientras que un motor stepper, cuando recibe una señal gira durante un tiempo determinado.
+decidimos usar un servomotor, puesto que funciona por posición, a diferencia de otros motores que funcionan mediante rpm. Esto quiere decir, que un servo, al recibir una señal, se mueve de un punto x a un punto y. Mientras que un motor stepper, cuando recibe una señal gira durante un tiempo determinado.
 
 paralelamente construimos un circuito detector de luz/sombra con un LDR, ya que nuestra idea era que los lentes se activen automáticamente al ser expuesto a luz directa.
 
@@ -30,8 +30,8 @@ También nos recomendó usar un motor stepper, ya que, como grupo consideramos q
 
 - [motorreductor de calidad alta](https://afel.cl/products/motorreductor-dc-6v-3rpm-con-soporte-metalico)
 
-el siguiente paso es crear 2 crcuitos PWM: un circuito que mueva los lentes desde la frente del usuario hacia sus ojos, y un segundo circuito que mueva los lentes desde los ojos del usuario hacia su frente. Estos circuitos serán activados mediante un interruptor de 3 estados, llamado coloquialmente "on-off-on". 
+el siguiente paso es crear 2 circuitos PWM: un circuito que mueva los lentes desde la frente del usuario hacia sus ojos, y un segundo circuito que mueva los lentes desde los ojos del usuario hacia su frente. Estos circuitos serán activados mediante un interruptor de 3 estados, llamado coloquialmente "on-off-on". 
 
-Este interruptor estará colocado verticalemente, de modo que, al "subir" la palanca, los lente suban a la frente del usuario, al bajar la palanca, los lentes bajen a los ojos del usuario, y en el estado intermedio, la posición "central", el circuito esté apagado.
+Este interruptor estará colocado verticalmente, de modo que, al "subir" la palanca, los lente suban a la frente del usuario, al bajar la palanca, los lentes bajen a los ojos del usuario, y en el estado intermedio, la posición "central", el circuito esté apagado.
 
 ![diagrama de flujo del pryecto "fps555"](./archivos/flujo-fps555.png)
