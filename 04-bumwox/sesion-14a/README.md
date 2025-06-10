@@ -19,3 +19,5 @@ diagrama
 - 
 
 
+- sensor de presion
+- 
