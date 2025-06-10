@@ -1,7 +1,8 @@
 # sesion-13b
-*6 de junio de 2025*
 
-## Charla de Monica Bate Artista visual 
+6 de junio de 2025
+
+## Charla de Monica Bate Artista visual
 
 ### *Lo sonoro, lo orgánico, lo maquinal*
 
@@ -29,10 +30,9 @@
 
 Yto Aranda
 
- (https://www.youtube.com/watch?v=HJHltLFaKhk)
+<https://www.youtube.com/watch?v=HJHltLFaKhk>
 
 ### *El piezo eléctrico es un fenómeno no un material*
-
 
 ## Equipos de trabajo
 
@@ -41,3 +41,38 @@ Debemos encontrar conceptos mas precisos para conformar los equipos
 No pueden ser proyectos en solitario
 
 Debemos ponernos de acuerdo en quien trabajará en el input, el proceso y el output.
+
+### Se definieron distintos grupos de trabajo compuestos por 3 personas y un grupo de ayuda colectiva compuesto por 8 personas
+
+En el grupo de ayuda colectiva se definieron distintos cargos, entre ellos el de ayuda en modelado e impresión 3d, con el cual participó.
+
+Se propuso un modo de trabajo y de apoyo a nuestros compañeros, planteando la existencia de un mensaje determinado que les facilitara el proceso de pedir ayuda, en el deben agregar el nombre de su proyecto y el link al repositorio donde se encuentra para tener la info necesaria para ayudar, el área en que necesitan ayuda, por ejemplo Kicad y por último el detalle de lo que necesitan.
+
+### Camila Prada redactó este texto agregando a cada integrante del grupo, su cargo y función, respectiva
+
+COLABORADORES DEL TALLER ✨
+
+* Listado de labores a desarrollar y personas encargadas de dichas tareas.
+* Las ideas planteadas pueden modificarse con el tiempo 😊
+* El orden de los números no tiene prioridad
+
+1 Registro del taller (Bernardita Lobos y Jota Morales):
+
+Creación de un canal de YouTube para el taller que permita subir el contenido de los proyectos a desarrollar (registros de video y audio). Esta idea se busca mantenerse en el tiempo como un repositorio versátil al que puedan acceder les estudiante (tanto de talleres como del laboratorio) en el presente y futuro. Se busca disminuir el peso de los archivos de github, reemplazando los videos por un enlace. A su vez, los elementos presentes en esta plataforma se pueden incluir como parte de la muestra "museográfica" (Diseño abierto) y para plataformas de Instagram. Se realizarán fotografías profesionales para ser incluidas en el documento final.
+
+2 Modelado e impresión 3D (Felix Rodríguez y Alanis Vásquez):
+
+Apoyo para el desarrollo de carcasas para los proyectos (prototipados y versión final) y los elementos que los equipos consideren necesarios. “Reestructuración” de los componentes de los circuitos prototipados (sugerencia sobre piezas a usar, composición de las futuras placas PCB, entre otros). Compañía, tips, ayuda y supervisión al momento de imprimir en 3D. Sugerencias sobre filamentos y materialidades según los objetivos del circuito (flexibilidad, resistencia, transparencia, etc) y tratamiento de estos (técnicas de trabajo).
+
+3 Textos y redacción (Izhak Villegas):
+
+Apoyo con el desarrollo de los contenidos para el examen (Texto curatorial, “láminas/archivos” sobre el proyecto y su proceso, documentos e investigación, citas en formato APA, entre otros), bajada de ideas. Análisis y corrección de textos desarrollados por les estudiantes (estructura, léxico y conceptos). Ayuda con el desarrollo del documento en formato markdown y sus vínculos (carpetas, links a videos y/o imágenes, etc). Contribuir con investigaciones que sirvan de respaldo para los proyectos (en caso de ser necesario).
+
+4 Materiales y tesorería (Martín Silva):
+Administración y recaudación de fondos para los proyectos y el montaje. Inventariado de materiales (carcasa, entre otros) y componentes del circuito que va a requerir cada proyecto de forma específica. Contabilizar y registrar las piezas ya existentes para el uso de les estudiantes (materiales sobrantes, donaciones, etc). Cotizaciones de productos a utilizar (PCB’s, componentes, materiales, impresiones, etc), compra y transporte de estos a la facultad.
+
+5 KiCad y Falstad (Francisco Stephens):
+Guía y ayuda con el desarrollo del prototipo y diseño final del proyecto en KiCad (Esquemático del circuito, asignación de huellas, composición de las placas, visualización 3D, entre otros elementos). Sugerencias sobre los componentes y la estructura de estos en el circuito (última revisión antes de cotizar y mandar a producir).  Apoyo en la creación de la simulación del circuito en Falstad (Dibujo del diagrama, otras funciones).
+
+6 Diseño gráfico (Camila Parada):
+Creación de una plantilla editable para markdown, cuyo foco es el aspecto visual del proyecto (sólo se modifica la información que contiene y el orden de los contenidos según se estime conveniente). Continuidad y desarrollo de una identidad gráfica en colaboración con el “Laboratorio de interacción digital” (Logotipo, elementos gráficos, paleta de colores, etc). Diseño y creación de archivos de impresión para el montaje (Texto curatorial, cédulas de las obras expuestas, carteles informativos, etc.) y piezas gráficas digitales para los medios a usar (redes sociales, página web, etc). Edición de imágenes digitales y fotografías (Photoshop, Illustrator, etc). Sugerencias sobre el montaje y propuestas sobre la composición y orden del espacio según los proyectos de cada equipo y sus requerimientos.

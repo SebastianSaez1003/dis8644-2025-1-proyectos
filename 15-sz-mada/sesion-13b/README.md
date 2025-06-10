@@ -2,7 +2,7 @@
 
 [6 de junio del 2025]
 
-### [Mónica Bate](http://etab.cl/monica-bate/)
+## [Mónica Bate](http://etab.cl/monica-bate/)
 
 > Aarón le dio un quick rundown de cómo funcionan los talleres en la U y qué sucede en nuestro taller específicamente
 
@@ -30,7 +30,7 @@
 
 - Life of Crystals 32°S 71°W / Minera de Quintay y cristalera cerro El Roble
 
-- Life of crystals [c][o][r][o] / Hacer un coro con 8 cristales
+- Life of crystals `[c][o][r][o]` / Hacer un coro con 8 cristales
 
 - La primera instalación fue en el Patio Domeyko, si te parabas en el centro, se podían escuchar todos juntos
 

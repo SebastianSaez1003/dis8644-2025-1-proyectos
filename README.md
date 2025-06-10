@@ -66,7 +66,7 @@ nuestras sesiones de clases serán los martes y viernes entre marzo y julio 2025
 | [14a](00-docentes/sesion-14a/)| 06-10 mar| prototipado proyecto-02          |
 | [14b](00-docentes/sesion-14b/)| 06-13 vie| prototipado proyecto-02          |
 | [15a](00-docentes/sesion-15a/)| 06-17 mar| prototipado proyecto-02          |
-| [15b](00-docentes/sesion-15b/)| 06-20 vie| entrega proyecto-02              |
+| [15b](00-docentes/sesion-15b/)| 06-20 vie| feriado, entrega noche anterior online |
 | [16a](00-docentes/sesion-16a/)| 06-24 mar| salida:  palacio pereira         |
 | [16b](00-docentes/sesion-16b/)| 06-27 vie| preparación examen - carcasas    |
 | [examen](examen/)             | 07-07 tbd| preparación examen - carcasas    |
