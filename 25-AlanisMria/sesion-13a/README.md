@@ -1,9 +1,10 @@
 # sesión-13a
-*03 de junio de 2025*
+
+03 de junio de 2025
 
 Al presentar el proyecto de mini proyector, se corrigió que el proyecto no tenía un objetivo en sí y se propuso la implementación de láminas editables para incentivar al usuario a crear.
 
-En el caso de atariPies se enfatiza en el planteamiento del proyecto como algo humorístico, también se observa falta de definición en su objetivo 
+En el caso de atariPies se enfatiza en el planteamiento del proyecto como algo humorístico, también se observa falta de definición en su objetivo
 y la forma en que se "vende" el producto.
 
 En cuanto a la idea del juego para el control de ansiedad, se propone el enfoque en el hecho de morderse las uñas, por lo que se propone una alarma que te advierta y a la vez reprenda al acercar un dedo a la boca.
@@ -20,5 +21,4 @@ En el caso de AtariPies Propuse los conceptos de:
 * Experimental
 * Coordinación
 
-En este link esta el resultado: https://www.figma.com/board/SJ5aMmrHrLNyBLnBfF12Tc/2025-01-ideas-proyectos?node-id=0-1&p=f&t=FvOTPpXeKLvBchVm-0
-
+En este link esta el resultado: <https://www.figma.com/board/SJ5aMmrHrLNyBLnBfF12Tc/2025-01-ideas-proyectos?node-id=0-1&p=f&t=FvOTPpXeKLvBchVm-0>
