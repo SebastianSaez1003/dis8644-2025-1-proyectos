@@ -7,15 +7,17 @@ tareas en clase
 2. prototipado en protoboard de la entrada al sistema
 3. bill of materiales de materiales faltantes
 
-# quise poner otro título grande
+## quise poner otro título grande (ahora lo hice con 2 ##)
 
-_texto_
+### texto 
 
-eso es un pseudosubítulo en cursiva
+eso era un pseudosubítulo en cursiva, ahora está bien hecho
 
-**negrita**
+### negrita 
 
-intento de pseudosubtítulo con negrita tot
+esto era un intento de pseudosubtítulo con negrita ahora está bien
+
+(ver log para apreciar cambios)
 
 
 
