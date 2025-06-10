@@ -16,4 +16,3 @@ Errores comunes en el fork:
 - Realizar diagrama de flujo de circuito.
 - Prototipo inputs.
 - Conseguir materiales con duckusu.
-
