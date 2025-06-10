@@ -1,5 +1,6 @@
 # sesion-13a
 
+## proyectos
 
 ### 1. máquina interactiva con parlantes, buzzer y vibrador ocultos
 
