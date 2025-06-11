@@ -4,25 +4,28 @@
 
 ### Cosas que hablamos en la mañana
 
-- 
+- Hablamos un poco sobre el nuevo repositorio y las especificaciones en Markdown que debemos seguir para que todo funcione de manera fluida.
+- Es importante tener especial cuidado con los nombres de los archivos, ya que una mala nomenclatura puede afectar la organización o el funcionamiento del repositorio.
+- Hablamos sobre la importancia de iniciar actividades, un proceso formal que permite a una persona natural o jurídica declarar que comenzará actividades económicas, habilitándola para emitir boletas.
+- Defensoría del Contribuyente
 
 ### Equipo de apoyo
 
-- como equipo estuvimos definiendo como podiamos ayudar a los grupos de trabajo
-- estuvimos definiendodo en el area de registro, como vamos a fotografiar sus prototipos sin interumpir su trabajo, vamos a calendarizar fechas para sesiones  fotograficas y de registro de video.
-- cuando lleguen las pcbs
-- consultamos los horarios y requerimientos para solicitar las camaras
-- vimos el estacio del laboratorio de interaccion que podemos convertir en un estudio
-- el viernes vamos a fotografiar y videograbar los prototipos en las protoboard
-- buscar luces led o focos para la iluminacion del viernes.
-- necesitamos que nos indiquen sus erroeres en el prodceso parra enfatizarr en registro
+- Como equipo, estuvimos definiendo cómo podíamos apoyar a los distintos grupos de trabajo.
+- Nos enfocamos en el área de registro, planificando cómo fotografiar sus prototipos sin interrumpir su trabajo. Vamos a calendarizar fechas para sesiones fotográficas y de registro en video.
+- Acordamos estar atentos a la llegada de las PCBs, para integrarlas al registro visual.
+- Consultamos los horarios y requerimientos para solicitar las cámaras que se utilizarán durante las sesiones.
+- Revisamos el espacio del laboratorio de interacción, el cual podemos adaptar como un pequeño estudio para fotografía y video.
+- El viernes vamos a fotografiar y videograbar los prototipos en las protoboards.
+- Vamos a buscar luces LED o focos para asegurar una buena iluminación ese día.
+- También necesitamos que nos indiquen sus errores o dificultades en el proceso, para poder destacarlos en el registro y mostrar cómo enfrentaron esos desafíos.
 
-### Organizacion para el registro del viernes
+### Organización para las sesiones de registro
 
-- pedir camara y conseguir luces
-- vamos a montar el espacio
-- el horario de registro va a ser
-- solicitaremos que nos presten sus protoboard para fotografiarlas
-- tambien vamos adejar grabando el proceso las impresiones 3D para incluilo al video final
+- Pediremos la cámara y conseguiremos luces para la sesión de registro.
+- Vamos a montar el espacio de trabajo, adaptándolo como estudio para fotografía y video.
+- El horario de registro será el siguiente:
+- Solicitaremos que nos presten sus protoboards para poder fotografiarlas de forma detallada.
+- También vamos a dejar grabando el proceso de impresión 3D, para incluir ese material en el video final.
 
 ### Grupos de trabajo
