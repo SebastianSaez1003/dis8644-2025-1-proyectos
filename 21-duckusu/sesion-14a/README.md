@@ -6,7 +6,7 @@ Con mi grupo empezamos a discutir sobre lo que haríamos este primer bloque, par
 - pedirles por adelantado sus proyecto para prototipar su funcionalidad
 - compartirles el link del excel en el cual estoy trabajando (https://docs.google.com/spreadsheets/d/1CT1RtA_BYuWpyJ54k9VGduSAs_nKiFYd9yf2WvjZ-4g/edit?gid=0#gid=0)
 - Mantener contancto constante **"with my peers"**.
-- Ir a comprar los materiales a locales designados o pedirlos en **"http://victory-ic.com/"**
+- Ir a comprar los materiales a locales designados o pedirlos en **"https://www.victronics.cl/"**
 - Mandarles un mail a los proveedores de parte de todo el curso para 2 semanas más.
 - El mail se consultará primero con Aaron para ver si está bien redactado y sigue una lógica profesional. 
 
