@@ -4,22 +4,28 @@ estos son los grupos de trabajo:
 
 ## grupo-0
 
-* martinsilva
-  * materiales y tesorería
-* felix
-  * modelado e impresión 3D
+### 0a: modelado e impresión 3D
+
+* félix
 * alanis
-  * modelado e impresión 3D
-* izhak
-  * textos técnicos y documentación
+
+### 0b: video, fotografía y gráficas
+
 * jotaMorales
   * video y edición
 * bernardita
   * registro fotográfico y montaje
 * camila
   * diseño gráfico
+
+### 0c: documentación técnica y materiales electrónicos
+
 * francisco
   * simulación en falstad y fabricación en kicad
+* izhak
+  * textos técnicos y documentación
+* martinsilva
+  * materiales y tesorería
 
 ## grupo-1
 
