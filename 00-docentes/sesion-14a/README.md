@@ -9,16 +9,12 @@ tareas en clase
 
 ## quise poner otro título grande (ahora lo hice con 2 ##)
 
-### texto 
+### texto
 
 eso era un pseudosubítulo en cursiva, ahora está bien hecho
 
-### negrita 
+### negrita
 
 esto era un intento de pseudosubtítulo con negrita ahora está bien
 
 (ver log para apreciar cambios)
-
-
-
-  
