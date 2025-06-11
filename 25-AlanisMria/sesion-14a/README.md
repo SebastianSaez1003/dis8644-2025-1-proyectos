@@ -45,9 +45,9 @@ grupo_06: input luminico, output kinetico
 * Sebastián
 * Anaís
 
-Materiales a proponer, impresión 3d, madera, acrílico, etc.
+Materiales a proponer: impresión 3d, madera, acrílico, etc.
 
-* Proponer que todos los proyectos tengan un led que muestre si el objeto esta en funcionamiento 
+* Proponer que todos los proyectos tengan un led que muestre si el objeto esta en funcionamiento *
 
 Por el momento ayudaré a Martín a fijar parámetros para optimizar los procesos para conseguir los materiales necesarios.
 link de bom por grupo, cotizaciones y elementos dispponibles en lab: https://docs.google.com/spreadsheets/d/1CT1RtA_BYuWpyJ54k9VGduSAs_nKiFYd9yf2WvjZ-4g/edit?gid=0#gid=0 
