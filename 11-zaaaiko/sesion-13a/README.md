@@ -10,7 +10,7 @@ Imagen de referencia de la forma del robot:
 
 ![image](https://github.com/user-attachments/assets/dfa7053e-515b-4c2a-9186-2ac3d1976655)
 
-# CONSIDERACIONES!!!
+## CONSIDERACIONES
 
 Una vez hecha la corrección junto al equipo docente, se decidió elegir esta idea como proyecto de examen, haciendo unas modificaciones principales como:
 
