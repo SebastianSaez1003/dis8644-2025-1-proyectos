@@ -11,7 +11,7 @@ para subir imágenes a este repositorio, por favor sigue los siguientes pasos:
 1. anda al archivo Markdown correspondiente, por ejemplo, `tuUsuario/sesion-13a/README.md` y agrega la foto con la sintaxis Markdown, donde `descripcionImagen` es una breve descripción de la imagen y `nombreDeLaImagen.extension` es el nombre del archivo que subiste (ejemplo: `foto-1.jpg`):
 
    ```markdown
-   ![descripcionImagen](archivos/nombreDeLaImagen.extension)
+   ![descripcionImagen](./archivos/nombreDeLaImagen.extension)
    ```
 
 si tienes problemas, crea una issue correspondiente en el repositorio
