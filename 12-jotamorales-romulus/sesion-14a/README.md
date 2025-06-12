@@ -37,3 +37,7 @@
 ### Consideraciones Técnicas y de Seguridad
 
 * Dado que el préstamo implica responsabilidad, hay que tener mucho cuidadoa con el equipo.
+
+## Encargo Viernes 14 de junio
+* Conseguir cámara y trípode. 
+* Hacer registro de avance de los grupos.
