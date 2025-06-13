@@ -35,3 +35,5 @@ el siguiente paso es crear 2 circuitos PWM: un circuito que mueva los lentes des
 Este interruptor estará colocado verticalmente, de modo que, al "subir" la palanca, los lente suban a la frente del usuario, al bajar la palanca, los lentes bajen a los ojos del usuario, y en el estado intermedio, la posición "central", el circuito esté apagado.
 
 ![diagrama de flujo del pryecto "fps555"](./archivos/flujo-fps555.png)
+
+
