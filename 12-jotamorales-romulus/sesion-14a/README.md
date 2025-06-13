@@ -67,15 +67,18 @@ También quiero destacar como referente a Mónica Bate, quien durante la visita 
 Para la primera sesión de registro, vamos a registrar avances y prototipos en protoboard.
 
 **Introducción breve**  
+
    - Nombre del grupo  
    - Descripción del proyecto
- 
+
 **Registro del proceso
+
    - Prototipos en protoboard  
    - Montaje y pruebas del circuito  
    - Interacción con el usuario
 
-**Resultado actual / final**  
+**Resultado actual / final** 
+
    - Prototipo funcionando  
    - Montaje estético  
    - Uso en contexto
@@ -85,19 +88,23 @@ Para la primera sesión de registro, vamos a registrar avances y prototipos en p
 Para mantener coherencia visual y técnica entre todos los registros:
 
 ## Formato y resolución
+
 - Formato horizontal (16:9)
 - Resolución mínima: **1080p (Full HD)
 - FPS: 30 cuadros por segundo
 
 ## Tipos de planos sugeridos
+
 - Plano general del circuito en uso  
 - Plano detalle de componentes  
 - Plano medio o subjetivo si hay interacción
 
 ## Audio
+
 - La idea es registrar el audio si el proyecto produce algun sonido, y dejar sin audio si no tiene. Ojalá colocar alguna canción de ambiente,
 
 ## Iluminación.
+
 - Usar luz blanca o luz natural.
   
 - Sombras creativas si refuerzan el concepto.
