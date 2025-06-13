@@ -70,7 +70,7 @@ Ahora los problemas eran (1) la sequencia solo avanzaba cuando el LDR detectaba 
 
 La primera parte fue fácil de cambiar, simplemente invertir los inputs y ahí daba el resultado opuesto; pero el segundo problema no sabíamos cómo solucionarlo
 
-Llegamos a la conclusión de que el problema era que después de recibir la señal, el circuito no se reiniciaba, así que decidimos conectar el op-amp directo al reset en vez de trigger, y por primera vez vimos el circuito funcionar como lo esperábamos
+Llegamos a la conclusión de que el problema era que después de recibir la señal, el circuito no se reiniciaba, así que decidimos conectar el op-amp directo al reset en vez de trigger solo por probar algo, y por primera vez vimos el circuito funcionar como lo esperábamos
 
 ![circuito final](./archivos/circuitofinal.png)
 
