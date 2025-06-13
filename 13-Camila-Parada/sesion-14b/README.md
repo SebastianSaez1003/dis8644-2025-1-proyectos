@@ -1,5 +1,7 @@
 ![alt text](./archivos/001.png)
 
+![alt text](./archivos/002.png)
+
 # ⋆₊˚⊹♡ Clase  14b - Sesión 4 ♡⊹˚₊⋆
 
 Viernes 13 Junio 2025
