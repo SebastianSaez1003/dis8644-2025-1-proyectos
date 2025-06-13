@@ -71,13 +71,13 @@ Para la primera sesión de registro, vamos a registrar avances y prototipos en p
    - Nombre del grupo  
    - Descripción del proyecto
 
-**Registro del proceso
+**Registro del proceso**
 
    - Prototipos en protoboard  
    - Montaje y pruebas del circuito  
    - Interacción con el usuario
 
-**Resultado actual / final** 
+**Resultado**
 
    - Prototipo funcionando  
    - Montaje estético  
@@ -90,7 +90,7 @@ Para mantener coherencia visual y técnica entre todos los registros:
 ## Formato y resolución
 
 - Formato horizontal (16:9)
-- Resolución mínima: **1080p (Full HD)
+- Resolución mínima: 1080p (Full HD)
 - FPS: 30 cuadros por segundo
 
 ## Tipos de planos sugeridos
