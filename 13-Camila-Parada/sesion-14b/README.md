@@ -1,8 +1,8 @@
+# ⋆₊˚⊹♡ Clase  14b - Sesión 4 ♡⊹˚₊⋆
+
 ![alt text](./archivos/001.png)
 
 ![alt text](./archivos/002.png)
-
-# ⋆₊˚⊹♡ Clase  14b - Sesión 4 ♡⊹˚₊⋆
 
 Viernes 13 Junio 2025
 
@@ -49,9 +49,7 @@ Tras ello nos dedicamos a montar un circuito, cuyas partes a destacar son el chi
 
 ![alt text](./archivos/04.jpg)
 
-
 <https://github.com/user-attachments/assets/8156aa4b-71b2-416e-898e-d62e0a743243>
-
 
 ▼ Fotografía y video del resultado de la clase.
 
