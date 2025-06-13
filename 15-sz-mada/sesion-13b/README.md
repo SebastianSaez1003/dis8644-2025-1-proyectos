@@ -41,3 +41,7 @@
 - Algunos lugares que ha considerado para el coro de cristales: estadio o bosque
 
 - Practice-based research
+
+## Formación de grupos
+
+
