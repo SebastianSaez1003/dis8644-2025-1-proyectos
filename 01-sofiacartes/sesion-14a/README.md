@@ -20,5 +20,5 @@ tareas en clase
 |mk1|||1|
 |U1|ne555|dip-8|1|||
 ||4017|dip-16|1|
-|bateria|
+|bateria|9v|
 4. bill of materials materiales faltantes
