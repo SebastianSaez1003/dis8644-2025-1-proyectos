@@ -1,4 +1,4 @@
-# Sesión-14A
+# Sesión-14a
 ## Apuntes
 
 * El grupo de colaboradores nos organizamos y vimos cómo apoyar a los grupos del curso. La mayoría ya estaba prototipando en la protoboard.
@@ -62,22 +62,22 @@ También quiero destacar como referente a Mónica Bate, quien durante la visita 
 
 ------
 
-### Instrucciones de documentación 
+## Instrucciones de documentación 
 
 Para la primera sesión de registro, vamos a registrar avances y prototipos en protoboard.
 
-**Introducción breve**  
+## Introducción breve  
 
    - Nombre del grupo  
    - Descripción del proyecto
 
-**Registro del proceso**
+## Registro del proceso
 
    - Prototipos en protoboard  
    - Montaje y pruebas del circuito  
    - Interacción con el usuario
 
-**Resultado**
+## Resultado
 
    - Prototipo funcionando  
    - Montaje estético  
