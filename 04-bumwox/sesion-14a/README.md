@@ -7,17 +7,19 @@
 2. digital multi fx
 - sensor tpuch capacitivo
 
-diagrama
-. proyecto con power bank de 120w
-. se conecta a pedal whammy para cambio de notas
-- el pedal se puede conectar a midi
-- el instrumento tendra una entrada usb para conectar a pc
-- tiene sensor de proximidad para frecuencia, para generar el sonido
-- idealmente agregar un pulsador para prolomgar la nota que se este tocando, como los pedales de los pianos
-- interaccion humano-maquina seria que el usuario acercara sui mano al sensor y que estereaccionara a la proximidad de la mano por ejemplo y se pueda controlar la frecuencia
-- con el pulsador puede controlar la prolongidad de la nota que se este tocando independientemente de si la mano se queda ahi o no
-- 
+diagrama (hecho por anto)
+- Golpe físico
+ Se golpea la carcasa de la unidad, que contiene un sensor piezoeléctrico.
+- Captación por piezoeléctrico
+ El sensor piezoeléctrico convierte las vibraciones mecánicas del golpe en una señal eléctrica.
+- Modulación interna
+ La señal pasa por un pequeño circuito que le da forma o modifica su tono.
+- Salida de señal
+ La señal eléctrica sale por el conector de salida, listo para ser procesado.
+- Procesamiento o amplificación externa
+ La señal se envía a un equipo externo: amplificador, pedal, mezcladora o interfaz de audio.
+- Emisión del sonido
+ El equipo externo amplifica y reproduce el sonido generado por el golpe original.
 
-
-- sensor de presion
-- 
+ 
+para trabajar en el prototipado del circuito me lleve del lab un [Four-Step Octaved Sequencer de oskitone](https://github.com/oskitone/four-step-octaved-sequencer)
