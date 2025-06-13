@@ -1,4 +1,23 @@
-# proyecto-02
+# sesion-14b
+13 de junio de 2025
+
+##  Texto y redacción
+
+-  Se propone un formato  para la redacción del README de la carpeta proyecto-02 en donde se establece un orden de introducción y prototipado, procesos y desarrollo y modelo final.
+
+- Se propone también un formato de bitácora para los archivos README de cada sesión.
+
+- Todo esto entregado a revisión mediante issues.
+
+- Tras su revisión -de parte de Aarón y Andrés- la extensión del archivo maqueta cambia de .txt a .md
+
+- Se establecieron carpetas de equipos en github en la carpeta proyecto-02 y sistema de comunicación mediante "issues" para que la información sea pública para todos los colaboradores del repositorio.
+
+- Issues ahora llegan con etiqueta a docentes y al grupo de edición y texto.
+
+- Plazo para impresión de PCBs es hasta la noche (23:59) del jueves próximo, para estar bien en los plazos de compra y producción del proyecto.
+---
+##  Plantilla para proyecto-02
 
 ## Acerca del proyecto
 
