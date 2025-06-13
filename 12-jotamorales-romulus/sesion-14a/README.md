@@ -48,7 +48,7 @@
 - Coordinar con equipos para registrar sin interferir con su trabajo.
 
 
-### Domestika
+## Domestika
 
 Se utilizan fondos neutros, planos detalle bien enfocados y una ambientación que resalta el trabajo manual y digital del diseñador. Aunque la mayoría no incluye narración hablada constante, la historia del proyecto se cuenta visualmente a través del proceso: bocetos, pruebas, errores, materiales, herramientas y resultados finales. Dejo un referente de la video promocional de las clases del profesor alvarejo.
 
@@ -56,7 +56,7 @@ No se busco sólo mostrar el resultado final, sino también documentar el recorr
 
 [![Curso de Alvaro Arteaga en Domestika](https://img.youtube.com/vi/ECKjj8N1EQ0/0.jpg)](https://www.youtube.com/watch?v=ECKjj8N1EQ0)
 
-### The Life of Crystal
+## The Life of Crystal
 
 También quiero destacar como referente a Mónica Bate, quien durante la visita a la clase nos mostró el video [*The Life of crystal*](https://www.youtube.com/watch?v=kRLh9yuW5Ns), donde documenta su proyecto de arte sonoro con cristales piezoeléctricos. Elijo este video como referente porque se acerca más a lo que vamos a hacer en el taller con los trabajos de examen y siento que tiene mayor sintonía con nuestro enfoque. Además, cuenta con una edición y registro simples pero funcionales, bastante minimalistas, donde muestra claramente los avances y la interacción con el usuario.
 
@@ -84,20 +84,20 @@ Para la primera sesión de registro, vamos a registrar avances y prototipos en p
 
 Para mantener coherencia visual y técnica entre todos los registros:
 
-### Formato y resolución
-- **Formato horizontal** (16:9)
+## Formato y resolución
+- Formato horizontal (16:9)
 - Resolución mínima: **1080p (Full HD)**
 - FPS: **30 cuadros por segundo**
 
-### Tipos de planos sugeridos
-- **Plano general** del circuito en uso  
-- **Plano detalle** de componentes  
-- **Plano medio** o subjetivo si hay interacción
+## Tipos de planos sugeridos
+- Plano general del circuito en uso  
+- Plano detalle de componentes  
+- Plano medio o subjetivo si hay interacción
 
-### Audio
+## Audio
 - La idea es registrar el audio si el proyecto produce algun sonido, y dejar sin audio si no tiene. Ojalá colocar alguna canción de ambiente,
 
-### Iluminación.
+## Iluminación.
 - Usar luz blanca o luz natural.
 - Sombras creativas si refuerzan el concepto.
 
