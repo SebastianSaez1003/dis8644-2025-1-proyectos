@@ -1,7 +1,7 @@
 # sesion-14b
 13 de junio de 2025
 
-###  Texto y redacción
+##  Texto y redacción
 
 -  Se propone un formato  para la redacción del README de la carpeta proyecto-02 en donde se establece un orden de introducción y prototipado, procesos y desarrollo y modelo final.
 
