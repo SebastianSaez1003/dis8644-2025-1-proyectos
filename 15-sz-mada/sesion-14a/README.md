@@ -54,7 +54,7 @@ Procedimos a trabajar con el 4017, conectándolo al 555 monostable y a un push s
 
 Mientras trabajábamos en el circuito, a Misaa le mencionamos el input de voz y nos entregó un electret mic junto a un circuito para que lo probemos
 
-Aquí la idea de "input de voz" cambió de algo que debería estar integrado en el circuito en sí, a algo aparte, solo por apariencias (detectar voz &rarr; leds se encienden vs detectar voz &rarr; *parece* que algo sucede)
+Aquí la idea de "input de voz" cambió de algo que debería estar integrado en el circuito en sí, a algo aparte, solo por apariencias (detectar voz &rarr; ruleta se enciende vs detectar voz &rarr; *parece* que algo sucede)
 
 ![circuito micrófono con led](./archivos/mic_led.png)
 
