@@ -17,9 +17,7 @@
 
 - Plazo para impresión de PCBs es hasta la noche (23:59) del jueves próximo, para estar bien en los plazos de compra y producción del proyecto.
 ---
-#  Plantilla para documento proyecto-02 (revisado)
----
-# proyecto-02
+##  Plantilla para proyecto-02
 
 ## Acerca del proyecto
 
