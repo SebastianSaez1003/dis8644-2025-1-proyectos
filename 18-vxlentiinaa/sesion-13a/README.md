@@ -38,6 +38,6 @@
 ## Encargo 25
 * Dibujar diagrama de comportamiento, flujos de interacción. No específicar chips. Considerar procesos de manera especulativa. ¿Cuánto tiempo se usará? ¿Qué encendidos y apagados tiene? ¿Cómo se interactúa?
 
-1. ![diagrama-idea1](https://github.com/vxlentiinaa/dis8644-2025-1-proyectos/blob/main/18-vxlentiinaa/sesion-13a/archivos/diagrama-idea1.jpeg)
+1. ![diagrama-idea1](./archivos/diagrama-idea1.jpeg)
 
 2. ![diagrama-idea2](https://github.com/vxlentiinaa/dis8644-2025-1-proyectos/blob/main/18-vxlentiinaa/sesion-13a/archivos/diagrama-idea2.jpeg)
