@@ -10,7 +10,7 @@ tareas en clase
   
 |referencia|valor|huella|Qty|OBS|
 |----------|-----|------|---|---|
-|d1 d2 d3 d4 d5||led||distintos colores|
+|d1 d2 d3 d4 d5||led|5|distintos colores|
 |r1 r5|1k |resistencias|2||
 |r2 r3 r4|10k|resistencias|3||
 |r6 r7|100k|resistencias|2|
