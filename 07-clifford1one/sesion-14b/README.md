@@ -50,3 +50,21 @@ También permite variar el voltaje aplicado, lo que da la posibilidad de modific
 - [¿Qué es un  puente H?](https://cursos.mcielectronics.cl/2022/08/05/que-es-un-puente-h/)
 
 - [¿Qué es y cómo funciona un L293D?](https://laelectronica.com.gt/extras/que-es-y-como-funciona-un-l293d?srsltid=AfmBOoqK09YlgPemvpnaaUVLkNTlgKEqgoMLb7GTKGZiuBi6C0POxybe)
+
+
+
+### hoy
+
+pendientes: 
+- motorreductor
+- rhino
+- pcb 3d (tamaños)
+- L293D -> puente H
+- motoreductor
+- simplificar proto (decidir)
+- ⁠esquemático y forma de pcb (KiCAD)
+- ⁠falstad 
+- ⁠definir materialidad
+- ⁠Bom
+- ⁠actualizar GitHub (hasta 19/06/2025)
+- ⁠definir forma
