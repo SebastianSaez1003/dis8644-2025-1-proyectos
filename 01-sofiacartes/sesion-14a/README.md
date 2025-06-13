@@ -2,9 +2,11 @@
 
 tareas en clase
 
-1. diagrama del sistema completo
-2. prototipado en protoboard de la entrada al sistema
-3. bill of materials 
+## 1. diagrama del sistema completo
+
+## 2. prototipado en protoboard de la entrada al sistema
+
+## 3. bill of materials
   
 |referencia|valor|
 |----------|-----|
@@ -34,5 +36,4 @@ tareas en clase
 |||
 |||
 
-
-4. bill of materials materiales faltantes
+## 4. bill of materials materiales faltantes
