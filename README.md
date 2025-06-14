@@ -10,17 +10,34 @@
 
 dictado durante el primer semestre 2025 (marzo a julio)
 
-## Calendario
-
 ## equipo docente
 
 * aarón montoya <https://github.com/montoyamoraga/>
 * matías serrano <https://github.com/misaaaaaa>
 * andrés martin <https://github.com/AndresMartinM>
 
-## enlaces a cada carpeta
+## enlaces a carpetas principales
+
+* [00-proyecto-01](./00-proyecto-01/)
+* [00-proyecto-02](./00-proyecto-02/)
+  * [00-proyecto-02/grupo-0a](./00-proyecto-02/grupo-0a/)
+  * [00-proyecto-02/grupo-0b](./00-proyecto-02/grupo-0b/)
+  * [00-proyecto-02/grupo-0c](./00-proyecto-02/grupo-0c/)
+  * [00-proyecto-02/grupo-01](./00-proyecto-02/grupo-01/)
+  * [00-proyecto-02/grupo-02](./00-proyecto-02/grupo-02/)
+  * [00-proyecto-02/grupo-03](./00-proyecto-02/grupo-03/)
+  * [00-proyecto-02/grupo-04](./00-proyecto-02/grupo-04/)
+  * [00-proyecto-02/grupo-05](./00-proyecto-02/grupo-05/)
+  * [00-proyecto-02/grupo-06](./00-proyecto-02/grupo-06/)
+* [00-examen](./00-examen/)
+
+## enlaces a carpetas de docentes
 
 * [00-docentes](./00-docentes/)
+* [00-info](./00-info/)
+
+## enlaces a cada carpeta de estudiantes
+
 * [01-sofiacartes](./01-sofiacartes/)
 * [02-hazzaily](./02-hazzaily/)
 * [03-antocristi](./03-antocristi/)
