@@ -68,3 +68,11 @@ pendientes:
 - ⁠Bom
 - ⁠actualizar GitHub (hasta 19/06/2025)
 - ⁠definir forma
+
+## retroalimentación misa
+
+- [intento fallido L293D](https://www.tinkercad.com/things/j95CzBsWknA/editel?returnTo=%2Fthings&sharecode=yhIWQIvZUxoqqE0nd_KysjKnBMPiHNrhktN0u2IM0GI)
+
+- [entendimiento L293D](https://www.tinkercad.com/things/9Quvbsb4m12/editel)
+
+- [interruptor ON-OFF-ON de 6 pines](https://www.katode.cl/switches/155-interruptor-switch-6-pines-on-off-on.html)
