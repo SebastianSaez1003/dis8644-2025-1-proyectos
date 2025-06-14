@@ -4,12 +4,13 @@
 
 - Grupo: 01
 - Integrantes:
-  - Integrante XX
-  - Integrante XX
-  - Integrante XX
+  - Emilia Contreras @/hazzaily
+  - Katalina Riquelme @/katalinariquelme
+  - Thyare Santander @/thyare08
 - Chips usados:
-  - Chip XX
-  - Chip XX
+  - Chip 555
+  - Chip 4017
+  - Chip LM324
 
 ## Presentación textual
 
