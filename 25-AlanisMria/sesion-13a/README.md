@@ -1,4 +1,4 @@
-# sesión-13a
+# sesion-13a
 
 03 de junio de 2025
 

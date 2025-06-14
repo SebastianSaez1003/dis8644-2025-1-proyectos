@@ -1,4 +1,5 @@
-# Sesión-14a
+# sesion-14a
+
 ## Apuntes
 
 * El grupo de colaboradores nos organizamos y vimos cómo apoyar a los grupos del curso. La mayoría ya estaba prototipando en la protoboard.
@@ -22,11 +23,11 @@
 * La impresora 3D puede generar registros en timelapse. Se coordinará con la dupla encargada de impresión para obtener una tarjeta SD al momento de imprimir y capturar el proceso.
 
 * Se coordinan sesiones con los grupos para grabar y tomar fotografías profesionales de los circuitos y sus distintas versiones:
-  - Prototipos en protoboard.
-  - Esquemas de componentes.
-  - Circuitos en funcionamiento.
-  - Circuitos funcionando en contexto (coordinar con Bernardita)
-  - Interacción con el usuario final.
+  * Prototipos en protoboard.
+  * Esquemas de componentes.
+  * Circuitos en funcionamiento.
+  * Circuitos funcionando en contexto (coordinar con Bernardita)
+  * Interacción con el usuario final.
 
 * La idea es que, apenas cada equipo tenga listo su esquema de circuito con los componentes definidos, se pueda replicar para tomar fotografías y videos sin interferir con su trabajo diario.
 
@@ -42,11 +43,10 @@
 
 ### Encargo para el viernes 14 de junio
 
-- Conseguir cámara y trípode  
-- Registrar el avance de los grupos en laboratorio  
-- Asegurar buena iluminación y estabilidad en las tomas  
-- Coordinar con equipos para registrar sin interferir con su trabajo.
-
+* Conseguir cámara y trípode  
+* Registrar el avance de los grupos en laboratorio  
+* Asegurar buena iluminación y estabilidad en las tomas  
+* Coordinar con equipos para registrar sin interferir con su trabajo.
 
 ### Domestika
 
@@ -62,26 +62,26 @@ También quiero destacar como referente a Mónica Bate, quien durante la visita 
 
 ------
 
-## Instrucciones de documentación 
+## Instrucciones de documentación
 
 Para la primera sesión de registro, vamos a registrar avances y prototipos en protoboard.
 
 ## Introducción breve  
 
-   - Nombre del grupo  
-   - Descripción del proyecto
+* Nombre del grupo  
+* Descripción del proyecto
 
 ## Registro del proceso
 
-   - Prototipos en protoboard  
-   - Montaje y pruebas del circuito  
-   - Interacción con el usuario
+* Prototipos en protoboard  
+* Montaje y pruebas del circuito  
+* Interacción con el usuario
 
 ## Resultado
 
-   - Prototipo funcionando  
-   - Montaje estético  
-   - Uso en contexto
+* Prototipo funcionando  
+* Montaje estético  
+* Uso en contexto
 
 ## Instrucciones técnicas para la documentación (consistencia entre grupos)
 
@@ -89,38 +89,32 @@ Para mantener coherencia visual y técnica entre todos los registros:
 
 ## Formato y resolución
 
-- Formato horizontal (16:9)
-- Resolución mínima: 1080p (Full HD)
-- FPS: 30 cuadros por segundo
+* Formato horizontal (16:9)
+* Resolución mínima: 1080p (Full HD)
+* FPS: 30 cuadros por segundo
 
 ## Tipos de planos sugeridos
 
-- Plano general del circuito en uso  
-- Plano detalle de componentes  
-- Plano medio o subjetivo si hay interacción
+* Plano general del circuito en uso  
+* Plano detalle de componentes  
+* Plano medio o subjetivo si hay interacción
 
 ## Audio
 
-- La idea es registrar el audio si el proyecto produce algun sonido, y dejar sin audio si no tiene. Ojalá colocar alguna canción de ambiente,
+* La idea es registrar el audio si el proyecto produce algun sonido, y dejar sin audio si no tiene. Ojalá colocar alguna canción de ambiente,
 
-## Iluminación.
+## Iluminación
 
-- Usar luz blanca o luz natural.
+* Usar luz blanca o luz natural.
   
-- Sombras creativas si refuerzan el concepto.
+* Sombras creativas si refuerzan el concepto.
 
-##  Checklist de grabación por grupo FINAL
+## Checklist de grabación por grupo FINAL
 
-- [ ] Registro del circuito en protoboard  
-- [ ] Registro del montaje final  
-- [ ] Grabación del circuito en uso o en contexto  
-- [ ] Fotografías de calidad del proyecto  
-- [ ] Testimonio breve (opcional, pero recomendado o puede ser escrito)  
-- [ ] Archivos bien nombrados: `grupoX_nombre_2024-06-14.mp4` (coordinar con bernardita)  
-- [ ] Entrega en carpeta compartida, USB o SD
-
-
-
-
-
-
+* [ ] Registro del circuito en protoboard  
+* [ ] Registro del montaje final  
+* [ ] Grabación del circuito en uso o en contexto  
+* [ ] Fotografías de calidad del proyecto  
+* [ ] Testimonio breve (opcional, pero recomendado o puede ser escrito)  
+* [ ] Archivos bien nombrados: `grupoX_nombre_2024-06-14.mp4` (coordinar con bernardita)  
+* [ ] Entrega en carpeta compartida, USB o SD
