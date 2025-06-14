@@ -44,4 +44,12 @@
 
 ## Formación de grupos
 
+Creamos los grupos para el examen por medio de Figma. Cada uno debía elegir 5 conceptos claves de su proyecto y colocar estos conceptos junto a otros afines; primero en una sección llamada "Espacio para compartir", y luego en "Orden de las funciones" donde separamos por input y output ex. iluminación y luces estarían juntos en la primera categoría, pero en la segunda, iluminación podría ser input mientras que luces sería output
 
+De mis conceptos, coloqué LUCES en output y SENSOR DE MOVIMIENTO en input
+
+![mis 5 conceptos](./archivos/conceptos.png)
+
+A partir de esto, cada persona escribió su top5 de gente con la que le gustaría trabajar basado en la similitud de los proyectos, y de ahí se armaron los grupos
+
+Quedé en el grupo 05 con Antonia Cristi y Paulina Vargas
