@@ -2,7 +2,7 @@
 
 ## Acerca del proyecto
 
-- Grupo: XX
+- Grupo: 03
 - Integrantes:
   - Integrante XX
   - Integrante XX
@@ -21,7 +21,7 @@ El proyecto consiste en una entrada que XX, para CONTROLAR/OTRO VERBO
 
 Este es el diagrama a mano.
 
-![Dibujo del diagrama a mano](./imagenes/diagrama-mano.png)
+![Dibujo del diagrama a mano](./imagenes/diagrama-mano.jpg)
 
 En este dibujo mostramos XX.
 

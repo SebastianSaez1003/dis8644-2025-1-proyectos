@@ -2,7 +2,7 @@
 
 ## Acerca del proyecto
 
-- Grupo: XX
+- Grupo: 0b
 - Integrantes:
   - Integrante XX
   - Integrante XX
