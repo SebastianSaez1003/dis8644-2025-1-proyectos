@@ -16,3 +16,6 @@ Artista visual chilena, enfocada en el arte contemporáneo. Es licenciada en art
 ### Formación de grupos
 Crearon los grupos mediante la aplicación figma; cada uno debía otorgarle 5 conceptos a su proyecto para luego clasificarlos en grupos. 
 * Mi input sería: Sensores, output: Sonido
+
+![conceptos](./archivos/conceptos.png)
+![grupos](./archivos/grupos.png)
