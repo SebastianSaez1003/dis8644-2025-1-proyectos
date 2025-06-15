@@ -34,6 +34,8 @@ Terminamos nuestro prototipeo con dos sugerencias, por parte de Misaa, subir la 
 
 ![simulación en falstad](./archivos/simulacion.gif)
 
+(En el circuito de falstad, reset está conectado a vcc; si lo conectamos a tierra no funciona el circuito, quizás porque no muestra el pin 8 ni 16??, en la protoboard está todo conectado como debería)
+
 También dejamos el circuito ya hecho en KiCad. Faltaría asignar footprints
 
 ![circuito en kicad](./archivos/kicadfinal.png)
