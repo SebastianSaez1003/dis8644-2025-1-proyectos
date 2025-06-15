@@ -3,7 +3,7 @@
 
 Este día falté, pero me contaron lo que realizaron en clases y tomé algunos apuntes de mis compañeros.
 
-### Mónica Bate
+#### Mónica Bate
 Artista visual chilena, enfocada en el arte contemporáneo. Es licenciada en artes visuales con mención en fotografía y post grado en artes y nuevas tecnologías.
 * "Lo sonoro, lo orgánico, lo material"
 * La vida de los cristales (The life of crystals) proyecto de tesis en inglés, luego lo hizo en español (32°S 71°W / Minera de Quintay y cristalera cerro El Roble)
@@ -12,8 +12,7 @@ Artista visual chilena, enfocada en el arte contemporáneo. Es licenciada en art
 * Los cristales crecidos fueron probados como micrófonos, parlantes y sensores
 * "La electrónica se trata de amplificar efectos"
 * Husserl -> Francisco Varela ft. Humberto Maturana.
-
-### Formación de grupos
+#### Formación de grupos
 Crearon los grupos mediante la aplicación figma; cada uno debía otorgarle 5 conceptos a su proyecto para luego clasificarlos en grupos. 
 * Mi input sería: Sensores, output: Sonido
 
