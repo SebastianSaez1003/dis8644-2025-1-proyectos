@@ -34,7 +34,9 @@ Terminamos nuestro prototipeo con dos sugerencias, por parte de Misaa, subir la 
 
 ![simulación en falstad](./archivos/simulacion.gif)
 
-También dejamos el circuito ya hecho en KiCad. Faltaría asignar footprints, pero no sé si eso es algo que hacemos nosotros, o se encarga el grupo 0
+(En el circuito de falstad, reset está conectado a vcc; si lo conectamos a tierra no funciona el circuito, quizás porque no muestra el pin 8 ni 16??, en la protoboard está todo conectado como debería)
+
+También dejamos el circuito ya hecho en KiCad. Faltaría asignar footprints
 
 ![circuito en kicad](./archivos/kicadfinal.png)
 
@@ -48,11 +50,24 @@ También dejamos el circuito ya hecho en KiCad. Faltaría asignar footprints, pe
 
 ![foto del circuito](./archivos/fotocircuito_5.jpg)
 
-&darr; Code block del circuito, por si acaso &darr;
+***
+Aparte del detector de sombra con ruleta, el proyecto también tiene un circuito con un LED que se activa con sonido por medio de un micrófono, pero este circuito en sí no afecta en nada al circuito de la ruleta, solo está para engañar al usuario
+
+Para este micrófono con LED, seguimos trabajando con el mismo circuito que nos entregó Misaa, así que lo incluimos en la diagramación de KiCad
+
+![circuito mic](./archivos/mic.png)
+
+![circuito ruleta+mic](./archivos/ruletamic.png)
+
+Cambiamos el diagrama del circuito principal, más que nada el value de algunos condensadores (C1 y C2), y el tipo en sí de C2 (electrolítico en vez de cerámico)
+
+![circuito actualizado ruleta](./archivos/ruleta.png)
+
+&darr; Code block del circuito en falstad, por si acaso &darr;
 
 ```text
 $ 1 0.000005 382.76258214399064 46 5 50 5e-11
-374 1472 992 1472 1040 0 0.3763 Light\sBrightness
+374 1472 992 1472 1040 0 0.1486 Light\sBrightness
 r 1472 1120 1472 1072 0 10000
 162 1664 1248 1664 1312 2 default-led 1 0 0 0.01
 r 1664 1168 1664 1248 0 1000
@@ -92,7 +107,7 @@ w 2592 1168 2544 1168 0
 162 2592 1120 2592 1168 2 default-led 1 0 0 0.01
 r 2544 1168 2544 1232 0 470
 165 1776 1104 1856 1104 6 0
-c 1840 1264 1840 1312 4 0.00009999999999999999 0.001 0.001 0
+c 1840 1264 1840 1312 4 1.0000000000000001e-7 0.001 0.001 0
 g 1840 1312 1840 1344 0 0
 g 1872 1264 1872 1312 0 0
 R 1840 1072 1840 1008 0 0 40 9 0 0 0.5
@@ -102,7 +117,6 @@ R 1760 1056 1760 1008 0 0 40 9 0 0 0.5
 w 1760 1136 1712 1136 0
 w 1712 1136 1712 1232 0
 w 1712 1232 1776 1232 0
-c 1712 1232 1712 1328 4 0.00009999999999999999 0.001 0.001 0
 g 1712 1328 1712 1344 0 0
 w 1904 1136 1904 1072 0
 w 1840 1072 1904 1072 0
@@ -170,4 +184,5 @@ w 2816 944 2816 1120 0
 162 2816 1120 2816 1168 2 default-led 1 0 0 0.01
 162 2848 1120 2848 1168 2 default-led 1 0 0 0.01
 162 2880 1120 2880 1168 2 default-led 1 0 0 0.01
+209 1712 1232 1712 1328 4 0.00009999999999999999 0.001 0.001 0 1
 ```
