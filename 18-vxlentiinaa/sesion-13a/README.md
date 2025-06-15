@@ -40,4 +40,4 @@
 
 1. ![diagrama-idea1](./archivos/diagrama-idea1.jpeg)
 
-2. ![diagrama-idea2](https://github.com/vxlentiinaa/dis8644-2025-1-proyectos/blob/main/18-vxlentiinaa/sesion-13a/archivos/diagrama-idea2.jpeg)
+2. ![diagrama-idea2](./archivos/diagrama-idea2.jpeg)
