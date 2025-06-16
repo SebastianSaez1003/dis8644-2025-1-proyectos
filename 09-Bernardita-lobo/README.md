@@ -1,8 +1,5 @@
 # enlaces
 
-- [proyecto-01](./proyecto-01/)
-- [proyecto-02](./proyecto-02/)
-- [examen](./examen/)
 - [sesion-13a](./sesion-13a)
 - [sesion-13b](./sesion-13b)
 - [sesion-14a](./sesion-14a)
