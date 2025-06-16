@@ -45,7 +45,13 @@ Yo con mi grupo nos dedicamos a trabajar en colaborar con el resto de los grupos
 
 - 2 conectores (no se sabe si serán necesarios)
 
-![](https://github.com/duckusu/dis8644-2025-1-proyectos/blob/main/21-duckusu/sesion-14b/archivos/conector.jpg)
+![mic](https://github.com/duckusu/dis8644-2025-1-proyectos/blob/main/21-duckusu/sesion-14b/archivos/mic.jpg)
+
+- Otro componeneste que no se sabe si sea necesario
+
+![diodo](https://github.com/duckusu/dis8644-2025-1-proyectos/blob/main/21-duckusu/sesion-14b/archivos/diodo.jpg)
+
+
 
 
   
