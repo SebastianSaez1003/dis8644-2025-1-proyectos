@@ -51,7 +51,21 @@ Yo con mi grupo nos dedicamos a trabajar en colaborar con el resto de los grupos
 
 ![diodo](https://github.com/duckusu/dis8644-2025-1-proyectos/blob/main/21-duckusu/sesion-14b/archivos/diodo.jpg)
 
+- 4 diodos a disposición.
 
+
+![placa](https://github.com/duckusu/dis8644-2025-1-proyectos/blob/main/21-duckusu/sesion-14b/archivos/placa.jpg)
+
+- placas universales (suficientes)
+
+
+![motorDc](https://github.com/duckusu/dis8644-2025-1-proyectos/blob/main/21-duckusu/sesion-14b/archivos/motorDc.jpg)
+
+- 2 motores para uso
+
+![caja](https://github.com/duckusu/dis8644-2025-1-proyectos/blob/main/21-duckusu/sesion-14b/archivos/caja.jpg)
+
+- Caja de LAB ordenanda.
 
 
   
