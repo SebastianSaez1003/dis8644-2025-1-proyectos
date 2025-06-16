@@ -1,4 +1,5 @@
 # sesion-14a
+
 10 de junio de 2025
 
 Durante la clase se reunió el equipo de colaboradores y definimos distintos aspectos, como la documentación individual de los procesos realizados por cada uno al ayudar a nuestros compañeros.
@@ -50,6 +51,4 @@ Materiales a proponer: impresión 3d, madera, acrílico, etc.
 * Proponer que todos los proyectos tengan un led que muestre si el objeto esta en funcionamiento *
 
 Por el momento ayudaré a Martín a fijar parámetros para optimizar los procesos para conseguir los materiales necesarios.
-link de bom por grupo, cotizaciones y elementos dispponibles en lab: https://docs.google.com/spreadsheets/d/1CT1RtA_BYuWpyJ54k9VGduSAs_nKiFYd9yf2WvjZ-4g/edit?gid=0#gid=0 
-
-
+link de bom por grupo, cotizaciones y elementos dispponibles en lab: <https://docs.google.com/spreadsheets/d/1CT1RtA_BYuWpyJ54k9VGduSAs_nKiFYd9yf2WvjZ-4g/edit?gid=0#gid=0>

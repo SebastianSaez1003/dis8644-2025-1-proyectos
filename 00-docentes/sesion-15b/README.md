@@ -12,7 +12,7 @@ el equipo docente revisará y evaluará lo enviado a través de github, solament
 
 se evaluarán estos 6 aspectos, con un puntaje de 0.0 a 1.0 puntos cada uno, sumando un total de 6 puntos:
 
-1. dibujos de diagramas del sistema
+1. dibujos de diagramas del circuito
 2. prototipado de circuitos en protoboard
 3. bill of materials
 4. documentar ayuda y comunicación con colegas, especialmente de los grupos 0
