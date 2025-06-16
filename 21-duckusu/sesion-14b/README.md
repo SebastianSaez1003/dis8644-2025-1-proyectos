@@ -33,7 +33,7 @@ Yo con mi grupo nos dedicamos a trabajar en colaborar con el resto de los grupos
 
 - Sockets y 3 switchs + 1 botón (solo tienen sockets de 8 y 24, **muy necesario comprar de 14 y 16**)
 
-![Lmn324N](https://github.com/duckusu/dis8644-2025-1-proyectos/blob/main/21-duckusu/sesion-14b/archivos/chips.jpg)
+![chips](https://github.com/duckusu/dis8644-2025-1-proyectos/blob/main/21-duckusu/sesion-14b/archivos/chips.jpg)
 
 - Chips Lmn323N (suficientes), 2 botones (uno grande y uno pequeño), socket de 8 y un diodo
 
