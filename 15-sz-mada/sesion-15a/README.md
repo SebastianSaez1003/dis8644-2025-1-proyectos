@@ -23,8 +23,3 @@
 |3|U1,U4,U5|NE555|DIP-8|Van en los socket U1, U4, y U5
 |1|U2|LM324|DIP-14|Va en el socket U2
 |1|U3|CD4017|DIP-16|Va en el socket U3
-
-***
-pics were taken
-proto updated
-pcb
