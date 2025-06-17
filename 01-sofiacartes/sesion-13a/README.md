@@ -24,7 +24,7 @@ el tipo de luz, cálida, fria o de colores, dependiendo la necesidad momentánea
 
 por otra parte sera una lámpara de pie.  
 
-### feedbacks ideas proyectos
+### ideas proyecto feedbacks en clase
 
 * decir  mas especificaciones
 * sensor de proximidad
