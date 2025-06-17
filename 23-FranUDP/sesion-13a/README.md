@@ -13,19 +13,9 @@ En cuanto al pomodoro, no es necesario que el objeto sea práctico, por lo que e
 
 Y en cuanto a la idea del guante, el profe me contó sobre un producto similar que, aparte de una persona, nadie usa, debido a que lo hicieron como una herramienta que sirve para todo (muy amplio y ambiguo), en lugar de desarrollarlo para un nicho específico.
 
-### Logic gates
-
-
-### Joaquín Lavín (el artista)
-
+### [Logic gates](https://youtu.be/INEtYZqtjTo?si=rw97J9kYS_ao38lh)
+Circuitos lógicos, en base a transistores, que emplean álgebra Booleana (1 y 0)
+![Compuertas lógicas y sus "truth tables"](./archivos/logicGates.png)
 
 ### UCV Rack
-
-
-### Other things: <!-- Things to organize + random stuff -->
-> ### SUB_SUBTITULO
-
------------------------------------------------------------------------------------------------------------
-## Encargo XX <!-- TEXT -->
-### TITULO
-
+Software de sintetizador que permite manipular y generar sonidos. Según lo que entiendo de su página, es un software que emula el comportamiento de múltiples sintetizadores distintos. Es open source, aunque existe una versión de paga.
