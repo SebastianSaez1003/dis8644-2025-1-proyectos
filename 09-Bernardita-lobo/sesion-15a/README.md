@@ -1,6 +1,6 @@
 # sesion-15a
 
-## Trabajo en clase / Martes 
+## Trabajo en clase / Martes 17 de Junio
 
 ### Cosas que hablamos en la mañana
 
@@ -8,3 +8,8 @@
 - Primer día del año con temperatura bajo 0.
 - Grados Kelvin, primera ley de la termodinámica: calor y movimiento.
 - Hablamos de los inicios del diseño y lo difícil que es salirse de los orígenes europeos.
+
+## Equipo de registro
+
+fuimos a motar el set para las fotos y parti fotografiando a grupo 05 ya que habian hecho unos cambios y querian seguir modificndo su protoboard
+luego 
