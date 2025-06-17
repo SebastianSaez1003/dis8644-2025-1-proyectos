@@ -13,3 +13,7 @@
 
 fuimos a motar el set para las fotos y parti fotografiando a grupo 05 ya que habian hecho unos cambios y querian seguir modificndo su protoboard
 luego 
+
+## Encargo
+referentes de documentación en imagen y plan de documentación (bernardita)
+propuesta de montaje de proyectos en sala de clases y en laboratorio (bernardita)
