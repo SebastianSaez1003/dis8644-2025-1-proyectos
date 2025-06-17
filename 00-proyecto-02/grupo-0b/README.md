@@ -65,6 +65,10 @@ Para la segunda sesión de registro, se empezs a registrar avances y prototipos 
 
 ### Introducción breve del taller
 
+ESTO ES UNO POR GRUPO? UNO PARA TODO EL GRUPO?
+QUIÉN LO HACE?
+SI LO HACE JOTA, CÓMO EL GRUPO LE PIDE A JOTA QUE LO HAGA?
+
 ### Registro de Proyectos
 
 - Nombre del grupo cuando aparezca su proyecto en pantalla
@@ -79,8 +83,10 @@ Para la segunda sesión de registro, se empezs a registrar avances y prototipos 
 
 ### Resultado
 
-- Prototipo funcionando  
-- Montaje estético  
+- Prototipo funcionando en protoboard
+- Prototipo funcionando en PCB
+- Prototipo funcionando en caja o carcasa
+- Montaje estético, funcional, mecánico y eléctrico
 - Uso en contexto
 
 Agregar ejemplos de video o imagen como referencia visual.
@@ -97,6 +103,8 @@ Para mantener coherencia visual y técnica entre todos los registros:
 - Resolución mínima: 1080p (Full HD)
 - FPS: 30 cuadros por segundo
 
+PREGUNTA: Cómo sé que cumplo con eso?
+
 ## Tipos de planos sugeridos
 
 - Plano general del circuito en uso  
@@ -104,9 +112,13 @@ Para mantener coherencia visual y técnica entre todos los registros:
 - Plano medio o subjetivo si hay interacción
 - Una vista del curso trabajando
 
+Agregar ejemplos visuales.
+
 ## Audio
 
-- La idea es registrar el audio si el proyecto produce algun sonido, y dejar sin audio si no tiene. Ojalá colocar alguna canción de fondo.
+- La idea es registrar el audio si el proyecto produce algun sonido, y dejar sin audio si no tiene.
+
+Ojalá usar alguna canción de fondo sobre cultura electrónica.
 
 ## Iluminación
 
@@ -117,12 +129,12 @@ Para mantener coherencia visual y técnica entre todos los registros:
 ## Checklist de grabación por grupo FINAL
 
 - [ ] Registro del circuito en protoboard  
-- [ ] Registro del montaje final (2 de julio)  
+- [ ] Registro del montaje final (2 de julio 2025)  
 - [ ] Grabación del circuito en uso o en contexto  
 - [ ] Fotografías de calidad del proyecto  
 - [ ] Testimonio breve (opcional, pero recomendado o puede ser escrito)  
-- [ ] Archivos bien nombrados: `grupoX_nombre_2024-06-14.mp4`  
-- [ ] Entrega en carpeta compartida, Pendrive USB o SD.
+- [ ] Archivos bien nombrados: `grupoXX-nombre-2024-06-14.mp4`  
+- [ ] Entrega vía wetransfer a jotamorales-romulus.
 
 ## referentes de documentación en imagen y plan de documentación (1 punto)
 
