@@ -1,87 +1,89 @@
-# proyecto-02
+# proyecto-02-grupo- 0c
 
 ## Acerca del proyecto
 
-- Grupo: 0c
-- Integrantes:
-  - Integrante XX
-  - Integrante XX
-  - Integrante XX
-- Chips usados:
-  - Chip XX
-  - Chip XX
+Documentación técnica y materiales electrónicos
 
-## Presentación textual
+Integrantes:
 
-DESCRIPCIÓN DEL PROYECTO EN UNA LÍNEA, SIN PUNTOS SEGUIDOS.
-
-El proyecto consiste en una entrada que XX, para CONTROLAR/OTRO VERBO
+- Martín Silva TODO: agregar enlace a su github.com
+- Francisco Stephens
+- Izhak Villegas
 
 ## Dibujos de diagramas del circuito (1 punto)
 
-Este es el diagrama a mano.
+## Bill of materials de todos los proyectos y materiales del curso (1 punto)
 
-![Dibujo del diagrama a mano](./imagenes/diagrama-mano.jpg)
+El responsable de esta sección es @duckusu.
 
-En este dibujo mostramos XX.
+TODO
 
-## Prototipado de circuitos en protoboard (1 punto)
+## Cotización de materiales para todos los proyectos y materiales del curso (1 punto)
 
-A continuación se presentan imágenes de las protoboards usadas.
+El responsable de esta sección es @duckusu.
 
-![Vista protoboard de frente](./imagenes/presentacion-visual-frente.jpg)
+TODO
 
-![Vista protoboard de arriba](./imagenes/presentacion-visual-arriba.jpg)
+## Texto acerca de los materiales usados en cada proyecto (1 punto)
 
-A continuación se presentan textos explicativos del prototipado.
+### Texto sobre materiales del proyecto-01
 
-El circuito de entrada USA XX para medir XX.
+### Texto sobre materiales del proyecto-02
 
-El circuito de salida usa XX para cambiar XX.
+### Texto sobre materiales del proyecto-03
 
-### Bill of Materials (1 punto)
+### Texto sobre materiales del proyecto-04
 
-| Componente   | Cantidad | Comentarios     |
-| ------------ | -------- | --------------- |
-| Resistor     | 5        | 1/4W            |
-| XX | ... | ...       |
+### Texto sobre materiales del proyecto-05
 
-INCLUIR DESCRIPCIÓN DE MATERIALES COMPRADOS, SI ES QUE COMPRARON COSAS ADICIONALES.
+### Texto sobre materiales del proyecto-06
 
-## Ayudas y comunicación con colegas (1 punto)
+## Texto acerca de los diagramas de bloque en cada proyecto (1 punto)
 
-DOCUMENTAR TEXTUAL, CON IMÁGENES, CON ENLACES A BITÁCORAS.
+El responsable de esta sección es @IzhakVillegas.
 
-La persona XX del proyecto XX nos ayudó con XX.
+### Texto sobre diagramas de bloque del proyecto-01
 
-La persona XX del proyecto XX nos ayudó con XX.
+### Texto sobre diagramas de bloque del proyecto-02
 
-Ayudamos a la persona XX del proyecto XX con XX.
+### Texto sobre diagramas de bloque del proyecto-03
 
-Ayudamos a la persona XX del proyecto XX con XX.
+### Texto sobre diagramas de bloque del proyecto-04
 
-## Esquematico en Kicad (1 punto)
+### Texto sobre diagramas de bloque del proyecto-05
 
-![Esquemático general](./imagenes/esquematico-general.jpg)
+### Texto sobre diagramas de bloque del proyecto-06
 
-![Esquemático detalles](./imagenes/esquematico-detalle-01.jpg)
+## Revisión de esquemáticos en KiCad de los proyectos (1 punto)
 
-![Esquemático detalles](./imagenes/esquematico-detalle-02.jpg)
+El responsable de esta sección es @FranUDP.
 
-EXPLICACIÓN TEXTUAL DEL ESQUEMÁTICO.
+### Revisión de esquemáticos del proyecto-01
 
-DESCRIBIR CHIPS USADOS, CONEXIONES USADAS.
+### Revisión de esquemáticos del proyecto-02
 
-## PCB en Kicad (1 punto)
+### Revisión de esquemáticos del proyecto-03
 
-![PCB general](./imagenes/pcb-general.jpg)
+### Revisión de esquemáticos del proyecto-04
 
-![PCB detalles](./imagenes/pcb-detalle-01.jpg)
+### Revisión de esquemáticos del proyecto-05
 
-![PCB detalles](./imagenes/pcb-detalle-02.jpg)
+### Revisión de esquemáticos del proyecto-06
 
-![PCB 3D](./imagenes/pcb-3d.jpg)
+## Revisión de las PCB en KiCad de cada proyecto (1 punto)
 
-## Recursos adicionales
+El responsable de esta sección es @FranUDP.
+
+### Revisión de PCB del proyecto-01
+
+### Revisión de PCB del proyecto-02
+
+### Revisión de PCB del proyecto-03
+
+### Revisión de PCB del proyecto-04
+
+### Revisión de PCB del proyecto-05
+
+### Revisión de PCB del proyecto-06
 
 ## Bibliografía

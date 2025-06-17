@@ -1,31 +1,31 @@
-# proyecto-02
+# proyecto-02-grupo-0b
+
+## video, fotografía y gráficas
+
+se evaluarán estos 6 aspectos, con un puntaje de 0.0 a 1.0 puntos cada uno, sumando un total de 6 puntos:
 
 ## Acerca del proyecto
 
-- Grupo: 0b
-- Integrantes:
-  - Integrante XX
-  - Integrante XX
-  - Integrante XX
-- Chips usados:
-  - Chip XX
-  - Chip XX
+Integrantes:
 
-## Presentación textual
+jotaMorales, bernardita y camila
 
-DESCRIPCIÓN DEL PROYECTO EN UNA LÍNEA, SIN PUNTOS SEGUIDOS.
+- Bernardita Lobo TODO: agregar enlace a su github.com
+- José Morales TODO: agregar enlace a su github.com
+- Camila Parada TODO: agregar enlace a su github.com
 
-El proyecto consiste en una entrada que XX, para CONTROLAR/OTRO VERBO
+## Pauta
 
-## Dibujos de diagramas del circuito (1 punto)
+1. referentes de documentación en video y plan de documentación (jotaMorales)
+2. instrucciones de documentación en video para consistencia en los proyectos (jotaMorales)
+3. referentes de documentación en imagen y plan de documentación (bernardita)
+4. propuesta de montaje de proyectos en sala de clases y en laboratorio (bernardita)
+5. publicación en github de de alta calidad de logos institucionales de UDP (camila)
+6. creación y adaptación de material gráfico de laboratorio lid.udp y teee.udp (camila)
 
-Este es el diagrama a mano.
+## Referentes de documentación en video y plan de documentación ( 1 punto)
 
-![Dibujo del diagrama a mano](./imagenes/diagrama-mano.png)
-
-En este dibujo mostramos XX.
-
-## Prototipado de circuitos en protoboard (1 punto)
+El responsable de esta sección es @jotamorales-romulus.
 
 A continuación se presentan imágenes de las protoboards usadas.
 
@@ -35,53 +35,24 @@ A continuación se presentan imágenes de las protoboards usadas.
 
 A continuación se presentan textos explicativos del prototipado.
 
-El circuito de entrada USA XX para medir XX.
+## Instrucciones de documentación en video para consistencia en los proyectos (1 punto)
 
-El circuito de salida usa XX para cambiar XX.
+El responsable de esta sección es @jotamorales-romulus.
 
-### Bill of Materials (1 punto)
+## referentes de documentación en imagen y plan de documentación (1 punto)
 
-| Componente   | Cantidad | Comentarios     |
-| ------------ | -------- | --------------- |
-| Resistor     | 5        | 1/4W            |
-| XX | ... | ...       |
+La responsable de esta sección es @Bernardita-lobo.
 
-INCLUIR DESCRIPCIÓN DE MATERIALES COMPRADOS, SI ES QUE COMPRARON COSAS ADICIONALES.
+## propuesta de montaje de proyectos en sala de clases y en laboratorio (1 punto)
 
-## Ayudas y comunicación con colegas (1 punto)
+La responsable de esta sección es @Bernardita-lobo.
 
-DOCUMENTAR TEXTUAL, CON IMÁGENES, CON ENLACES A BITÁCORAS.
+## Publicación en GitH ub de de alta calidad de logos institucionales de UDP (1 punto)
 
-La persona XX del proyecto XX nos ayudó con XX.
+La responsable de esta sección es @Camila-Parada
 
-La persona XX del proyecto XX nos ayudó con XX.
+## creación y adaptación de material gráfico de laboratorio lid.udp y teee.udp (1 punto)
 
-Ayudamos a la persona XX del proyecto XX con XX.
-
-Ayudamos a la persona XX del proyecto XX con XX.
-
-## Esquematico en Kicad (1 punto)
-
-![Esquemático general](./imagenes/esquematico-general.jpg)
-
-![Esquemático detalles](./imagenes/esquematico-detalle-01.jpg)
-
-![Esquemático detalles](./imagenes/esquematico-detalle-02.jpg)
-
-EXPLICACIÓN TEXTUAL DEL ESQUEMÁTICO.
-
-DESCRIBIR CHIPS USADOS, CONEXIONES USADAS.
-
-## PCB en Kicad (1 punto)
-
-![PCB general](./imagenes/pcb-general.jpg)
-
-![PCB detalles](./imagenes/pcb-detalle-01.jpg)
-
-![PCB detalles](./imagenes/pcb-detalle-02.jpg)
-
-![PCB 3D](./imagenes/pcb-3d.jpg)
-
-## Recursos adicionales
+La responsable de esta sección es @Camila-Parada
 
 ## Bibliografía
