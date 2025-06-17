@@ -44,7 +44,11 @@
 
 - Estas fotografías de productos que me gustaron las tomé como referencia. Me pareció simple y neutra la manera en que expone sus productos, pero también muy acotada. <https://www.trucco.photography/productos>
 
+![Foto de referente fotográfico](./archivos/tme-sesion14a-referente01.jpeg)
+
 Fuente <https://images.squarespace-cdn.com/content/v1/55814e1de4b0f9f986faf351/1440725269068-ZH3CG5A674FMJMB0ZQ4R/image-asset.jpeg?format=2500w>
+
+![Foto de referente fotográfico](./archivos/tme-sesion14a-referente02.jpg)
 
 Fuente <https://images.squarespace-cdn.com/content/v1/55814e1de4b0f9f986faf351/1437147802659-J0WL73ASBVFSBVZXKKHD/Torna+Final+-+Post.jpg?format=2500w>
 
