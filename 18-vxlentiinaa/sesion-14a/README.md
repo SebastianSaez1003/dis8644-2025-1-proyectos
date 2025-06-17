@@ -28,3 +28,5 @@ Nos pusimos de acuerdo con los propósitos para nuestro proyecto, por lo que hic
 - `Decisiones de diseño:`  Carcasa de acrílicos de diversos colores, así se reflejan los colores de las luces LED y que se proyecten nuevas tonalidades. Queremos realizar el soporte de la placa en impresión 3D.
 
 ### 1. Diagrama de flujo circuito - Proyecto 02
+
+![diagrama-circuito](./archivos/diagrama-circuito.png)
