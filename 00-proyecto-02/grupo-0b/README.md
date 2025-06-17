@@ -37,9 +37,11 @@ No se busco sólo mostrar el resultado final, sino también documentar el recorr
 
 También quiero destacar como referente a Mónica Bate, quien durante la visita a la clase nos mostró el video [*The Life of crystal*](https://www.youtube.com/watch?v=kRLh9yuW5Ns), donde documenta su proyecto de arte sonoro con cristales piezoeléctricos. Elijo este video como referente porque se acerca más a lo que vamos a hacer en el taller con los trabajos de examen y siento que tiene mayor sintonía con nuestro enfoque. Además, cuenta con una edición y registro simples pero funcionales, bastante minimalistas, donde muestra claramente los avances y la interacción con el usuario.
 
-### Taller celebración 
+## Taller celebración
 
-Reels de instragram los cuales muestran el avance de las clases durante el semestre
+Reels de instragram los cuales muestran el avance de las clases durante el semestre [Taller de Celebración UDP — Instagram](https://www.instagram.com/tallerdecelebracionudp?igsh=dXU0aWNhNmR1dHNq)
+
+
 ------
 
 
