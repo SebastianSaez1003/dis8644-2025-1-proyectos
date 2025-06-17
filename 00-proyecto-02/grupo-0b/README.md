@@ -55,37 +55,39 @@ Adjuntar fotos explicando lo que ves, y qué quieres rescatar y qué no.
 
 El responsable de esta sección es @jotamorales-romulus.
 
-## Instrucciones de documentación
-
 Para la segunda sesión de registro, se empezs a registrar avances y prototipos en protoboard. Formato vertical y horizontal.
 
-## Reels
+### Reels
 
 - Registro de videos de 5 segundos en formato vertical, los cuales capturan el trabajo en las sesiones.
 
-## Videos Horizontal  
+### Videos Horizontal  
 
-## Introducción breve del taller
+### Introducción breve del taller
 
-## Registro de Proyectos
+### Registro de Proyectos
 
 - Nombre del grupo cuando aparezca su proyecto en pantalla
 - Nombre intregantes  
 - Breve descripción del proyecto
 
-## Registro del proceso
+### Registro del proceso
 
 - Prototipos en protoboard  
 - Montaje y pruebas del circuito  
 - Interacción con el usuario
 
-## Resultado
+### Resultado
 
 - Prototipo funcionando  
 - Montaje estético  
 - Uso en contexto
 
-## Instrucciones técnicas para la documentación (consistencia entre grupos)
+Agregar ejemplos de video o imagen como referencia visual.
+
+OJO CON LA JERARQUÍA DE INFORMACIÓN CON LOS #
+
+### Instrucciones técnicas para la documentación (consistencia entre grupos)
 
 Para mantener coherencia visual y técnica entre todos los registros:
 
