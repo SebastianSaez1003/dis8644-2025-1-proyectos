@@ -9,7 +9,7 @@ Cambio en el circuito, por tanto en la bom
 
 nuevos componentes se integran al nuevo circuito.
 
-BILL OF MATERIAL - DONKEY KONGA (nombre no definitivo)
+BILL OF MATERIAL - BONGOVOLT (nombre no definitivo)
 
 # Bill of Materials (BOM)
 
