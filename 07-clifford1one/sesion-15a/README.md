@@ -46,4 +46,4 @@ notas: a primera vista puede parecer que hay 2 switch, es una forma de represent
 
 ### organización
 
-runión con grupo Seba y Anaís 17-junio 09:00pm
+runión con grupo Seba y Anaís 17-junio 07:30pm
