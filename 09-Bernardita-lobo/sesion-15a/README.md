@@ -2,7 +2,7 @@
 
 ## Trabajo en clase / Martes 
 
-### Cosas uqe hablamos en la mañana
+### Cosas que hablamos en la mañana
 
 - Hablamos de la charla a la que vamos a ir el próximo martes.
 - Primer día del año con temperatura bajo 0.
