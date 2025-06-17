@@ -40,6 +40,8 @@ notas: a primera vista puede parecer que hay 2 switch, es una forma de represent
 
 - diseñé un símbolo para el componente smt303, el cual es un switch "ON-OFF-ON" de tipo toggle, con 6 pines. La librería con el símbolo se encuentra en la carpeta [archivos.](https://github.com/clifford1one/dis8644-2025-1-proyectos/tree/main/07-clifford1one/sesion-15a/archivos) 
 - se elimina la conexión entre el circuito PWM y el switch, esta conexión se reemplaza por una conexión a VCC.
+- me faltó cambiar los diodos 1n4148 por diodos 4007
+- misa me dijo que los diodos no son necesarios, hay q revisarlo
 
 
 ### organización
