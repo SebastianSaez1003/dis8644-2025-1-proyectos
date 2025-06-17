@@ -15,7 +15,7 @@ BILL OF MATERIAL - DONKEY KONGA (nombre no definitivo)
 
 | Cantidad | Componente            | Valor        | Notas técnicas                         |
 |----------|-----------------------|--------------|----------------------------------------|
-| 1        |                       | 324          |                                        |
+| 1        | Chip                  | lm324        |                                        |
 | 1        | Piezoeléctrico        |              | Como sensor de golpe                   |
 | 1        | Resistencia           | 3M           |                                        |
 | 4        | Resistencia           | 100k         |                                        |
