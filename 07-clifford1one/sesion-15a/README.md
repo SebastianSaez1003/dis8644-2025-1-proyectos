@@ -18,6 +18,6 @@ Cree un [issue]((https://github.com/disenoUDP/dis8644-2025-1-proyectos/issues/47
 
 - reemplazar botones por un switch
 - quitar el transistor, ya que la función que este cumplía era llevada a cabo por el L293D
-- conectar la salida del PWM al pin 1 del L293D(ENABLE). 
+- conectar la salida del PWM al pin 1 del L293D (ENABLE). 
 
 ![Imagen del esquemático con los cambios realizados.](./archivos/fps555-sch-v4.png)
