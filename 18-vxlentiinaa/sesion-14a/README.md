@@ -29,4 +29,8 @@ Nos pusimos de acuerdo con los propósitos para nuestro proyecto, por lo que hic
 
 ### 1. Diagrama de flujo circuito - Proyecto 02
 
+- Lo primero que realizamos fue hacer la primera parte del circuito, nos basamos en el que mostraron en clases (el detector de sombra, utilizando los tres chip). Llegamos a la conclusión de que si la entrada de este circuito era un LDR, que pasaba si lo cambiabamos por un micrófono; para que la entrada sea el sonido y no la luz. Cabe destacar en la protoboard si prendía la luz pero había que regular todo el tiempo el micrófono, mediante un potenciómetro.
+
+- El circuito en protoboard, si prendía la luz LED de la primera parte, pero al realizarlo en falstad, nos daba un error en la conexión de ese LED. No sabemos si nos equivocamos en elegir el chip LM324 o directamente es la conexión. Para simular el micrófono, colocamos un audio que disponíamos en ese momento.
+
 ![diagrama-circuito](./archivos/diagrama-circuito.png)
