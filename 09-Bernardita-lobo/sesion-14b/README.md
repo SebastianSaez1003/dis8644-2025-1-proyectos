@@ -6,6 +6,7 @@
 
 - Este día llegué tarde a clase por las fuertes lluvias que hubo los días anteriores y cómo eso afectó al transporte rural.
 - Llegué y me reuní con mi equipo de trabajo. La Cami me puso al día y además me dijo que Aarón había traído donas. Muchas gracias Aarón, me alegraste la mañana;)
+- Vimos las tareas que se nos habían asignado y hablamos sobre lo que llevábamos hasta el momento.
 
 ### Equipo de registro
 
