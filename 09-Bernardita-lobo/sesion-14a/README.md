@@ -24,7 +24,7 @@
 
 - Pediremos la cámara y conseguiremos luces para la sesión de registro.
 - Vamos a montar el espacio de trabajo, adaptándolo como estudio para fotografía y video.
-- El horario de registro será el siguiente:
+- El horario de registro será el siguiente: desde las 11 am
 - Solicitaremos que nos presten sus protoboards para poder fotografiarlas de forma detallada.
 - También vamos a dejar grabando el proceso de impresión 3D, para incluir ese material en el video final.
 
