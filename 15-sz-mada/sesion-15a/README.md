@@ -9,13 +9,11 @@
 |3|U1,U4,U5|~|Socket 8-pin|-
 |1|U2|~|Socket 14-pin|-
 |1|U3|~|Socket 18-pin|-
-|4|R2,R9,R11,R12|10k|Resistencia|-
-|5|R3,R5,R6,R10,R13|1k|Resistencia|-
-|1|R4|220|Resistencia|-
+|4|R2,R4,R5,R6,R9,R11,R12|10k|Resistencia|-
+|5|R3,R7,R10,R13|1k|Resistencia|-
 |1|R8|100k|Resistencia|-
-|1|R7|470|Resistencia|-
 |1|R1|LDR|LDR|-
-|3|C1,C4,C7|100n|Condensador cerámico|104
+|3|C1,C4,C7|474n|Condensador cerámico|474
 |1|Q1|PN2222A|Transistor|-
 |1|MK1|MIC|Micrófono electret|-
 |3|C3,C5,C6|1u|Condensador electrolítico|-

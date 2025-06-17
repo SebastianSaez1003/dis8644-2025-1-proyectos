@@ -2608,6 +2608,17 @@
 			(embedded_fonts no)
 		)
 	)
+	(text "AÑADIR\nHUELLA"
+		(exclude_from_sim no)
+		(at 125.73 167.132 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "2a9d89db-9718-47df-ada9-7632469708bc")
+	)
 	(text "Micrófono engañoso (no afecta ruleta)"
 		(exclude_from_sim no)
 		(at 91.948 112.776 0)
@@ -2618,17 +2629,6 @@
 		)
 		(uuid "3fae5b3f-6f94-43c1-856a-6f7c1acb069a")
 	)
-	(text "REVISAR\nHUELLA"
-		(exclude_from_sim no)
-		(at 78.74 154.178 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "5323b6f0-f4c6-460a-8ce8-685cb1345727")
-	)
 	(text "Ruleta con detector de sombra"
 		(exclude_from_sim no)
 		(at 133.096 34.29 0)
@@ -2638,17 +2638,6 @@
 			)
 		)
 		(uuid "54c3880d-48b4-4396-acd6-6dcfac8d4746")
-	)
-	(text "REVISAR\nHUELLA"
-		(exclude_from_sim no)
-		(at 182.626 44.196 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "7be0192d-f3f1-4f2f-9344-0ca67c5ec064")
 	)
 	(text "AÑADIR\nHUELLA"
 		(exclude_from_sim no)
@@ -2663,6 +2652,28 @@
 	)
 	(text "AÑADIR\nHUELLA"
 		(exclude_from_sim no)
+		(at 152.146 87.376 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "8d861a35-5d73-4bbd-9fda-5fa858908800")
+	)
+	(text "AÑADIR\nHUELLA"
+		(exclude_from_sim no)
+		(at 108.966 87.884 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "a65c0492-b58e-4ca0-9dd0-07060c27233a")
+	)
+	(text "AÑADIR\nHUELLA"
+		(exclude_from_sim no)
 		(at 53.34 151.892 0)
 		(effects
 			(font
@@ -2671,27 +2682,6 @@
 			(justify left)
 		)
 		(uuid "b079df36-1a6d-4922-977b-452502e5bf78")
-	)
-	(text "REVISAR\nHUELLA"
-		(exclude_from_sim no)
-		(at 58.674 70.358 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-		)
-		(uuid "c9c1a865-c8ee-4230-9de3-66022c592b12")
-	)
-	(text "REVISAR\nHUELLA"
-		(exclude_from_sim no)
-		(at 36.576 42.926 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "e1eb3214-5de6-418a-b24c-2c83dd9e8493")
 	)
 	(junction
 		(at 170.18 86.36)
@@ -4600,7 +4590,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "100n"
+		(property "Value" "474"
 			(at 127 162.5599 0)
 			(effects
 				(font
@@ -4609,7 +4599,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_THT:C_Disc_D6.0mm_W2.5mm_P5.00mm"
+		(property "Footprint" ""
 			(at 124.1552 165.1 0)
 			(effects
 				(font
@@ -5493,7 +5483,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "100n"
+		(property "Value" "474"
 			(at 110.49 83.8199 0)
 			(effects
 				(font
@@ -5502,7 +5492,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_THT:C_Disc_D6.0mm_W2.5mm_P5.00mm"
+		(property "Footprint" ""
 			(at 107.6452 86.36 0)
 			(effects
 				(font
@@ -5563,7 +5553,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "100n"
+		(property "Value" "474"
 			(at 153.67 82.5499 0)
 			(effects
 				(font
@@ -5572,7 +5562,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_THT:C_Disc_D6.0mm_W2.5mm_P5.00mm"
+		(property "Footprint" ""
 			(at 150.8252 85.09 0)
 			(effects
 				(font
@@ -6113,7 +6103,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "220"
+		(property "Value" "10k"
 			(at 88.9 54.6099 0)
 			(effects
 				(font
@@ -6988,7 +6978,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "1k"
+		(property "Value" "10k"
 			(at 127 64.7699 0)
 			(effects
 				(font
@@ -8111,7 +8101,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "1k"
+		(property "Value" "10k"
 			(at 127 53.3399 0)
 			(effects
 				(font
@@ -9064,7 +9054,7 @@
 				)
 			)
 		)
-		(property "Value" "470"
+		(property "Value" "1k"
 			(at 193.294 91.694 90)
 			(effects
 				(font
