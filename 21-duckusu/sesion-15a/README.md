@@ -44,13 +44,12 @@
 | 11 	| 1 	| Q1 	| 	PN2222A 	| Transistor 	| Se puede conseguir en lab 	|
 | 12 	| 1 	| MK1 	| MIC 	| Micrófono electret 	| Se tendrán que comprar 	|
 | 13 	| 3 	| C3,C5,C6	 	| 	1u 	| Condensador electrolítico 	| Se puede conseguir en lab 	|
-| 14 	| 1 	| C2 	| 100u 	| Condensador electrolítico 	| Se puede conseguir en lab 	|
+| 14 	| 1 	| C2 	| 407n 	| Condensador cerámico 	| Se puede conseguir en lab 	|
 | 15 	| 12 	| 	D1~D12 	| LED 	| LED 5mm 	| Se puede conseguir en lab 	|
 | 16 	| 1 	| RV1 	| 500k 	| Potenciómetro 	| Se puede conseguir en lab 	|
 | 17 	| 3 	| U1,U4,U5 	| NE555 	| DIP-8 	| Se puede conseguir en lab 	|
 | 18 	| 1 	| U2 	| LM324 	| DIP-14 	| Se puede conseguir en lab 	|
 | 19 	| 1 	| U3 	| CD4017 	| DIP-16 	| Se tendrán que comprar o no encontré ninguno en el lab 	|
-
 
 
 ## Markdown tables generator
