@@ -1,35 +1,27 @@
-# ✦•····················• Proyecto 02 - Grupo 0a •····················•✦
-***
+# proyecto-02-grupo-0a
+
 ## Acerca del proyecto
+
 Integrantes:
 
-  - Felix Rodríguez
-  - Alanis Vásquez 
+- Félix Rodríguez TODO: agregar enlace a su github.com
+- Alanis Vásquez TODO: agregar enlace a su github.com
 
-***
-## Presentación textual
+## Medidas de placas PCB de cada proyecto (1 punto)
 
-DESCRIPCIÓN DEL PROYECTO EN UNA LÍNEA, SIN PUNTOS SEGUIDOS.
+### Medidas de placas PCB del proyecto-01
 
-El proyecto consiste en una entrada que XX, para CONTROLAR/OTRO VERBO
+### Medidas de placas PCB del proyecto-02
 
-## Dibujos de diagramas del circuito (1 punto)
+### Medidas de placas PCB del proyecto-03
 
-Este es el diagrama a mano.
+### Medidas de placas PCB del proyecto-04
 
-![Dibujo del diagrama a mano](./imagenes/diagrama-mano.png)
+### Medidas de placas PCB del proyecto-05
 
-En este dibujo mostramos XX.
+### Medidas de placas PCB del proyecto-06
 
-***
-
-## Medidas de placas PCB (1 punto)
-
-A continuación se presentan imágenes de las protoboards usadas.
-
-![Vista protoboard de frente](./imagenes/presentacion-visual-frente.jpg)
-
-![Vista protoboard de arriba](./imagenes/presentacion-visual-arriba.jpg)
+![Texto explicativo sobre imagen](./imagenes/presentacion-visual-frente.jpg)
 
 A continuación se presentan textos explicativos del prototipado.
 
@@ -43,31 +35,21 @@ INCLUIR DESCRIPCIÓN DE MATERIALES COMPRADOS, SI ES QUE COMPRARON COSAS ADICIONA
 
 ## Cotización de materiales de fijación (1 punto)
 
-DOCUMENTAR TEXTUAL, CON IMÁGENES, CON ENLACES A BITÁCORAS.
+TODO
 
-La persona XX del proyecto XX nos ayudó con XX.
+## Filamentos 3D y materiales de carcasas para cada proyecto (1 punto)
 
-La persona XX del proyecto XX nos ayudó con XX.
+### Filamentos 3D y carcasas de proyecto-01
 
-Ayudamos a la persona XX del proyecto XX con XX.
+### Filamentos 3D y carcasas de proyecto-02
 
-Ayudamos a la persona XX del proyecto XX con XX.
+### Filamentos 3D y carcasas de proyecto-03
 
-***
+### Filamentos 3D y carcasas de proyecto-04
 
-## Propuestas de filamentos 3D (1 punto)
+### Filamentos 3D y carcasas de proyecto-05
 
-![Esquemático general](./imagenes/esquematico-general.jpg)
-
-![Esquemático detalles](./imagenes/esquematico-detalle-01.jpg)
-
-![Esquemático detalles](./imagenes/esquematico-detalle-02.jpg)
-
-EXPLICACIÓN TEXTUAL DEL ESQUEMÁTICO.
-
-DESCRIBIR CHIPS USADOS, CONEXIONES USADAS.
-
-***
+### Filamentos 3D y carcasas de proyecto-06
 
 ## Diseño de carcasas UDPUDU (1 punto)
 
@@ -83,10 +65,12 @@ DESCRIBIR CHIPS USADOS, CONEXIONES USADAS.
 
 ## Impresión de carcasas UDPUDU (1 punto)
 
-***
+TODO
 
 ## Montaje de carcasas UDPUDU (1 punto)
 
-***
+TODO
 
 ## Bibliografía
+
+TODO
