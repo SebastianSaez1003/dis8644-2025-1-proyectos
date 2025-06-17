@@ -1,4 +1,4 @@
-# ✦•····················• Proyecto 02 - Grupo 0b •····················•✦
+# ✦•····················• Proyecto 02 - Grupo 0a •····················•✦
 ***
 ## Acerca del proyecto
 Integrantes:
