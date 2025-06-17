@@ -1,37 +1,27 @@
-# proyecto-02
+# proyecto-02-grupo-0a
 
 ## Acerca del proyecto
 
-- Grupo: 0a
-- Integrantes:
-  - Integrante XX
-  - Integrante XX
-  - Integrante XX
-- Chips usados:
-  - Chip XX
-  - Chip XX
+Integrantes:
 
-## Presentación textual
+- Félix Rodríguez TODO: agregar enlace a su github.com
+- Alanis Vásquez TODO: agregar enlace a su github.com
 
-DESCRIPCIÓN DEL PROYECTO EN UNA LÍNEA, SIN PUNTOS SEGUIDOS.
+## Medidas de placas PCB de cada proyecto (1 punto)
 
-El proyecto consiste en una entrada que XX, para CONTROLAR/OTRO VERBO
+### Medidas de placas PCB del proyecto-01
 
-## Dibujos de diagramas del circuito (1 punto)
+### Medidas de placas PCB del proyecto-02
 
-Este es el diagrama a mano.
+### Medidas de placas PCB del proyecto-03
 
-![Dibujo del diagrama a mano](./imagenes/diagrama-mano.png)
+### Medidas de placas PCB del proyecto-04
 
-En este dibujo mostramos XX.
+### Medidas de placas PCB del proyecto-05
 
-## Prototipado de circuitos en protoboard (1 punto)
+### Medidas de placas PCB del proyecto-06
 
-A continuación se presentan imágenes de las protoboards usadas.
-
-![Vista protoboard de frente](./imagenes/presentacion-visual-frente.jpg)
-
-![Vista protoboard de arriba](./imagenes/presentacion-visual-arriba.jpg)
+![Texto explicativo sobre imagen](./imagenes/presentacion-visual-frente.jpg)
 
 A continuación se presentan textos explicativos del prototipado.
 
@@ -39,40 +29,29 @@ El circuito de entrada USA XX para medir XX.
 
 El circuito de salida usa XX para cambiar XX.
 
-### Bill of Materials (1 punto)
-
-| Componente   | Cantidad | Comentarios     |
-| ------------ | -------- | --------------- |
-| Resistor     | 5        | 1/4W            |
-| XX | ... | ...       |
-
 INCLUIR DESCRIPCIÓN DE MATERIALES COMPRADOS, SI ES QUE COMPRARON COSAS ADICIONALES.
 
-## Ayudas y comunicación con colegas (1 punto)
+***
 
-DOCUMENTAR TEXTUAL, CON IMÁGENES, CON ENLACES A BITÁCORAS.
+## Cotización de materiales de fijación (1 punto)
 
-La persona XX del proyecto XX nos ayudó con XX.
+TODO
 
-La persona XX del proyecto XX nos ayudó con XX.
+## Filamentos 3D y materiales de carcasas para cada proyecto (1 punto)
 
-Ayudamos a la persona XX del proyecto XX con XX.
+### Filamentos 3D y carcasas de proyecto-01
 
-Ayudamos a la persona XX del proyecto XX con XX.
+### Filamentos 3D y carcasas de proyecto-02
 
-## Esquematico en Kicad (1 punto)
+### Filamentos 3D y carcasas de proyecto-03
 
-![Esquemático general](./imagenes/esquematico-general.jpg)
+### Filamentos 3D y carcasas de proyecto-04
 
-![Esquemático detalles](./imagenes/esquematico-detalle-01.jpg)
+### Filamentos 3D y carcasas de proyecto-05
 
-![Esquemático detalles](./imagenes/esquematico-detalle-02.jpg)
+### Filamentos 3D y carcasas de proyecto-06
 
-EXPLICACIÓN TEXTUAL DEL ESQUEMÁTICO.
-
-DESCRIBIR CHIPS USADOS, CONEXIONES USADAS.
-
-## PCB en Kicad (1 punto)
+## Diseño de carcasas UDPUDU (1 punto)
 
 ![PCB general](./imagenes/pcb-general.jpg)
 
@@ -82,6 +61,16 @@ DESCRIBIR CHIPS USADOS, CONEXIONES USADAS.
 
 ![PCB 3D](./imagenes/pcb-3d.jpg)
 
-## Recursos adicionales
+***
+
+## Impresión de carcasas UDPUDU (1 punto)
+
+TODO
+
+## Montaje de carcasas UDPUDU (1 punto)
+
+TODO
 
 ## Bibliografía
+
+TODO
