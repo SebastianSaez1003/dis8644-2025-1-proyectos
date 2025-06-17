@@ -1,16 +1,13 @@
-# proyecto-02
-
+# ✦•····················• Proyecto 02 - Grupo 0b •····················•✦
+***
 ## Acerca del proyecto
+Integrantes:
 
-- Grupo: 0b
-- Integrantes:
-  - Integrante XX
-  - Integrante XX
-  - Integrante XX
-- Chips usados:
-  - Chip XX
-  - Chip XX
+  - Bernardita Lobo
+  - José Morales 
+  - Camila Parada
 
+***
 ## Presentación textual
 
 DESCRIPCIÓN DEL PROYECTO EN UNA LÍNEA, SIN PUNTOS SEGUIDOS.
@@ -25,7 +22,9 @@ Este es el diagrama a mano.
 
 En este dibujo mostramos XX.
 
-## Prototipado de circuitos en protoboard (1 punto)
+***
+
+## Referentes visuales y plan de documentación de video (Jose 1 punto)
 
 A continuación se presentan imágenes de las protoboards usadas.
 
@@ -39,16 +38,11 @@ El circuito de entrada USA XX para medir XX.
 
 El circuito de salida usa XX para cambiar XX.
 
-### Bill of Materials (1 punto)
-
-| Componente   | Cantidad | Comentarios     |
-| ------------ | -------- | --------------- |
-| Resistor     | 5        | 1/4W            |
-| XX | ... | ...       |
-
 INCLUIR DESCRIPCIÓN DE MATERIALES COMPRADOS, SI ES QUE COMPRARON COSAS ADICIONALES.
 
-## Ayudas y comunicación con colegas (1 punto)
+***
+
+## Instrucciones de documentación en video (Jose 1 punto)
 
 DOCUMENTAR TEXTUAL, CON IMÁGENES, CON ENLACES A BITÁCORAS.
 
@@ -60,7 +54,9 @@ Ayudamos a la persona XX del proyecto XX con XX.
 
 Ayudamos a la persona XX del proyecto XX con XX.
 
-## Esquematico en Kicad (1 punto)
+***
+
+## Referentes visuales y plan de documentación de imagen (Bernardita 1 punto)
 
 ![Esquemático general](./imagenes/esquematico-general.jpg)
 
@@ -72,7 +68,9 @@ EXPLICACIÓN TEXTUAL DEL ESQUEMÁTICO.
 
 DESCRIBIR CHIPS USADOS, CONEXIONES USADAS.
 
-## PCB en Kicad (1 punto)
+***
+
+## Propuestas de montaje sala de clases y laboratorio (Bernardita 1 punto)
 
 ![PCB general](./imagenes/pcb-general.jpg)
 
@@ -82,6 +80,14 @@ DESCRIBIR CHIPS USADOS, CONEXIONES USADAS.
 
 ![PCB 3D](./imagenes/pcb-3d.jpg)
 
-## Recursos adicionales
+***
+
+## Logos institucionales de UDP (Camila 1 punto)
+
+***
+
+## Material gráfico laboratorio lid.udp y teee.udp (Camila 1 punto)
+
+***
 
 ## Bibliografía

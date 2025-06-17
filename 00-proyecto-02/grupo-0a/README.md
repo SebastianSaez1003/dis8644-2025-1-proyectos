@@ -1,16 +1,12 @@
-# proyecto-02
-
+# ✦•····················• Proyecto 02 - Grupo 0a •····················•✦
+***
 ## Acerca del proyecto
+Integrantes:
 
-- Grupo: 0a
-- Integrantes:
-  - Integrante XX
-  - Integrante XX
-  - Integrante XX
-- Chips usados:
-  - Chip XX
-  - Chip XX
+  - Felix Rodríguez
+  - Alanis Vásquez 
 
+***
 ## Presentación textual
 
 DESCRIPCIÓN DEL PROYECTO EN UNA LÍNEA, SIN PUNTOS SEGUIDOS.
@@ -25,7 +21,9 @@ Este es el diagrama a mano.
 
 En este dibujo mostramos XX.
 
-## Prototipado de circuitos en protoboard (1 punto)
+***
+
+## Medidas de placas PCB (1 punto)
 
 A continuación se presentan imágenes de las protoboards usadas.
 
@@ -39,16 +37,11 @@ El circuito de entrada USA XX para medir XX.
 
 El circuito de salida usa XX para cambiar XX.
 
-### Bill of Materials (1 punto)
-
-| Componente   | Cantidad | Comentarios     |
-| ------------ | -------- | --------------- |
-| Resistor     | 5        | 1/4W            |
-| XX | ... | ...       |
-
 INCLUIR DESCRIPCIÓN DE MATERIALES COMPRADOS, SI ES QUE COMPRARON COSAS ADICIONALES.
 
-## Ayudas y comunicación con colegas (1 punto)
+***
+
+## Cotización de materiales de fijación (1 punto)
 
 DOCUMENTAR TEXTUAL, CON IMÁGENES, CON ENLACES A BITÁCORAS.
 
@@ -60,7 +53,9 @@ Ayudamos a la persona XX del proyecto XX con XX.
 
 Ayudamos a la persona XX del proyecto XX con XX.
 
-## Esquematico en Kicad (1 punto)
+***
+
+## Propuestas de filamentos 3D (1 punto)
 
 ![Esquemático general](./imagenes/esquematico-general.jpg)
 
@@ -72,7 +67,9 @@ EXPLICACIÓN TEXTUAL DEL ESQUEMÁTICO.
 
 DESCRIBIR CHIPS USADOS, CONEXIONES USADAS.
 
-## PCB en Kicad (1 punto)
+***
+
+## Diseño de carcasas UDPUDU (1 punto)
 
 ![PCB general](./imagenes/pcb-general.jpg)
 
@@ -82,6 +79,14 @@ DESCRIBIR CHIPS USADOS, CONEXIONES USADAS.
 
 ![PCB 3D](./imagenes/pcb-3d.jpg)
 
-## Recursos adicionales
+***
+
+## Impresión de carcasas UDPUDU (1 punto)
+
+***
+
+## Montaje de carcasas UDPUDU (1 punto)
+
+***
 
 ## Bibliografía

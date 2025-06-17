@@ -1,16 +1,13 @@
-# proyecto-02
-
+# ✦•····················• Proyecto 02 - Grupo 0c •····················•✦
+***
 ## Acerca del proyecto
+Integrantes:
 
-- Grupo: 0c
-- Integrantes:
-  - Integrante XX
-  - Integrante XX
-  - Integrante XX
-- Chips usados:
-  - Chip XX
-  - Chip XX
+  - Martín Silva
+  - Francisco Stephens
+  - Izhak Villegas
 
+***
 ## Presentación textual
 
 DESCRIPCIÓN DEL PROYECTO EN UNA LÍNEA, SIN PUNTOS SEGUIDOS.
@@ -21,11 +18,13 @@ El proyecto consiste en una entrada que XX, para CONTROLAR/OTRO VERBO
 
 Este es el diagrama a mano.
 
-![Dibujo del diagrama a mano](./imagenes/diagrama-mano.jpg)
+![Dibujo del diagrama a mano](./imagenes/diagrama-mano.png)
 
 En este dibujo mostramos XX.
 
-## Prototipado de circuitos en protoboard (1 punto)
+***
+
+## Bill of materials de todos los proyectos y materiales del curso (Martín 1 punto)
 
 A continuación se presentan imágenes de las protoboards usadas.
 
@@ -39,16 +38,11 @@ El circuito de entrada USA XX para medir XX.
 
 El circuito de salida usa XX para cambiar XX.
 
-### Bill of Materials (1 punto)
-
-| Componente   | Cantidad | Comentarios     |
-| ------------ | -------- | --------------- |
-| Resistor     | 5        | 1/4W            |
-| XX | ... | ...       |
-
 INCLUIR DESCRIPCIÓN DE MATERIALES COMPRADOS, SI ES QUE COMPRARON COSAS ADICIONALES.
 
-## Ayudas y comunicación con colegas (1 punto)
+***
+
+## Cotización de materiales para todos los proyectos y materiales del curso (Martín 1 punto)
 
 DOCUMENTAR TEXTUAL, CON IMÁGENES, CON ENLACES A BITÁCORAS.
 
@@ -60,7 +54,9 @@ Ayudamos a la persona XX del proyecto XX con XX.
 
 Ayudamos a la persona XX del proyecto XX con XX.
 
-## Esquematico en Kicad (1 punto)
+***
+
+## Texto acerca de los materiales usados en cada proyecto (Izhak 1 punto)
 
 ![Esquemático general](./imagenes/esquematico-general.jpg)
 
@@ -72,7 +68,9 @@ EXPLICACIÓN TEXTUAL DEL ESQUEMÁTICO.
 
 DESCRIBIR CHIPS USADOS, CONEXIONES USADAS.
 
-## PCB en Kicad (1 punto)
+***
+
+## Texto acerca de los diagramas de bloque en cada proyecto (Izhak 1 punto)
 
 ![PCB general](./imagenes/pcb-general.jpg)
 
@@ -82,6 +80,14 @@ DESCRIBIR CHIPS USADOS, CONEXIONES USADAS.
 
 ![PCB 3D](./imagenes/pcb-3d.jpg)
 
-## Recursos adicionales
+***
+
+## Revisión de esquemáticos en KiCad de los proyectos (Francisco 1 punto)
+
+***
+
+## Revisión de las placas PCB en KiCad de los proyectos (Francisco 1 punto)
+
+***
 
 ## Bibliografía

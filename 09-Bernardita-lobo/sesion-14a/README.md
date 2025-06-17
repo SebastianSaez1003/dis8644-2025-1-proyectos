@@ -24,8 +24,32 @@
 
 - Pediremos la cámara y conseguiremos luces para la sesión de registro.
 - Vamos a montar el espacio de trabajo, adaptándolo como estudio para fotografía y video.
-- El horario de registro será el siguiente:
+- El horario de registro será el siguiente: desde las 11 am
 - Solicitaremos que nos presten sus protoboards para poder fotografiarlas de forma detallada.
 - También vamos a dejar grabando el proceso de impresión 3D, para incluir ese material en el video final.
 
 ### Grupos de trabajo
+
+- lista de grupos de trabajo
+- grupo 01:
+- grupo 02:
+- grupo 03: 
+- grupo 04:
+- grupo 05:
+- grupo 06:
+
+## Encargos
+
+### Referentes e investigación para los registros
+
+- Estas fotografías de productos que me gustaron las tomé como referencia. Me pareció simple y neutra la manera en que expone sus productos, pero también muy acotada. <https://www.trucco.photography/productos>
+
+![Foto de referente fotográfico](./archivos/tme-sesion14a-referente01.jpeg)
+
+Fuente <https://images.squarespace-cdn.com/content/v1/55814e1de4b0f9f986faf351/1440725269068-ZH3CG5A674FMJMB0ZQ4R/image-asset.jpeg?format=2500w>
+
+![Foto de referente fotográfico](./archivos/tme-sesion14a-referente02.jpg)
+
+Fuente <https://images.squarespace-cdn.com/content/v1/55814e1de4b0f9f986faf351/1437147802659-J0WL73ASBVFSBVZXKKHD/Torna+Final+-+Post.jpg?format=2500w>
+
+- Además, revisé un video como referencia para comprender mejor qué elementos son necesarios al momento de fotografiar los procesos. <https://youtu.be/75OEz5csiP8?si=EtXw4-0HqXXj7hrX>
