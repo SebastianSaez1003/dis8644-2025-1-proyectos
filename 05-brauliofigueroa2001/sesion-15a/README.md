@@ -8,3 +8,8 @@ la duda es si estos lm324 que están aparte del circuito deben tener huella o no
 
 acá el otro componente que no se si debe tener huella, este sí va conectado directamente al circuito
 ![dudacomponentes2](./archivos/lm324duda2.PNG)
+
+
+por último, esta es la parte del lm324 que estamos usando directamente
+
+![dudacomponentes3](./archivos/lm324usado.PNG)
