@@ -17,3 +17,18 @@ por último, esta es la parte del lm324 que estamos usando directamente
 
 - hola aquí el esquemático completo de momento antes de pasar a la placa
 - ![esquematico](./archivos/esquematicoompleto.PNG)
+
+
+## segundo error encontrado y duda
+
+apareció un error al momento de pasar las huellas a la placa y no sé si se puede continuar trabajando o no, al parecer no detectó la huella de terminal block que le puse al motor dc ni al switch
+
+- estas son las huellas asignadas antes de ir a la placa
+![huellas](./archivos/HUELLAS.JPG)
+
+- se asignó terminal block al switch y al motor ya que irán por fuera de la placa, en la carcasa
+- al momento de pasar las huellas a la placa aparece el siguiente error
+![error](./archivos/erroresquematico.JPG)
+
+- Adjunto acá el cómo quedaron los componentes ya con sus huellas
+![kicad](./archivos/kicadplacaerror.JPG)
