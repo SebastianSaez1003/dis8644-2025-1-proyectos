@@ -9,9 +9,13 @@ Cambio en el circuito, por tanto en la bom
 
 nuevos componentes se integran al nuevo circuito.
 
-BILL OF MATERIAL - BONGOVOLT (nombre no definitivo)
+ideas de nombres para el proyecto:
 
-# Bill of Materials (BOM)
+1. donkeykonga
+2. bongo volt
+3. bongazo
+
+## Bill of Materials (BOM)
 
 | Cantidad | Componente            | Valor        | Notas técnicas                         |
 |----------|-----------------------|--------------|----------------------------------------|
