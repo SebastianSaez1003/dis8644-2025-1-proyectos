@@ -1,7 +1,7 @@
 # sesion-15a
 
 
-## Progreso
+## progreso
 
 Conexión del circuito, en este paso, reemplazamos el puente H por un ci L293D. También redujimos la cantidad de circuitos PWM utilizados, de 2 a 1.
 
@@ -23,7 +23,7 @@ Cree un [issue]((https://github.com/disenoUDP/dis8644-2025-1-proyectos/issues/47
 ![Imagen del esquemático con los cambios realizados.](./archivos/fps555-sch-v4.png)
 
 
-## Progreso
+## más progreso
 
 gracias al feedback realizamos los siguientes cambios:
 
