@@ -4,16 +4,18 @@
 
 - Grupo: 04
 - Integrantes:
-  - Integrante XX
-  - Integrante XX
-  - Integrante XX
+  - Braulio Figueroa
+  - Carlo Martínez
+  - Bastian Solís
 - Chips usados:
-  - Chip XX
-  - Chip XX
+  - Chip LM324
+  - Chip NE555
 
 ## Presentación textual
 
 DESCRIPCIÓN DEL PROYECTO EN UNA LÍNEA, SIN PUNTOS SEGUIDOS.
+
+El proyecto consiste en un juguete para gato que funciona con un LDR que controla la activación de un motor dc
 
 El proyecto consiste en una entrada que XX, para CONTROLAR/OTRO VERBO
 
