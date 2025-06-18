@@ -4,16 +4,16 @@
 
 - Grupo: 06
 - Integrantes:
-  - Integrante XX
-  - Integrante XX
-  - Integrante XX
+  - Santiago Gaete Fernández
+  - Anaís Marschhausen Gajardo
+  - Sebastián Saez Olivares
 - Chips usados:
-  - Chip XX
-  - Chip XX
+  - NE555
+  - L293D
 
 ## Presentación textual
 
-DESCRIPCIÓN DEL PROYECTO EN UNA LÍNEA, SIN PUNTOS SEGUIDOS.
+fps555 es un dispositivo de protección ocular con posición adaptable mecánicamente.
 
 El proyecto consiste en una entrada que XX, para CONTROLAR/OTRO VERBO
 
