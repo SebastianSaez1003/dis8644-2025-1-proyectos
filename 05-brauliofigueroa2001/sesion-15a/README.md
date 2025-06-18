@@ -15,4 +15,4 @@ por último, esta es la parte del lm324 que estamos usando directamente
 
 
 - hola aquí el esquemático completo de momento antes de pasar a la placa
-- 
+- ![esquematico](./archivos/esquematicoompleto.PNG)
