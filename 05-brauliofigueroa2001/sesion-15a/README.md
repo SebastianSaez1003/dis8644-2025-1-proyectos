@@ -1,4 +1,5 @@
 # sesion-15a
+## ESTA SESIÓN LA DEJARÉ PARA SUBIR LOS ERRORES DEL PROCESO
 
 ## adjunto acá la duda por si no quedó claro en el issue de project
 
