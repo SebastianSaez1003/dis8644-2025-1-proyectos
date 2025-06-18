@@ -30,13 +30,13 @@
 
 ### Grupos de trabajo
 
-- lista de grupos de trabajo
-- grupo 01:
-- grupo 02:
-- grupo 03: 
-- grupo 04:
-- grupo 05:
-- grupo 06:
+- Lista de grupos de trabajo
+- Grupo-01: hazzaily, katalinariquelme, thyare08
+- Grupo-02: antofuentealba, sofiaperez, sofiaetchepare
+- Grupo-03: valentina ruz, isabella, sofiacartes
+- Grupo-04: braulio, carlo, bastián
+- Grupo-05: antocristi, pauvargas, nataliapilar
+- Grupo-06: santiago, sebastián, anaís
 
 ## Encargos
 

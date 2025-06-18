@@ -2,6 +2,8 @@
 
 martes 17 de junio
 
+> pedirle a los grupos que me envíen las medidas de sus pcb
+
 ---
 
 Le pregunté a cada equipo sobre su idea / propuesta para la carcasa de su proyecto. En general pregunté sobre el input y output, la forma que se imaginan, las medidas (si es un objeto de mano o de mesa), el material, etc.
@@ -11,6 +13,8 @@ Le pregunté a cada equipo sobre su idea / propuesta para la carcasa de su proye
 Emilia Contreras - Katalina Riquelme - Thyare Santender
 
 Ya lo tienen diseñado y  quieren hacerlo ellas. Impresión 3D
+
+PCB --> son 3 placas, 1 de ellas mide 100mm y las otras 2 son más chicas, pero aún no saben muy bien las medidas
 
 ## Grupo 02
 
@@ -25,6 +29,7 @@ Quieren un compartimiento en la parte de abajo para la batería (tipo control re
 La carcasa sería de un cilíndro de 120 - 150mm de diámetro x 55mm de alto.
 
     * imagennnn*
+PCB --> tiene una forma de explosión. Nos vamos a guiar como si fuera un círculo de al rededor de 80 a 100 mm de diámetro
 
 ## Grupo 03
 
@@ -33,6 +38,8 @@ Valentina Ruz - Isabella Gutiérres - Sofía Cártes
 El proyecto es una esfera que emite luz a partir de la recepción de sonido.
 
 Quieren que sea una esfera de capas de acrílico de colores. En total de unos 150 - 200mm de diámetro.
+
+PCB --> un poco más grande que la UDPUDU
 
 ## Grupo 04
 
@@ -50,10 +57,14 @@ Es una ruleta de luces led que "gira" al tapar el LDR y al destaparlo se detiene
 
 Quieren hacerlo en corte láser en terciado y en acrílico opaco, que tenga forma de ruleta.
 
-## Grupo 06
+PCB --> tiene una forma circular o de semi círculo que mide menos de 100x150mm.
+
+##  Grupo 06
 
 Anaís - Santiago Gaete - Sebastián Sáez
 
 Cintillo que sube y baja unos lentes de sol dependiendo de la luz ambiente. Tiene un LDR que recibe la luz ambiente y un motor que mueve los lentes de sol.
 
 Quieren 3 cintillos unidos entre sí.
+
+PCB --> tamaño UDPUDU.
