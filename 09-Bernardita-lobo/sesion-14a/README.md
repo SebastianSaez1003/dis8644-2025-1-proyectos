@@ -52,4 +52,10 @@ Fuente <https://images.squarespace-cdn.com/content/v1/55814e1de4b0f9f986faf351/1
 
 Fuente <https://images.squarespace-cdn.com/content/v1/55814e1de4b0f9f986faf351/1437147802659-J0WL73ASBVFSBVZXKKHD/Torna+Final+-+Post.jpg?format=2500w>
 
+- Este otro referente me gustaría considerarlo para la segunda parte del proyecto, ya que en esa etapa nos interesa que los proyectos sean fotografiados en un contexto que se relacione de manera más directa con su funcionamiento y propósito. La idea es que la imagen no solo muestre el objeto, sino también cómo se inserta en su entorno o cómo podría ser utilizado en una situación real. <http://martisans.com/portfolio/>
+
+Fuente <http://martisans.com/wp-content/uploads/2022/06/Marshall-BCN_201_R3-6000x4000.jpg>
+
+fuente <http://martisans.com/wp-content/uploads/2021/10/2021-02-10_stock6271-2500x4000.jpg>
+
 - Además, revisé un video como referencia para comprender mejor qué elementos son necesarios al momento de fotografiar los procesos. <https://youtu.be/75OEz5csiP8?si=EtXw4-0HqXXj7hrX>
