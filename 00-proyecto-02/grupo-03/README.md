@@ -110,6 +110,18 @@ DESCRIBIR CHIPS USADOS, CONEXIONES USADAS.
 
 ## Recursos adicionales
 
-<https://www.sparkfun.com/sparkfun-sound-detector.html>
+El chip LMV324M del SparkFun Sound Detector lo desglosamos, por así decirlo, para tener el chip aparte y poder regular la sensibilidad del micrófono.
+
+<https://www.sparkfun.com/sparkfun-sound-detector.html> 
 
 ## Bibliografía
+
+<https://www.sparkfun.com/sparkfun-sound-detector.html> 
+
+<chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://cdn.sparkfun.com/datasheets/Sensors/Sound/LMV324.pdf>
+
+<https://www.digikey.com/es/resources/conversion-calculators/conversion-calculator-resistor-color-code>
+
+<https://www.alldatasheet.com/datasheet-pdf/pdf/26855/TI/CD4017.html>
+
+<https://www.alldatasheet.es/datasheet-pdf/pdf/22756/STMICROELECTRONICS/LM324N.html>
