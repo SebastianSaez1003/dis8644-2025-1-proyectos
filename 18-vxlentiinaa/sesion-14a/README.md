@@ -34,3 +34,27 @@ Nos pusimos de acuerdo con los propósitos para nuestro proyecto, por lo que hic
 - El circuito en protoboard, si prendía la luz LED de la primera parte, pero al realizarlo en falstad, nos daba un error en la conexión de ese LED. No sabemos si nos equivocamos en elegir el chip LM324 o directamente es la conexión. Para simular el micrófono, colocamos un audio que disponíamos en ese momento.
 
 ![diagrama-circuito](./archivos/diagrama-circuito.png)
+
+### 2. Esquema hecho en Protoboard
+
+![prototipo-protoboard](./archivos/prototipo-protoboard.mp4)
+
+![prototipo-protoboard2](./archivos/prototipo-protoboard2.mp4)
+
+### 3. BOM / Bill of materials
+
+|Referencia|Valor|Huella|Qty|
+|---|---|---|---|
+|U1|LM324|DIP-14|1|
+|R1,R5,R7,R8,R9,R10|1k|Resistencia|6|
+|R3,R4|10k|Resistencias|2|
+|Pot|500k|Potenciómetro|1|
+|D1,D2,D3,D4,D5,D6|Colores|LEDS|6|
+|C1|100n|Condensador|1|
+|C2|10uF|Condensador polarizado|1|
+|U2|NE555|DIP-8|1|
+|U3|4017|DIP-16|1|
+|Mic|ky-037|Sensor de sonido|1|
+
+
+
