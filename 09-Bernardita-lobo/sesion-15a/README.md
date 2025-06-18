@@ -15,7 +15,7 @@
 - luego 
 - enlace al drive <https://drive.google.com/drive/folders/1OwoyJ_nTuie-A1s_U5647DsOHI4zlNnj>
 
-## Registro fotografico
+## Registros fotográficos
 
 ### Grupo-01
 
@@ -23,15 +23,27 @@
 
 ### Grupo-02
 
+
+
 ### Grupo-03
+
+
 
 ### Grupo-04
 
+
+
 ### Grupo-05
+
+
 
 ### Grupo-06
 
+
+
 ## Encargo
+
+### Tareas asignadas para la entrega preexamen
 
 - se me asignaron estas dos tareas para realizar para la primera entrega del examen.
 - referentes de documentación en imagen y plan de documentación
