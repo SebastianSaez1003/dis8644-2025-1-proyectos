@@ -3236,7 +3236,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal"
 			(at 94.996 68.834 90)
 			(effects
 				(font
@@ -3591,7 +3591,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_THT:C_Disc_D5.1mm_W3.2mm_P5.00mm"
 			(at 56.8452 82.55 0)
 			(effects
 				(font
@@ -3829,7 +3829,7 @@
 				)
 			)
 		)
-		(property "Value" "~"
+		(property "Value" "mst303"
 			(at 112.395 38.1 0)
 			(effects
 				(font
@@ -3837,7 +3837,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_PinHeader_1.00mm:PinHeader_1x02_P1.00mm_Vertical"
 			(at 111.76 40.64 0)
 			(effects
 				(font
@@ -3919,7 +3919,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "LED_THT:LED_D3.0mm_Clear"
 			(at 93.98 78.74 0)
 			(effects
 				(font
@@ -4130,7 +4130,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_THT:C_Disc_D5.0mm_W2.5mm_P2.50mm"
 			(at 79.7052 82.55 0)
 			(effects
 				(font
@@ -4288,7 +4288,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal"
 			(at 106.426 68.834 90)
 			(effects
 				(font
@@ -4424,7 +4424,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal"
 			(at 56.896 51.054 90)
 			(effects
 				(font
@@ -4712,7 +4712,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Potentiometer_THT:Potentiometer_Vishay_148-149_Single_Horizontal"
 			(at 31.75 68.58 0)
 			(effects
 				(font
@@ -4915,7 +4915,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal"
 			(at 100.584 61.214 90)
 			(effects
 				(font
@@ -5048,7 +5048,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal"
 			(at 127.254 45.466 90)
 			(effects
 				(font
@@ -5183,7 +5183,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_PinHeader_1.00mm:PinHeader_1x02_P1.00mm_Vertical"
 			(at 177.8 61.976 0)
 			(effects
 				(font
@@ -5236,22 +5236,22 @@
 		(fields_autoplaced yes)
 		(uuid "ac2aa3e2-3503-40b6-aec7-e8e9f96bbaf8")
 		(property "Reference" "U3"
-			(at 94.615 36.83 0)
+			(at 94.615 35.56 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 			)
 		)
-		(property "Value" "~"
-			(at 94.615 39.37 0)
+		(property "Value" "mst303"
+			(at 94.615 38.1 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_PinHeader_1.00mm:PinHeader_1x02_P1.00mm_Vertical"
 			(at 93.98 41.91 0)
 			(effects
 				(font
@@ -5637,7 +5637,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal"
 			(at 114.554 49.784 90)
 			(effects
 				(font
@@ -5878,7 +5878,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal"
 			(at 90.424 51.816 90)
 			(effects
 				(font
