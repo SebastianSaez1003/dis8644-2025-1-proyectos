@@ -1,7 +1,7 @@
 # sesion-15a
 
 
-## Progreso
+## progreso
 
 Conexión del circuito, en este paso, reemplazamos el puente H por un ci L293D. También redujimos la cantidad de circuitos PWM utilizados, de 2 a 1.
 
@@ -21,3 +21,29 @@ Cree un [issue]((https://github.com/disenoUDP/dis8644-2025-1-proyectos/issues/47
 - conectar la salida del PWM al pin 1 del L293D (ENABLE). 
 
 ![Imagen del esquemático con los cambios realizados.](./archivos/fps555-sch-v4.png)
+
+
+## más progreso
+
+gracias al feedback realizamos los siguientes cambios:
+
+![imagen de la versión 5.1 del esquemático](./archivos/fps555-sch-v5.png)
+
+notas: a primera vista puede parecer que hay 2 switch, es una forma de representar cuando un componente controla mas de 1 pin a la vez, en este caso con el mismo switch le damos energpia al circuito, y tambien controlamos la dirección de giro del motor.
+
+### Símbolo para el mts303
+![Imagen del símbolo diseñado, lado A](./archivos/toggleSymbol-sideA.png)
+
+![Imagen del símbolo diseñado, lado B](./archivos/toggleSymbol-sideB.png)
+
+### más cambios
+
+- diseñé un símbolo para el componente smt303, el cual es un switch "ON-OFF-ON" de tipo toggle, con 6 pines. La librería con el símbolo se encuentra en la carpeta [archivos.](https://github.com/clifford1one/dis8644-2025-1-proyectos/tree/main/07-clifford1one/sesion-15a/archivos) 
+- se elimina la conexión entre el circuito PWM y el switch, esta conexión se reemplaza por una conexión a VCC.
+- me faltó cambiar los diodos 1n4148 por diodos 4007
+- misa me dijo que los diodos no son necesarios, hay q revisarlo
+
+
+### organización
+
+runión con grupo Seba y Anaís 17-junio 07:30pm

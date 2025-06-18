@@ -3428,7 +3428,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "1n4148"
+		(property "Value" "4007"
 			(at 182.626 72.39 0)
 			(effects
 				(font
@@ -4191,7 +4191,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "1n4148"
+		(property "Value" "4007"
 			(at 169.926 72.644 0)
 			(effects
 				(font
@@ -4483,10 +4483,9 @@
 					(size 1.27 1.27)
 				)
 				(justify right)
-				(hide yes)
 			)
 		)
-		(property "Value" "1n4148"
+		(property "Value" "4007"
 			(at 168.91 37.846 0)
 			(effects
 				(font
@@ -5412,7 +5411,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "1n4148"
+		(property "Value" "4007"
 			(at 181.356 37.846 0)
 			(effects
 				(font
