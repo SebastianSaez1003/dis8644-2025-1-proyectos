@@ -69,4 +69,19 @@ Por estos 2 motivos dedidimos dibujar el lente sin relleno, en la capa "silkscre
 
 ### errores
 
-![Render de la versión 3 de la pcb de fps555. Cara trasera](./archivos/fps555-pcb-error.png)
+![Imagen del error sobre la separación de los agujeros](./archivos/fps555-pcb-error.png)
+
+
+## faltantes uwu
+
+- Diagrama de flujo
+- Explicación breve del nombre del proyecto
+- Subir videos protoboards
+- Confirmar que duckusu pudo armar nuestra tabla BOM en markdown
+- Explicar brevemente el motorreductor y el switch de 6 pines
+- Ayuda y comunicación con colegas (Issues y conversa con nuestros profes y compas)
+- Subir esquemático
+- Describir esquemáticos y su función
+- Describir los chips usados en el esquemático junto a las razones de sus conexiones
+- Subir fotos de PCB
+- Bibliografáa extra (Por ejemplo video para crear footprint de KiCad y los datasheet de chips)
