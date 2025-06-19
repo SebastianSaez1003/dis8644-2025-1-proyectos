@@ -52,17 +52,11 @@ Quiero destacar como referente a Mónica Bate, quien durante la visita a la clas
 ###### ▼ Recuperado de: [The Life of Crystals, Nueva York, 2013. Mónica Bate - SÓNEC](https://www.youtube.com/watch?v=QwudnMArIaE&ab_channel=S%C3%93NECSonotecadeM%C3%BAsicaExperimentalyArteSonoro) (captura de imagen).
 
 
-![Foto de referente fotográfico](./archivos/tme-proyecto02-referente01.jpeg)
-
-Fuente <https://lh5.googleusercontent.com/proxy/LxSHesjhJMibf4FLuwPAjM87Rl06DQ_L2NyZSxgrZAlOhwksZvD5FZMQEW5JpKfqAGyMP66MvSUM5uGqbu51_nQqgDYhwOysRIUCv3yV9epNSX65xU2lqgW82g5dmCEQrssyzr2-4I_POwWGFWlYANrXnp8K6Hk>
-
-Fuente <https://lh4.googleusercontent.com/proxy/v1NTxQH57_KuEY9vmlkkjv2_n9VypT23fJWZ-d2lqQyDb3U4_CikbdHZApgyVpo0L9B0i3of7goLc3Lq4N-j3dGf9nZJJlqBRh9xgjaKIzXZpYKW_M5WbTdDTWMSVh-s6sWdC7ZcIclsrqqctA>
 Adjuntar fotos que demuestren lo que describes con palabras
 
 ### Taller celebración UDP Diseño etc
 
-- Reels de instragram los cuales muestran el avance de las clases durante el semestre [Taller de Celebración UDP — Instagram] (<https://www.instagram.com/tallerdecelebracionudp>)
-
+Reels de instragram los cuales muestran el avance de las clases durante el semestre [Taller de Celebración UDP — Instagram](https://www.instagram.com/tallerdecelebracionudp?igsh=dXU0aWNhNmR1dHNq)
 
 Adjuntar fotos explicando lo que ves, y qué quieres rescatar y qué no.
 
@@ -157,28 +151,9 @@ Ojalá usar alguna canción de fondo sobre cultura electrónica.
 
 ## referentes de documentación en imagen y plan de documentación (1 punto)
 
-
 La responsable de esta sección es @Bernardita-lobo.
 
-### Referentes e investigación para los registros
-
-- Estas fotografías de productos que me gustaron las tomé como referencia. Me pareció simple y neutra la manera en que expone sus productos, pero también muy acotada. <https://www.trucco.photography/productos>
-
-![Foto de referente fotográfico](./archivos/tme-proyecto02-referente02.jpeg)
-
-Fuente <https://images.squarespace-cdn.com/content/v1/55814e1de4b0f9f986faf351/1440725269068-ZH3CG5A674FMJMB0ZQ4R/image-asset.jpeg?format=2500w>
-
-Fuente <https://images.squarespace-cdn.com/content/v1/55814e1de4b0f9f986faf351/1437147802659-J0WL73ASBVFSBVZXKKHD/Torna+Final+-+Post.jpg?format=2500w>
-
-- Este otro referente me gustaría considerarlo para la segunda parte del proyecto, ya que en esa etapa nos interesa que los proyectos sean fotografiados en un contexto que se relacione de manera más directa con su funcionamiento y propósito. La idea es que la imagen no solo muestre el objeto, sino también cómo se inserta en su entorno o cómo podría ser utilizado en una situación real. <http://martisans.com/portfolio/>
-
-![Foto de referente fotográfico](./imagenes/tme-proyecto02-referente03.jpeg)
-
-Fuente <http://martisans.com/wp-content/uploads/2022/06/Marshall-BCN_201_R3-6000x4000.jpg>
-
-fuente <http://martisans.com/wp-content/uploads/2021/10/2021-02-10_stock6271-2500x4000.jpg>
-
-- Además, revisé un video como referencia para comprender mejor qué elementos son necesarios al momento de fotografiar los procesos. <https://youtu.be/75OEz5csiP8?si=EtXw4-0HqXXj7hrX>
+***
 
 ## propuesta de montaje de proyectos en sala de clases y en laboratorio (1 punto)
 
@@ -237,7 +212,7 @@ Logotipo experimental de la facultad. Su existencia ha sido reciente. Posee en e
 
 ###### ▼ Recuperado de: Entrega de logotipos en formato "ai" a cargo del "Taller de diseño gráfico II" en 2022 para el desarrollo gráfico de ["Interpretación audiovisual del concierto Sinfonía del Nuevo Mundo de Antonín Dvořák"](https://www.instagram.com/p/Cf4ZUu9OBQ8/?img_index=1). Trabajo en colaboración con el Teatro municipal de Santiago.
 
-Versión anterior del logotipo de la escuela de diseño. Fue usado hasta 2024. Fue obtenido junto a 2 versiones del logotipo de la escuela de diseño del 2022.
+Versión anterior del logotipo de la escuela de diseño. Fue usado hasta 2024. En este caso es una forma compuesta por texto y líneas, las cuales pueden funcionar sin estas últimas. No se recomienda modificar el orden de las palabras o la estructura por temas de equilibrio visual. Fue obtenido como una de las 2 versiones del logotipo de la escuela de diseño que se usaba en 2022.
 
 
 ### Logotipo previo de la Escuela de diseño versión acotada
@@ -246,6 +221,9 @@ Versión anterior del logotipo de la escuela de diseño. Fue usado hasta 2024. F
 
 ###### ▼ Recuperado de: Entrega de logotipos en formato "ai" a cargo del "Taller de diseño gráfico II" en 2022 para el desarrollo gráfico de ["Interpretación audiovisual del concierto Sinfonía del Nuevo Mundo de Antonín Dvořák"](https://www.instagram.com/p/Cf4ZUu9OBQ8/?img_index=1). Trabajo en colaboración con el Teatro municipal de Santiago.
 
+Versión acotada del logotipo de la escuela de diseño. Tiene una menor presencia que el logo anterior mostrado, por lo que sus usos suelen ser para casos específicos en donde se vea comprometido el tamaño de la versión completa. En este caso es una forma compuesta por siglas (ed, faad, udp) y líneas. Si no se sabe lo que representan las letras se puede llevar a la confusión, por lo que no se recomienda modificar el orden o la estructura. Fue obtenido como una de las 2 versiones del logotipo de la escuela de diseño que se usaba en 2022.
+
+. . .
 
 Cabe mencionar que, en paralelo al desarrollo de este proyecto de curso, se está desarrollando una nueva identidad para la facultad por parte de la académica del estudio ["Gaggero Works"](https://www.gaggeroworks.co.uk/), Constanza Gaggero. Por limitaciones de tiempo, para esta versión no se logró obtener el logotipo expuesto el pasado 13 de junio, ni mucho menos el manual de marca.
 
