@@ -49,9 +49,7 @@ Quiero destacar como referente a Mónica Bate, quien durante la visita a la clas
 
 ![Foto de referente fotográfico](./imagenes/tme-proyecto02-referente01.jpeg)
 
-Fuente <https://i0.wp.com/etab.cl/monica-bate/wp-content/uploads/2017/12/DSC0009.jpg?resize=1024%2C680>
-
-Fuente <https://i0.wp.com/etab.cl/monica-bate/wp-content/uploads/2017/12/MG_3695.jpg?resize=1024%2C683>
+▼ Recuperado de: <https://i0.wp.com/etab.cl/monica-bate/wp-content/uploads/2017/12/DSC0009.jpg?resize=1024%2C680> y <https://i0.wp.com/etab.cl/monica-bate/wp-content/uploads/2017/12/MG_3695.jpg?resize=1024%2C683>
 
 ### Taller celebración UDP Diseño etc
 
@@ -250,7 +248,7 @@ Versión anterior del logotipo de la escuela de diseño. Fue usado hasta 2024. E
 
 ![alt-text](./logotipo-universidad/jpg/logo_acotado_escuela_diseno.jpg)
 
-▼ Recuperado de: Entrega de logotipos en formato "ai" a cargo del "Taller de diseño gráfico II" en 2022 para el desarrollo gráfico de ["Interpretación audiovisual del concierto Sinfonía del Nuevo Mundo de Antonín Dvořák"](https://www.instagram.com/p/Cf4ZUu9OBQ8/?img_index=1). Trabajo en colaboración con el Teatro municipal de Santiago
+###### ▼ Recuperado de: Entrega de logotipos en formato "ai" a cargo del "Taller de diseño gráfico II" en 2022 para el desarrollo gráfico de ["Interpretación audiovisual del concierto Sinfonía del Nuevo Mundo de Antonín Dvořák"](https://www.instagram.com/p/Cf4ZUu9OBQ8/?img_index=1). Trabajo en colaboración con el Teatro municipal de Santiago
 
 Versión acotada del logotipo de la escuela de diseño. Tiene una menor presencia que el logo anterior mostrado, por lo que sus usos suelen ser para casos específicos en donde se vea comprometido el tamaño de la versión completa. En este caso es una forma compuesta por siglas (ed, faad, udp) y líneas. Si no se sabe lo que representan las letras se puede llevar a la confusión, por lo que no se recomienda modificar el orden o la estructura. Fue obtenido como una de las 2 versiones del logotipo de la escuela de diseño que se usaba en 2022.
 
@@ -260,7 +258,7 @@ Cabe mencionar que, en paralelo al desarrollo de este proyecto de curso, se est�
 
 ![alt-text](./imagenes/capturas/captura-poster_identidad_faad.jpg)
 
-▼ Recuperado de: [Discord del curso, canal "dis8644-taller"](https://media.discordapp.net/attachments/1318882679659171892/1382021652623134963/image.png?ex=685580f6&is=68542f76&hm=c322744209bbcb7178bff5600806b7fc19fa43e29d604add118e55843890c714&=&format=webp&quality=lossless&width=518&height=805). Enviado por "misaa.cc" — 10/6/25, 11:40
+###### ▼ Recuperado de: [Discord del curso, canal "dis8644-taller"](https://media.discordapp.net/attachments/1318882679659171892/1382021652623134963/image.png?ex=685580f6&is=68542f76&hm=c322744209bbcb7178bff5600806b7fc19fa43e29d604add118e55843890c714&=&format=webp&quality=lossless&width=518&height=805). Enviado por "misaa.cc" — 10/6/25, 11:40
 
 ***
 
