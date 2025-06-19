@@ -53,7 +53,13 @@ Luego se integró el switch 6 PDT para poder generar este cambio de dirección c
 
 Pero se nos dejó claro en la clase del martes 17 de junio unas ciertas correcciones, para poder asegurarnos de que el L293D estaba correctamente conectado, como también el uso de la otra mitad de nuestro switch on/off/on, y que de esta manera no se fuese a ocupar todo el circuito de manera constante al conectarlo al pin 4 del chip 555.
 
-![protoboard final](./imagenes/tme-grupo06-registro04.jpg)
+![foto del lateral de protoboard](./imagenes/tme-grupo06-registro01.jpg)
+
+![foto del frontal de protoboard](./imagenes/tme-grupo06-registro02.jpg)
+
+![foto del superior de protoboard](./imagenes/tme-grupo06-registro03.jpg)
+
+![foto del motoreductor](./imagenes/tme-grupo06-registro04.jpg)
 
 Como último componente, se conectó el motor reductor de 3 rpm que compramos, para poder demostrar el funcionamiento como lo asignamos.
 
