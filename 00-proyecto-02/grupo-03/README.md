@@ -51,14 +51,16 @@ El circuito de salida usa XX para cambiar XX.
 | Condensador   | 2        | 10uF            |
 | Condensador   | 1        | 1uF             |   
 | Diodo         | 2        | 1n5819          |
+| Diodo         | 1        | 1n4007          |
 | Potenciómetro | 1        | 1M Ohm          |
 | Potenciómetro | 1        | 500k            |
 | LED           | 8        | 10mm            |
 | LED           | 2        | 5mm             |
 | Chip          | 1        | LM324N          |
 | Chip          | 1        | 4017            |
-
-INCLUIR DESCRIPCIÓN DE MATERIALES COMPRADOS, SI ES QUE COMPRARON COSAS ADICIONALES.
+|Terminal block | 1        | 2 pin           |
+| Switch        | 1        | spdt            |
+|bateria        | 1        | 9v              |  
 
 Los LEDS de 10mm son de colores variados y los LEDS de 5mm uno es de color verde y otro blanco.
 
@@ -86,6 +88,8 @@ paulinavargasf del grupo nos ayudó con el prototipo en protoboard.
 
 misaaaaaa docente nos ayudó con el esquemático para regular el micrófono.
 
+jotamorales-romulu y Bernardita-lobo del proyecto duvumentacionVisual nos ayudaron con fotografiar nuestra protoboard y el registro en clases mediante videos.
+ 
 ## Esquematico en Kicad (1 punto)
 
 ![Esquemático general](./imagenes/esquematico-general.jpg)
