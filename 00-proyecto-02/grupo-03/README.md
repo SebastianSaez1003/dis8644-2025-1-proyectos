@@ -88,6 +88,8 @@ paulinavargasf del grupo nos ayudó con el prototipo en protoboard.
 
 misaaaaaa docente nos ayudó con el esquemático para regular el micrófono.
 
+jotamorales-romulu y Bernardita-lobo del proyecto duvumentacionVisual nos ayudaron con fotografiar nuestra protoboard y el registro en clases mediante videos.
+ 
 ## Esquematico en Kicad (1 punto)
 
 ![Esquemático general](./imagenes/esquematico-general.jpg)
