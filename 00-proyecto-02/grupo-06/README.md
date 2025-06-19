@@ -149,7 +149,7 @@ INCLUIR DESCRIPCIÓN DE MATERIALES COMPRADOS, SI ES QUE COMPRARON COSAS ADICIONA
    - temática: screw terminal y vector de lente
    - conlusión: toda la fuente de poder tuviera el mismo voltaje (9v) y footprints de la batería estan bien.
 
-  - [issue 10](https://github.com/disenoUDP/dis8644-2025-1-proyectos/issues/134#issuecomment-2989105082)  
+- [issue 10](https://github.com/disenoUDP/dis8644-2025-1-proyectos/issues/134#issuecomment-2989105082)  
    - emisor: clifford1one 
    - enviado a: franudp del grupo 0c y docentes
    - temática: error con drc
@@ -158,8 +158,6 @@ INCLUIR DESCRIPCIÓN DE MATERIALES COMPRADOS, SI ES QUE COMPRARON COSAS ADICIONA
 ### carcasas 
 
 [issue carcasas](https://github.com/orgs/disenoUDP/projects/4/views/1?pane=issue&itemId=116136542&issue=disenoUDP%7Cdis8644-2025-1-proyectos%7C554)
-
-• issue felix: santiago especifico las medidas de nuestra pcb y también adjunto el repo en donde podrían ver la información completa
 
 - [issue 11](https://github.com/disenoUDP/dis8644-2025-1-proyectos/issues/554#issuecomment-2989115405)  
    - emisor: felix-rg416  
