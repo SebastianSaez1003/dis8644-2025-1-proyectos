@@ -19,6 +19,14 @@ tipoDeComponente_tipoDeEncapsulado_diametroCuerpo_espesorCuerpo_pitch*
 *el pitch es la separación entre sus pines
 
 
-### proceso: footprints
+## avance kicad
 
-Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal
+![imagen de la versión 6 de nuestro esquemático](./archivoss/fps555-sch-v6.png)
+
+Agregué el screw erminal, donde eventualmente irá la pila. 
+
+![imagen de la versión 2 de nuestra pcb](./archivoss/fps555-pcb-v2.png)
+
+![render de la versión 2 de nuestra pcb](./archivoss/fps555-render-v2.png)
+
+![imagen del vector de la silueta de un lente](./archivoss/lentes-vector.png)
