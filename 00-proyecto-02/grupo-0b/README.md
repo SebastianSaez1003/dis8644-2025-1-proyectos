@@ -11,12 +11,12 @@
 
 ### Pauta
 
-1. referentes de documentación en video y plan de documentación (jotaMorales)
-2. instrucciones de documentación en video para consistencia en los proyectos (jotaMorales)
-3. referentes de documentación en imagen y plan de documentación (bernardita)
-4. propuesta de montaje de proyectos en sala de clases y en laboratorio (bernardita)
-5. publicación en github de de alta calidad de logos institucionales de UDP (camila)
-6. creación y adaptación de material gráfico de laboratorio lid.udp y teee.udp (camila)
+- referentes de documentación en video y plan de documentación (jotaMorales)
+- instrucciones de documentación en video para consistencia en los proyectos (jotaMorales)
+- referentes de documentación en imagen y plan de documentación (bernardita)
+- propuesta de montaje de proyectos en sala de clases y en laboratorio (bernardita)
+- publicación en github de de alta calidad de logos institucionales de UDP (camila)
+- creación y adaptación de material gráfico de laboratorio lid.udp y teee.udp (camila)
 
 ## Referentes de documentación en video y plan de documentación ( 1 punto)
 
@@ -33,21 +33,20 @@
 
 ### Análisis de The Life of Crystal
 
-Quiero destacar como referente a Mónica Bate, quien durante la visita a la clase nos mostró el video The Life of crystal <https://www.youtube.com/watch?v=kRLh9yuW5Ns>, donde documenta su proyecto de arte sonoro con cristales piezoeléctricos. Elijo este video como referente porque se acerca más a lo que vamos a hacer en el taller con los trabajos de examen y siento que tiene mayor sintonía con nuestro enfoque. Además, cuenta con una edición y registro simples pero funcionales, bastante minimalistas, donde muestra claramente los avances y la interacción con el usuario.
+- Quiero destacar como referente a Mónica Bate, quien durante la visita a la clase nos mostró el video The Life of crystal <https://www.youtube.com/watch?v=kRLh9yuW5Ns>, donde documenta su proyecto de arte sonoro con cristales piezoeléctricos. Elijo este video como referente porque se acerca más a lo que vamos a hacer en el taller con los trabajos de examen y siento que tiene mayor sintonía con nuestro enfoque. Además, cuenta con una edición y registro simples pero funcionales, bastante minimalistas, donde muestra claramente los avances y la interacción con el usuario.
 
 Adjuntar fotos que demuestren lo que describes con palabras
 
 ### Taller celebración UDP Diseño etc
 
-Reels de instragram los cuales muestran el avance de las clases durante el semestre [Taller de Celebración UDP — Instagram](https://www.instagram.com/tallerdecelebracionudp?igsh=dXU0aWNhNmR1dHNq)
+- Reels de instragram los cuales muestran el avance de las clases durante el semestre [Taller de Celebración UDP — Instagram](https://www.instagram.com/tallerdecelebracionudp?igsh=dXU0aWNhNmR1dHNq)
 
 Adjuntar fotos explicando lo que ves, y qué quieres rescatar y qué no.
 
 ## Instrucciones de documentación en video para consistencia en los proyectos (1 punto)
 
-El responsable de esta sección es @jotamorales-romulus.
-
-Para la segunda sesión de registro, se empezs a registrar avances y prototipos en protoboard. Formato vertical y horizontal.
+- El responsable de esta sección es @jotamorales-romulus.
+- Para la segunda sesión de registro, se empezs a registrar avances y prototipos en protoboard. Formato vertical y horizontal.
 
 ### Reels
 
