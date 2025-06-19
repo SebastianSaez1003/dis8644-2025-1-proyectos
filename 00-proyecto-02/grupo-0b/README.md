@@ -37,10 +37,9 @@
 
 ![Foto de referente fotográfico](./imagenes/tme-proyecto02-referente01.jpeg)
 
-Fuente <https://lh5.googleusercontent.com/proxy/LxSHesjhJMibf4FLuwPAjM87Rl06DQ_L2NyZSxgrZAlOhwksZvD5FZMQEW5JpKfqAGyMP66MvSUM5uGqbu51_nQqgDYhwOysRIUCv3yV9epNSX65xU2lqgW82g5dmCEQrssyzr2-4I_POwWGFWlYANrXnp8K6Hk>
+Fuente <https://i0.wp.com/etab.cl/monica-bate/wp-content/uploads/2017/12/DSC0009.jpg?resize=1024%2C680>
 
-Fuente <https://lh4.googleusercontent.com/proxy/v1NTxQH57_KuEY9vmlkkjv2_n9VypT23fJWZ-d2lqQyDb3U4_CikbdHZApgyVpo0L9B0i3of7goLc3Lq4N-j3dGf9nZJJlqBRh9xgjaKIzXZpYKW_M5WbTdDTWMSVh-s6sWdC7ZcIclsrqqctA>
-Adjuntar fotos que demuestren lo que describes con palabras
+Fuente <https://i0.wp.com/etab.cl/monica-bate/wp-content/uploads/2017/12/MG_3695.jpg?resize=1024%2C683>
 
 ### Taller celebración UDP Diseño etc
 
