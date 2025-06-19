@@ -39,19 +39,21 @@ El funcionamiento era el siguiente:
 
 Se armaron 2 circuitos PWM donde su output eran conectados hacia botones, donde el circuito 1 quedaría posicionado con su output al positivo del motor, mientras que a través de otro botón se dejaría pasar la conexión para completar el circuito, mientras que el circuito 2 estaría de la manera opuesta, todo esto para que no ocurriese ningún cortocircuito.
 
-(puente H con botones)
+![puente H con botones y leds prendidos](./imagenes/puenteHbotones-1.jpg)
+![puente H con botones y leds apagados para mejor visualizacion](./imagenes/puenteHbotones-2.jpg)
+![puente H con botones y detector de umbral, version que no fue usada al final](./imagenes/puenteHbotones-3.jpg)
 
-Luego pasamos a integrar el chip L293D con el que se pudo reducir su funcionamiento a simplemente 2 botones, uno para cada dirección.
+Luego pasamos a integrar el chip L293D con el que se pudo reducir su funcionamiento a simplemente 2 botones, uno para cada dirección del motor.
 
-(L293D con botones)
+![L293D con botones](./imagenes/l293dBotones-2.jpg)
 
 Luego se integró el switch 6 PDT para poder generar este cambio de dirección con tan solo 1 componente, como también el estado neutro “off” del motor.
 
-(L293D on/off/on)
+![L293D on/off/on](./imagenes/l293dSwitch-1.jpg)
 
 Pero se nos dejó claro en la clase del martes 17 de junio unas ciertas correcciones, para poder asegurarnos de que el L293D estaba correctamente conectado, como también el uso de la otra mitad de nuestro switch on/off/on, y que de esta manera no se fuese a ocupar todo el circuito de manera constante al conectarlo al pin 4 del chip 555.
 
-(protoboard final)
+![protoboard final](./imagenes/tme-grupo06-registro04.jpg)
 
 Como último componente, se conectó el motor reductor de 3 rpm que compramos, para poder demostrar el funcionamiento como lo asignamos.
 
