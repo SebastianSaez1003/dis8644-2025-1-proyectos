@@ -33,6 +33,8 @@ No se busco sólo mostrar el resultado final, sino también documentar el recorr
 
 [![Curso de Alvaro Arteaga en Domestika](https://img.youtube.com/vi/ECKjj8N1EQ0/0.jpg)](https://www.youtube.com/watch?v=ECKjj8N1EQ0)
 
+
+
 ### The Life of Crystal
 
 También quiero destacar como referente a Mónica Bate, quien durante la visita a la clase nos mostró el video [*The Life of crystal*](https://www.youtube.com/watch?v=kRLh9yuW5Ns), donde documenta su proyecto de arte sonoro con cristales piezoeléctricos. Elijo este video como referente porque se acerca más a lo que vamos a hacer en el taller con los trabajos de examen y siento que tiene mayor sintonía con nuestro enfoque. Además, cuenta con una edición y registro simples pero funcionales, bastante minimalistas, donde muestra claramente los avances y la interacción con el usuario.
