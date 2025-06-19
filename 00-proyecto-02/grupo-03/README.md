@@ -97,6 +97,8 @@ Misaaaaaa docente nos ayudó con el esquemático para regular el micrófono.
 
 Jotamorales-romulu y Bernardita-lobo del proyecto duvumentacionVisual nos ayudaron con fotografiar nuestra protoboard y el registro en clases mediante videos.
 
+Ayuda a colegas: <https://github.com/orgs/disenoUDP/projects/4?pane=issue&itemId=115280747&issue=disenoUDP%7Cdis8644-2025-1-proyectos%7C149>
+
 <https://drive.google.com/drive/folders/1xyW8lfvPIwpi3rZzOzuXnkZNs_ZTMohJ>
 
 ## Esquematico en Kicad (1 punto)
