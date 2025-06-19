@@ -49,7 +49,7 @@ Quiero destacar como referente a Mónica Bate, quien durante la visita a la clas
 
 ![alt-text](./imagenes/capturas/captura-the_life_of_crystals.png)
 
-###### ▼ Recuperado de: [The Life of Crystals, Nueva York, 2013. Mónica Bate - SÓNEC](https://www.youtube.com/watch?v=QwudnMArIaE&ab_channel=S%C3%93NECSonotecadeM%C3%BAsicaExperimentalyArteSonoro)
+###### ▼ Recuperado de: [The Life of Crystals, Nueva York, 2013. Mónica Bate - SÓNEC](https://www.youtube.com/watch?v=QwudnMArIaE&ab_channel=S%C3%93NECSonotecadeM%C3%BAsicaExperimentalyArteSonoro) (captura de imagen).
 
 
 Adjuntar fotos que demuestren lo que describes con palabras
@@ -172,54 +172,61 @@ Como consideración, cada versión de estos logotipos se encuentra presente en l
 
 ###### ▼ Recuperado de: Recurso de manufactura propia (captura de computador).
 
-Otro archivo que se puede notar es un documento con terminación ".ai", un formato vectorial patentado por Adobe y presente en su programa de diseño "Illustrator". Este consiste en un archivo editable el cuál presenta cada uno de los logotipos que se presentan.
+Otro archivo que se puede notar es un documento con terminación ".ai", un formato vectorial patentado por Adobe y presente en su programa de diseño "Illustrator". Este consiste en un archivo editable el cuál presenta cada uno de los logotipos que se muestran en esta sección, permitiendo editar los vectores y realizar modificaciones a quien cuente con el programa y descargue el archivo.
 
 ![alt-text](./imagenes/capturas/captura-todos_logos_diseno_udp_editables-github.png)
 
-###### ▼ Recuperado de: Recurso de manufactura propia (captura de computador).
+###### ▼ Recuperado de: Recurso de manufactura propia (captura de imagen).
 
-A continuación se muestra cada versión obtenida en formato jpg, detallando su origen y especificaciones. Cabe especificar que los formatos png y svg son iguales en cuánto a dimensiones y colores.
+A continuación se muestra cada versión obtenida en formato jpg, detallando su origen y especificaciones. Cabe especificar que los formatos png y svg son iguales en cuánto a dimensiones y colores, pero para 
 
 ### Logotipo de la Facultad de Arte, Arquitectura y Diseño
 
 ![alt-text](./logotipo-universidad/jpg/logo_tradicional_diseno_faad.jpg)
 
-###### ▼ Recuperado de: Recurso de manufactura propia (captura de computador).
+###### ▼ Recuperado de: Entrega de logotipos en formato "ai" a cargo del "Taller de diseño gráfico II" en 2022 para el desarrollo gráfico de ["Interpretación audiovisual del concierto Sinfonía del Nuevo Mundo de Antonín Dvořák"](https://www.instagram.com/p/Cf4ZUu9OBQ8/?img_index=1). Trabajo en colaboración con el Teatro municipal de Santiago.
 
+Logotipo oficial de la facultad. Este logotipo es usado en publicaciones de caracter corporativo y formal. Posee en el su estructura logotipo acotado de la universidad (udp), las palabras "Escuela de diseño" en grande junto "Facultad de arte, arquitectura y diseño" en mayúsculas, las cuales poseen un menor peso visual. No es posible modificar la composición de los elementos dada su importancia dentro de la institución. Existen logotipos similares para cada carrera de la facultad, además de otras escuelas. Es dificil de trabajarlo a escala pequeña. Fue obtenido junto a 2 versiones del logotipo de la escuela de diseño del 2022.
 
 ### Logotipo de la cuenta de instagram de la Escuela de diseño 2025
 
 ![alt-text](./logotipo-universidad/jpg/logo_instagram_disenoudp_2025.jpg)
 
-###### ▼ Recuperado de: Recurso de manufactura propia (captura de computador).
+###### ▼ Recuperado de: Recurso de manufactura propia. Desarrollo vectorial usando illustrator.
+
+Logotipo experimental de la escuela. Su existencia ha sido reciente. Posee en su estructura el logotipo de la "FAAD" (presente abajo), un guión y la palabra "diseño" en minúsculas. Su uso suele verse en publicaciones para redes sociales, afiches entre otras gráficas. Existen logotipos similares para cada carrera. No es posible modificar la composición u partes, puesto que se pierde la identidad que compone el logotipo de la facultad y "diseño". Las versiones de los archivos fueron realizadas por mano propia, descargando la imagen de perfil de la cuenta de instagram de ["diseño_udp"](https://www.instagram.com/diseno_udp/) y trazando los vectores a mano en "Illustrator".
 
 
 ### Logotipo de la cuenta de instagram de la FAAD 2025
 
 ![alt-text](./logotipo-universidad/jpg/logo_instagram_faad_2025.jpg)
 
-###### ▼ Recuperado de: Recurso de manufactura propia (captura de computador).
+###### ▼ Recuperado de: Recurso de manufactura propia. Desarrollo vectorial usando illustrator.
+
+Logotipo experimental de la facultad. Su existencia ha sido reciente. Posee en el su estructura el logotipo acotado de la universidad (las siglas udp), y la palabra FAAD en mayúsculas. Su uso suele verse en publicaciones para redes sociales, afiches entre otras gráficas. Es posible modificar la composición de las partes partes, pero no funciona el uno sin el otro dado que se pierde la identidad. Las versiones de los archivos fueron realizadas por mano propia, descargando la imagen de perfil de la cuenta de instagram de ["faad_udp"](https://www.instagram.com/faad_udp/) y trazando los vectores a mano en "Illustrator".
 
 
 ### Logotipo previo de la Escuela de diseño
 
 ![alt-text](./logotipo-universidad/jpg/logo_escuela_diseno.jpg)
 
-###### ▼ Recuperado de: Recurso de manufactura propia (captura de computador).
+###### ▼ Recuperado de: Entrega de logotipos en formato "ai" a cargo del "Taller de diseño gráfico II" en 2022 para el desarrollo gráfico de ["Interpretación audiovisual del concierto Sinfonía del Nuevo Mundo de Antonín Dvořák"](https://www.instagram.com/p/Cf4ZUu9OBQ8/?img_index=1). Trabajo en colaboración con el Teatro municipal de Santiago.
+
+Versión anterior del logotipo de la escuela de diseño. Fue usado hasta 2024. Fue obtenido junto a 2 versiones del logotipo de la escuela de diseño del 2022.
 
 
 ### Logotipo previo de la Escuela de diseño versión acotada
 
 ![alt-text](./logotipo-universidad/jpg/logo_acotado_escuela_diseno.jpg)
 
-###### ▼ Recuperado de: Recurso de manufactura propia (captura de computador).
+###### ▼ Recuperado de: Entrega de logotipos en formato "ai" a cargo del "Taller de diseño gráfico II" en 2022 para el desarrollo gráfico de ["Interpretación audiovisual del concierto Sinfonía del Nuevo Mundo de Antonín Dvořák"](https://www.instagram.com/p/Cf4ZUu9OBQ8/?img_index=1). Trabajo en colaboración con el Teatro municipal de Santiago.
 
 
 Cabe mencionar que, en paralelo al desarrollo de este proyecto de curso, se está desarrollando una nueva identidad para la facultad por parte de la académica del estudio ["Gaggero Works"](https://www.gaggeroworks.co.uk/), Constanza Gaggero. Por limitaciones de tiempo, para esta versión no se logró obtener el logotipo expuesto el pasado 13 de junio, ni mucho menos el manual de marca.
 
 ![alt-text](./imagenes/capturas/captura-poster_identidad_faad.jpg)
 
-###### ▼ Recuperado de: Recurso de manufactura propia (captura de computador).
+###### ▼ Recuperado de: [Discord del curso, canal "dis8644-taller"](https://media.discordapp.net/attachments/1318882679659171892/1382021652623134963/image.png?ex=685580f6&is=68542f76&hm=c322744209bbcb7178bff5600806b7fc19fa43e29d604add118e55843890c714&=&format=webp&quality=lossless&width=518&height=805). Enviado por "misaa.cc" — 10/6/25, 11:40.
 
 ***
 
