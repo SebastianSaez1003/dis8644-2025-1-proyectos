@@ -4,9 +4,9 @@
 
 - Grupo: 01
 - Integrantes:
-  - Emilia Contreras @/hazzaily
-  - Katalina Riquelme @/katalinariquelme
-  - Thyare Santander @/thyare08
+  - Emilia Contreras @hazzaily
+  - Katalina Riquelme @katalinariquelme
+  - Thyare Santander @thyare08
 - Chips usados:
   - Chip 555
   - Chip 4017
@@ -30,9 +30,9 @@ En este dibujo mostramos XX.
 
 A continuación se presentan imágenes de las protoboards usadas.
 
-![Vista protoboard de frente](./imagenes/presentacion-visual-frente.jpg)
+![Vista protoboard de frente](./imagenes/tme-grupo-01-registro-01.jpg)
 
-![Vista protoboard de arriba](./imagenes/presentacion-visual-arriba.jpg)
+![Vista protoboard de arriba](./imagenes/tme-grupo-01-registro-02.jpg)
 
 A continuación se presentan textos explicativos del prototipado.
 
