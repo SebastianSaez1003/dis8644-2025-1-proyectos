@@ -40,7 +40,7 @@ El circuito de entrada USA XX para medir XX.
 
 El circuito de salida usa XX para cambiar XX.
 
-### Bill of Materials (1 punto)
+## Bill of Materials (1 punto)
 
 | Componente   | Cantidad | Comentarios     |
 | ------------ | -------- | --------------- |
