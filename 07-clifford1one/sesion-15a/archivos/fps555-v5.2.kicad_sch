@@ -4229,7 +4229,7 @@
 				)
 			)
 		)
-		(property "Value" "Screw_Terminal_01x02"
+		(property "Value" "Batería 9v"
 			(at 26.67 25.4 0)
 			(effects
 				(font
