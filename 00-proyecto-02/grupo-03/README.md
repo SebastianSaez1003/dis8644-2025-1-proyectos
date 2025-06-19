@@ -62,8 +62,6 @@ El circuito de salida usa XX para cambiar XX.
 | Switch          | 1        | spdt            |
 |bateria          | 1        | 9v              |  
 
-INCLUIR DESCRIPCIÓN DE MATERIALES COMPRADOS, SI ES QUE COMPRARON COSAS ADICIONALES.
-
 Los LEDS de 10mm son de colores variados y los LEDS de 5mm uno es de color verde y otro blanco.
 
 ## Ayudas y comunicación con colegas (1 punto)
