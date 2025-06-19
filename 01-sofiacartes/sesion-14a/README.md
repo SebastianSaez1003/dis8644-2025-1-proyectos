@@ -8,32 +8,25 @@ tareas en clase
 
 ## 3. bill of materials
   
-|referencia|valor|
-|----------|-----|
-|d1 d2 d3 d4 d5||
-|r1 r5|1k|
-|r2 r3 r4|10k|
-|r6 r7|100k|
-|r1||
-|c2 c3|1u|
-|c1||
-|mk1||
-|U1|ne555|
-|x|4017|
-|bateria|9v|
-
-|huella|qty|
-|------|---|
-|leds|5|
-|resistencias|2|
-|resitencias|3|
-|resistencias|2|
-|transistor|1|
-||2|
-||1|
-||1|
-|dip-8|1|
-|||
-|||
+| Componente    | Cantidad | Comentarios     |
+| ------------- | -------- | --------------- |
+| Resistencia   | 8        | 1k              |
+| Resistencia   | 4        | 10k             |
+| Resistencia   | 1        | 220             |
+| Resistencia   | 2        | 22k             |
+| Microfono     | 1        | CZN-15E         |
+| Condensador   | 2        | 10uF            |
+| Condensador   | 1        | 1uF             |   
+| Diodo         | 2        | 1n5819          |
+| Diodo         | 1        | 1n4007          |
+| Potenciómetro | 1        | 1M Ohm          |
+| Potenciómetro | 1        | 500k            |
+| LED           | 8        | 10mm            |
+| LED           | 2        | 5mm             |
+| Chip          | 1        | LM324N          |
+| Chip          | 1        | 4017            |
+|Terminal block | 1        | 2 pin           |
+| Switch        | 1        | spdt            |
+|bateria        | 1        | 9v              |  
 
 ## 4. bill of materials materiales faltantes
