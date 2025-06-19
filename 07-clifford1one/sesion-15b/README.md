@@ -53,7 +53,7 @@ gracias al feedback  de misa y franUDP, correjimos la fuente de energía. Con el
 
 ![Imagen de la versión 7 del esqumático de fps555](./archivos/fps555-sch-v7.png)
 
-#### pcb 
+#### progreso pcb 
 
 en un inicio tenpiamos la idea de poner el vector del lente de sol con relleno, pero tras llevarlo a cabo, las dos opciones que teníamos para hacerlo agrandaban la complejidad del diseño de la pcb.
 
