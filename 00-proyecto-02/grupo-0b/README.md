@@ -43,7 +43,7 @@ Fuente <https://i0.wp.com/etab.cl/monica-bate/wp-content/uploads/2017/12/MG_3695
 
 ### Taller celebración UDP Diseño etc
 
-- Reels de instragram los cuales muestran el avance de las clases durante el semestre [Taller de Celebración UDP — Instagram] (<https://www.instagram.com/tallerdecelebracionudp?igsh=dXU0aWNhNmR1dHNq>)
+- Reels de instragram los cuales muestran el avance de las clases durante el semestre [Taller de Celebración UDP — Instagram] (<https://www.instagram.com/tallerdecelebracionudp?igsh=dXU0aWNhNmR1dHNq>
 
 Adjuntar fotos explicando lo que ves, y qué quieres rescatar y qué no.
 
@@ -118,7 +118,6 @@ Ojalá usar alguna canción de fondo sobre cultura electrónica.
 ### Iluminación
 
 - Usar luz blanca o luz natural.
-  
 - Sombras creativas si refuerzan el concepto.
 
 ### Checklist de grabación por grupo FINAL
@@ -151,11 +150,21 @@ Fuente <https://images.squarespace-cdn.com/content/v1/55814e1de4b0f9f986faf351/1
 
 Fuente <http://martisans.com/wp-content/uploads/2022/06/Marshall-BCN_201_R3-6000x4000.jpg>
 
-fuente <http://martisans.com/wp-content/uploads/2021/10/2021-02-10_stock6271-2500x4000.jpg>
+Fuente <http://martisans.com/wp-content/uploads/2021/10/2021-02-10_stock6271-2500x4000.jpg>
 
 - Además, revisé un video como referencia para comprender mejor qué elementos son necesarios al momento de fotografiar los procesos. <https://youtu.be/75OEz5csiP8?si=EtXw4-0HqXXj7hrX>
 
-## propuesta de montaje de proyectos en sala de clases y en laboratorio (1 punto)
+### Plan de documentación
+
+- para poder tomar registros fotograficos del proceso primero hacemos el montaje del set, estas fotos las tommos en una caja con fondo infinito que viene con iluminacion integrada, tambien ponemos un tripode y una camra canon que pedimos prestada del pañol digotal
+- , utilizamos una cartulina gris para las
+- fondo gris y colores
+- tomas frontal superior y detalle
+- horarios y sesiones
+- edicion tamaño
+- drive nombres de carpetas
+
+## Propuesta de montaje de proyectos en sala de clases y en laboratorio (1 punto)
 
 - La responsable de esta sección es @Bernardita-lobo.
 
@@ -163,7 +172,7 @@ fuente <http://martisans.com/wp-content/uploads/2021/10/2021-02-10_stock6271-250
 
 - La responsable de esta sección es @Camila-Parada
 
-## creación y adaptación de material gráfico de laboratorio lid.udp y teee.udp (1 punto)
+## Creación y adaptación de material gráfico de laboratorio lid.udp y teee.udp (1 punto)
 
 - La responsable de esta sección es @Camila-Parada
 
