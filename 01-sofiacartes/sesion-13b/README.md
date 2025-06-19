@@ -1,12 +1,12 @@
 # sesion-13b 06/06
 
-## monica bate 
+## Mónica Bate 
 
 artista visual mas enfocada en el arte contemporáneo.
 tiene interes hacia la fotografia estudio esta dentro de la carrera. 
 en algunos momentos arregló computadores.
 
-### proyecto: la vida de los cristales - apuntes clase  
+## Proyecto: la vida de los cristales - apuntes clase
 
 32°S 71°O
 
@@ -22,3 +22,5 @@ husserl -> francisco varela ft. humberto maturana.
 * el caracter del sonido varia en el espacio
 * al ser cada cristal distinto, no suenan de la misma forma
 *tiene una fundacion que se llama flores
+
+## Formación de grupos
