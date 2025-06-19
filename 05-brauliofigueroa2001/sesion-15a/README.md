@@ -32,3 +32,9 @@ por último, esta es la parte del lm324 que estamos usando directamente
 
 - Adjunto acá el cómo quedaron los componentes ya con sus huellas
 ![kicad](./archivos/kicadplacaerror.JPG)
+
+## tercera duda
+
+- tenemos la siguiente distribución de los elementos basados en el esquemático pero necesitamos feedback
+
+![kicad](./archivos/kicadplacavariante1.JPG)
