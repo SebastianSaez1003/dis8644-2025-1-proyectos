@@ -22,7 +22,6 @@ Cree un [issue]((https://github.com/disenoUDP/dis8644-2025-1-proyectos/issues/47
 
 ![Imagen del esquemático con los cambios realizados.](./archivos/fps555-sch-v4.png)
 
-
 ## más progreso
 
 gracias al feedback realizamos los siguientes cambios:
