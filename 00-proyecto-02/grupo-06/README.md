@@ -13,9 +13,7 @@
 
 ## Presentación textual
 
-fps555 es un dispositivo de protección ocular con posición adaptable mecánicamente.
-
-El proyecto consiste en una entrada que XX, para CONTROLAR/OTRO VERBO
+fps555 es un dispositivo de protección ocular con posición adaptable mecánicamente. consiste en un circuito que recibe un input a través de un interruptor on-off-on. esta acción provoca un output de rotación mecánico, ajustando la posición de los lentes
 
 ## Dibujos de diagramas del circuito (1 punto)
 
