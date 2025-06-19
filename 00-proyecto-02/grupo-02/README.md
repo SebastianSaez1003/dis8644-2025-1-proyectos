@@ -29,9 +29,19 @@ En este dibujo mostramos XX.
 
 A continuación se presentan imágenes de las protoboards usadas.
 
-![Vista protoboard de frente](./imagenes/presentacion-visual-frente.jpg)
+![TODO-alt-text](./imagenes/tme-grupo-02-registro-01.jpg)
 
-![Vista protoboard de arriba](./imagenes/presentacion-visual-arriba.jpg)
+TODO: por qué no hay foto 02?
+
+![TODO-alt-text](./imagenes/tme-grupo-02-registro-03.jpg)
+
+![TODO-alt-text](./imagenes/tme-grupo-02-registro-04.jpg)
+
+![TODO-alt-text](./imagenes/tme-grupo-02-registro-05.jpg)
+
+![TODO-alt-text](./imagenes/tme-grupo-02-registro-06.jpg)
+
+![TODO-alt-text](./imagenes/tme-grupo-02-registro-07.jpg)
 
 A continuación se presentan textos explicativos del prototipado.
 
