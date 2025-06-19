@@ -21,7 +21,7 @@ por último, esta es la parte del lm324 que estamos usando directamente
 
 ## segundo error encontrado y duda
 
-apareció un error al momento de pasar las huellas a la placa y no sé si se puede continuar trabajando o no, al parecer no detectó la huella de terminal block que le puse al motor dc ni al switch
+- apareció un error al momento de pasar las huellas a la placa y no sé si se puede continuar trabajando o no, al parecer no detectó la huella de terminal block que le puse al motor dc ni al switch
 
 - estas son las huellas asignadas antes de ir a la placa
 ![huellas](./archivos/HUELLAS.JPG)
