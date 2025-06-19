@@ -4,9 +4,9 @@
 
 - Grupo: 02
 - Integrantes:
-  - Integrante XX
-  - Integrante XX
-  - Integrante XX
+  - Integrante Sofía Etchepare
+  - Integrante Antonia Fuentealba
+  - Integrante Sofía Pérez
 - Chips usados:
   - Chip XX
   - Chip XX
@@ -15,7 +15,7 @@
 
 DESCRIPCIÓN DEL PROYECTO EN UNA LÍNEA, SIN PUNTOS SEGUIDOS.
 
-El proyecto consiste en una entrada que XX, para CONTROLAR/OTRO VERBO
+El proyecto consiste en una máquina con tapa percutible que activa un sonido al golpearla, con parlante incorporado que se silencia al conectar la salida jack 
 
 ## Dibujos de diagramas del circuito (1 punto)
 
