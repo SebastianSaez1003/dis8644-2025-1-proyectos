@@ -13,9 +13,7 @@
 
 ## Presentación textual
 
-fps555 es un dispositivo de protección ocular con posición adaptable mecánicamente.
-
-El proyecto consiste en una entrada que XX, para CONTROLAR/OTRO VERBO
+fps555 es un dispositivo de protección ocular con posición adaptable mecánicamente. consiste en un circuito que recibe un input a través de un interruptor on-off-on. esta acción provoca un output de rotación mecánico, ajustando la posición de los lentes
 
 ## Dibujos de diagramas del circuito (1 punto)
 
@@ -80,15 +78,51 @@ INCLUIR DESCRIPCIÓN DE MATERIALES COMPRADOS, SI ES QUE COMPRARON COSAS ADICIONA
 
 ## Ayudas y comunicación con colegas (1 punto)
 
-DOCUMENTAR TEXTUAL, CON IMÁGENES, CON ENLACES A BITÁCORAS.
+### protoboards 
 
-La persona XX del proyecto XX nos ayudó con XX.
+[issue protoboards](https://github.com/orgs/disenoUDP/projects/4/views/1?pane=issue&itemId=115280226&issue=disenoUDP%7Cdis8644-2025-1-proyectos%7C140)
 
-La persona XX del proyecto XX nos ayudó con XX.
+• documentar: aarón nos confirmo que era necesario documentar todo el progreso para entender el proceso de aprendizaje
 
-Ayudamos a la persona XX del proyecto XX con XX.
+• feedback: no hemos recibido respuesta
 
-Ayudamos a la persona XX del proyecto XX con XX.
+### bom 
+
+[issue bom](https://github.com/orgs/disenoUDP/projects/4/views/1?pane=issue&itemId=115280715&issue=disenoUDP%7Cdis8644-2025-1-proyectos%7C146)
+
+• caso a y b: franudp del grupo 0c nos ayudo con unos nudos que podríamos utilizar y recomendaciones de como podríamos trabajar nuestra placa, también que podríamos utilizar resina uv para cubrir las conexiones
+matías nos comento que podríamos utilizar silicona y también sugirió si utilizábamos tblock deberíamos ocupar terminales para aislar 
+
+• boletas: matías nos comento que era probable que existieran los pin header en el lab, y también confirmo nuestra idea de comprar una regleta y utilizar solo 5 pin
+duckusu del grupo 0c confirmo que en el lab hay pin header y se encargo de guardar las boletas de los componentes comprados.
+
+### esquematico 
+
+[issue esquemático](https://github.com/orgs/disenoUDP/projects/4/views/1?pane=issue&itemId=115278736&issue=disenoUDP%7Cdis8644-2025-1-proyectos%7C128)
+
+• interacción previa: aarón comento que era más rápido etiquetar a @disenoUDP/docentes que estar etiquetando uno a uno
+franudp del grupo 0c nos ayudo con correcciones para nuestro esquemático
+
+• símbolo: aarón nos envió una guía para KiCAD
+matías nos guío con el componente y este como estaba en la footprint
+
+• feedback diagramación: aarón comento que esta hermoso y que podríamos añadir cajas de texto, lo cual se profundizara para el examen
+
+### pcb 
+
+[issue pcb](https://github.com/orgs/disenoUDP/projects/4/views/1?pane=issue&itemId=115279178&issue=disenoUDP%7Cdis8644-2025-1-proyectos%7C134)
+
+• forma: matías comento que probablemente la pcb haga alusión al sol, seria muy redundante, pero la forma de lentes hacia atrás, la encuentra interesante
+
+• screw terminal y lente: franudp del grupo 0c nos corrigió que toda la fuente de poder tuviera el mismo voltaje y matías nos confirmo que estaba bien las footprints de la batería 
+
+• drc: franudp del grupo 0c nos comento que en la pagina de jlcpcb salen las dimensiones mínimas para cada perforación, separación.
+
+### carcasas 
+
+[issue carcasas](https://github.com/orgs/disenoUDP/projects/4/views/1?pane=issue&itemId=116136542&issue=disenoUDP%7Cdis8644-2025-1-proyectos%7C554)
+
+• issue felix: santiago especifico las medidas de nuestra pcb y también adjunto el repo en donde podrían ver la información completa
 
 ## Esquematico en Kicad (1 punto)
 
