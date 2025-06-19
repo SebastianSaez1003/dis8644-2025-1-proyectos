@@ -25,6 +25,8 @@ Este es el diagrama del Chip 4017
 
 ![dibujo esquematico 2](./imagenes/esquematico-dibujo2.jpg)
 
+![dibujo esquematico 3](./imagenes/diagrama-dibujo-esquematico.jpg)
+
 En este dibujo mostramos la ayuda de Matías con Ángel; lograron hacer el esquemático del micrófono con el Chip LM324 para poder regular la sensibilidad de este (nos había faltado un condensador de 1 uF en el pin 1) luego desde el pin 14 del chip LM324 poder conectarlo al pin 14 del Chip 4017 y que funcionen las luces.
 
 ## Prototipado de circuitos en protoboard (1 punto)
