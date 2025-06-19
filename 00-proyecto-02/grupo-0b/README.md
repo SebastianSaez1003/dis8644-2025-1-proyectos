@@ -4,7 +4,7 @@
 
 se evaluarán estos 6 aspectos, con un puntaje de 0.0 a 1.0 puntos cada uno, sumando un total de 6 puntos:
 
-## Acerca del proyecto
+### Acerca del proyecto
 
 Integrantes:
 
@@ -14,7 +14,7 @@ jotaMorales, bernardita y camila
 - José Morales TODO: agregar enlace a su github.com
 - Camila Parada TODO: agregar enlace a su github.com
 
-## Pauta
+### Pauta
 
 1. referentes de documentación en video y plan de documentación (jotaMorales)
 2. instrucciones de documentación en video para consistencia en los proyectos (jotaMorales)
@@ -105,7 +105,7 @@ OJO CON LA JERARQUÍA DE INFORMACIÓN CON LOS #
 
 Para mantener coherencia visual y técnica entre todos los registros:
 
-## Formato y resolución
+### Formato y resolución
 
 - Formato horizontal o vertical (16:9)
 - Resolución mínima: 1080p (Full HD)
@@ -113,7 +113,7 @@ Para mantener coherencia visual y técnica entre todos los registros:
 
 PREGUNTA: Cómo sé que cumplo con eso?
 
-## Tipos de planos sugeridos
+### Tipos de planos sugeridos
 
 - Plano general del circuito en uso  
 - Plano detalle de componentes  
@@ -122,18 +122,18 @@ PREGUNTA: Cómo sé que cumplo con eso?
 
 Agregar ejemplos visuales.
 
-## Audio
+### Audio
 
 - La idea es registrar el audio si el proyecto produce algun sonido, y dejar sin audio si no tiene.
 
 Ojalá usar alguna canción de fondo sobre cultura electrónica.
 
-## Iluminación
+### Iluminación
 
 - Usar luz blanca o luz natural.
 - Sombras creativas si refuerzan el concepto.
 
-## Checklist de grabación por grupo FINAL
+### Checklist de grabación por grupo FINAL
 
 - [ ] Registro del circuito en protoboard  
 - [ ] Registro del montaje final (2 de julio 2025)  
