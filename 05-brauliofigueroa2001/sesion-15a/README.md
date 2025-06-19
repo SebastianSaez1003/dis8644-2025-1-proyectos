@@ -1,4 +1,5 @@
 # sesion-15a
+## ESTA SESIÓN LA DEJARÉ PARA SUBIR LOS ERRORES DEL PROCESO
 
 ## adjunto acá la duda por si no quedó claro en el issue de project
 
@@ -12,3 +13,7 @@ acá el otro componente que no se si debe tener huella, este sí va conectado di
 por último, esta es la parte del lm324 que estamos usando directamente
 
 ![dudacomponentes3](./archivos/lm324usado.PNG)
+
+
+- hola aquí el esquemático completo de momento antes de pasar a la placa
+- ![esquematico](./archivos/esquematicoompleto.PNG)

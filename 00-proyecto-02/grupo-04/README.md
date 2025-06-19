@@ -64,7 +64,7 @@ Ayudamos a la persona XX del proyecto XX con XX.
 
 ## Esquematico en Kicad (1 punto)
 
-![Esquemático general](./imagenes/esquematico-general.jpg)
+![Esquemático general](./imagenes/esquematico-general.JPG)
 
 ![Esquemático detalles](./imagenes/esquematico-detalle-01.jpg)
 
