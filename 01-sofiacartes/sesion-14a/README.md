@@ -1,6 +1,7 @@
 # sesion-14a 10/06
 
 Tareas en clase
+
 Grupo 03: Sofía Cartes- Isabella Gutierrez- Valentina Ruz
 
 |INPUT|OUTPUT|
