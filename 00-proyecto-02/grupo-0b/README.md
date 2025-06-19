@@ -33,7 +33,7 @@ No se busco sólo mostrar el resultado final, sino también documentar el recorr
 
 [![Curso de Alvaro Arteaga en Domestika](https://img.youtube.com/vi/ECKjj8N1EQ0/0.jpg)](https://www.youtube.com/watch?v=ECKjj8N1EQ0)
 
-
+Ya cuando tengamos en nuestro poder las placas y prototipos recomiendo el uso de un fondo neutro (como blanco, gris o negro) no distrae. Permite que la audiencia se concentre en lo que realmente importa.
 
 ### The Life of Crystal
 
@@ -43,20 +43,7 @@ También quiero destacar como referente a Mónica Bate, quien durante la visita 
 
 Reels de instragram los cuales muestran el avance de las clases durante el semestre [Taller de Celebración UDP — Instagram](https://www.instagram.com/tallerdecelebracionudp?igsh=dXU0aWNhNmR1dHNq)
 
-
-------
-
-
-
 El responsable de esta sección es @jotamorales-romulus.
-
-A continuación se presentan imágenes de las protoboards usadas.
-
-![Vista protoboard de frente](./imagenes/presentacion-visual-frente.jpg)
-
-![Vista protoboard de arriba](./imagenes/presentacion-visual-arriba.jpg)
-
-A continuación se presentan textos explicativos del prototipado.
 
 ## Instrucciones de documentación en video para consistencia en los proyectos (1 punto)
 
