@@ -44,3 +44,29 @@ Render de la propuesta.
 ![imagen del vector de la silueta de un lente](./archivos/lentes-vector.png)
 
 La idea es usar una silueta idéntica a la forma del lente físico que estamos ocupando.
+
+### más progreso 
+
+#### esquemático
+
+gracias al feedback  de misa y franUDP, correjimos la fuente de energía. Con el símbolo +9V indicamos donde va la batería, y el resto de conexiones hacia positivo las marcamos como VCC.
+
+![Imagen de la versión 7 del esqumático de fps555](./archivos/fps555-sch-v7.png)
+
+#### pcb 
+
+en un inicio tenpiamos la idea de poner el vector del lente de sol con relleno, pero tras llevarlo a cabo, las dos opciones que teníamos para hacerlo agrandaban la complejidad del diseño de la pcb.
+
+1. en caso de hacerlo en la capa de cobre, esto no forzaba a hacer todas las conexiones en una mirsma cara de la pcb, puesto que la gran mayroía de la superficie de la otra capa estaría cuibierta por el vector del lente(hecho de cobre.)
+
+2. Por otro lado, cuando hicimos una prueba dibujando el lente en la capa "silkscreen", pero el lente de sol terminaba tapando todas las footprints e indicaciones de la pcb.
+
+Por estos 2 motivos dedidimos dibujar el lente sin relleno, en la capa "silkscreen".
+
+![Render de la versión 3 de la pcb de fps555. Cara frontal.](./archivos/fps555-fRender-v3.png)
+
+![Render de la versión 3 de la pcb de fps555. Cara trasera](./archivos/fps555-bRender-v3.png)
+
+### errores
+
+![Render de la versión 3 de la pcb de fps555. Cara trasera](./archivos/fps555-pcb-error.png)
