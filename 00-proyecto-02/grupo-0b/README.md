@@ -53,7 +53,7 @@ Quiero destacar como referente a Mónica Bate, quien durante la visita a la clas
 
 ### Taller celebración UDP Diseño etc
 
-Reels de instragram los cuales muestran el avance de las clases durante el semestre [Taller de Celebración UDP — Instagram](https://www.instagram.com/tallerdecelebracionudp?igsh=dXU0aWNhNmR1dHNq
+Reels de instragram los cuales muestran el avance de las clases durante el semestre [Taller de Celebración UDP — Instagram](https://www.instagram.com/tallerdecelebracionudp)
 
 Adjuntar fotos explicando lo que ves, y qué quieres rescatar y qué no.
 
@@ -186,7 +186,6 @@ Fuente <http://martisans.com/wp-content/uploads/2021/10/2021-02-10_stock6271-250
 - fondo gris y colores
 - tomas frontal superior y detalle
 
-
 ## Propuesta de montaje de proyectos en sala de clases y en laboratorio (1 punto)
 
 La responsable de esta sección es @Bernardita-lobo.
@@ -248,7 +247,7 @@ Versión anterior del logotipo de la escuela de diseño. Fue usado hasta 2024. E
 
 ![alt-text](./logotipo-universidad/jpg/logo_acotado_escuela_diseno.jpg)
 
-###### ▼ Recuperado de: Entrega de logotipos en formato "ai" a cargo del "Taller de diseño gráfico II" en 2022 para el desarrollo gráfico de ["Interpretación audiovisual del concierto Sinfonía del Nuevo Mundo de Antonín Dvořák"](https://www.instagram.com/p/Cf4ZUu9OBQ8/?img_index=1). Trabajo en colaboración con el Teatro municipal de Santiago
+▼ Recuperado de: Entrega de logotipos en formato "ai" a cargo del "Taller de diseño gráfico II" en 2022 para el desarrollo gráfico de ["Interpretación audiovisual del concierto Sinfonía del Nuevo Mundo de Antonín Dvořák"](https://www.instagram.com/p/Cf4ZUu9OBQ8/?img_index=1). Trabajo en colaboración con el Teatro municipal de Santiago
 
 Versión acotada del logotipo de la escuela de diseño. Tiene una menor presencia que el logo anterior mostrado, por lo que sus usos suelen ser para casos específicos en donde se vea comprometido el tamaño de la versión completa. En este caso es una forma compuesta por siglas (ed, faad, udp) y líneas. Si no se sabe lo que representan las letras se puede llevar a la confusión, por lo que no se recomienda modificar el orden o la estructura. Fue obtenido como una de las 2 versiones del logotipo de la escuela de diseño que se usaba en 2022.
 
