@@ -1,6 +1,11 @@
 # sesion-14a 10/06
 
-tareas en clase
+Tareas en clase
+Grupo 03: Sofía Cartes- Isabella Gutierrez- Valentina Ruz
+
+|INPUT|OUTPUT|
+|-----|------|
+|Sonido|Luz|
 
 ## 1. diagrama del sistema completo
 
