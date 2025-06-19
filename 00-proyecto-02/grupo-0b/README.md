@@ -35,11 +35,16 @@
 
 - Quiero destacar como referente a Mónica Bate, quien durante la visita a la clase nos mostró el video The Life of crystal <https://www.youtube.com/watch?v=kRLh9yuW5Ns>, donde documenta su proyecto de arte sonoro con cristales piezoeléctricos. Elijo este video como referente porque se acerca más a lo que vamos a hacer en el taller con los trabajos de examen y siento que tiene mayor sintonía con nuestro enfoque. Además, cuenta con una edición y registro simples pero funcionales, bastante minimalistas, donde muestra claramente los avances y la interacción con el usuario.
 
+![Foto de referente fotográfico](./archivos/tme-proyecto02-referente01.jpeg)
+
+Fuente <https://lh5.googleusercontent.com/proxy/LxSHesjhJMibf4FLuwPAjM87Rl06DQ_L2NyZSxgrZAlOhwksZvD5FZMQEW5JpKfqAGyMP66MvSUM5uGqbu51_nQqgDYhwOysRIUCv3yV9epNSX65xU2lqgW82g5dmCEQrssyzr2-4I_POwWGFWlYANrXnp8K6Hk>
+
+Fuente <https://lh4.googleusercontent.com/proxy/v1NTxQH57_KuEY9vmlkkjv2_n9VypT23fJWZ-d2lqQyDb3U4_CikbdHZApgyVpo0L9B0i3of7goLc3Lq4N-j3dGf9nZJJlqBRh9xgjaKIzXZpYKW_M5WbTdDTWMSVh-s6sWdC7ZcIclsrqqctA>
 Adjuntar fotos que demuestren lo que describes con palabras
 
 ### Taller celebración UDP Diseño etc
 
-- Reels de instragram los cuales muestran el avance de las clases durante el semestre [Taller de Celebración UDP — Instagram](https://www.instagram.com/tallerdecelebracionudp?igsh=dXU0aWNhNmR1dHNq)
+- Reels de instragram los cuales muestran el avance de las clases durante el semestre [Taller de Celebración UDP — Instagram] (https://www.instagram.com/tallerdecelebracionudp?igsh=dXU0aWNhNmR1dHNq)
 
 Adjuntar fotos explicando lo que ves, y qué quieres rescatar y qué no.
 
@@ -131,6 +136,25 @@ Ojalá usar alguna canción de fondo sobre cultura electrónica.
 
 - La responsable de esta sección es @Bernardita-lobo.
 
+### Referentes e investigación para los registros
+
+- Estas fotografías de productos que me gustaron las tomé como referencia. Me pareció simple y neutra la manera en que expone sus productos, pero también muy acotada. <https://www.trucco.photography/productos>
+
+![Foto de referente fotográfico](./archivos/tme-proyecto02-referente02.jpeg)
+
+Fuente <https://images.squarespace-cdn.com/content/v1/55814e1de4b0f9f986faf351/1440725269068-ZH3CG5A674FMJMB0ZQ4R/image-asset.jpeg?format=2500w>
+
+Fuente <https://images.squarespace-cdn.com/content/v1/55814e1de4b0f9f986faf351/1437147802659-J0WL73ASBVFSBVZXKKHD/Torna+Final+-+Post.jpg?format=2500w>
+
+- Este otro referente me gustaría considerarlo para la segunda parte del proyecto, ya que en esa etapa nos interesa que los proyectos sean fotografiados en un contexto que se relacione de manera más directa con su funcionamiento y propósito. La idea es que la imagen no solo muestre el objeto, sino también cómo se inserta en su entorno o cómo podría ser utilizado en una situación real. <http://martisans.com/portfolio/>
+
+![Foto de referente fotográfico](./archivos/tme-proyecto02-referente03.jpeg)
+
+Fuente <http://martisans.com/wp-content/uploads/2022/06/Marshall-BCN_201_R3-6000x4000.jpg>
+
+fuente <http://martisans.com/wp-content/uploads/2021/10/2021-02-10_stock6271-2500x4000.jpg>
+
+- Además, revisé un video como referencia para comprender mejor qué elementos son necesarios al momento de fotografiar los procesos. <https://youtu.be/75OEz5csiP8?si=EtXw4-0HqXXj7hrX>
 
 
 ## propuesta de montaje de proyectos en sala de clases y en laboratorio (1 punto)
