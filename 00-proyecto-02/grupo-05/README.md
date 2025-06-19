@@ -3,22 +3,14 @@
 ## Acerca del proyecto
 
 - Grupo: 05
-
 - Integrantes:
-
-	- Antonia Cristi
-
-	- Natalia Pilar
-
-	- Paulina Vargas
-
+  - Antonia Cristi
+  - Natalia Pilar
+  - Paulina Vargas
 - Chips usados:
-
-	- Chip LM324
-
-	- Chip NE555
-
-	- Chip CD4017
+  - Chip LM324
+  - Chip NE555
+  - Chip CD4017
 
 ## Presentación textual
 
