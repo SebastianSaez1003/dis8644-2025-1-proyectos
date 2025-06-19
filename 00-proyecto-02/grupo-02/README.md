@@ -15,7 +15,7 @@
 
 DESCRIPCIÓN DEL PROYECTO EN UNA LÍNEA, SIN PUNTOS SEGUIDOS.
 
-El proyecto consiste en una máquina con tapa percutible que activa un sonido al golpearla, con parlante incorporado que se silencia al conectar la salida jack 
+El proyecto consiste en una máquina con tapa percutible que activa un sonido al golpearla, con parlante incorporado que se silencia al conectar la salida jack
 
 ## Dibujos de diagramas del circuito (1 punto)
 
@@ -39,14 +39,26 @@ El circuito de entrada USA XX para medir XX.
 
 El circuito de salida usa XX para cambiar XX.
 
-### Bill of Materials (1 punto)
+## Bill of Materials (1 punto)
 
-| Componente   | Cantidad | Comentarios     |
-| ------------ | -------- | --------------- |
-| Resistor     | 5        | 1/4W            |
-| XX | ... | ...       |
-
-INCLUIR DESCRIPCIÓN DE MATERIALES COMPRADOS, SI ES QUE COMPRARON COSAS ADICIONALES.
+| Componente                   | Cantidad | Comentarios         |
+|-----------------------------|----------|----------------------|
+| Chip                        | 1        | LM324               |
+| Piezoeléctrico              | 1        |                      |
+| Resistencia                 | 1        | 1M                   |
+| Resistencia                 | 3        | 100k                 |
+| Resistencia                 | 4        | 1k                   |
+| Resistencia                 | 2        | 10k                  |
+| Resistencia                 | 1        | 22k                  |
+| Condensador polarizado     | 2        | 10uF                 |
+| Potenciómetro              | 1        | 500k                 |
+| Socket jack                | 1        | 3.5mm                |
+| Parlante (Speaker)         | 1        | 8Ω                   |
+| Jumpers (caimanes)         | 2        |                      |
+| Fuente de alimentación     | 1        | 5V máx.              |
+| Socket                     | 1        | Para LM324           |
+| Conectores                 | -        |                      |
+| Amplificador               | 1        | PAM8403              |
 
 ## Ayudas y comunicación con colegas (1 punto)
 
