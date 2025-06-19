@@ -48,7 +48,7 @@ El circuito de entrada usa un LDR para medir la entrada de luz, el umbral de est
 
 El circuito de salida usa un chip CD4017 para activar una secuencia de 10 luces LED.
 
-### Bill of Materials (1 punto)
+## Bill of Materials (1 punto)
 
 |QTY|REFERENCE|VALUE|FOOTPRINT|OBS
 |:-:|-|-|-|-
