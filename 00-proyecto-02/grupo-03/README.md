@@ -13,9 +13,7 @@
 
 ## Presentación textual
 
-DESCRIPCIÓN DEL PROYECTO EN UNA LÍNEA, SIN PUNTOS SEGUIDOS.
-
-El proyecto consiste en una entrada que XX, para CONTROLAR/OTRO VERBO
+El proyecto consiste en un objeto lumínico que su entrada reacciona al sonido, para controlar la gama de luces.
 
 ## Dibujos de diagramas del circuito (1 punto)
 
