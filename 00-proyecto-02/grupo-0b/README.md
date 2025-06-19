@@ -35,7 +35,7 @@
 
 - Quiero destacar como referente a Mónica Bate, quien durante la visita a la clase nos mostró el video The Life of crystal <https://www.youtube.com/watch?v=kRLh9yuW5Ns>, donde documenta su proyecto de arte sonoro con cristales piezoeléctricos. Elijo este video como referente porque se acerca más a lo que vamos a hacer en el taller con los trabajos de examen y siento que tiene mayor sintonía con nuestro enfoque. Además, cuenta con una edición y registro simples pero funcionales, bastante minimalistas, donde muestra claramente los avances y la interacción con el usuario.
 
-![Foto de referente fotográfico](./archivos/tme-proyecto02-referente01.jpeg)
+![Foto de referente fotográfico](./imagenes/tme-proyecto02-referente01.jpeg)
 
 Fuente <https://lh5.googleusercontent.com/proxy/LxSHesjhJMibf4FLuwPAjM87Rl06DQ_L2NyZSxgrZAlOhwksZvD5FZMQEW5JpKfqAGyMP66MvSUM5uGqbu51_nQqgDYhwOysRIUCv3yV9epNSX65xU2lqgW82g5dmCEQrssyzr2-4I_POwWGFWlYANrXnp8K6Hk>
 
@@ -140,7 +140,7 @@ Ojalá usar alguna canción de fondo sobre cultura electrónica.
 
 - Estas fotografías de productos que me gustaron las tomé como referencia. Me pareció simple y neutra la manera en que expone sus productos, pero también muy acotada. <https://www.trucco.photography/productos>
 
-![Foto de referente fotográfico](./archivos/tme-proyecto02-referente02.jpeg)
+![Foto de referente fotográfico](./imagenes/tme-proyecto02-referente02.jpeg)
 
 Fuente <https://images.squarespace-cdn.com/content/v1/55814e1de4b0f9f986faf351/1440725269068-ZH3CG5A674FMJMB0ZQ4R/image-asset.jpeg?format=2500w>
 
