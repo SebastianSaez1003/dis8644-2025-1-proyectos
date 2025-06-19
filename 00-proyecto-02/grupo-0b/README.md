@@ -35,11 +35,14 @@
 
 - Quiero destacar como referente a Mónica Bate, quien durante la visita a la clase nos mostró el video The Life of crystal <https://www.youtube.com/watch?v=kRLh9yuW5Ns>, donde documenta su proyecto de arte sonoro con cristales piezoeléctricos. Elijo este video como referente porque se acerca más a lo que vamos a hacer en el taller con los trabajos de examen y siento que tiene mayor sintonía con nuestro enfoque. Además, cuenta con una edición y registro simples pero funcionales, bastante minimalistas, donde muestra claramente los avances y la interacción con el usuario.
 
+Fuente <https://lh5.googleusercontent.com/proxy/LxSHesjhJMibf4FLuwPAjM87Rl06DQ_L2NyZSxgrZAlOhwksZvD5FZMQEW5JpKfqAGyMP66MvSUM5uGqbu51_nQqgDYhwOysRIUCv3yV9epNSX65xU2lqgW82g5dmCEQrssyzr2-4I_POwWGFWlYANrXnp8K6Hk>
+
+Fuente <https://lh4.googleusercontent.com/proxy/v1NTxQH57_KuEY9vmlkkjv2_n9VypT23fJWZ-d2lqQyDb3U4_CikbdHZApgyVpo0L9B0i3of7goLc3Lq4N-j3dGf9nZJJlqBRh9xgjaKIzXZpYKW_M5WbTdDTWMSVh-s6sWdC7ZcIclsrqqctA>
 Adjuntar fotos que demuestren lo que describes con palabras
 
 ### Taller celebración UDP Diseño etc
 
-- Reels de instragram los cuales muestran el avance de las clases durante el semestre [Taller de Celebración UDP — Instagram](https://www.instagram.com/tallerdecelebracionudp?igsh=dXU0aWNhNmR1dHNq)
+- Reels de instragram los cuales muestran el avance de las clases durante el semestre [Taller de Celebración UDP — Instagram] (https://www.instagram.com/tallerdecelebracionudp?igsh=dXU0aWNhNmR1dHNq)
 
 Adjuntar fotos explicando lo que ves, y qué quieres rescatar y qué no.
 
