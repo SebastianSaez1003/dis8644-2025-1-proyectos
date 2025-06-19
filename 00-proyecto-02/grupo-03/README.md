@@ -37,7 +37,7 @@ El circuito de entrada USA XX para medir XX.
 
 El circuito de salida usa XX para cambiar XX.
 
-### Bill of Materials (1 punto)
+## Bill of Materials (1 punto)
 
 | Componente    | Cantidad | Comentarios     |
 | ------------- | -------- | --------------- |
@@ -47,7 +47,7 @@ El circuito de salida usa XX para cambiar XX.
 | Resistencia   | 2        | 22k             |
 | Microfono     | 1        | CZN-15E         |
 | Condensador   | 2        | 10uF            |
-| Condensador   | 1        | 1uF             |   
+| Condensador   | 1        | 1uF             |
 | Diodo         | 2        | 1n5819          |
 | Diodo         | 1        | 1n4007          |
 | Potenciómetro | 1        | 1M Ohm          |
@@ -87,7 +87,7 @@ paulinavargasf del grupo nos ayudó con el prototipo en protoboard.
 misaaaaaa docente nos ayudó con el esquemático para regular el micrófono.
 
 jotamorales-romulu y Bernardita-lobo del proyecto duvumentacionVisual nos ayudaron con fotografiar nuestra protoboard y el registro en clases mediante videos.
- 
+
 ## Esquematico en Kicad (1 punto)
 
 ![Esquemático general](./imagenes/esquematico-general.jpg)
@@ -114,11 +114,11 @@ DESCRIBIR CHIPS USADOS, CONEXIONES USADAS.
 
 El chip LMV324M del SparkFun Sound Detector lo desglosamos, por así decirlo, para tener el chip aparte y poder regular la sensibilidad del micrófono.
 
-<https://www.sparkfun.com/sparkfun-sound-detector.html> 
+<https://www.sparkfun.com/sparkfun-sound-detector.html>
 
 ## Bibliografía
 
-<https://www.sparkfun.com/sparkfun-sound-detector.html> 
+<https://www.sparkfun.com/sparkfun-sound-detector.html>
 
 <chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://cdn.sparkfun.com/datasheets/Sensors/Sound/LMV324.pdf>
 
