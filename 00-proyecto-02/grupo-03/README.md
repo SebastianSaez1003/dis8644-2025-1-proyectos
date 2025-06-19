@@ -101,11 +101,13 @@ Jotamorales-romulu y Bernardita-lobo del proyecto duvumentacionVisual nos ayudar
 
 ## Esquematico en Kicad (1 punto)
 
+![esquematico general](./kicad/diagrama-esquematico.pdf) 
+
 ![Esquemático general](./imagenes/diagrama-esquematico.jpg)
 
-![Esquemático detalles](./imagenes/esquematico-detalle-01.jpg)
+![Esquemático detalles](./imagenes/chipLM324.png)
 
-![Esquemático detalles](./imagenes/esquematico-detalle-02.jpg)
+![Esquemático detalles](./imagenes/chip4017.png)
 
 En el primer esquemático, es el del Chip LM324, donde conectamos primero el micrófono, luego mediante los condensadores regulamos la sensibilidad de este para que capte mejor los sonidos e incorporamos dos LEDS para ver si el circuito funciona correctamente, dentro de este, el potenciómetro nos da la posibilidad de que elijamos la receptividad.
 En el segundo esquemático es la secuencia/contador de luces mediante el Chip 4017, donde el pin 14 va al pin 14 del LM324, lo cual nos da la posibilidad de la diferente frecuencia de los cuatro LEDS incorporados y que esta dependa del sonido emitido.
