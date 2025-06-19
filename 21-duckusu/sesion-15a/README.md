@@ -2,88 +2,119 @@
 
 ## Comienzo de clase
 
-### Bill of materials grupo 5
+### Bill of materials grupos
 
-|QTY|REFERENCE|VALUE|FOOTPRINT|OBS
-|:-:|-|-|-|-
-|3|U1,U4,U5|~|Socket 8-pin|-
-|1|U2|~|Socket 14-pin|-
-|1|U3|~|Socket 18-pin|-
-|4|R2,R9,R11,R12|10k|Resistencia|-
-|5|R3,R5,R6,R10,R13|1k|Resistencia|-
-|1|R4|220|Resistencia|-
-|1|R8|100k|Resistencia|-
-|1|R7|470|Resistencia|-
-|1|R1|LDR|LDR|-
-|3|C1,C4,C7|100n|Condensador cerámico|104
-|1|Q1|PN2222A|Transistor|-
-|1|MK1|MIC|Micrófono electret|-
-|3|C3,C5,C6|1u|Condensador electrolítico|-
-|1|C2|100u|Condensador electrolítico|-
-|12|D1~D12|LED|LED 5mm|-
-|1|RV1|500k|Potenciómetro|-
-|3|U1,U4,U5|NE555|DIP-8|Van en los socket U1, U4, y U5
-|1|U2|LM324|DIP-14|Va en el socket U2
-|1|U3|CD4017|DIP-16|Va en el socket U3
+| Grupo 2 |                 |         Integrantes        |                 |                                        |                                                    |
+|:-------:|-----------------|:--------------------------:|-----------------|----------------------------------------|----------------------------------------------------|
+|         | Anto Fuentealba | Sofia Perez (sofia-perezm) | Sofia Etchepare |                                        |                                                    |
+|         |                 |                            |                 |                                        |                                                    |
+|         |                 |                            |                 |                                        |                                                    |
+|   Item  |       Qty       |         Referencia         |      Valor      |              Tipo de ítem              |                    Accesibilidad                   |
+|    1    |        1        |             U1             |      LM324N     |                 DIP-14                 |              Se puede conseguir en lab             |
+|    2    |        1        |              x             |                 |             Piezoeléctrico             |    Se tendrá que comprar o no se encontró en lab   |
+|    3    |        1        |             R1             |        3M       |               Resistencia              | Se puede conseguir en lab (se pueden usar 3 de 1M) |
+|    4    |        4        |       R2, R3, R4, R5       | 100k            | Resistencia                            |              Se puede conseguir en lab             |
+|    5    |        4        |       R6, R7, R8, R9       | 1k              | Resistencia                            |              Se puede conseguir en lab             |
+|    6    |        1        |             R10            | 22k             | Resistencia                            |              Se puede conseguir en lab             |
+|    7    |        2        |           C1, C2           | 10uF            | Condensador polarizado (electrolitico) |              Se puede conseguir en lab             |
+|    8    |        1        |             Q1             | 2N2222          | Transistor                             |              Se puede conseguir en lab             |
+|    9    |        1        |             RV1            | 500k            | Potenciómetro                          |              Se puede conseguir en lab             |
+|    10   |        1        |             J1             | 3.5mm           | Socket jack                            |                Se tendrá que comprar               |
+|    11   |        1        |             LS1            | 8Ω              | Speaker                                | Se puede conseguir en lab o usar los que ya tienen |
+|    12   |        2        |             JP1            |                 | Jumpers (caimanes)                     |              Se puede conseguir en lab             |
+|    13   |        1        |             BT1            | 5V–9V           | Fuente de alimentación.                |              Se puede conseguir en lab             |
+|    14   |        1        |             U1             | LM324           | Socket                                 |                Se tendrá que comprar               |
+|    15   |                 |              -             | Largo variable  | Conectores                             |              Se puede conseguir en lab             |
+|    16   |        1        |             D1             | 1n4007          | Diodo                                  |    Se tendrá que comprar (aunque en el lab ví 3)   |
 
-- En analisis a fondo, los siguientes materiales se tendrían que comprar o conseguir en lab:
 
-||Item  | Qty | Referencia | Valor | Tipo de ítem | Accesibilidad|
-|:--- |:--- |:--- |:--- |:--- |:--- |
-| 1  | 3  | U1,U4,U5  |   | Socket 8-pin  | Se puede conseguir en lab  |
-| 2  | 1  | U2  |   | Socket 14-pin  | Se tendrán que comprar  |
-| 3  | 1  | U3  |   | Socket 18-pin  | Se tendrán que comprar  |
-| 4  | 4  | R2,R9,R11,R12  | 10k  | Resistencia  | Se puede conseguir en lab  |
-| 5  | 5  | R3,R5,R6,R10,R13   | 1k  | Resistencia  | Se puede conseguir en lab  |
-| 6  | 1  | R4  | 220  | Resistencia  | Se puede conseguir en lab  |
-| 7  | 1  | R8  | 100k  | Resistencia  | Se puede conseguir en lab  |
-| 8  | 1  |  R7  | 470  | Resistencia  | Se puede conseguir en lab  |
-| 9  | 1  | R1  |   | LDR  | Se tendrán que comprar o pueden usar los que ya poseen  |
-| 10  | 3  | C1,C4,C7  | 100n  | Condensador cerámico  | Se puede conseguir en lab  |
-| 11  | 1  | Q1  |  PN2222A  | Transistor  | Se puede conseguir en lab  |
-| 12  | 1  | MK1  | MIC  | Micrófono electret  | Se tendrán que comprar  |
-| 13  | 3  | C3,C5,C6   |  1u  | Condensador electrolítico  | Se puede conseguir en lab  |
-| 14  | 1  | C2  | 407n  | Condensador cerámico  | Se puede conseguir en lab  |
-| 15  | 12  |  D1~D12  | LED  | LED 5mm  | Se puede conseguir en lab  |
-| 16  | 1  | RV1  | 500k  | Potenciómetro  | Se puede conseguir en lab  |
-| 17  | 3  | U1,U4,U5  | NE555  | DIP-8  | Se puede conseguir en lab  |
-| 18  | 1  | U2  | LM324  | DIP-14  | Se puede conseguir en lab  |
-| 19  | 1  | U3  | CD4017  | DIP-16  | Se tendrán que comprar o no encontré ninguno en el lab  |
+
+| Grupo 3 |                    | Integrantes |              |                             |                                                    |
+|:-------:|--------------------|:-----------:|--------------|-----------------------------|----------------------------------------------------|
+|         |    Valentina ruz   |   Isabella  | Sofia cartes |                             |                                                    |
+|         |                    |             |              |                             |                                                    |
+|         |                    |             |              |                             |                                                    |
+|   Item  |         Qty        |  Referencia |     Valor    |         Tipo de ítem        |                    Accesibilidad                   |
+|    1    |          1         |     MK1     |    CZN-15E   |    Microfono condenzador    |                Se tendrá que comprar               |
+|    2    |          2         |    R1 ,R2   |      22k     |         Resistencia         |              Se puede conseguir en lab             |
+|    3    |          8         |   R3 ~ R10  |      1k      |         Resistencia         |              Se puede conseguir en lab             |
+|    4    |          4         |  R11 ~ R14  |      10k     |         Resistencia         |              Se puede conseguir en lab             |
+|    5    |          1         |     R15     |      220     |         Resistencia         |              Se puede conseguir en lab             |
+|    6    |          2         |    C1, C2   |     10uF     | Condensador (electrolitico) |              Se puede conseguir en lab             |
+|    7    |          1         |      C3     |      1uF     | Condensador (electrolitico) |              Se puede conseguir en lab             |
+|    8    |          2         |    D1, D2   |    1n5819    |            Diodo            |                Se tendrá que comprar               |
+|    9    |          1         |      D3     |    1n4007    |            Diodo            |                Se tendrá que comprar               |
+|    10   |          1         |     RV1     |    1M omh    |        Potenciometro        |              Se puede conseguir en lab             |
+|    11   |          1         |     RV2     |     500k     |        Potenciometro        |              Se puede conseguir en lab             |
+|    12   |    8 (variados)    |   D1 ~ D8   |      LED     |           LED 10mm          |                Se tendrá que comprar               |
+|    13   | 2 (verde y blanco) |   D9, D10   |      LED     |           LED 5mm           |              Se puede conseguir en lab             |
+|    14   |          1         |      U1     |    LM324N    |            DIP-14           |              Se puede conseguir en lab             |
+|    15   |          2         |      U2     |    CN4017    |            DIP-16           |                Se tendrá que comprar               |
+|    16   |          1         |      J1     |     2 pin    |        Terminal block       |                Se tendrá que comprar               |
+|    17   |          1         |     SW1     |     spdt     |            Switch           | Si se usán switch de palanca se tendrá que comprar |
+|    18   |          1         |     BT1     |      9v      |           Batería           |              Se puede conseguir en lab             |
+
+
+| Grupo 5 |             |    Integrantes   |               |                           |                                                        |
+|:-------:|-------------|:----------------:|---------------|---------------------------|--------------------------------------------------------|
+|         | Anto Cristi |    Pau Vargas    | Natalia Pilar |                           |                                                        |
+|         |             |                  |               |                           |                                                        |
+|         |             |                  |               |                           |                                                        |
+|   Item  |     Qty     |    Referencia    |     Valor     |        Tipo de ítem       |                      Accesibilidad                     |
+|    1    |      3      |     U1,U4,U5     |       -       |        Socket 8-pin       |                Se puede conseguir en lab               |
+|    2    |      1      |        U2        |       -       |       Socket 14-pin       |                 Se tendrán que comprar                 |
+|    3    |      1      |        U3        |       -       |       Socket 18-pin       |                 Se tendrán que comprar                 |
+|    4    |      4      |   R2,R9,R11,R12  |      10k      |        Resistencia        |                Se puede conseguir en lab               |
+|    5    |      5      | R3,R5,R6,R10,R13	 |       1k      |        Resistencia        |                Se puede conseguir en lab               |
+|    6    |      1      |        R4        |      220      |        Resistencia        |                Se puede conseguir en lab               |
+|    7    |      1      |        R8        |      100k     |        Resistencia        |                Se puede conseguir en lab               |
+|    8    |      1      |        	R7        |      470      |        Resistencia        |                Se puede conseguir en lab               |
+|    9    |      1      |        R1        |       -       |            LDR            | Se tendrán que comprar o pueden usar los que ya poseen |
+|    10   |      3      |     C1,C4,C7     |      100n     |    Condensador cerámico   |                Se puede conseguir en lab               |
+|    11   |      1      |        Q1        |    	PN2222A    |         Transistor        |                Se puede conseguir en lab               |
+|    12   |      1      |        MK1       |      MIC      |     Micrófono electret    |                 Se tendrán que comprar                 |
+|    13   |      3      |     C3,C5,C6	     |       	1u      | Condensador electrolítico |                Se puede conseguir en lab               |
+|    14   |      1      |        C2        |      407n     |    Condensador cerámico   |                Se puede conseguir en lab               |
+|    15   |      12     |      D1~D12      |      LED      |          LED 5mm          |                Se puede conseguir en lab               |
+|    16   |      1      |        RV1       |      500k     |       Potenciómetro       |                Se puede conseguir en lab               |
+|    17   |      3      |     U1,U4,U5     |     NE555     |           DIP-8           |                Se puede conseguir en lab               |
+|    18   |      1      |        U2        |     LM324     |           DIP-14          |                Se puede conseguir en lab               |
+|    19   |      1      |        U3        |     CD4017    |           DIP-16          | Se tendrán que comprar o no encontré ninguno en el lab |
+
+
+| Grupo 6 |                         |          Integrantes          |                   |                                                 |                                                            |
+|:-------:|-------------------------|:-----------------------------:|-------------------|-------------------------------------------------|------------------------------------------------------------|
+|         | Santiago (clifford1one) | Sebastián (SebastianSaez1003) |  Anaís (Anaisbmg) |                                                 |                                                            |
+|         |                         |                               |                   |                                                 |                                                            |
+|         |                         |                               |                   |                                                 |                                                            |
+|   Item  |           Qty           |           Referencia          |       Valor       |                   Tipo de ítem                  |                        Accesibilidad                       |
+|    1    |            2            |             R1, R2            |         1K        |                   Resistencia                   |                  Se puede conseguir en lab                 |
+|    2    |            2            |             R3, R4            |        100K       |                   Resistencia                   |                  Se puede conseguir en lab                 |
+|    3    |            2            |             R5, R6            |        470K       |                   Resistencia                   |                  Se puede conseguir en lab                 |
+|    4    |            1            |               R7              |        10KΩ       |                   Resistencia                   |                  Se puede conseguir en lab                 |
+|    5    |            6            |             D1~D6             |       1n4007      |                      Diodo                      |                   Se tendrán que comprar                   |
+|    6    |            1            |               C1              |        104        |              Condensador (cerámico)             |                  Se puede conseguir en lab                 |
+|    7    |            1            |               C2              |        474        |              Condensador (cerámico)             |        Se puede conseguir en lab pero no hay muchos        |
+|    8    |            1            |               D7              |        3mm        |                       Led                       |                  Se puede conseguir en lab                 |
+|    9    |            1            |               U1              |        555        |                       Chip                      |                  Se puede conseguir en lab                 |
+|    10   |            1            |               U2              |       L293D       |                       Chip                      |                   Se tendrán que comprar                   |
+|    11   |            1            |              SW1              | 6 Pines ON-OFF-ON |                Interruptor Switch               |                    Comprado (katode.cl)                    |
+|    12   |            1            |                               |      6V 3RPM      |                 Motorreductor DC                |                     Comprado (Afel.cl)                     |
+|    13   |            1            |              RVC1             |        500K       |                  Potenciometro                  |                  Se puede conseguir en lab                 |
+|    14   |            2            |                               |      2 pines      |                      Tblock                     | Se tendrán que comprar si es que no usan los que ya tienen |
+|    15   |            1            |               U1              |      8 pines      |                      Socket                     |                  Se puede conseguir en lab                 |
+|    16   |            1            |               U2              |      16 pines     |                      Socket                     |                   Se tendrán que comprar                   |
+|    17   |            5            |                               |                   |                    Pin Header                   |                  Se puede conseguir en lab                 |
+|    18   |            5            |                               |                   | Cable dupont: terminal receptora a terminal pin |                  Se puede conseguir en lab                 |
+|         |                         |                               |                   |                                                 |                                                            |
+
+
+
+
+
+
 
 ## Markdown tables generator
 
 Se uso la siguiente pagina (<https://www.tablesgenerator.com/markdown_tables#>) para ordenar los siguienetes BOM, con ella se pueden llegar a los siguientes resultados.
 
-|   |   |   |   |   | <https://www.victronics.cl/>|
-|   |   |   |   |   | <https://afel.cl/>  |
-
-| Item  | Se necesitan  | Precio unidad  | Precio cantidad  | Tipo  |   |
-| Resistencias  | Por definir  | x  | $1.390 x 50un  | 100k  | <https://www.victronics.cl/resistencias/resistencia-100k-0-4w-1-1937mm-50ppm-c-50u/>  |
-| Resistencias  | Por definir  | x  | $1.390 x 50un  | 1M  | <https://www.victronics.cl/resistencias/res-1m-04w-1-1937mm-50ppm-c-50u/>  |
-| Resistencias  | Por definir  | x  | $890 x 50un  | 47k  | <https://www.victronics.cl/resistencias/resistencia-47k-5-1-2w-32x9mm-50u/>  |
-| Led  | Por definir  | x  | $590 x 10un (rojo) $740 x 10un (amarillo) $600 x 10un (blanco) $920 x 10un (azul)  | 5mm difuso  | <https://www.victronics.cl/display/led-5mm-azul-difuso-375mcd-60-470nm-10u/>   |
-| LDR  | Por definir  | x  | $990 x 10un  | 5mm 10Mohm GL5549  | <https://www.victronics.cl/sensoresmod/resistencia-ldr-5mm-10mohm-gl5549-10u/>  |
-| Condensadores  | Por definir  | x  | x  | Ceramico 680pF 50V  | <https://www.victronics.cl/condensadores/cond-ceramico-multicapa-680pf-50v-10-x7r-p5mm-10u/>  |
-| Condensadores  | Por definir  | x  | $670 x 10un  | Electrolitico 100UF  | <https://www.victronics.cl/condensadores/cond-electrolitico-100uf-50v20-105oc-812-p4mm-10u/>  |
-| Condensadores  | Por definir  | x  | $990 x 10un  | Electrolitico 220UF/50v  | <https://www.victronics.cl/condensadores/cond-electrolitico-220uf-50v-105oc-1012-5-p5mm-10u/>  |
-| Condensadores  | Por definir  | x  | $540 x 10un  | Electrolitico 220UF/25V  | <https://www.victronics.cl/condensadores/cond-electrolitico-220uf-25v-20-105oc-812-p3-5mm-10u/>  |
-| Condensadores  | Por definir  | x  | $440 x 10un  | Electrolitico 220UF/16v  | <https://www.victronics.cl/condensadores/cond-electrolitico-220uf-16v-20-105oc-6-311-p2-5mm-10u/>  |
-| Diodos  | Por definir  | x  | $840 x 50 un  | 1N4148  |   |
-| Transistores  | Por definir  | $490  | x  | DARL PNP 5A 100V 2W TO220  | <https://www.victronics.cl/transistores/tip127-transistor-darl-pnp-5a-100v-2w-to220/>  |
-| Chips  | Por definir  | $390  | x  | 555  | <https://www.victronics.cl/circuitos-integrados/lm555cngeneralpurposebipolartimerdip8/>  |
-| Puentes  | Por definir  | x  | $990 x 20un  | 20cm  | <https://www.victronics.cl/con-conectores/kit20puentesm-h20cmsp-protoboard/>  |
-| Switch  | Por definir  | x  | x  |   |   |
-| Botón  | Por definir  | x  | $620 x 10un  |   | <https://www.victronics.cl/interruptores/tact-switch-pcb-66h5mm-4p-10u/>  |
-| Pin header  | Por definir  | x  | $320 x 20un  |   | <https://www.victronics.cl/conectores/pin-header-3x1-fila-254mm-10u/>  |
-| Speaker  | Por definir  | x  | x  |   |   |
-| Socket DIP 14  | Por definir  | $600  | x  | DIP14/0.3″ PARA C. INTEGRADO  | <https://www.victronics.cl/conectores/base-dip14-0-3-para-c-integrado-10u/>  |
-| Socket DIP 16  | Por definir  | $470  | x  | DIP 16 PIN TORNEADO  | <https://www.victronics.cl/conectores/base-dip-16-pin-torneado/>  |
-| Socke DIP 16  | Por definir  | $600  | x  | DIP16/0.3″ PARA C. INTEGRADO  | <https://www.victronics.cl/conectores/base-dip16-0-3-para-c-integrado-10u/>  |
-| Socket DIP 20   | Por definir  | $570  | x  | DIP20 PIN TORNEADO  | <https://www.victronics.cl/conectores/base-dip20-pin-torneado/>  |
-| Socket DIP 20   | Por definir  | $890  | x  | DIP20/0.3″ PARA C. INTEGRADO  | <https://www.victronics.cl/conectores/base-dip20-0-3-para-c-integrado-10u/>  |
-| Socket DIP  | Por definir  | x  | $5.990  |   | <https://afel.cl/products/kit-66-sockets-para-circuitos-integrados?_pos=5&_psq=socket&_ss=e&_v=1.0>  |
-| Protoboard  | Por definir  | x  | $8.630 x kit completo  | PB1660  | <https://www.victronics.cl/desarrolloylab/protoboard-1260-400-puntos-con-base/>  |
-| Protoboard  | Por definir  | $1.990  | x  | PROTO400   | <https://www.victronics.cl/desarrolloylab/protoboard-400-puntos/>  |
-| Motor DC Miniatura  | Por definir  | $500  | x  |   | <https://afel.cl/products/3v-0-2a-12000rpm-65gcm-mini-micro-dc-motor-for>  |
-
-- De momento estos son todos los materiales disponibles.
