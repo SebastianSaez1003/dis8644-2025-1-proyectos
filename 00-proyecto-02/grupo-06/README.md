@@ -80,7 +80,7 @@ INCLUIR DESCRIPCIÓN DE MATERIALES COMPRADOS, SI ES QUE COMPRARON COSAS ADICIONA
 
 ### protoboards 
 
-[issue protoboards](https://github.com/orgs/disenoUDP/projects/4/views/1?pane=issue&itemId=115280226&issue=disenoUDP%7Cdis8644-2025-1-proyectos%7C140)
+• [issue protoboards](https://github.com/orgs/disenoUDP/projects/4/views/1?pane=issue&itemId=115280226&issue=disenoUDP%7Cdis8644-2025-1-proyectos%7C140)
 
 ![acc-p-documentar](https://github.com/Anaisbmg/dis8644-2025-1-proyectos/blob/main/00-proyecto-02/grupo-06/imagenes/acc-p-documentar.png) 
 
@@ -92,7 +92,7 @@ no hemos recibido respuesta
 
 ### bom 
 
-[issue bom](https://github.com/orgs/disenoUDP/projects/4/views/1?pane=issue&itemId=115280715&issue=disenoUDP%7Cdis8644-2025-1-proyectos%7C146)
+• [issue bom](https://github.com/orgs/disenoUDP/projects/4/views/1?pane=issue&itemId=115280715&issue=disenoUDP%7Cdis8644-2025-1-proyectos%7C146)
 
 ![acc-b-casoayb](https://github.com/Anaisbmg/dis8644-2025-1-proyectos/blob/main/00-proyecto-02/grupo-06/imagenes/acc-b-casoayb.png) 
 
@@ -106,7 +106,7 @@ duckusu confirmo que en el lab hay pin header y se encargo de guardar las boleta
 
 ### esquematico 
 
-[issue esquemático](https://github.com/orgs/disenoUDP/projects/4/views/1?pane=issue&itemId=115278736&issue=disenoUDP%7Cdis8644-2025-1-proyectos%7C128)
+• [issue esquemático](https://github.com/orgs/disenoUDP/projects/4/views/1?pane=issue&itemId=115278736&issue=disenoUDP%7Cdis8644-2025-1-proyectos%7C128)
 
 ![acc-e-interaccionprevia](https://github.com/Anaisbmg/dis8644-2025-1-proyectos/blob/main/00-proyecto-02/grupo-06/imagenes/acc-e-interaccionprevia.png) 
 
@@ -124,7 +124,7 @@ aarón comento que esta hermoso y que podríamos añadir cajas de texto, lo cual
 
 ### pcb 
 
-[issue pcb](https://github.com/orgs/disenoUDP/projects/4/views/1?pane=issue&itemId=115279178&issue=disenoUDP%7Cdis8644-2025-1-proyectos%7C134)
+• [issue pcb](https://github.com/orgs/disenoUDP/projects/4/views/1?pane=issue&itemId=115279178&issue=disenoUDP%7Cdis8644-2025-1-proyectos%7C134)
 
 ![acc-pcb-forma](https://github.com/Anaisbmg/dis8644-2025-1-proyectos/blob/main/00-proyecto-02/grupo-06/imagenes/acc-pcb-forma.png)
 
@@ -140,7 +140,7 @@ franudp nos comento que en la pagina de jlcpcb salen las dimensiones mínimas pa
 
 ### carcasas 
 
-[issue carcasas](https://github.com/orgs/disenoUDP/projects/4/views/1?pane=issue&itemId=116136542&issue=disenoUDP%7Cdis8644-2025-1-proyectos%7C554)
+• [issue carcasas](https://github.com/orgs/disenoUDP/projects/4/views/1?pane=issue&itemId=116136542&issue=disenoUDP%7Cdis8644-2025-1-proyectos%7C554)
 
 ![acc-c-issuefelix](https://github.com/Anaisbmg/dis8644-2025-1-proyectos/blob/main/00-proyecto-02/grupo-06/imagenes/acc-c-issuefelix.png)
 
