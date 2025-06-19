@@ -82,69 +82,47 @@ INCLUIR DESCRIPCIÓN DE MATERIALES COMPRADOS, SI ES QUE COMPRARON COSAS ADICIONA
 
 • [issue protoboards](https://github.com/orgs/disenoUDP/projects/4/views/1?pane=issue&itemId=115280226&issue=disenoUDP%7Cdis8644-2025-1-proyectos%7C140)
 
-![acc-p-documentar](https://github.com/Anaisbmg/dis8644-2025-1-proyectos/blob/main/00-proyecto-02/grupo-06/imagenes/acc-p-documentar.png) 
+documentar: aarón nos confirmo que era necesario documentar todo el progreso para entender el proceso de aprendizaje
 
-aarón nos confirmo que era necesario documentar todo el progreso para entender el proceso de aprendizaje
-
-![acc-p-feedback](https://github.com/Anaisbmg/dis8644-2025-1-proyectos/blob/main/00-proyecto-02/grupo-06/imagenes/acc-p-feedback.png) 
-
-no hemos recibido respuesta
+feedback: no hemos recibido respuesta
 
 ### bom 
 
 • [issue bom](https://github.com/orgs/disenoUDP/projects/4/views/1?pane=issue&itemId=115280715&issue=disenoUDP%7Cdis8644-2025-1-proyectos%7C146)
 
-![acc-b-casoayb](https://github.com/Anaisbmg/dis8644-2025-1-proyectos/blob/main/00-proyecto-02/grupo-06/imagenes/acc-b-casoayb.png) 
-
-franudp nos ayudo con unos nudos que podríamos utilizar y recomendaciones de como podríamos trabajar nuestra placa, también que podríamos utilizar resina uv para cubrir las conexiones
+casoayb: franudp del grupo 0c nos ayudo con unos nudos que podríamos utilizar y recomendaciones de como podríamos trabajar nuestra placa, también que podríamos utilizar resina uv para cubrir las conexiones
 matías nos comento que podríamos utilizar silicona y también sugirió si utilizábamos tblock deberíamos ocupar terminales para aislar 
 
-![acc-b-boletas](https://github.com/Anaisbmg/dis8644-2025-1-proyectos/blob/main/00-proyecto-02/grupo-06/imagenes/acc-b-boletas.png)
-
-matías nos comento que era probable que existieran los pin header en el lab, y también confirmo nuestra idea de comprar una regleta y utilizar solo 5 pin
-duckusu confirmo que en el lab hay pin header y se encargo de guardar las boletas de los componentes comprados.
+boletas: matías nos comento que era probable que existieran los pin header en el lab, y también confirmo nuestra idea de comprar una regleta y utilizar solo 5 pin
+duckusu del grupo 0c confirmo que en el lab hay pin header y se encargo de guardar las boletas de los componentes comprados.
 
 ### esquematico 
 
-• [issue esquemático](https://github.com/orgs/disenoUDP/projects/4/views/1?pane=issue&itemId=115278736&issue=disenoUDP%7Cdis8644-2025-1-proyectos%7C128)
+[issue esquemático](https://github.com/orgs/disenoUDP/projects/4/views/1?pane=issue&itemId=115278736&issue=disenoUDP%7Cdis8644-2025-1-proyectos%7C128)
 
-![acc-e-interaccionprevia](https://github.com/Anaisbmg/dis8644-2025-1-proyectos/blob/main/00-proyecto-02/grupo-06/imagenes/acc-e-interaccionprevia.png) 
+• interacción previa: aarón comento que era más rápido etiquetar a @disenoUDP/docentes que estar etiquetando uno a uno
+franudp del grupo 0c nos ayudo con correcciones para nuestro esquemático
 
-aarón comento que era más rápido etiquetar a @disenoUDP/docentes que estar etiquetando uno a uno
-franudp nos ayudo con correcciones para nuestro esquemático
-
-![acc-e-simbolo](https://github.com/Anaisbmg/dis8644-2025-1-proyectos/blob/main/00-proyecto-02/grupo-06/imagenes/acc-e-simbolo.png)
-
-aarón nos envió una guía para KiCAD
+• símbolo: aarón nos envió una guía para KiCAD
 matías nos guío con el componente y este como estaba en la footprint
 
-![acc-e-feedbackdiagramacion](https://github.com/Anaisbmg/dis8644-2025-1-proyectos/blob/main/00-proyecto-02/grupo-06/imagenes/acc-e-feedbackdiagramacion.png)
-
-aarón comento que esta hermoso y que podríamos añadir cajas de texto, lo cual se profundizara para el examen
+• feedback diagramación: aarón comento que esta hermoso y que podríamos añadir cajas de texto, lo cual se profundizara para el examen
 
 ### pcb 
 
-• [issue pcb](https://github.com/orgs/disenoUDP/projects/4/views/1?pane=issue&itemId=115279178&issue=disenoUDP%7Cdis8644-2025-1-proyectos%7C134)
+[issue pcb](https://github.com/orgs/disenoUDP/projects/4/views/1?pane=issue&itemId=115279178&issue=disenoUDP%7Cdis8644-2025-1-proyectos%7C134)
 
-![acc-pcb-forma](https://github.com/Anaisbmg/dis8644-2025-1-proyectos/blob/main/00-proyecto-02/grupo-06/imagenes/acc-pcb-forma.png)
+• forma: matías comento que probablemente la pcb haga alusión al sol, seria muy redundante, pero la forma de lentes hacia atrás, la encuentra interesante
 
-matías comento que probablemente la pcb haga alusión al sol, seria muy redundante, pero la forma de lentes hacia atrás, la encuentra interesante
+• screw terminal y lente: franudp del grupo 0c nos corrigió que toda la fuente de poder tuviera el mismo voltaje y matías nos confirmo que estaba bien las footprints de la batería 
 
-![acc-pcb-screwterminalylente](https://github.com/Anaisbmg/dis8644-2025-1-proyectos/blob/main/00-proyecto-02/grupo-06/imagenes/acc-pcb-screwterminalylente.png)
-
-franudp nos corrigió que toda la fuente de poder tuviera el mismo voltaje y matías nos confirmo que estaba bien las footprints de la batería 
-
-![acc-pcb-drc](https://github.com/Anaisbmg/dis8644-2025-1-proyectos/blob/main/00-proyecto-02/grupo-06/imagenes/acc-pcb-drc.png) 
-
-franudp nos comento que en la pagina de jlcpcb salen las dimensiones mínimas para cada perforación, separación.
+• drc: franudp del grupo 0c nos comento que en la pagina de jlcpcb salen las dimensiones mínimas para cada perforación, separación.
 
 ### carcasas 
 
-• [issue carcasas](https://github.com/orgs/disenoUDP/projects/4/views/1?pane=issue&itemId=116136542&issue=disenoUDP%7Cdis8644-2025-1-proyectos%7C554)
+[issue carcasas](https://github.com/orgs/disenoUDP/projects/4/views/1?pane=issue&itemId=116136542&issue=disenoUDP%7Cdis8644-2025-1-proyectos%7C554)
 
-![acc-c-issuefelix](https://github.com/Anaisbmg/dis8644-2025-1-proyectos/blob/main/00-proyecto-02/grupo-06/imagenes/acc-c-issuefelix.png)
-
-santiago especifico las medidas de nuestra pcb y también adjunto el repo en donde podrían ver la información completa
+• issue felix: santiago especifico las medidas de nuestra pcb y también adjunto el repo en donde podrían ver la información completa
 
 ## Esquematico en Kicad (1 punto)
 
