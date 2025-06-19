@@ -2,13 +2,11 @@
 
 ## video, fotografía y gráficas
 
+### Acerca del proyecto
+
 se evaluarán estos 6 aspectos, con un puntaje de 0.0 a 1.0 puntos cada uno, sumando un total de 6 puntos:
 
-## Acerca del proyecto
-
-Integrantes:
-
-jotaMorales, bernardita y camila
+Integrantes: jotaMorales, bernardita y camila
 
 - Bernardita Lobo TODO: agregar enlace a su github.com
 - José Morales TODO: agregar enlace a su github.com
