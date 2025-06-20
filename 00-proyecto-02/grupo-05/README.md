@@ -16,7 +16,7 @@
 
 Ruleta de luces que se activa mediante la detección del sombra y voz del usuario, leyendo su vibra.
 
-El proyecto consiste en una entrada de LDR que detecta sombra, con una salida de secuencia de luces LED que se encienden.
+El proyecto consiste en una entrada con un LDR que detecta sombra, con una salida de secuencia de luces LED que se encienden.
 
 ## Dibujos de diagramas del circuito (1 punto)
 
