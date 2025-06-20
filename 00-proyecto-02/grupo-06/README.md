@@ -245,5 +245,8 @@ Debido a que todos los esquemáticos de referentes para poder ocupar el chip L29
 ## Recursos adicionales
 
 ## Bibliografía
--Datasheet de L293DNE ![Archivo PDF](./grupo-06/datasheets/ne555.pdf)
--Datasheet de 555 Presicion Timer ![Archivo PDF](00-proyecto-02/grupo-06/datasheets/L293NE.PDF)
+- [Datasheet de L293DNE](00-proyecto-02/grupo-06/datasheets/L293NE.PDF)
+- PDF extraido de: https://www.alldatasheet.es/datasheet-pdf/view/26889/TI/L293DNE.html
+
+- [Datasheet de 555 Presicion Timer](./grupo-06/datasheets/ne555.pdf)  
+- PDF extraido de: https://ti.com/lit/ds/symlink/ne555.pdf
