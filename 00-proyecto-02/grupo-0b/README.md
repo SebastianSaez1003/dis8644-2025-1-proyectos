@@ -39,13 +39,13 @@ Se utilizan fondos neutros, planos detalle bien enfocados y una ambientación qu
 
 No se busco sólo mostrar el resultado final, sino también documentar el recorrido completo, destacando las decisiones creativas y técnicas que llevaron al desarrollo del proyecto.
 
-Adjuntar fotos que demuestren lo que describes con palabras
+[![Curso de Alvaro Arteaga en Domestika](https://img.youtube.com/vi/ECKjj8N1EQ0/0.jpg)](https://www.youtube.com/watch?v=ECKjj8N1EQ0)
 
-Si dices fondo neutro, ejemplificar, incluso mostrar lo contrario, qué es no neutro, muchas guías de estilo te muestran lo correcto y lo incorrecto.
+Ya cuando tengamos en nuestro poder las placas y prototipos recomiendo el uso de un fondo neutro (como blanco, gris o negro) no distrae. Permite que la audiencia se concentre en lo que realmente importa.
 
-### Análisis de "The Life of Crystal"
+### The Life of Crystal
 
-Quiero destacar como referente a Mónica Bate, quien durante la visita a la clase nos mostró el video ["The Life of crystal"](https://youtu.be/QwudnMArIaE?si=cQvweEY_z5HVqYQe), donde documenta su proyecto de arte sonoro con cristales piezoeléctricos. Elijo este video como referente porque se acerca más a lo que vamos a hacer en el taller con los trabajos de examen y siento que tiene mayor sintonía con nuestro enfoque. Además, cuenta con una edición y registro simples pero funcionales, bastante minimalistas, donde muestra claramente los avances y la interacción con el usuario.
+También quiero destacar como referente a Mónica Bate, quien durante la visita a la clase nos mostró el video [*The Life of crystal*](https://www.youtube.com/watch?v=kRLh9yuW5Ns), donde documenta su proyecto de arte sonoro con cristales piezoeléctricos. Elijo este video como referente porque se acerca más a lo que vamos a hacer en el taller con los trabajos de examen y siento que tiene mayor sintonía con nuestro enfoque. Además, cuenta con una edición y registro simples pero funcionales, bastante minimalistas, donde muestra claramente los avances y la interacción con el usuario.
 
 ![Foto de referente fotográfico](./imagenes/tme-proyecto02-referente01.jpeg)
 
@@ -53,11 +53,17 @@ Quiero destacar como referente a Mónica Bate, quien durante la visita a la clas
 
 ### Taller celebración UDP Diseño etc
 
-Reels de instragram los cuales muestran el avance de las clases durante el semestre [Taller de Celebración UDP — Instagram](https://www.instagram.com/tallerdecelebracionudp)
+Reels de instragram los cuales muestran el avance de las clases durante el semestre [Taller de Celebración UDP — Instagram](https://www.instagram.com/tallerdecelebracionudp?igsh=dXU0aWNhNmR1dHNq)
 
-Adjuntar fotos explicando lo que ves, y qué quieres rescatar y qué no.
+El responsable de esta sección es @jotamorales-romulus.
 
-***
+A continuación se presentan imágenes de las protoboards usadas.
+
+![Vista protoboard de frente](./imagenes/presentacion-visual-frente.jpg)
+
+![Vista protoboard de arriba](./imagenes/presentacion-visual-arriba.jpg)
+
+A continuación se presentan textos explicativos del prototipado.
 
 ## Instrucciones de documentación en video para consistencia en los proyectos (1 punto)
 

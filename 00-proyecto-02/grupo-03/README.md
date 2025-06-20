@@ -5,7 +5,7 @@
 - Grupo: 03
 - Integrantes:
   - Sofía Cartes
-  - Isabella Gutierrez
+  - Isabella Gutiérrez
   - Valentina Ruz
 - Chips usados:
   - Chip LM324
@@ -13,35 +13,37 @@
 
 ## Presentación textual
 
-Spectra consiste en una entrada que reacciona con el sonido, para controlar ka salida de luces LEDS de colores.
+**Spectra** consiste en una entrada que **reacciona con el sonido,** para controlar la salida de luces **LEDS de colores.**
 
 ## Dibujos de diagramas del circuito (1 punto)
 
 Este es el diagrama a mano comlpleto y del Chip LM324
 
-![dibujo esquematico](./imagenes/esquematico-dibujo.jpg)
+![dibujo esquemático parte 1](./imagenes/esquematico-dibujo-01.jpg)
 
 Este es el diagrama del Chip 4017
 
-![dibujo esquematico 2](./imagenes/esquematico-dibujo2.jpg)
+![dibujo esquematico parte 2](./imagenes/esquematico-dibujo-02.jpg)
 
-En este dibujo mostramos la ayuda de Matías con Ángel; lograron hacer el esquemático del micrófono con el Chip LM324 para poder regular la sensibilidad de este (nos había faltado un condensador de 1 uF en el pin 1) luego desde el pin 14 del chip LM324 poder conectarlo al pin 14 del Chip 4017 y que funcionen las luces.
+![dibujo esquematico parte 3](./imagenes/diagrama-dibujo-esquematico.jpg)
+
+En este dibujo mostramos la ayuda de Matías con Ángel quienes, lograron hacer el esquemático del micrófono con el **Chip LM324** para poder **regular la sensibilidad** de este (nos había faltado un condensador de 1 uF en el pin 1), luego desde el pin 14 del chip LM324 poder conectarlo al pin 14 del Chip 4017 y que funcionen las luces.
 
 ## Prototipado de circuitos en protoboard (1 punto)
 
 A continuación se presentan imágenes de las protoboards usadas.
 
-![vista protoboard frontal](./imagenes/tme-grupo03-registro01.jpg)
+![vista protoboard frontal](./imagenes/tme-grupo03-registro-01.jpg)
 
-![vista protoboard superior](./imagenes/tme-grupo03-registro02.jpg)
+![vista protoboard superior](./imagenes/tme-grupo03-registro-02.jpg)
 
-![vista protoboard detalle 1](./imagenes/tme-grupo03-registro03.jpg)
+![vista protoboard detalle 1](./imagenes/tme-grupo03-registro-03.jpg)
 
-![vista protoboard detalle 2](./imagenes/tme-grupo03-registro04.jpg)
+![vista protoboard detalle 2](./imagenes/tme-grupo03-registro-04.jpg)
 
-- El circuito de entrada reacciona al sonido para medir la sensibilidad del micrófono, mediante un potenciómetro.
+- El circuito de entrada **reacciona al sonido** para medir la sensibilidad del micrófono, mediante un potenciómetro.
 
-- El circuito de salida usa luces LEDS de colores para representar y ver el sonido que entra en el circuito.
+- El circuito de salida usa luces LEDS de colores para **representar, y ver el sonido** que entra en el circuito.
 
 ## Bill of Materials (1 punto)
 
@@ -66,53 +68,55 @@ A continuación se presentan imágenes de las protoboards usadas.
 | Switch        | 1        | spdt            |
 | Bateria        | 1        | 9v              |  
 
-- Los LEDS de 10mm son de colores variados y los LEDS de 5mm uno es de color verde y otro blanco.
+- Los LEDS de 10mm son de **colores variados** y los LEDS de 5mm uno es de **color verde y otro blanco.**
 - En este BOM lo único que nos faltaría sería el Terminal Block de 2 pin y el switch, para poder conectarlo a la fuente de poder.
 
 ## Ayudas y comunicación con colegas (1 punto)
 
-FranUDP del proyecto esquemáticos nos ayudó con poner y encontrar las huellas (footprints) de los Chips LM324 y 4017 en Kicad. La respuesta fue que se llama "DIP-[numeroDePines]W7.62mm-LongPads"
+**FranUDP** del proyecto esquemáticos nos ayudó con **poner y encontrar las huellas** (footprints) de los Chips LM324 y 4017 en Kicad. La respuesta fue que se llama "DIP-[numeroDePines]W7.62mm-LongPads"
 
 <https://github.com/disenoUDP/dis8644-2025-1-proyectos/issues/125#issuecomment-2984535616>
 
 <https://github.com/disenoUDP/dis8644-2025-1-proyectos/issues/137#issuecomment-2984472409>
 
-Duckusu del proyecto BOMS nos ayudó en ver la lista de los componentes e incluir algunas cosas que nos faltaban.
+**Duckusu** del proyecto BOMS nos ayudó en ver la **lista de los componentes e incluir algunas** cosas que nos faltaban.
 
 <https://github.com/disenoUDP/dis8644-2025-1-proyectos/issues/143#issuecomment-2981033544>
 
-Angel oyente de la clase, nos ayudó con el prototipo en protoboard.
+**Angel** oyente de la clase, nos ayudó con el **prototipo en protoboard.**
 
 <https://github.com/disenoUDP/dis8644-2025-1-proyectos/issues/115#issuecomment-2984512973>
 
 ![imagen 1](./imagenes/proyecto-imagen1.jpg)
 
-Paulinavargasf del grupo nos ayudó con el prototipo en protoboard, ya que su grupo tenía un problema parecido con el nuestro, que no le funcionaba el micrófono y nos dijo que el pin 15 iba conectado a GND, pero no nos funcionó.
+**Paulinavargasf** del grupo nos ayudó con el **prototipo en protoboard,** ya que su grupo tenía un problema parecido con el nuestro, que no le funcionaba el micrófono y nos dijo que el pin 15 iba conectado a GND, pero no nos funcionó.
 
 <https://github.com/disenoUDP/dis8644-2025-1-proyectos/issues/137#issuecomment-2984472409>
 
-Misaaaaaa docente nos ayudó con el esquemático para regular el micrófono.
+**Misaaaaaa** docente nos ayudó con el **esquemático para regular el micrófono.**
 
 <https://github.com/disenoUDP/dis8644-2025-1-proyectos/issues/115#issuecomment-2984512973>
 
-Jotamorales-romulu y Bernardita-lobo del proyecto duvumentacionVisual nos ayudaron con fotografiar nuestra protoboard y el registro en clases mediante videos.
+**Jotamorales-romulu y Bernardita-lobo** del proyecto duvumentacionVisual nos ayudaron con fotografiar nuestra protoboard y el registro en clases mediante videos.
 
-<https://drive.google.com/drive/folders/1xyW8lfvPIwpi3rZzOzuXnkZNs_ZTMohJ>
+Ayuda a colegas: <https://github.com/orgs/disenoUDP/projects/4?pane=issue&itemId=115280747&issue=disenoUDP%7Cdis8644-2025-1-proyectos%7C149>
 
 ## Esquematico en Kicad (1 punto)
 
+![esquematico general](./kicad/diagrama-esquematico.pdf)
+
 ![Esquemático general](./imagenes/diagrama-esquematico.jpg)
 
-![Esquemático detalles](./imagenes/esquematico-detalle-01.jpg)
+![Esquemático detalles](./imagenes/chipLM324.png)
 
-![Esquemático detalles](./imagenes/esquematico-detalle-02.jpg)
+![Esquemático detalles](./imagenes/chip4017.png)
 
-En el primer esquemático, es el del Chip LM324, donde conectamos primero el micrófono, luego mediante los condensadores regulamos la sensibilidad de este para que capte mejor los sonidos e incorporamos dos LEDS para ver si el circuito funciona correctamente, dentro de este, el potenciómetro nos da la posibilidad de que elijamos la receptividad.
-En el segundo esquemático es la secuencia/contador de luces mediante el Chip 4017, donde el pin 14 va al pin 14 del LM324, lo cual nos da la posibilidad de la diferente frecuencia de los cuatro LEDS incorporados y que esta dependa del sonido emitido.
+En el primer esquemático, es el del **Chip LM324,** donde conectamos primero el micrófono, luego mediante los condensadores **regulamos la sensibilidad** de este para que capte mejor los sonidos e incorporamos dos LEDS para ver si el circuito funciona correctamente, dentro de este, el potenciómetro nos da la posibilidad de que **elijamos la receptividad.**
+En el segundo esquemático es la **secuencia/contador** de luces mediante el **Chip 4017**, donde el pin 14 va al pin 14 del LM324, lo cual nos da la posibilidad de tener una **frecuencia diferente de los cuatro LEDS** incorporados,y que esta **dependa del sonido emitido.**
 
 DESCRIPCIÓN:
 
-- LM324 nos sirvió para amplificar la señal emitida y poder regular la sensibilidad de la recepción de los sonidos (micrófono)
+- **LM324** nos sirvió para **amplificar la señal emitida y poder regular la sensibilidad** de la recepción de los sonidos (micrófono)
 
 CONEXIONES UTILIZADAS:
 
@@ -126,7 +130,7 @@ CHIP LM324
 
 - pin 5 a GND
 
-- pin 6 va con una conexión al pin 1, pasando por la resistencia de 10k y el condensador de 1uF, anteriormente mencionados.También, está conectado al diodo 1N5819 en serie? a la resistencia de 22k, intersectando con el pin 7 que está conectado al diodo 1N5819, siguiendo a la resistencia de 220, al condensador de 10uF, resistencia 10k, llegando al pin 10.
+- pin 6 va con una conexión al pin 1, pasando por la resistencia de 10k y el condensador de 1uF, anteriormente mencionados. También, está conectado al diodo 1N5819 en serie a la resistencia de 22k, intersectando con el pin 7 que está conectado al diodo 1N5819, siguiendo a la resistencia de 220, al condensador de 10uF, resistencia 10k, llegando al pin 10.
 
 - pin 9 se dirige a la resistencia de 1k, conectando con el pin 8 dirigiéndose a GND por medio una resistencia de 1k y un LED. De igual manera, la conexión anterior pasa por el pin 12.
 
@@ -136,7 +140,7 @@ CHIP LM324
 
 CHIP 4017
 
-- Nos sirvió para hacer la secuencia de luces con un reset por cada beat.
+- Nos sirvió para hacer la **secuencia de luces** con un reset por cada beat.
 
 - Desde el pin 14 del LM324N se dirige al pin 14 del 4017.
 
@@ -160,11 +164,17 @@ CHIP 4017
 
 ![PCB detalle 1](./kicad/proyecto_detalle3.jpg)
 
+![PCB completo](./kicad/pcb-kicad.jpg)
+
+![pdf 1](./kicad/spectra-pcb.pdf)
+
+![pdf 2](./kicad/spectra-pcb1.pdf)
+
 Enlace de la PCB para ver los PDF <https://drive.google.com/drive/folders/13fPj71c8mFoW2-MyDWrl_n2MRV8LrotA?usp=sharing>
 
 ## Recursos adicionales
 
-- El chip LMV324M del SparkFun Sound Detector lo desglosamos, por así decirlo, para tener el chip aparte y poder regular la sensibilidad del micrófono.
+- El **Chip LMV324M** del SparkFun Sound Detector **lo desglosamos**, por así decirlo, para tener el chip aparte y **poder regular la sensibilidad del micrófono.**
 
 <https://www.sparkfun.com/sparkfun-sound-detector.html>
 
