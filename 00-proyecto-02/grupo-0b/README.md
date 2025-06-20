@@ -292,5 +292,13 @@ Por otro lado, pude indagar que "Space Grotesk" fue la fuente usada. Esta diseñ
 
 ▼ Fuente: [Unblast](https://unblast.com/space-grotesk-sans-serif-font/).
 
+Ya con estos antecedentes decidí realizar un "moodboard", un collage de referentes que reune las ideas que tengo en mente para las gráficas tales como logotipo, desarrollo del video, texturas, figuras y formas, colores, entre otros. Para ello decidí indagar usando páginas tales como [Behance](https://www.behance.net/) y [Pinterest](https://es.pinterest.com/Cs_Key/%E1%B4%8D%CA%8F-%CA%99%CA%80%E1%B4%80%C9%B4%E1%B4%85/). En el caso de la segunda página, suelo usarla bastante para navegar y descubrir cosas nuevas que voy agregando a mis tableros personales, obteniendo referencias que vienen desde distintas partes (afiches, logotipos, experimentos, entre otros).
+
+![alt-text](./diseno-grafico/moodboard/moodboard-ideas_de_graficas_e_identidad.png)
+
+▼ Fuente: Recurso de manufactura propia. Producción hecha con Illustrator.
+
+En la imagen se puede apreciar influencias del mundo análogo y digital, las cuales contrastan y se acompañan, lo cuál ocurre dentro del taller. Se puede identificar el uso de tramas sobrepuestas sobre imágenes, 
+
 
 ## Bibliografía
