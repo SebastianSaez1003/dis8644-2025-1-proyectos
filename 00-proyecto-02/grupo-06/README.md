@@ -23,7 +23,6 @@ Este es el diagrama a mano, desde la perspectiva de un usuario interactuando con
 
 ![Dibujo del diagrama a mano](./imagenes/diagramaFlujo-dibujo.jpg)
 
-
 ## Prototipado de circuitos en protoboard (1 punto)
 
 En un principio queríamos que nuestro circuito funcionara gracias a un servomotor para crear un movimiento controlado al interactuar con nuestro producto, pero no funcionó ningún circuito que encontramos en internet, y los que sí funcionaban requieren Arduino para su funcionamiento.
@@ -128,32 +127,32 @@ Compramos 3 interruptores switch de 6 Pines ON-OFF-ON y también 1 motorreductor
   - conclusión: era necesario documentar todo el progreso para entender el proceso de aprendizaje  
 
 - [issue 02](https://github.com/disenoUDP/dis8644-2025-1-proyectos/issues/140#issuecomment-2986736213)  
-   - emisor: SebastianSaez1003
-   - enviado a: IzhakVillegas del grupo 00c y docentes
-   - temática: feedback de formato
-   - conclusión: no hemos recibido respuesta
+  - emisor: SebastianSaez1003
+  - enviado a: IzhakVillegas del grupo 00c y docentes
+  - temática: feedback de formato
+  - conclusión: no hemos recibido respuesta
 
--  [issue 03](https://github.com/disenoUDP/dis8644-2025-1-proyectos/issues/148#issuecomment-2981757431)
-   - emisor: SebastianSaez1003  
-   - enviado a: bumwox del grupo 02
-   - temática: asistencia en armado del prototipo en protoboard
-   - conclusión: se ordenó y comprendió de mejor manera cómo pasar del esquemático a la protoboard para que se llegase a un resultado funcional.   
+- [issue 03](https://github.com/disenoUDP/dis8644-2025-1-proyectos/issues/148#issuecomment-2981757431)
+  - emisor: SebastianSaez1003  
+  - enviado a: bumwox del grupo 02
+  - temática: asistencia en armado del prototipo en protoboard
+  - conclusión: se ordenó y comprendió de mejor manera cómo pasar del esquemático a la protoboard para que se llegase a un resultado funcional.
 
 - Ayuda presencial Jueves 19 de Junio 2025
-   - emisor: SebastianSaez1003  
-   - enviado a: bumwox del grupo 02
-   - temática: integración del piezoeléctrico, jack para audífonos y conexiones finales.
-   - conclusión: se integraron los componentes finales del proyecto, logrando identificar en qué lugares existían problemas de conexiones entre componentes, fijándolos en la protoboard y consiguiendo un funcionamiento constante y replicable.  
+  - emisor: SebastianSaez1003  
+  - enviado a: bumwox del grupo 02
+  - temática: integración del piezoeléctrico, jack para audífonos y conexiones finales.
+  - conclusión: se integraron los componentes finales del proyecto, logrando identificar en qué lugares existían problemas de conexiones entre componentes, fijándolos en la protoboard y consiguiendo un funcionamiento constante y replicable.  
 
-### bom 
+### bom
 
 [issue bom](https://github.com/orgs/disenoUDP/projects/4/views/1?pane=issue&itemId=115280715&issue=disenoUDP%7Cdis8644-2025-1-proyectos%7C146)
 
 - [issue 04](https://github.com/disenoUDP/dis8644-2025-1-proyectos/issues/146#issuecomment-2982287337)  
-   - emisor: anaisbmg  
-   - enviado a: franudp del grupo 0c y docentes 
-   - temática:  recomendación para conectar switch 6 pines
-   - conclusión: existen nudos para cables y que podriamos utlizar resina uv o silicona para cubrir las conexiones y sí utilizábamos tblock deberíamos ocupar terminales para aislar 
+  - emisor: anaisbmg  
+  - enviado a: franudp del grupo 0c y docentes
+  - temática:  recomendación para conectar switch 6 pines
+  - conclusión: existen nudos para cables y que podriamos utlizar resina uv o silicona para cubrir las conexiones y sí utilizábamos tblock deberíamos ocupar terminales para aislar
 
 - [issue 05](https://github.com/disenoUDP/dis8644-2025-1-proyectos/issues/146#issuecomment-2986084119)  
   - emisor: anaisbmg

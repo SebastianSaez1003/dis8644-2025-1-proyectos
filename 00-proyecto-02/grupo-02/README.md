@@ -9,7 +9,6 @@
   - Sofía Pérez
 - Chips usados:
   - Chip lm324
- 
 
 ## Presentación textual
 
@@ -26,6 +25,7 @@ El proceso inicia cuando la batería es conectada a la PCB. Si la batería tiene
 
 Una vez activo, si se golpea la tapa (bongo), se genera una señal de audio.  
 Esa señal se dirige dependiendo del estado del jack de salida:  
+
 - Si **está conectado**, la señal se envía al **jack de salida**.  
 - Si **no está conectado**, la señal se envía al **parlante incorporado**.
 
@@ -159,4 +159,5 @@ PCB en PDF
 [bongazo_proyectoexamen (1).pdf](https://github.com/user-attachments/files/20829910/bongazo_proyectoexamen.1.pdf)
 
 ## Bibliografía
-https://www.electrofaustus.com/ef105-drum-thing
+
+<https://www.electrofaustus.com/ef105-drum-thing>
