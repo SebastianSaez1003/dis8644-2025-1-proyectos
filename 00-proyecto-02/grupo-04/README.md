@@ -15,7 +15,7 @@
 
 DESCRIPCIÓN DEL PROYECTO EN UNA LÍNEA, SIN PUNTOS SEGUIDOS.
 
-El proyecto consiste en un juguete para gato que funciona con un LDR que controla la activación de un motor dc
+El proyecto consiste en un juguete para gato que funciona con un LDR que controla mediante luz o sombra la activación de un motor dc
 
 El proyecto consiste en una entrada que XX, para CONTROLAR/OTRO VERBO
 
@@ -78,11 +78,13 @@ DESCRIBIR CHIPS USADOS, CONEXIONES USADAS.
 
 ![PCB general](./imagenes/pcb-general.jpg)
 
-![PCB detalles](./imagenes/pcb-detalle-01.jpg)
+![PCB detalles](./imagenes/pcb-detalle-01.JPG)
 
-![PCB detalles](./imagenes/pcb-detalle-02.jpg)
+![PCB detalles](./imagenes/pcb-detalle-02.JPG)
 
-![PCB 3D](./imagenes/pcb-3d.jpg)
+![PCB 3D](./imagenes/pcb-3d.JPG)
+
+![PCB 3D](./imagenes/pcb-3d-02.JPG)
 
 ## Recursos adicionales
 
