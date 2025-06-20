@@ -278,4 +278,6 @@ Frente al tipo de material presente he de concluir que no solo son de carácter 
 
 Dado que el "Laboratorio de interacción digital" ya posee una gráfica definida, decidí averiguar sobre la tipografía con la cuál trabaja. "Space Grotesk" es una fuente
 
+
+
 ## Bibliografía
