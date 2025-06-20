@@ -84,7 +84,7 @@ Para cada sesión, se realizará un registro audiovisual mediante el uso de una 
 
 ### Almacenamiento
 
-- Los videos serán almacenados en el computador de @jotamorales-romulus. Al finalizar cada clase, los videos se pasarán a través de un adaptador de tarjeta sd
+- Los videos serán almacenados en el computador de @jotamorales-romulus. Al finalizar cada clase, los videos se pasarán a través de un adaptador de tarjeta sd.
 - Pedir disco duro en lab para almacenar videos a futuro.
   
 ### Reels
@@ -108,20 +108,20 @@ Para cada sesión, se realizará un registro audiovisual mediante el uso de una 
 
 ### Intro del video
 
-- Nombre taller, Profesores y ayudante
-- Logos lab y taller
-- Breve introducción del taller
+- Nombre taller, Profesores y ayudante.
+- Logos lab y taller.
+- Breve introducción del taller.
 
 ### Proyectos
 
-- Primero, se mostrará parte del registro del taller
+- Primero, se mostrará parte del registro del taller.
 
 El video de cada grupo debe incluir:
 
-- Nombre del grupo cuando aparezca su proyecto en pantalla  
-- Nombre de los integrantes  
-- Breve descripción del proyecto  
-- Imágenes del proceso y resultado final
+- Nombre del grupo cuando aparezca su proyecto en pantalla.
+- Nombre de los integrantes.
+- Breve descripción del proyecto.
+- Imágenes del proceso y resultado final.
   
 ¿Cómo se hará?
 
@@ -130,25 +130,25 @@ El video de cada grupo debe incluir:
   
 ### Registro del proceso
 
-- Prototipos en protoboard  
-- Montaje y pruebas del circuito  
-- Interacción con el usuario
+- Prototipos en protoboard.  
+- Montaje y pruebas del circuito.  
+- Interacción con el usuario.
 
 ### Resultado
 
-- Prototipo funcionando en protoboard
-- Prototipo funcionando en PCB
-- Prototipo funcionando en caja o carcasa
-- Montaje estético, funcional, mecánico y eléctrico
-- Uso en contexto
+- Prototipo funcionando en protoboard.
+- Prototipo funcionando en PCB.
+- Prototipo funcionando en caja o carcasa.
+- Montaje estético, funcional, mecánico y eléctrico.
+- Uso en contexto.
 
 ### Formato y resolución de los videos
 
-- Formato horizontal o vertical
-- Resolución mínima: 1080p (Full HD)
-- FPS: 30 cuadros por segundo
+- Formato horizontal o vertical.
+- Resolución mínima: 1080p (Full HD).
+- FPS: 30 cuadros por segundo.
 - Al exportar los videos, se verificará que los formatos estén correctos.
-- Videos pesados se compartiran por wetransfer a aaron.montoya@mail.udp.cl
+- Videos pesados se compartiran por wetransfer a aaron.montoya@mail.udp.cl.
 
 ### Audio
 
@@ -162,10 +162,10 @@ El video de cada grupo debe incluir:
 - Fondos neutros y no neutros.
 
 ### Creditos 
-- Nombre taller
-- Profesores y ayudantes 
-- Integrantes del curso divididos por grupo (nombre y apellido)
-- Año
+- Nombre taller.
+- Profesores y ayudantes.
+- Integrantes del curso divididos por grupo (nombre y apellido).
+- Año.
 
 ### Checklist de grabación por grupo FINAL
 
@@ -175,10 +175,6 @@ El video de cada grupo debe incluir:
 - [ ] Archivos bien nombrados: `grupoXX-nombre-2024-06-14.mp4`  
 - [ ] Entrega vía wetransfer (archivo para portafolio)
   
-
-
-
-
 ***
 
 ## referentes de documentación en imagen y plan de documentación (1 punto)
