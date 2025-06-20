@@ -213,29 +213,283 @@ Desarrollado en google sheets: <https://docs.google.com/spreadsheets/d/1CT1RtA_B
 
 El responsable de esta sección es @IzhakVillegas.
 
+A continuación se presenta documentación de cada grupo respecto a los diagramas de bloques en formato de citas, se añade una visualización en escritura de flowchart (mermaid) para su posible lectura en .markdown (github) y una descripción del circuito en términos simplificados.
+
+Para la construcción de los flowchart se utilizó <https://www.mermaidchart.com/>, los carácteres de interrogación '¿' no son admitidos por mermaid en github por lo que se omitieron.
+
 ### Texto sobre diagramas de bloque del proyecto-01
+
+- Luz de noche en secuencia gradual con forma de nube
+  
+![diagrama b grupo 01](https://raw.githubusercontent.com/disenoUDP/dis8644-2025-1-proyectos/main/00-proyecto-02/grupo-01/imagenes/diagrama-mano.jpeg)
+
+> En este dibujo mostramos en orden cómo se efectúa la secuencia de luces o no, según sea que esté en una habitación con luz u oscuridad.
+
+```mermaid
+flowchart TB
+    A["Apagar luces habitación"] -- LDR --> B("¿Hay oscuridad total?")
+    B --> C{"Evaluar"}
+    C -- Sí --> D["Luces lámpara se encienden"]
+    C -- No --> E["No se enciende la lámpara"]
+    D --> n1["Comienza secuencia de luces"]
+```
+
+### Explicación:
+
+Se trata de un sistema inverso de detección de luz el cual enciende una lámpara de manera gradual.
+
+1. Inicio: Al apagar las luces de la habitación.
+2. Condición: Verifica si hay oscuridad total.
+   - Si es verdadero : Enciende la lámpara e inicia una secuencia de luces.
+   - Si es falso : La lámpara permanece apagada.
+3. Resultado: Dependiendo de la condición, sigue un flujo u otro.
+
 
 ### Texto sobre diagramas de bloque del proyecto-02
 
-Basado en el diagrama subido por @AntFuentealba[https://github.com/disenoUDP/dis8644-2025-1-proyectos/issues/114]
+- Máquina de tapa percutible
 
-flowchart TD
-    A[Batería conectada a PCB] --> B{¿Batería con carga?}
-    B -->|Sí| C[Sistema activo]
-    B -->|No| D[Sistema inactivo]
-    C --> E[Se golpea el bongo]
-    E --> F[Genera señal de audio]
-    F --> G{¿Está conectado el Jack?}
-    G -->|Sí| H[Envía señal al Jack de salida]
-    G -->|No| I[Envía señal al parlante incorporado]
+![diagrama b grupo 02](https://private-user-images.githubusercontent.com/203294124/457129183-2f9173ac-fbaf-41d8-a75c-6c47360f2501.jpeg?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTAzOTczMTAsIm5iZiI6MTc1MDM5NzAxMCwicGF0aCI6Ii8yMDMyOTQxMjQvNDU3MTI5MTgzLTJmOTE3M2FjLWZiYWYtNDFkOC1hNzVjLTZjNDczNjBmMjUwMS5qcGVnP1gtQW16LUFsZ29yaXRobT1BV1M0LUhNQUMtU0hBMjU2JlgtQW16LUNyZWRlbnRpYWw9QUtJQVZDT0RZTFNBNTNQUUs0WkElMkYyMDI1MDYyMCUyRnVzLWVhc3QtMSUyRnMzJTJGYXdzNF9yZXF1ZXN0JlgtQW16LURhdGU9MjAyNTA2MjBUMDUyMzMwWiZYLUFtei1FeHBpcmVzPTMwMCZYLUFtei1TaWduYXR1cmU9YjMyZDQxY2IyZjgzZGVmZTk1ODg5YTVkNTUzOGM1NzRhOTViZmNhNmE0MWQ0MDVjYThmNmQ0ZWUzM2FiZjY1MyZYLUFtei1TaWduZWRIZWFkZXJzPWhvc3QifQ.kcDDMk_rRP70AaTEWxErgSzbYgEG_EIDYoajvd-5Z7Y)
+
+
+▲ **Figura:**  Dibujo de diagrama de bloque grupo 02 issue. Diagrama subido por @AntFuentealba[https://github.com/disenoUDP/dis8644-2025-1-proyectos/issues/114]. Consultado el 19 de junio de 2025.
+
+```mermaid
+flowchart TB
+    A["Batería conectada a PCB"] -- <br> --> B("¿Batería con carga?")
+    B --> C{"Evaluar"}
+    C -- Sí --> D["Sistema activo"]
+    C -- No --> E["Sistema inactivo"]
+    D --> n1["Se golpea el bongó"]
+    n1 --> n2["Genera señal de audio"]
+    n2 --> n3{"¿Está conectado al Jack?"}
+    n3 --> n4["Sí"] & n5["No"]
+    n4 --> n6["Envía señal al Jack de salida"]
+    n5 --> n7["Envía señal al parlante incorporado"]
+```
+
+> En este dibujo mostramos el funcionamiento lógico del sistema de percusión electrónica.
+El proceso inicia cuando la batería es conectada a la PCB. Si la batería tiene carga, el sistema se activa; de lo contrario, permanece inactivo.
+
+> Una vez activo, si se golpea la tapa (bongo), se genera una señal de audio.
+Esa señal se dirige dependiendo del estado del jack de salida:
+
+> Si está conectado, la señal se envía al jack de salida.  Si no está conectado, la señal se envía al parlante incorporado. Este flujo asegura que el sistema responda correctamente al estímulo físico, priorizando la salida externa cuando esté disponible.
+
+▲ **Fuente:** Grupo 02. _Descripción de funcionamiento_. TDME. Consultado de <https://github.com/disenoUDP/dis8644-2025-1-proyectos/tree/main/00-proyecto-02/grupo-02>. Consultado el 19 de junio de 2025.
+
+Este diagrama de flujo describe el funcionamiento básico de un bongó electrónico (un instrumento musical electrónico que simula un bongó tradicional).
+
+
+Es un sistema simple que detecta golpes, genera sonido y lo dirige a una salida externa (si existe) o al altavoz integrado.
+
+### Explicación
+
+1. Alimentación:  
+
+El sistema se activa solo si la batería tiene carga; de lo contrario, queda inactivo.  
+
+2. Entrada:
+
+Cuando el usuario golpea el bongó, se genera una señal de audio.  
+
+4. Salida de audio:
+
+El sistema verifica si hay un jack de auriculares/amplificador conectado:  
+- Si está conectado : envía el audio por el jack.  
+- Si no está conectado : reproduce el sonido por el parlante interno.  
 
 ### Texto sobre diagramas de bloque del proyecto-03
 
+- Spectra:
+
+```mermaid  
+flowchart TB
+    A[Entrada de Audio] --> B[Procesamiento]
+    B --> C[Secuenciador]
+    C --> D[Salida Visual]
+    E[Fuente de Poder] --> A
+    E --> B
+    E --> C
+    E --> D
+    F[Controles] --> B
+```
+
+La entrada (input) reacciona al nivel de sonido para medir la sensibilidad del micrófono, mediante un potenciómetro.
+
+El output usa luces LED de colores para representar, y ver el sonido que entra en el circuito.
+
+    
 ### Texto sobre diagramas de bloque del proyecto-04
+
+-    Juguete automático para gato
+
+![diagrama b grupo 04](https://raw.githubusercontent.com/disenoUDP/dis8644-2025-1-proyectos/main/00-proyecto-02/grupo-04/imagenes/DIAGRAMADEFLUJO02.png)
+
+▲ **Figura:** Diagrama de bloque gráfico proyecto-04. Consultado de <https://raw.githubusercontent.com/disenoUDP/dis8644-2025-1-proyectos/main/00-proyecto-02/grupo-04/imagenes/DIAGRAMADEFLUJO02.png>. Consultado el 19 de junio de 2025.
+
+```mermaid
+flowchart TB
+    A["Inicio"] -- <br> --> B["Hay suficiente sombra?"]
+    B --> C["Sí"] & n1["No"]
+    C -- LDR --> n2["Activa el temporizador"]
+    n2 --> n3["Genera un pulso de salida temporizado"]
+    n3 --> n4["Activa el MOSFET (IRLZ44N)"]
+    n4 --> n5["Enciende el motor DC"]
+    n5 --> n6["Juguete automático para gato"]
+    n1 --> n6
+
+    B@{ shape: diam}
+    C@{ shape: rect}
+```
+
+###  Explicación:
+
+- Inicio -> ¿Hay suficiente sombra?
+
+- Sí -> Se activa el 555 que genera un pulso -> Se activa el MOSFET -> Enciende el motor -> Juguete automático.
+- No -> Juguete automático.
+
+- Inicio: Punto de partida del sistema, aquí se enciende el circuito y comienza la supervisión del entorno a través del LDR.
+
+- Detección del gato: El sistema evalúa si el gato está en frente del sensor, lo sabe ya que el gato se para en frente y bloquea la luz.
+
+- Activa el motor: El sensor al detectar poca luz, se activa el timer 555 que envía la señal para activar el motor.
+
+- Desactivar el motor: El sensor detecta que el gato se va, el sistema corta señal al motor.
+
+> "Juguete automático para gatos que funciona con un sensor de luz (LDR). Cuando el gato se coloca frente al sensor, su sombra reduce la luz que llega al LDR, lo que activa el motor del juguete. Si el gato se aleja, vuelve a llegar luz al sensor, lo que hace que el motor se apague. Así, el juguete se enciende solo cuando el gato está presente y se apaga automáticamente cuando se va".
+
+▲  **Fuente:** Dibujo y descripción de diagrama proyecto-04. TDME. Consultado de <https://github.com/disenoUDP/dis8644-2025-1-proyectos/tree/main/00-proyecto-02/grupo-04>. Consultado el 19 de junio de 2025.
 
 ### Texto sobre diagramas de bloque del proyecto-05
 
+```mermaid
+flowchart TB
+    A[Inicio] --> B{"Se detecta sombra?"}
+    B -->|Sí| C["Activar secuencia LED ruleta"]
+    B -->|No| D["Ruleta LED apagada"]
+    C --> E{"Sigue detectando sombra?"}
+    E -->|Sí| C
+    E -->|No| D
+    A --> F{"Se detecta sonido?"}
+    F -->|Sí| G["Encender LED de voz"]
+    F -->|No| H["Apagar LED de voz"]
+    G --> F
+    H --> F
+```
+
+> "Al detectar una sombra, el dispositivo activa una secuencia de luces LED en forma de ruleta, y esta secuencia se mantiene desactivada mientras no se detecten sombras; y al detectar sonido, se enciende un LED separado de esta secuencia que le hace saber al usuario que su voz está siendo captada. La detección de sonido en sí no afecta al detector de sombra o la ruleta de LEDs".
+
+▲  **Fuente:** Grupo 05. _Descripción de proyecto-05._ TDME. Consultado de <https://github.com/disenoUDP/dis8644-2025-1-proyectos/tree/main/00-proyecto-02/grupo-05>. Consultado el 19 de junio de 2025.
+
+
+Este diagrama de flujo describe un sistema que combina dos funcionalidades principales: detección de sombra y detección de sonido, controlando diferentes secuencias de LEDs en función de estas entradas.
+
+### Explicación:
+
+- Inicio:
+
+El sistema comienza en el estado inicial, donde ambos sensores (de sombra y de sonido) están en espera de una señal.
+
+- Detección de sombra:
+
+Condición: 
+
+- Sí (se detecta sombra):
+
+El sistema activa una secuencia de LEDs en modo "ruleta".
+
+Luego, verifica si sigue detectando sombra.  
+
+1. Si sigue detectando:
+
+La secuencia de la ruleta LED continúa.  
+
+2. Si ya no detecta sombra:
+
+Apaga la ruleta LED y vuelve al estado inicial.
+
+- No (no hay sombra).
+
+La ruleta LED permanece apagada.
+
+- Detección de sonido.
+
+Este flujo es independiente del anterior (funciona en paralelo):
+
+Condición:
+
+1. Sí (se detecta sonido):
+
+- Enciende un LED específico para voz (por ejemplo, un LED que indica que el sistema está captando audio).
+- Luego, vuelve a verificar si hay sonido.
+
+2. No (no hay sonido):
+
+- Apaga el LED de voz y sigue monitoreando.
+
 ### Texto sobre diagramas de bloque del proyecto-06
+
+- FPS555: Dispositivo de protección ocular con posición adaptable
+
+![diagrama b grupo 06](https://raw.githubusercontent.com/disenoUDP/dis8644-2025-1-proyectos/main/00-proyecto-02/grupo-06/imagenes/diagramaFlujo-dibujo.jpg)
+
+>    "Este es el diagrama a mano, desde la perspectiva de un usuario interactuando con nuestro proyecto".
+
+▲  **Fuente:** Dibujo y descripción de diagrama proyecto-06. TDME. Consultado de <https://github.com/disenoUDP/dis8644-2025-1-proyectos/tree/main/00-proyecto-02/grupo-06>. Consultado el 19 de junio de 2025.
+
+```mermaid
+flowchart TB
+    A["Colocar fps555 en la cabeza"] -- <br> --> B("E° inicial centrado")
+    B --> C{"Evaluar"}
+    C -- <br> --> D["Switch hacia arriba"] & E["Switch hacia abajo"]
+    D --> n1["Lentes suben"]
+    E --> n8["Lentes bajan"]
+    n1 --> n9["Evaluar"]
+    n9 --> n10["Switch centrado"] & n11["Switch hacia arriba"]
+    n11 --> n13["Lentes siguen subiendo"]
+    n8 --> n14["Evaluar"]
+    n14 --> n15["Switch hacia abajo"] & n16["Switch al centro"]
+    n15 --> n17["Lentes siguen bajando"]
+    n16 --> n18["Detención motor"]
+    n10 --> n19["Detención motor"]
+    n13 --> n9
+    n17 --> n14
+    n18 --> C
+    n19 --> C
+
+    n9@{ shape: diam}
+    n14@{ shape: diam}
+```
+    
+### Explicación:
+
+- Inicio:
+
+Se coloca el dispositivo fps555 (posiblemente un sensor o controlador) en la cabeza.
+
+El sistema inicia con el eje (E°) en posición centrada.
+
+- Evaluación inicial:
+
+El sistema verifica la posición del switch:
+
+Si el switch está hacia arriba: Los lentes suben.
+
+En cambio si el switch está hacia abajo: Los lentes bajan.
+
+- Movimiento continuo:
+
+1.    Si los lentes están subiendo: El sistema evalúa nuevamente.
+2.    Si el switch vuelve al centro: El motor se detiene.
+3.    Si el switch sigue hacia arriba: Los lentes siguen subiendo y se repite la evaluación.
+4.    Si los lentes están bajando: El sistema evalúa nuevamente.
+5.    Si el switch vuelve al centro: El motor se detiene.
+6.    Si el switch sigue hacia abajo: Los lentes siguen bajando y se repite la evaluación.
+
+- Retorno al estado de evaluación:
+- Tras detenerse, el sistema regresa a la evaluación inicial para esperar nuevas instrucciones.
 
 ## Revisión de esquemáticos en KiCad de los proyectos (1 punto)
 
@@ -270,3 +524,7 @@ El responsable de esta sección es @FranUDP.
 ### Revisión de PCB del proyecto-06
 
 ## Bibliografía
+
+1. Tienda de componentes para evaluar sus respectivos precios. <https://www.victronics.cl>
+2. Tienda de componentes para evaluar sus respectivos precios. <https://afel.cl/>
+3. Repositorio del taller dis8644-2025 (1). <https://github.com/disenoUDP/dis8644-2025-1-proyectos/tree/main/00-proyecto-02/>
