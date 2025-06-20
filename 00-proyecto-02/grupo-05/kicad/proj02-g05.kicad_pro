@@ -468,7 +468,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "kicad-proj02.kicad_pro",
+    "filename": "proj02-g05.kicad_pro",
     "version": 3
   },
   "net_settings": {
@@ -507,7 +507,7 @@
       "plot": "C:/Users/napil/Downloads/taller/",
       "pos_files": "",
       "specctra_dsn": "",
-      "step": "",
+      "step": "../../../../../OneDrive/Escritorio/PCB-grupo-05.step",
       "svg": "",
       "vrml": ""
     },
