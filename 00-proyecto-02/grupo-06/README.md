@@ -21,7 +21,7 @@ fps555 es un dispositivo de protección ocular con posición adaptable mecánica
 
 Este es el diagrama a mano.
 
-![Dibujo del diagrama a mano](./imagenes/diagramFlujo-dibujo.jpg)
+![Dibujo del diagrama a mano](./imagenes/diagramaFlujo-dibujo.jpg)
 
 En este dibujo mostramos XX.
 
@@ -242,7 +242,9 @@ Debido a que todos los esquemáticos de referentes para poder ocupar el chip L29
 
 ![PCB detalles](./imagenes/pcb-detalle-02.jpg)
 
-![PCB 3D](./imagenes/pcb-3d.jpg)
+![PCB 3D por delante](./imagenes/fps555-fRender.png)
+
+![PCB 3D por delante](./imagenes/fps555-bRender.png)
 
 ## Recursos adicionales
 
