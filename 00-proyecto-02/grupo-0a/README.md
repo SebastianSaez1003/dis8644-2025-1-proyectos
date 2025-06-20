@@ -11,9 +11,14 @@ Integrantes:
 
 ### Medidas de placas PCB del proyecto-01
 
-> FALTAN LAS IMÁGENES
+![vista pcb grupo-01](./imagenes/pcb-grupo-01-01.png)
 
-Son 3 PCBs: 1 mide aproximadamente 100mm x Xmm, las otras 2 miden menos de 100mm
+![vista pcb grupo-01](./imagenes/pcb-grupo-01-02.png)
+
+Son 4 PCBs de 2 tamaños distintos:
+
+- 3 PCBs de 15x100mm
+- 1 PCB de 40x100mm
 
 ### Medidas de placas PCB del proyecto-02
 
@@ -21,11 +26,13 @@ Son 3 PCBs: 1 mide aproximadamente 100mm x Xmm, las otras 2 miden menos de 100mm
 
 Su proyecto es un bombo eléctrico. Recibe señal mediante un piezo eléctrico y genera sonido.
 
-Su PCB tiene forma de estrella o explosión, pero se basaron en un círculo de 100mm de diámetro
+Una de sus PCB tiene forma de estrella o explosión, pero se basaron en un círculo de 100mm de diámetro
+
+La otra mide 120x60mm
 
 ![sketch de carcasa de grupo-02](./imagenes/sketch-grupo-02-01.jpg)
 
-![propuesta para la pcb de grupo-02](./imagenes/sketch-grupo-02-02.jpg)
+![propuesta para la pcb de grupo-02](./imagenes/propuesta-pcb-grupo-02-01.png)
 
 Los dibujos son hechos por el grupo-02
 
@@ -131,4 +138,5 @@ TODO
 
 ## Bibliografía
 
-TODO
+- [sesion-15b de clifford1one](https://github.com/clifford1one/dis8644-2025-1-proyectos/tree/main/07-clifford1one/sesion-15b)
+- [GitHub de ayudas y anuncios](https://github.com/orgs/disenoUDP/projects/4/views/1)
