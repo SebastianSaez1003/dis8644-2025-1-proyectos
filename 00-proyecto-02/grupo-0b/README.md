@@ -84,8 +84,9 @@ Para cada sesión, se realizará un registro audiovisual mediante el uso de una 
 
 ### Almacenamiento
 
-- Los videos serán almacenados en el computador de @jotamorales-romulus. Al finalizar cada clase, los videos se pasarán a través de un adaptador de tarjeta sd
-
+- Los videos serán almacenados en el computador de @jotamorales-romulus. Al finalizar cada clase, los videos se pasarán a través de un adaptador de tarjeta sd.
+- Pedir disco duro en lab para almacenar videos a futuro.
+  
 ### Reels
 
 - Videos de entre 30 segundos y 1 minuto, en formato vertical (9:16), pensados para redes sociales como Instagram.
@@ -107,20 +108,20 @@ Para cada sesión, se realizará un registro audiovisual mediante el uso de una 
 
 ### Intro del video
 
-- Nombre taller, Profesores y ayudante
-- Logos lab y taller
-- Breve introducción del taller
+- Nombre taller, Profesores y ayudante.
+- Logos lab y taller.
+- Breve introducción del taller.
 
 ### Proyectos
 
-- Primero, se mostrará parte del registro del taller
+- Primero, se mostrará parte del registro del taller.
 
 El video de cada grupo debe incluir:
 
-- Nombre del grupo cuando aparezca su proyecto en pantalla  
-- Nombre de los integrantes  
-- Breve descripción del proyecto  
-- Imágenes del proceso y resultado final
+- Nombre del grupo cuando aparezca su proyecto en pantalla.
+- Nombre de los integrantes.
+- Breve descripción del proyecto.
+- Imágenes del proceso y resultado final.
   
 ¿Cómo se hará?
 
@@ -129,25 +130,25 @@ El video de cada grupo debe incluir:
   
 ### Registro del proceso
 
-- Prototipos en protoboard  
-- Montaje y pruebas del circuito  
-- Interacción con el usuario
+- Prototipos en protoboard.  
+- Montaje y pruebas del circuito.  
+- Interacción con el usuario.
 
 ### Resultado
 
-- Prototipo funcionando en protoboard
-- Prototipo funcionando en PCB
-- Prototipo funcionando en caja o carcasa
-- Montaje estético, funcional, mecánico y eléctrico
-- Uso en contexto
+- Prototipo funcionando en protoboard.
+- Prototipo funcionando en PCB.
+- Prototipo funcionando en caja o carcasa.
+- Montaje estético, funcional, mecánico y eléctrico.
+- Uso en contexto.
 
 ### Formato y resolución de los videos
 
-- Formato horizontal o vertical
-- Resolución mínima: 1080p (Full HD)
-- FPS: 30 cuadros por segundo
+- Formato horizontal o vertical.
+- Resolución mínima: 1080p (Full HD).
+- FPS: 30 cuadros por segundo.
 - Al exportar los videos, se verificará que los formatos estén correctos.
-- Videos pesados se compartiran por wetransfer a aaron.montoya@mail.udp.cl
+- Videos pesados se compartiran por wetransfer a aaron.montoya@mail.udp.cl.
 
 ### Audio
 
@@ -161,10 +162,10 @@ El video de cada grupo debe incluir:
 - Fondos neutros y no neutros.
 
 ### Creditos 
-- Nombre taller
-- Profesores y ayudantes 
-- Integrantes del curso divididos por grupo (nombre y apellido)
-- Año
+- Nombre taller.
+- Profesores y ayudantes.
+- Integrantes del curso divididos por grupo (nombre y apellido).
+- Año.
 
 ### Checklist de grabación por grupo FINAL
 
@@ -174,10 +175,6 @@ El video de cada grupo debe incluir:
 - [ ] Archivos bien nombrados: `grupoXX-nombre-2024-06-14.mp4`  
 - [ ] Entrega vía wetransfer (archivo para portafolio)
   
-
-
-
-
 ***
 
 ## referentes de documentación en imagen y plan de documentación (1 punto)
@@ -231,8 +228,35 @@ La responsable de esta sección es @Bernardita-lobo.
 ### Elementos clave a mostrar en el montaje
 
 - Para el montaje es fundamental lograr explicar, de manera concisa y accesible, cómo se llegó a los resultados finales. Este taller, en especial, trabaja en una disciplina algo diferente y puede resultar difícil de comprender. En ese sentido, la propuesta del montaje se dividirá en dos secciones: una donde se expongan los proyectos finales y otra donde se evidencien todos los procesos por los que tuvieron que pasar los grupos de trabajo.
-- Sección Proyectos finales: En esta sección se presentará la pieza final, compuesta por la PCB y su carcasa. Cada grupo tendrá su propio espacio, donde el proyecto será expuesto sobre una mesa. Frente a cada objeto se colocará una lámina simple, en la que se explicará únicamente la parte conceptual y la interacción del proyecto, con el objetivo de comunicar su funcionamiento y propósito
-- Sección Procesos: Esta sección estará dividida de acuerdo a las distintas etapas del proceso que desarrollaron los grupos. Entre estas se incluyen: el maqueteo en protoboard, la creación de los esquemáticos, el diseño y fabricación de las PCBs, las soldaduras, el modelado de las carcasas y sus impresiones. Cada parte estará acompañada por una pieza visual, por ejemplo, las protoboard o algunas de las primeras impresiones 3D que se fueron modificando a lo largo del proceso, lo que permitirá comprender fácilmente cada etapa. Además, se incluirá un video de apoyo. Esta sección funcionará como una recopilación de los procesos productivos que atravesaron los grupos de trabajo para llegar al resultado final.
+
+### Sección Proyectos finales
+
+- En esta sección se presentará la pieza final, compuesta por la PCB y su carcasa. Cada grupo tendrá su propio espacio, donde el proyecto será expuesto sobre una mesa. Frente a cada objeto se colocará una lámina simple, en la que se explicará únicamente la parte conceptual y la interacción del proyecto, con el objetivo de comunicar su funcionamiento y propósito
+
+### Sección Procesos
+
+- Esta sección estará dividida de acuerdo a las distintas etapas del proceso que desarrollaron los grupos. Entre estas se incluyen: el maqueteo en protoboard, la creación de los esquemáticos, el diseño y fabricación de las PCBs, las soldaduras, el modelado de las carcasas y sus impresiones.
+- Cada parte estará acompañada por una pieza visual, por ejemplo, las protoboard o algunas de las primeras impresiones 3D que se fueron modificando a lo largo del proceso, lo que permitirá comprender fácilmente cada etapa. Además, se incluirá un video de apoyo. Esta sección funcionará como una recopilación de los procesos productivos que atravesaron los grupos de trabajo para llegar al resultado final.
+
+### Modelado del montaje
+
+- Hay dos propuestas de montaje. Esta está diseñada según la distribución de la sala del Laboratorio de Interacción Digital.
+
+![Foto de registro fotográfico](./imagenes/tme-proyecto02-montaje-lid-vista01.jpg)
+
+![Foto de registro fotográfico](./imagenes/tme-proyecto02-montaje-lid-vista02.png)
+
+![Foto de registro fotográfico](./imagenes/tme-proyecto02-montaje-lid-vista03.png)
+
+- La segunda propuesta está diseñada según la distribución de una sala estándar en la Faad de Salvador Sanfuentes.
+
+![Foto de registro fotográfico](./imagenes/tme-proyecto02-montaje-sala-vista01.jpg)
+
+![Foto de registro fotográfico](./imagenes/tme-proyecto02-montaje-sala-vista02.png)
+
+![Foto de registro fotográfico](./imagenes/tme-proyecto02-montaje-sala-vista03.png)
+
+- Los archivos de Rhino están subidos en la carpeta "Modelados".
 
 ## Publicación en GitHub de de alta calidad de logos institucionales de UDP (1 punto)
 

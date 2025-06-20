@@ -19,13 +19,13 @@ El proyecto consiste en un juguete para gato que funciona con un LDR que control
 
 Este es el diagrama a mano.
 
-![Dibujo del diagrama a mano](https://github.com/HSB25/dis8644-2025-1-proyectos/blob/main/00-proyecto-02/grupo-04/imagenes/BOCETODIAGRAMAFLUJO.jpg?raw=true)
+![Dibujodiagramaamano](./imagenes/BOCETODIAGRAMAFLUJO.jpg)
 
 En este dibujo mostramos nuestro proyecto el cual consiste en un juguete automático para gatos que funciona con un sensor de luz (LDR). Cuando el gato se coloca frente al sensor, su sombra reduce la luz que llega al LDR, lo que activa el motor del juguete. Si el gato se aleja, vuelve a llegar luz al sensor, lo que hace que el motor se apague. Así, el juguete se enciende solo cuando el gato está presente y se apaga automáticamente cuando se va.
 
 ## Diagrama de Flujo (SIMPLE)
 
-![DIAGRAMA DE FLUJO](https://github.com/HSB25/dis8644-2025-1-proyectos/blob/main/00-proyecto-02/grupo-04/imagenes/DIAGRAMADEFLUJO01.png?raw=true)
+![DIAGRAMADEFLUJO](./imagenes/DIAGRAMADEFLUJO01.png)
 
 ## Resumen del funcionamiento del juguete para gato (según el dibujo)
 
@@ -46,7 +46,7 @@ El sistema vuelve al inicio y espera una nueva detección.
 
 ## Diagrama de Flujo (DETALLADO)
 
-![DIAGRAMA DE FLUJO 2](https://github.com/HSB25/dis8644-2025-1-proyectos/blob/main/00-proyecto-02/grupo-04/imagenes/DIAGRAMADEFLUJO02.png?raw=true)
+![DIAGRAMADEFLUJO2](./imagenes/DIAGRAMADEFLUJO02.png)
 
 ## Funcionamiento General del Sistema
 
@@ -85,7 +85,7 @@ A continuación se presentan imágenes de las protoboards usadas.
 
 A continuación se presentan textos explicativos del prototipado.
 
-El circuito de entrada USA XX para medir XX.
+El circuito de entrada usa un LDR  para medir la cantidad de luz o sombra que recibe nuestro circuito, este LDR va conectado a un chip lm324 que actúa como comparador de voltaje y a su vez un potenciómetro que actuará como un calibrador de la luz ya que las condiciones de luz pueden cambiar según el lugar que nos encontremos, por lo cuál esto se debe calibrar.
 
 El circuito de salida usa XX para cambiar XX.
 
