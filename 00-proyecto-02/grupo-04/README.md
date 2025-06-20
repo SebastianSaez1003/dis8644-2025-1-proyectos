@@ -31,9 +31,9 @@ En este dibujo mostramos XX.
 
 A continuación se presentan imágenes de las protoboards usadas.
 
-![Vista protoboard de frente](./imagenes/presentacion-visual-frente.jpg)
+![Vista protoboard de frente](./imagenes/tme-grupo04-registro02.jpg)
 
-![Vista protoboard de arriba](./imagenes/presentacion-visual-arriba.jpg)
+![Vista protoboard de arriba](./imagenes/tme-grupo04-registro01.jpg)
 
 A continuación se presentan textos explicativos del prototipado.
 
