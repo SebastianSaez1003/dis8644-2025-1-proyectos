@@ -13,7 +13,7 @@
 
 ## Presentación textual
 
-El proyecto consiste en un juguete para gato que funciona con un LDR que controla mediante luz o sombra la activación de un motor dc
+El proyecto consiste en un juguete para gato que funciona con un LDR que controla la activación de un motor dc
 
 ## Dibujos de diagramas del circuito (1 punto)
 
