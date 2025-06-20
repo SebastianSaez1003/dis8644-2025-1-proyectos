@@ -45,6 +45,8 @@ Ya cuando tengamos en nuestro poder las placas y prototipos para el registro, re
 
 ![Foto de referente fondo no neutro ](./imagenes/tme-proyecto02-referente05.jpeg)
 
+▼ Fuentes: <https://arte.udp.cl/laboratorios/laboratorio-de-maquinas-y-herramientas/>
+
 Usar un fondo no neutro, seria más para el trabajo en clases, cuando se está prototipando o organizando con los grupos. Doy de ejemplo el pañol de la universidad, con herramientas y materiales, aporta contexto real y autenticidad al registro.
 Para el registro en sala, el fondo no neutro puede aportar contexto visual importante que enriquece la comprensión del entorno y la actividad que se está documentando. A diferencia de un fondo neutro, que es más sencillo y minimalista, un fondo con elementos del espacio real, ayuda a mostrar la atmósfera, la dinámica y el ambiente natural donde se desarrolla la clase.
 
@@ -80,6 +82,10 @@ El responsable de esta sección es @jotamorales-romulus.
 
 Para cada sesión se realizará un registro audiovisual mediante el uso de una cámara. Además, para el examen se desarrollarán tres tipos distintos de video como parte del proyecto.
 
+### Almacenamiento
+
+- Los videos serán almacenados en el computador de @jotamorales-romulus. Al finalizar cada clase, los videos se pasaran a traves de un adaptador de tarjeda sd
+
 ### Reels
 
 - Videos de entre 30 segundos y 1 minuto, en formato vertical (9:16), pensados para redes sociales como Instagram.
@@ -89,7 +95,8 @@ Para cada sesión se realizará un registro audiovisual mediante el uso de una c
   
 ### Video Examen
 
-- Se realizará un video que junte todo lo realizado para el examen. Registro de las classe y registro de los proyectos de los grupos.
+- Se hará uso de tripode para este registro
+- Se realizará un video que junte todo lo realizado para el examen. Registro de las clase y registro de los proyectos de los grupos.
 - Cada video de los grupos registrará el proyecto completo y funcionará como una cápsula audiovisual que resuma su propuesta, mostrando desde el concepto hasta el resultado final.
 
 ### Intro del video
@@ -133,16 +140,18 @@ El video de cada grupo debe incluir:
 - Resolución mínima: 1080p (Full HD)
 - FPS: 30 cuadros por segundo
 - Al exportar los videos, se verificará que los formatos estén correctos.
+- Videos pesados se compartiran por wetransfer a aaron.montoya@mail.udp.cl
 
 ### Audio
 
 - La idea es registrar el audio si el proyecto produce algún sonido, y dejar sin audio si no lo produce
 - Se utilizarán canciones de fondo sobre cultura electrónica.
 
-### Iluminación
+### Puesta en escena
 
 - Usar luz blanca o luz natural.
 - Sombras creativas si refuerzan el concepto.
+- Fondos neutros y no neutros
 
 ### Checklist de grabación por grupo FINAL
 
@@ -153,6 +162,16 @@ El video de cada grupo debe incluir:
 - [ ] Testimonio breve (opcional, pero recomendado o puede ser escrito)  
 - [ ] Archivos bien nombrados: `grupoXX-nombre-2024-06-14.mp4`  
 - [ ] Entrega vía wetransfer a jotamorales-romulus.
+
+### Creditos 
+- Nombre taller
+- Profesores y ayudantes 
+- Integrantes del curso divididos por grupo (nombre y apellido)
+- Año
+  
+
+
+
 
 ***
 
