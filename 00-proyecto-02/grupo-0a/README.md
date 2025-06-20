@@ -4,31 +4,29 @@
 
 Integrantes:
 
-- Félix Rodríguez Guevara: <https://github.com/felix-rg416/dis8644-2025-1-proyectos>
-- Alanis Vásquez TODO: <https://github.com/AlanisMria/dis8644-2025-1-proyectos>
+- Félix Rodríguez Guevara: [felix-rg416](https://github.com/felix-rg416/dis8644-2025-1-proyectos)
+- Alanis Vásquez Jara: [AlanisMria](https://github.com/AlanisMria/dis8644-2025-1-proyectos)
 
 ## Medidas de placas PCB de cada proyecto (1 punto)
 
 ### Medidas de placas PCB del proyecto-01
-
-![vista pcb grupo-01](./imagenes/pcb-grupo-01-01.png)
-
-![vista pcb grupo-01](./imagenes/pcb-grupo-01-02.png)
 
 Son 4 PCBs de 2 tamaños distintos:
 
 - 3 PCBs de 15x100mm
 - 1 PCB de 40x100mm
 
-### Medidas de placas PCB del proyecto-02
+![vista pcb grupo-01](./imagenes/pcb-grupo-01-01.png)
 
-> FALTAN LAS IMÁGENES DE PCBs
+![vista pcb grupo-01](./imagenes/pcb-grupo-01-02.png)
+
+### Medidas de placas PCB del proyecto-02
 
 Su proyecto es un bombo eléctrico. Recibe señal mediante un piezo eléctrico y genera sonido.
 
-Una de sus PCB tiene forma de estrella o explosión, pero se basaron en un círculo de 100mm de diámetro
+Una de sus PCB es un círculo 100mm de diámetro
 
-La otra mide 120x60mm
+![vista pcb grupo-02](./imagenes/pcb-grupo-02-01.jpeg)
 
 ![sketch de carcasa de grupo-02](./imagenes/sketch-grupo-02-01.jpg)
 
@@ -50,11 +48,9 @@ Las medidas de su pcb son: 95 mm x 55 mm
 
 ### Medidas de placas PCB del proyecto-04
 
-> FALTAN LAS IMÁGENES
+![vista frontal pcb grupo-04](./imagenes/pcb-grupo-04-01.jpeg)
 
-![vista frontal pcb grupo-04](./imagenes/pcb-grupo-04-01.jpg)
-
-![vista posterior pcb grupo-04](./imagenes/pcb-grupo-04-02.jpg)
+![vista posterior pcb grupo-04](./imagenes/pcb-grupo-04-02.jpeg)
 
 Juguete de gato "tamaño gato". Detecta al gato con un LDR y hace girar un motor que mueve un juguete para entretener al gatito.
 
@@ -133,12 +129,6 @@ Considerando que su proyecto es en base a una forma cilíndrica, con medidas 120
 
 Para unir distintas partes se recomienda el uso de tornillos de M3, la cual será la medida estándar establecida en el taller, estos se pueden encontrar en: [Tornillos](https://www.cimech3d.cl/producto/perno-m3-zincado-pack-50/?srsltid=AfmBOooZL1rCLgmrz2yHb-8EatIMO3Y4J9RszVUNFPxMAbg5tHtpm0yU)
 
-Al hablar con el equipo se definío que trabajaremos en conjunto para la realización de modelos 3D.
-
-Se propuso la creación de una pieza 3d que sirva para mantener el piezo a ras de la cubierta y que este pueda cambiarse en caso de dañarse.
-
-![grupo02propuesta](./imagenes/grupo02propuesta.jpg)
-
 ### Proyecto-03
 
 Integrantes:
@@ -155,9 +145,7 @@ En este link pueden encontrar diversos colores y dimensiones.
 
 En cuanto al armado de su prototipo se recomienda cortar en láser, sobre todo cuando buscan armar en base a ensambles.
 
-Para unir las placas al acrilico de manera pulida se recomienda hacer una especie de riel de acrílico curvado  mediante calor en el que se logren ubicar las placas, esto para no romper con la transparencia del objeto, como en la siguiente imagen:
-
-![propuestaGrupo03](./imagenes/propuestaGrupo03.png)
+Para unir las placas al acrilico de manera pulida se recomienda hacer una especie de riel de acrílico curvado  mediante calor en el que se logren ubicar las placas, esto para no romper con la transparencia del objeto.
 
 Esta idea ya se propuso al grupo y está en evaluación.
 
@@ -241,13 +229,67 @@ En la siguiente imagen se ve la idea principal de la carcasa. Aún falta la form
 
 ---
 
-## Impresión de carcasas UDPUDU (1 punto)
+### Sería interesante que los grupos implementaran acrílico en ciertas paredes de sus prototipos, que permitan ver los circuitos internos y despierten la curiosidad de los usuarios y espectadores.
 
-TODO
 
-## Montaje de carcasas UDPUDU (1 punto)
+## Comunicación y colaboración con equipos:
 
-TODO
+### Propuestas proyecto-02
+
+Integrantes:
+- Sofía Etchepare 
+- Antonia Fuentealba 
+- Sofía Pérez 
+
+Al hablar con el equipo, nos pidieron ayuda con el tema del diseño de la carcasa porque no tenían muy claro cómo poner el speaker ni la batería. Nosotros pudimos ayudarlas y guiarlas en la estructura de su máquina. Se definió que trabajaremos en conjunto para la realización de modelos 3D y nos pondremos de acuerdo durante la semana en terminos formales. 
+
+Se propuso la creación de una pieza 3d que sirva para mantener el piezo a ras de la cubierta y que éste pueda cambiarse en caso de dañarse.
+
+![grupo02propuesta](./imagenes/grupo02propuesta.jpg)
+
+---
+
+### Propuestas proyecto-03
+
+Integrantes:
+- Sofía Cartes 
+- Isabella Gutierrez 
+- Valentina Ruz 
+
+Para unir las placas al acrilico de manera pulida se recomienda hacer una especie de riel de acrílico curvado  mediante calor en el que se logren ubicar las placas, esto para no romper con la transparencia del objeto, como en la siguiente imagen:
+
+![propuestaGrupo03](./imagenes/propuestaGrupo03.png)
+
+Esta idea ya se propuso al grupo y está en evaluación.
+
+este sería pegado a las paredes de la estructura mediante cianocrilato, pueden encontrarlo aqui: [Cianocrilato](https://www.mercadolibre.cl/adhesivo-magico-acelerado-seca-9-segundos-100gr-400ml-rex-color-blanco/p/MLC44873226?pdp_filters=item_id%3AMLC1572226595&from=gshop&matt_tool=83114261&matt_word=&matt_source=google&matt_campaign_id=22116391437&matt_ad_group_id=173057321469&matt_match_type=&matt_network=g&matt_device=c&matt_creative=729566854243&matt_keyword=&matt_ad_position=&matt_ad_type=pla&matt_merchant_id=735085901&matt_product_id=MLC44873226-product&matt_product_partition_id=2388258797660&matt_target_id=pla-2388258797660&cq_src=google_ads&cq_cmp=22116391437&cq_net=g&cq_plt=gp&cq_med=pla&gad_source=1&gad_campaignid=22116391437&gbraid=0AAAAADxxu6oPwtiwzjzxrJIeq7W_xnKui&gclid=Cj0KCQjwmK_CBhCEARIsAMKwcD7jPxQUKWGo0D3Lz3jVmOcSdGZrc1dMGtJBlMCvEiQQTUCpvZU_RyMaAkJ0EALw_wcB)
+
+Este adhesivo lo pueden comprar en conjunto al equipo 5 que también usa acrílico u otros equipos que trabajan con impresión 3D.
+
+---
+
+### Propuestas proyecto-05
+
+Integrantes:
+
+- Antonia Cristi
+- Natalia Pilar
+- Paulina Vargas
+
+Al hablar con el equipo, se le propuso hacer que la pcb donde van los leds sea circular, para que parezca una ruleta. Prefirieron dejar una forma rectangular porque aún no estában claras de la forma final.
+
+---
+
+### Propuestas proyecto-06
+
+Integrantes:
+- Santiago Gaete Fernández 
+- Anaís Marschhausen Gajardo
+- Sebastián Saez Olivares
+
+Durante la clase 14b se propone el uso de impresión 3d en TPU, para que el uso de su objeto sea cómodo para el usuario y que la fabricación sea más precisa, ya que consideraban el uso de material textil, con el cual sería difícil lograr la estabilidad o resistencia para contener el circuito y mantenerlo en su lugar.
+
+Se propone como referente las gafas de Cíclope de X-men, porque declararon que no querían que su objeto fuera algo sutil.
 
 ---
 
