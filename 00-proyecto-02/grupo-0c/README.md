@@ -6,7 +6,7 @@ Documentación técnica y materiales electrónicos
 
 Integrantes:
 
-- Martín Silva TODO: agregar enlace a su github.com
+- Martín Silva: https://github.com/duckusu/dis8644-2025-1-proyectos/tree/main/21-duckusu
 - Francisco Stephens
 - Izhak Villegas
 
