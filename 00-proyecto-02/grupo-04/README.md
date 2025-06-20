@@ -137,9 +137,7 @@ Ayudamos a la persona XX del proyecto XX con XX.
 
 ![Esquemático detalles](./imagenes/esquematico-detalle-02.JPG)
 
-EXPLICACIÓN TEXTUAL DEL ESQUEMÁTICO.
-
-DESCRIBIR CHIPS USADOS, CONEXIONES USADAS.
+los chips utilizadods fueron un lm324 y un ne555, CONEXIONES USADAS.
 
 ## PCB en Kicad (1 punto)
 
