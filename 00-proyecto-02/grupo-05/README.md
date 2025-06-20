@@ -124,6 +124,8 @@ Seguido por un contador 4017, cada salida alta enciende un LED en secuencia. Cad
 
 ## Recursos adicionales
 
+[Circuito de 555 Timer Circuits que usamos como referencia originalmente](https://www.555-timer-circuits.com/roulette.html)
+
 ## Bibliografía
 
 [Tutorial de cómo diseñar una placa PCB](https://www.youtube.com/watch?v=kccAeKYytE8)
