@@ -6,7 +6,7 @@
 - Integrantes:
   - Santiago Gaete Fernández
   - Anaís Marschhausen Gajardo
-  - Sebastián Saez Olivares
+  - Sebastián Sáez Olivares
 - Chips usados:
   - NE555
   - L293D
@@ -244,5 +244,13 @@ Debido a que todos los esquemáticos de referentes para poder ocupar el chip L29
 
 ## Recursos adicionales
 
+[enlace a figma](https://www.figma.com/board/xtSdleNWkWIgJeE9Af27IX/fps555?node-id=0-1&p=f&t=aDNKgy5gH7pBcTs7-0)
+
+en figma realizamos ideas rapidas y existe el proceso de nuestro proyecto
+
 ## Bibliografía
--Datasheet de L293DNE ![Archivo PDF]
+- [Datasheet de L293DNE](00-proyecto-02/grupo-06/datasheets/L293NE.PDF)
+- PDF extraido de: https://www.alldatasheet.es/datasheet-pdf/view/26889/TI/L293DNE.html
+
+- [Datasheet de 555 Presicion Timer](./grupo-06/datasheets/ne555.pdf)  
+- PDF extraido de: https://ti.com/lit/ds/symlink/ne555.pdf
