@@ -14,9 +14,9 @@
 
 ## Presentación textual
 
-DESCRIPCIÓN DEL PROYECTO EN UNA LÍNEA, SIN PUNTOS SEGUIDOS.
+Luz de noche en secuencia gradual con forma de nube.
 
-El proyecto consiste en una entrada que XX, para CONTROLAR/OTRO VERBO
+El proyecto consiste en un detector de sombra invertido que enciende una lámpara que posee una secuencia gradual.
 
 ## Dibujos de diagramas del circuito (1 punto)
 
