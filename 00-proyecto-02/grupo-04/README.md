@@ -121,13 +121,34 @@ El circuito de salida va conectado al pin 3 del 555 que está en modo astable, e
 
 DOCUMENTAR TEXTUAL, CON IMÁGENES, CON ENLACES A BITÁCORAS.
 
-La persona 21 del proyecto 00 nos ayudó con pasar el BoM desde un Excel a MarkDown (Revisar su fork en la sesion 15b).
+- La persona 21 del proyecto 00 nos ayudó con pasar el BoM desde un Excel a MarkDown (Revisar su fork en la sesion 15b).
 
-La persona XX del proyecto XX nos ayudó con XX.
+- franudp nos ayudó en muchísimas ocasiones con el esquemático y también el desarrollo de la pcb y un plugin de exportación como tip para guardar el archivo gerber de pcb, aquí algunas respuestas a las preguntas
+ ![ayuda](./imagenes/ayudafran0.JPG)
+ ![ayuda](./imagenes/ayudafran1.JPG)
 
-Ayudamos a la persona XX del proyecto XX con XX.
+**aquí en la tercera foto fran explicó cómo hacer correctamente el divisor de voltaje**
+![ayuda](./imagenes/ayudafran2.JPG)
+ ![ayuda](./imagenes/ayudafran3.JPG)
+ ![ayuda](./imagenes/ayudafranfinal.JPG)
 
-Ayudamos a la persona XX del proyecto XX con XX.
+- misaaa también nos ayudó con el esquemático, footprints y desarrollo de pcb, aqui unas capturas de algunas respuestas a las preguntas
+![ayuda](./imagenes/ayudamisaaaa0.JPG)
+![ayuda](./imagenes/ayudamisaaa1.JPG)
+![ayuda](./imagenes/ayudamisaaa2.JPG)
+
+- santiago clifford ayudó a una duda en común que surgió hacia el grupo 5, la cuál era cómo poner la pcb en blanco y negro, santiago mandó la fracción del video donde misaaa lo explica
+![ayuda](./imagenes/ayudasantiago1.JPG)
+
+- 17_na en discord del grupo 5 ayudó en esta misma duda que se les preguntó directamente a grupo 5
+
+![ayuda](./imagenes/ayuda17_na.JPG)
+
+- por último sebastián saez e izhak ayudaron explicando cómo subir la carpeta de archivos kicad a github
+
+- ![ayuda](./imagenes/ayudacursosebaeizhak.JPG)
+
+- lamentablemente no pudimos ayudar a ningún grupo
 
 ## Esquematico en Kicad (1 punto)
 
