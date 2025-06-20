@@ -47,7 +47,9 @@ Para el registro en sala, el fondo no neutro puede aportar contexto visual impor
 
 ### The Life of Crystal
 
-También quiero destacar como referente a Mónica Bate, quien durante la visita a la clase nos mostró el video [The Life of Crystals](https://vimeo.com/79735959), donde documenta su proyecto de arte sonoro con cristales piezoeléctricos. Elijo este video como referente porque se acerca más a lo que vamos a hacer en el taller con los trabajos de examen y siento que tiene mayor sintonía con nuestro enfoque. Además, cuenta con una edición y registro simples pero funcionales, bastante minimalistas, donde muestra claramente los avances y la interacción con el usuario.
+También quiero destacar como referente a Mónica Bate, quien durante la visita a la clase nos mostró el video [The Life of Crystals](https://vimeo.com/79735959), donde documenta su proyecto de arte sonoro con cristales piezoeléctricos. Elijo este video como referente porque se acerca más a lo que vamos a hacer en el taller con los trabajos de examen y siento que tiene mayor sintonía con nuestro enfoque. Además, cuenta con una edición y registro simples pero funcionales, bastante minimalistas, donde muestra claramente los avances y la interacción con el usuario. 
+
+Esto se utilizara para el
 
 ![Foto de referente fotográfico](./imagenes/tme-proyecto02-referente01.jpeg)
 
@@ -57,8 +59,7 @@ También quiero destacar como referente a Mónica Bate, quien durante la visita 
 
 Reels de Instagram que muestran el avance de las clases durante el semestre. Estos son grabados por alumnos encargados de registrar el trabajo realizado en clases. Durante las sesiones se busca registrar la mayor cantidad de contenido posible para luego editar y juntar en un video, que posteriormente se sube a redes sociales.
 
-Estos videos son fáciles de grabar y editar. Normalmente se pueden subir cada semana. Se utiliza música de fondo para hacerlos más atractivos para el espectador. Suelen durar entre 30 segundos y 1 minuto.
-
+Estos videos son fáciles de grabar y editar. Normalmente se pueden subir cada semana. Se utiliza música de fondo para hacerlos más atractivos para el espectador. Suelen durar entre 30 segundos y 1 minuto. 
 
 [Taller de Celebración UDP — Instagram](https://www.instagram.com/tallerdecelebracionudp?igsh=dXU0aWNhNmR1dHNq)
 
@@ -76,25 +77,32 @@ Como referente visual, tomé el video [“Waiting For The End – Recording Voca
 
 El responsable de esta sección es @jotamorales-romulus.
 
-Para la segunda sesión de registro, se empezs a registrar avances y prototipos en protoboard. Formato vertical y horizontal.
+Para cada sesión se realizará un registro audiovisual mediante el uso de una cámara. Además, se desarrollarán tres tipos distintos de video como parte del proyecto.
 
 ### Reels
 
-- Registro de videos de 5 segundos en formato vertical, los cuales capturan el trabajo en las sesiones.
+- Videos de entre 30 segundos y 1 minuto, en formato vertical (9:16), pensados para redes sociales como Instagram.
+- Su objetivo es documentar el proceso del taller de forma fragmentada pero constante, mostrando el ambiente de trabajo y los avances de los distintos grupos.
+- La idea es registrar la mayor cantidad de momentos posibles durante las sesiones, para luego contar con suficiente material con el que se puedan editar estos videos.
+- Tendra los logotipos del Laboratorio de Interacción Digital de la UDP y del Taller de Máquinas Electrónicas al inicio. Y durante el resto del video tendrá marca de agua del logotipo del taller.
+  
+### Videos por grupo
 
-### Videos Horizontal  
+- Se realizará un video por cada grupo, en conjunto con Jota Morales, quien estará a cargo de la grabación y edición de estas cápsulas.
+- Cada video registrará el proyecto completo del grupo y funcionará como una cápsula audiovisual que resuma su propuesta, mostrando desde el concepto hasta el resultado final.
 
-### Introducción breve del taller
+El video debe incluir:
 
-ESTO ES UNO POR GRUPO? UNO PARA TODO EL GRUPO?
-QUIÉN LO HACE?
-SI LO HACE JOTA, CÓMO EL GRUPO LE PIDE A JOTA QUE LO HAGA?
+- Nombre del grupo cuando aparezca su proyecto en pantalla  
+- Nombre de los integrantes  
+- Breve descripción del proyecto  
+- Imágenes del proceso y resultado final
+  
+- La grabación y edición estarán a cargo de Jota Morales.
 
-### Registro de Proyectos
-
-- Nombre del grupo cuando aparezca su proyecto en pantalla
-- Nombre intregantes  
-- Breve descripción del proyecto
+¿Cómo se hará?
+- Cada grupo debe ayudar al registro de su proyecto. La fecha debe ser coordinada por los profesores.
+- Tentativamente, se realizará en un espacio del Laboratorio de Interacción Digital.
 
 ### Registro del proceso
 
@@ -110,23 +118,23 @@ SI LO HACE JOTA, CÓMO EL GRUPO LE PIDE A JOTA QUE LO HAGA?
 - Montaje estético, funcional, mecánico y eléctrico
 - Uso en contexto
 
-Agregar ejemplos de video o imagen como referencia visual.
+### Video Final
 
-OJO CON LA JERARQUÍA DE INFORMACIÓN CON LOS #
+- Se realizará un montaje final que compile todo el material grabado durante las distintas sesiones, integrando las fases del proceso y el resultado final. Este video será una presentación completa del proyecto, reflejando tanto el desarrollo como la implementación final. La edición cuidará la coherencia narrativa y visual para mostrar el recorrido creativo y técnico de cada grupo. 
+
 
 ### Instrucciones técnicas para la documentación (consistencia entre grupos)
 
 Para mantener coherencia visual y técnica entre todos los registros:
 
-### Formato y resolución
+### Formato y resolución de los videos
 
 - Formato horizontal o vertical (16:9)
 - Resolución mínima: 1080p (Full HD)
 - FPS: 30 cuadros por segundo
+- Al exportar los videos se chequeara que los formatos están correctos. 
 
-PREGUNTA: Cómo sé que cumplo con eso?
-
-### Tipos de planos sugeridos
+### Tipos de planos sugeridos para los videos
 
 - Plano general del circuito en uso  
 - Plano detalle de componentes  
@@ -137,9 +145,8 @@ Agregar ejemplos visuales.
 
 ### Audio
 
-- La idea es registrar el audio si el proyecto produce algun sonido, y dejar sin audio si no tiene.
-
-Ojalá usar alguna canción de fondo sobre cultura electrónica.
+- La idea es registrar el audio si el proyecto produce algún sonido, y dejar sin audio si no lo produce
+- Se utilizarán canciones de fondo sobre cultura electrónica. Para los videos grupales, se consultará a los grupos sobre sus preferencias.
 
 ### Iluminación
 
@@ -156,6 +163,7 @@ Ojalá usar alguna canción de fondo sobre cultura electrónica.
 - [ ] Archivos bien nombrados: `grupoXX-nombre-2024-06-14.mp4`  
 - [ ] Entrega vía wetransfer a jotamorales-romulus.
 
+***
 ***
 
 ## referentes de documentación en imagen y plan de documentación (1 punto)
