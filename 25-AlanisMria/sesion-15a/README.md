@@ -132,7 +132,7 @@ En el caso de los filamentos PTG, la mayoría de la marca esun se encuentran en 
 ### Sería interesante que los grupos implementaran acrílico en ciertas paredes de sus prototipos, que permitan ver los circuitos internos y despierten la curiosidad de los usuarios y espectadores.
 
 
-## Colaboración con equipos:
+## Comunicación y colaboración con equipos:
 
 ### Proyecto-02
 Integrantes:
