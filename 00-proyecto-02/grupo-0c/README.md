@@ -224,19 +224,6 @@ Integrantes:
 
 Desarrollado en google sheets: https://docs.google.com/spreadsheets/d/1CT1RtA_BYuWpyJ54k9VGduSAs_nKiFYd9yf2WvjZ-4g/edit?gid=529027261#gid=529027261
 
-## Texto acerca de los materiales usados en cada proyecto (1 punto)
-
-### Texto sobre materiales del proyecto-01
-
-### Texto sobre materiales del proyecto-02
-
-### Texto sobre materiales del proyecto-03
-
-### Texto sobre materiales del proyecto-04
-
-### Texto sobre materiales del proyecto-05
-
-### Texto sobre materiales del proyecto-06
 
 ## Texto acerca de los diagramas de bloque en cada proyecto (1 punto)
 
