@@ -39,9 +39,11 @@ Se utilizan fondos neutros, planos detalle bien enfocados y una ambientación qu
 
 No sólo busco mostrar el resultado final, sino también documentar el recorrido completo, destacando las decisiones creativas y técnicas que llevaron al desarrollo del proyecto.
 
+![Foto de referente fondo neutro ](./imagenes/tme-proyecto02-referente04.jpeg)
 
 Ya cuando tengamos en nuestro poder las placas y prototipos para el registro, recomiendo el uso de un fondo neutro (como blanco, gris o negro), ya que no distrae y permite que la audiencia se concentre en lo que realmente importa.
 
+![Foto de referente fondo no neutro ](./imagenes/tme-proyecto02-referente05.jpeg)
 
 Usar un fondo no neutro, seria más para el trabajo en clases, cuando se está prototipando o organizando con los grupos. Doy de ejemplo el pañol de la universidad, con herramientas y materiales, aporta contexto real y autenticidad al registro.
 Para el registro en sala, el fondo no neutro puede aportar contexto visual importante que enriquece la comprensión del entorno y la actividad que se está documentando. A diferencia de un fondo neutro, que es más sencillo y minimalista, un fondo con elementos del espacio real, ayuda a mostrar la atmósfera, la dinámica y el ambiente natural donde se desarrolla la clase.
