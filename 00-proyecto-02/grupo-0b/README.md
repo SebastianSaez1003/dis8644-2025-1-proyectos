@@ -339,4 +339,25 @@ Estas ideas forman parte de la esencia que busco replicar a traves de propuestas
 
 ### Logotipo teee
 
+Dado que no tenía un referente directo con el cual trabajar es que comencé con un proceso de experimentación. Para ello estuve trabajando durante varias horas para desarrollar y rediseñar los caracteres "t", "m" y "e" para usar en el logotipo. Más tarde supe que este logo no sería formado por las iniciales de "Taller de máquinas experimentales", sino que sería el nombre de la cuenta, terminando por conformar la palabra "teee". Dado que para ese momento ya tenía realizados múltiples piezas con dichas letras es que me dispuse a componerlas para montar la frase. Esta etapa fue la más complicada, puesto que como idea inicial quería presentar una "t" rígida seguida de distintas "e", las cuales se irían redondeando hasta llegar a la pieza más experimental que desarrollé. El problema es que las letras no encajaban, era difícil el poder hacer que no hubiera un desequilibrio entre los pesos visuales y el contraste de las formas.
+
+![alt-text](./diseno-grafico/logotipo-teee/logotipo-espacio_de_trabajo.png)
+
+▼ Fuente: Recurso de manufactura propia. Producción hecha con Illustrator.
+
+Por temas de tiempo, terminé realizando una versión más acotada del logo y que permitiera un mejor control al solo tener 3 piezas. Por ello decidí escoger la "t", una "e" y un "3" que fuera elevado, el cual al tratarse de una ecuación matemática sería similar a "t * e ³ = t* e * e * e", similar a "teee".
+Ante esta nueva idea comencé a componer y desarrollar este nuevo carácter, llegando a un resultado que posee como variante principal la "e". ¿Por qué tomé esta decisión? Pues resulta que "t" corresponde a "taller" y las "e" en su momento tuvieron un significado, el cuál no se condice con el nombre actual del curso (Taller de máquinas electrónicas). Por ello quise dejar esta letra como un signo que puede verse modificado según vayan surgiendo nuevas veriones de los futuros talleres o proyectos, los cuales se ven vinculados con las tecnologías que en ellos se aprenden u enseñarán. Como prototipado realicé un total de 4 de estos logos, los cuales poseen diferentes "e" y cuyo interletrado fue acomodado para poseer un equilibrio óptico. Además, vale mencionar que se realizó otra versión experimental "extendida" en la que se asocia un concepto que reemplaza el "3". Dicha idea busca representar alguna palabra clave que represente lo que se verá en estos espacios de aprendizaje.
+
+![alt-text](./diseno-grafico/logotipo-teee/logotipos_te3_multiples_acotados.jpg)
+
+![alt-text](./diseno-grafico/logotipo-teee/logotipos_te3_multiples_extendidos.jpg)
+
+▼ Fuentes: Recurso de manufactura propia. Producción hecha con Illustrator.
+
+Dado que estos logotipos son solo propuestas es que decidí no colocar los archivos en svg, puesto que no son versiones finales. En la carpeta ["logotipo-teee"](https://github.com/Camila-Parada/dis8644-2025-1-proyectos/tree/main/00-proyecto-02/grupo-0b/diseno-grafico/logotipo-teee) se pueden encontrar las versiones en jpg, png y el editable de Illustrator, además de una captura al documento que muestra la experimentación.
+
+### Plantillas para publicaciones y videos de instagram
+
+
+
 ## Bibliografía
