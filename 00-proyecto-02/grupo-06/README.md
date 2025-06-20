@@ -27,7 +27,8 @@ En este dibujo mostramos XX.
 
 En un principio queríamos que nuestro circuito funcionara gracias a un servomotor para crear un movimiento controlado al interactuar con nuestro producto, pero no funcionó ningún circuito que encontramos en internet, y los que sí funcionaban requieren Arduino para su funcionamiento.
 
-(video que envió Santi)
+A continuación, un video de todos los componentes y la protoboard que habíamos armado:
+[![video que envió Santi](https://img.youtube.com/vi/8piNzuUTGBI/maxresdefault.jpg)](https://youtube.com/shorts/8piNzuUTGBI)
 
 Luego Matías nos explicó sobre los puentes H, donde podíamos controlar la velocidad y la dirección del movimiento de un motor como el que se encontraba en nuestro kit.
 
@@ -38,18 +39,31 @@ El funcionamiento era el siguiente:
 Se armaron 2 circuitos PWM donde su output eran conectados hacia botones, donde el circuito 1 quedaría posicionado con su output al positivo del motor, mientras que a través de otro botón se dejaría pasar la conexión para completar el circuito, mientras que el circuito 2 estaría de la manera opuesta, todo esto para que no ocurriese ningún cortocircuito.
 
 ![puente H con botones y leds prendidos](./imagenes/puenteHbotones-1.jpg)
+
 ![puente H con botones y leds apagados para mejor visualizacion](./imagenes/puenteHbotones-2.jpg)
+
 ![puente H con botones y detector de umbral, version que no fue usada al final](./imagenes/puenteHbotones-3.jpg)
+
+Video de prueba del puente H con 4 botones, hecho de manera mecánica:
+
+[![Video de prueba del puente H con 4 botones, hecho de manera mecánica](https://img.youtube.com/vi/82sJYsFwlOw/maxresdefault.jpg)](https://youtube.com/shorts/82sJYsFwlOw)
 
 Luego pasamos a integrar el chip L293D con el que se pudo reducir su funcionamiento a simplemente 2 botones, uno para cada dirección del motor.
 
 ![L293D con botones](./imagenes/l293dBotones-2.jpg)
+
+Video de prueba del chip al tener 2 botones:
+
+[![Video de prueba del chip al solo tener 2 botones](https://img.youtube.com/vi/P7w4akQcq58/maxresdefault.jpg)](https://youtube.com/shorts/P7w4akQcq58)
+
 
 Luego se integró el switch 6 PDT para poder generar este cambio de dirección con tan solo 1 componente, como también el estado neutro “off” del motor.
 
 ![L293D on/off/on](./imagenes/l293dSwitch-1.jpg)
 
 Pero se nos dejó claro en la clase del martes 17 de junio unas ciertas correcciones, para poder asegurarnos de que el L293D estaba correctamente conectado, como también el uso de la otra mitad de nuestro switch on/off/on, y que de esta manera no se fuese a ocupar todo el circuito de manera constante al conectarlo al pin 4 del chip 555.
+
+Como último componente, se conectó el motor reductor de 3 rpm que compramos, para poder demostrar el funcionamiento como lo asignamos.
 
 ![foto del lateral de protoboard](./imagenes/tme-grupo06-registro01.jpg)
 
@@ -59,7 +73,12 @@ Pero se nos dejó claro en la clase del martes 17 de junio unas ciertas correcci
 
 ![foto del motoreductor](./imagenes/tme-grupo06-registro04.jpg)
 
-Como último componente, se conectó el motor reductor de 3 rpm que compramos, para poder demostrar el funcionamiento como lo asignamos.
+
+Video del funcionamiento de la protoboard final:
+[![Funcionamiento de la protoboard final](https://img.youtube.com/vi/9qnviXXqF60/maxresdefault.jpg)](https://youtube.com/shorts/9qnviXXqF60)
+
+
+
 
 Como resumen:
 
