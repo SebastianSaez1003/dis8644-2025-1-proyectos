@@ -82,9 +82,11 @@ El circuito de salida usa un chip CD4017 para activar una secuencia de 10 luces 
 
 ![Circuito de FranUDP](./imagenes/ayudacolegas_03.png)
 
-Intentamos ayudar a [Sofía Cartes](https://github.com/sofiacartes) del proyecto 03 en cómo regular la sensibilidad del micrófono de su circuito. Le dijimos que podrían conectar el pin 15 del chip 4017 a tierra, pero no se resolvió el problema.
+Intentamos ayudar a [Sofía](https://github.com/sofiacartes) del grupo 03 en cómo regular la sensibilidad del micrófono de su circuito. Le dijimos que podrían conectar el pin 15 del chip 4017 a tierra, pero no se resolvió el problema.
 
 [Issue #137 del proyecto 03](https://github.com/disenoUDP/dis8644-2025-1-proyectos/issues/137#issuecomment-2984472409)
+
+Ayudamos a [Braulio](https://github.com/brauliofigueroa2001) del grupo 04 mostrándole cómo conseguimos una imagen en blanco y negro de nuestra PCB en KiCad
 
 ## Esquematico en Kicad (1 punto)
 
@@ -121,6 +123,10 @@ Seguido por un contador 4017, cada salida alta enciende un LED en secuencia. Cad
 ![PCB 3D](./imagenes/pcb_3d.png)
 
 ![PCB 3D](./imagenes/pcb_3d_perspectiva.png)
+
+![PCB 3D](./imagenes/pcb_3d_reverso_01.png)
+
+![PCB 3D](./imagenes/pcb_3d_reverso_02.png)
 
 ## Recursos adicionales
 
