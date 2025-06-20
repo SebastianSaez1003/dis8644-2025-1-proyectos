@@ -84,7 +84,7 @@ Tienen 2 PCBs una mide 69.95mm x 89.85mm, la otra es de 39.50mm x 55.05mm
 
 ![vista posterior pcb grupo-06](./imagenes/pcb-grupo-06-02.png)
 
-***
+---
 
 ## Cotización de materiales de fijación (1 punto)
 
@@ -94,9 +94,10 @@ La cotización de los materiales estimados y supuetos para la realización de es
 
 ### Proyecto-01: 
 Integrantes:
-* Emilia Contreras 
-* Katalina Riquelme 
-* Thyare Santander 
+
+- Emilia Contreras 
+- Katalina Riquelme 
+- Thyare Santander 
 
 El grupo declara que su prototipo se hará en impresión 3D, lo quieren hacer por su cuenta.
 
@@ -104,14 +105,15 @@ En este link pueden encontrar diversas opciones de filamentos: [filamentos](http
 
 En caso de necesitar unir piezas se recomienda el uso de tornillos M3, la cual será la medida estándar establecida en el taller, estos se pueden encontrar en: [Tornillos](https://www.cimech3d.cl/producto/perno-m3-zincado-pack-50/?srsltid=AfmBOooZL1rCLgmrz2yHb-8EatIMO3Y4J9RszVUNFPxMAbg5tHtpm0yU)
 
-------------------------------------------
+---
 
 ### Proyecto-02
 
 Integrantes:
-* Sofía Etchepare 
-* Antonia Fuentealba 
-* Sofía Pérez 
+
+- Sofía Etchepare 
+- Antonia Fuentealba 
+- Sofía Pérez 
 
 Material: PLA rojo cereza.
 
@@ -132,13 +134,14 @@ Se propuso la creación de una pieza 3d que sirva para mantener el piezo a ras d
 
 ![grupo02propuesta](./imagenes/grupo02propuesta.jpg)
 
-------------------------------------------
+---
 
 ### Proyecto-03
 Integrantes:
-* Sofía Cartes 
-* Isabella Gutierrez 
-* Valentina Ruz 
+
+- Sofía Cartes 
+- Isabella Gutierrez 
+- Valentina Ruz 
   
 El equipo menciona que quiere usar acrílico de colores para generar una esfera de aprox 150-200 mm de diametro.
 
@@ -158,14 +161,15 @@ este sería pegado a las paredes de la estructura mediante cianocrilato, pueden 
 
 Este adhesivo lo pueden comprar en conjunto al equipo 5 que también usa acrílico u otros equipos que trabajan con impresión 3d.
 
-------------------------------------------
+---
 
 ### Proyecto-04
 
 Integrantes:
-* Braulio Figueroa 
-* Carlo Martínez
-* Bastian Solís 
+
+- Braulio Figueroa 
+- Carlo Martínez
+- Bastian Solís 
 
 Para su trabajo se recomienda el uso de materiales resistentes, ya que los gatos pueden ser algo bruscos para jugar, se recomienda la madera porque es un material accesible.
 Se recomienda terciado de 15mm, ya que es liviano y facil de trabajar, lo pueden encontrar aqui: [Terciado15mm](https://www.imperial.cl/terciados/terciado-estructural-15mm-120x240mt/product/74734)
@@ -178,14 +182,15 @@ Pueden revisar los filamentos disponibles en el Lab en este link: [Cotización](
 
 Como propuesta podrían cubrir con alfombra rascadora para amortiguar la dureza de la madera y conseguir una doble función.
 
-------------------------------------------
+---
 
 ### Proyecto-05
 
 Integrantes:
-* Antonia Cristi 
-* Natalia Pilar 
-* Paulina Vargas 
+
+- Antonia Cristi 
+- Natalia Pilar 
+- Paulina Vargas 
 
 El equipo menciona que quieren prototipar con terciado y acrílico opaco cortando en láser.
 
@@ -200,14 +205,15 @@ Para pegar la madera pueden usar [colaFria](https://www.idepal.cl/cola-fria-rex-
 
 Por el tamaño de su proyecto se recomienda compartir material o gastos con algún otro equipo.
 
-------------------------------------------
+---
 
 ### Proyecto-06
 
 Integrantes:
-* Santiago Gaete Fernández 
-* Anaís Marschhausen Gajardo
-* Sebastián Saez Olivares
+
+- Santiago Gaete Fernández 
+- Anaís Marschhausen Gajardo
+- Sebastián Saez Olivares
 
 Estiman hacer 3 cintillos unidos de TPU Y PTG
 
@@ -219,7 +225,7 @@ De igual forma dentro de TodoToner se puede encontrar mucha variedad de la misma
 En el caso de los filamentos PTG, la mayoría de la marca esun se encuentran en un rango de precio similar, los pueden encontrar aquí:
 [FilamentoPTG](https://www.todotoner.cl/impresoras/impresoras-3d/filamentos/tpu-500g-transparente-ppc?source_impresee=ifnkjd4mpxugs6zx83pdhziy3v&IText=ptg)
 
-------------------------------------------
+---
 
 ## Diseño de carcasas UDPUDU (1 punto)
 
@@ -237,7 +243,7 @@ En la siguiente imagen se ve la idea principal de la carcasa. Aún falta la form
 
 ![primera vista de la carcasa](./imagenes/carcasa00.png)
 
-***
+---
 
 ## Impresión de carcasas UDPUDU (1 punto)
 
@@ -246,6 +252,8 @@ TODO
 ## Montaje de carcasas UDPUDU (1 punto)
 
 TODO
+
+---
 
 ## Bibliografía
 
