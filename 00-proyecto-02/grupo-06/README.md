@@ -244,4 +244,8 @@ Debido a que todos los esquemáticos de referentes para poder ocupar el chip L29
 
 ## Recursos adicionales
 
+[enlace a figma](https://www.figma.com/board/xtSdleNWkWIgJeE9Af27IX/fps555?node-id=0-1&p=f&t=aDNKgy5gH7pBcTs7-0)
+
+en figma realizamos ideas rapidas y existe un proceso de nuestro proyecto
+
 ## Bibliografía
