@@ -127,13 +127,13 @@ compramos 3 interruptor switch de 6 Pines ON-OFF-ON y tambien 1 motorreductor DC
    - emisor: SebastianSaez1003  
    - enviado a: docentes 
    - temática: documentación de proto en el proceso  
-   - conlusión: era necesario documentar todo el progreso para entender el proceso de aprendizaje  
+   - conclusión: era necesario documentar todo el progreso para entender el proceso de aprendizaje  
 
 - [issue 02](https://github.com/disenoUDP/dis8644-2025-1-proyectos/issues/140#issuecomment-2986736213)  
    - emisor: SebastianSaez1003
    - enviado a: IzhakVillegas y docentes
    - temática: feedback de formato
-   - conlusión: no hemos recibido respuesta
+   - conclusión: no hemos recibido respuesta
 
 ### bom 
 
@@ -143,13 +143,13 @@ compramos 3 interruptor switch de 6 Pines ON-OFF-ON y tambien 1 motorreductor DC
    - emisor: anaisbmg  
    - enviado a: franudp del grupo 0c y docentes 
    - temática:  recomendación para conectar switch 6 pines
-   - conlusión: existen nudos para cables y que podriamos utlizar resina uv o silicona para cubrir las conexiones y sí utilizábamos tblock deberíamos ocupar terminales para aislar 
+   - conclusión: existen nudos para cables y que podriamos utlizar resina uv o silicona para cubrir las conexiones y sí utilizábamos tblock deberíamos ocupar terminales para aislar 
 
 - [issue 04](https://github.com/disenoUDP/dis8644-2025-1-proyectos/issues/146#issuecomment-2986084119)  
    - emisor: anaisbmg   
    - enviado a: duckusu del grupo 0c y docentes
    - temática: pin header y bom
-   - conlusión: se confirmo nuestra idea de comprar una regleta y utilizar 5 pin, tambien existen de estos pin header en el lab
+   - conclusión: se confirmo nuestra idea de comprar una regleta y utilizar 5 pin, tambien existen de estos pin header en el lab
   
 
 ### esquematico 
@@ -160,19 +160,19 @@ compramos 3 interruptor switch de 6 Pines ON-OFF-ON y tambien 1 motorreductor DC
    - emisor: SebastianSaez1003
    - enviado a: franudp del grupo 0c y docentes
    - temática: interacción previa
-   - conlusión: es más rápido etiquetar a @disenoUDP/docentes que estar etiquetando uno a uno y nos ayudaron con correcciones para nuestro esquemático
+   - conclusión: es más rápido etiquetar a @disenoUDP/docentes que estar etiquetando uno a uno y nos ayudaron con correcciones para nuestro esquemático
      
 - [issue 06](https://github.com/disenoUDP/dis8644-2025-1-proyectos/issues/128#issuecomment-2981096977)  
    - emisor: clifford1one
    - enviado a: franudp del grupo 0c y docentes
    - temática: feedback símbolo para el mts303 de 6 pines
-   - conlusión: existe una guía para KiCAD llamada sparkfun y se nos guío con el componente y este como estaba en la footprint
+   - conclusión: existe una guía para KiCAD llamada sparkfun y se nos guío con el componente y este como estaba en la footprint
 
 - [issue 07](https://github.com/disenoUDP/dis8644-2025-1-proyectos/issues/128#issuecomment-2989092959)  
    - emisor: clifford1one   
    - enviado a: franudp del grupo 0c y docentes
    - temática: feedback respecto a la diagramación
-   - conlusión: esta hermoso y que podríamos añadir cajas de texto, lo cual se profundizará para el examen
+   - conclusión: esta hermoso y que podríamos añadir cajas de texto, lo cual se profundizará para el examen
 
 ### pcb 
 
@@ -182,19 +182,19 @@ compramos 3 interruptor switch de 6 Pines ON-OFF-ON y tambien 1 motorreductor DC
    - emisor: SebastianSaez1003  
    - enviado a: franudp del grupo 0c y docentes
    - temática: opiniones de pcb
-   - conlusión: si hace alusión al sol, seria muy redundante, pero destacamos forma de lentes hacia atrás, 
+   - conclusión: si hace alusión al sol, seria muy redundante, pero destacamos forma de lentes hacia atrás, 
 
 - [issue 09](https://github.com/disenoUDP/dis8644-2025-1-proyectos/issues/134#issuecomment-2986654634)  
    - emisor: clifford1one   
    - enviado a: franudp del grupo 0c y docentes
    - temática: screw terminal y vector de lente
-   - conlusión: toda la fuente de poder tuviera el mismo voltaje (9v) y footprints de la batería estan bien.
+   - conclusión: toda la fuente de poder tuviera el mismo voltaje (9v) y footprints de la batería estan bien.
 
 - [issue 10](https://github.com/disenoUDP/dis8644-2025-1-proyectos/issues/134#issuecomment-2989105082)  
    - emisor: clifford1one 
    - enviado a: franudp del grupo 0c y docentes
    - temática: error con drc
-   - conlusión: la pagina de jlcpcb salen las dimensiones mínimas para cada perforación, separación.
+   - conclusión: la pagina de jlcpcb salen las dimensiones mínimas para cada perforación, separación.
 
 ### carcasas 
 
@@ -215,9 +215,22 @@ compramos 3 interruptor switch de 6 Pines ON-OFF-ON y tambien 1 motorreductor DC
 
 ![Esquemático detalles](./imagenes/esquematico-detalle-02.jpg)
 
-EXPLICACIÓN TEXTUAL DEL ESQUEMÁTICO.
+Nuestro proyecto fps555 contiene un PWM con un chip 555, un motocontrolador que es el chip L293D, un motorreductor 6V 3RPM, un switch 6 PDT y un conector de batería.
 
-DESCRIBIR CHIPS USADOS, CONEXIONES USADAS.
+La función del PWM es un circuito que permite emular una onda análoga a través de ondas digitales; este controla el promedio que se le entrega a una carga y varía el ancho del pulso en su onda digital. Esto nos ayuda a regular la velocidad de motores DC, luz LED, entre otros. 
+
+El chip L293D es un doble puente H; está diseñado para controlar motores con una corriente continua, que permite controlar el encendido o apagado y cambiar el giro.
+
+El switch 6pdt funciona con una separación para controlar 2 circuitos de manera simultánea.
+
+Un motorreductor es un motor de corriente continua (DC) que incluye una caja reductora, la cual permite disminuir las revoluciones por minuto; por esto, tiene una menor velocidad, pero sigue conservando fuerza. 
+
+Nuestro proyecto utiliza un PWM con un chip 555 para regular las RPM que tendrá nuestro motorreductor. El pin 3 del 555 está conectado al pin 1 del L293D. En el chip L293D tenemos que utilizar solo un puente H; eso quiere decir que utilizaremos solo una mitad del chip. 
+
+El switch 6pdt está ocupado de 2 maneras en simultáneas; los pines 1, 2 y 3 corresponden al control de la dirección del motorreductor, donde el estado 1 sería rotación en sentido del reloj, el estado 2 es “off” y el estado 3 es rotación en sentido contrarreloj. Los pines 4, 5 y 6 del switch se ocuparon a modo de control del chip 555 al conectarlo directamente a su pin 4, donde el estado 1 y 3 dejan que fluya la corriente y funcione el resto del circuito, mientras que el estado 2 sería off.
+
+Debido a que todos los esquemáticos de referentes para poder ocupar el chip L293D ocupaban diodos de seguridad en las conexiones hacia el motor que era controlado, se aplicó esta misma práctica como medida de precaución. 
+
 
 ## PCB en Kicad (1 punto)
 
