@@ -84,7 +84,7 @@ Tienen 2 PCBs una mide 69.95mm x 89.85mm, la otra es de 39.50mm x 55.05mm
 
 ![vista posterior pcb grupo-06](./imagenes/pcb-grupo-06-02.png)
 
-***
+---
 
 ## Cotización de materiales de fijación (1 punto)
 
@@ -100,6 +100,10 @@ Integrantes:
 - Katalina Riquelme
 - Thyare Santander
 
+- Emilia Contreras
+- Katalina Riquelme
+- Thyare Santander
+
 El grupo declara que su prototipo se hará en impresión 3D, lo quieren hacer por su cuenta.
 
 En este link pueden encontrar diversas opciones de filamentos: [filamentos](https://www.todotoner.cl/impresoras/impresoras-3d/filamentos/tpu-500g-transparente-ppc?source_impresee=ifnkjd4mpxugs6zx83pdhziy3v&IText=filamentos%20esun)
@@ -109,6 +113,10 @@ En caso de necesitar unir piezas se recomienda el uso de tornillos M3, la cual s
 ### Proyecto-02
 
 Integrantes:
+
+- Sofía Etchepare
+- Antonia Fuentealba
+- Sofía Pérez
 
 - Sofía Etchepare
 - Antonia Fuentealba
@@ -231,7 +239,7 @@ En la siguiente imagen se ve la idea principal de la carcasa. Aún falta la form
 
 ![primera vista de la carcasa](./imagenes/carcasa00.png)
 
-***
+---
 
 ## Impresión de carcasas UDPUDU (1 punto)
 
@@ -240,6 +248,8 @@ TODO
 ## Montaje de carcasas UDPUDU (1 punto)
 
 TODO
+
+---
 
 ## Bibliografía
 
