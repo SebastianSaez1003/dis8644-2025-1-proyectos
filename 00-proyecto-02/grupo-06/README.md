@@ -6,7 +6,7 @@
 - Integrantes:
   - Santiago Gaete Fernández
   - Anaís Marschhausen Gajardo
-  - Sebastián Saez Olivares
+  - Sebastián Sáez Olivares
 - Chips usados:
   - NE555
   - L293D
