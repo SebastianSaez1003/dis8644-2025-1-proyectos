@@ -87,11 +87,11 @@ Fue necesario adquirir un sensor piezoeléctrico. Este componente fue clave para
 
 Con la ayuda y orientación de @disenoUDP/docentes pudimos salir del estancamiento al momento de prototipar el circuito de nuestro proyecto. Gracias a su acompañamiento, logramos que funcionara con fallos mínimos.
 
-![ayuda_de_docentes]
+![ayuda_de_docentes](./imagenes/ayudade@docentes.jpeg)
 
 La primera vez que se armó la protoboard, el circuito no funcionaba correctamente, por lo que pedimos ayuda a @SebastianSaez1003. Su apoyo fue fundamental: nos ayudó a ordenar la protoboard y ofreció un feedback detallado sobre la conexión de los componentes. Al revisar paso a paso el esquemático y replicarlo en físico, pudimos entender mucho mejor el funcionamiento del circuito.
 
-![ayuda_de_@sebastiansaez]
+![ayuda_de_@sebastiansaez](./imagenes/ayuda_de_@sebastiansaez.jpeg)
 
 También @Bernardita-lobo y @jotamorales-romulus nos ayudaron a documentar visualmente nuestro proceso de prototipado: desde los errores iniciales hasta el resultado final.
 
