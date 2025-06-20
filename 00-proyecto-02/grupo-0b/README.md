@@ -37,33 +37,40 @@ El responsable de esta sección es @jotamorales-romulus.
 
 Se utilizan fondos neutros, planos detalle bien enfocados y una ambientación que resalta el trabajo manual y digital del diseñador. Aunque la mayoría no incluye narración hablada constante, la historia del proyecto se cuenta visualmente a través del proceso: bocetos, pruebas, errores, materiales, herramientas y resultados finales. Dejo un referente de la video promocional de las clases del profesor alvarejo.
 
-No se busco sólo mostrar el resultado final, sino también documentar el recorrido completo, destacando las decisiones creativas y técnicas que llevaron al desarrollo del proyecto.
+No sólo busco mostrar el resultado final, sino también documentar el recorrido completo, destacando las decisiones creativas y técnicas que llevaron al desarrollo del proyecto.
 
-[![Curso de Alvaro Arteaga en Domestika](https://img.youtube.com/vi/ECKjj8N1EQ0/0.jpg)](https://www.youtube.com/watch?v=ECKjj8N1EQ0)
+Ya cuando tengamos en nuestro poder las placas y prototipos para el registro, recomiendo el uso de un fondo neutro (como blanco, gris o negro), ya que no distrae y permite que la audiencia se concentre en lo que realmente importa.
 
-Ya cuando tengamos en nuestro poder las placas y prototipos recomiendo el uso de un fondo neutro (como blanco, gris o negro) no distrae. Permite que la audiencia se concentre en lo que realmente importa.
+Usar un fondo no neutro, seria más para el trabajo en clases, cuando se está prototipando o organizando con los grupos. Doy de ejemplo el pañol de la universidad, con herramientas y materiales, aporta contexto real y autenticidad al registro.
+Para el registro en sala, el fondo no neutro puede aportar contexto visual importante que enriquece la comprensión del entorno y la actividad que se está documentando. A diferencia de un fondo neutro, que es más sencillo y minimalista, un fondo con elementos del espacio real, ayuda a mostrar la atmósfera, la dinámica y el ambiente natural donde se desarrolla la clase.
+
 
 ### The Life of Crystal
 
-También quiero destacar como referente a Mónica Bate, quien durante la visita a la clase nos mostró el video [*The Life of crystal*](https://www.youtube.com/watch?v=kRLh9yuW5Ns), donde documenta su proyecto de arte sonoro con cristales piezoeléctricos. Elijo este video como referente porque se acerca más a lo que vamos a hacer en el taller con los trabajos de examen y siento que tiene mayor sintonía con nuestro enfoque. Además, cuenta con una edición y registro simples pero funcionales, bastante minimalistas, donde muestra claramente los avances y la interacción con el usuario.
+También quiero destacar como referente a Mónica Bate, quien durante la visita a la clase nos mostró el video [The Life of Crystals](https://vimeo.com/79735959), donde documenta su proyecto de arte sonoro con cristales piezoeléctricos. Elijo este video como referente porque se acerca más a lo que vamos a hacer en el taller con los trabajos de examen y siento que tiene mayor sintonía con nuestro enfoque. Además, cuenta con una edición y registro simples pero funcionales, bastante minimalistas, donde muestra claramente los avances y la interacción con el usuario.
 
 ![Foto de referente fotográfico](./imagenes/tme-proyecto02-referente01.jpeg)
 
 ▼ Fuentes: <https://i0.wp.com/etab.cl/monica-bate/wp-content/uploads/2017/12/DSC0009.jpg?resize=1024%2C680> y <https://i0.wp.com/etab.cl/monica-bate/wp-content/uploads/2017/12/MG_3695.jpg?resize=1024%2C683>
 
-### Taller celebración UDP Diseño etc
+### Reels Instagram Taller: Celebración UDP por Carolina Kusanovich y Felipe Cardemil
 
-Reels de instragram los cuales muestran el avance de las clases durante el semestre [Taller de Celebración UDP — Instagram](https://www.instagram.com/tallerdecelebracionudp?igsh=dXU0aWNhNmR1dHNq)
+Reels de Instagram que muestran el avance de las clases durante el semestre. Estos son grabados por alumnos encargados de registrar el trabajo realizado en clases. Durante las sesiones se busca registrar la mayor cantidad de contenido posible para luego editar y juntar en un video, que posteriormente se sube a redes sociales.
 
-El responsable de esta sección es @jotamorales-romulus.
+Estos videos son fáciles de grabar y editar. Normalmente se pueden subir cada semana. Se utiliza música de fondo para hacerlos más atractivos para el espectador. Suelen durar entre 30 segundos y 1 minuto.
 
-A continuación se presentan imágenes de las protoboards usadas.
 
-![Vista protoboard de frente](./imagenes/presentacion-visual-frente.jpg)
+[Taller de Celebración UDP — Instagram](https://www.instagram.com/tallerdecelebracionudp?igsh=dXU0aWNhNmR1dHNq)
 
-![Vista protoboard de arriba](./imagenes/presentacion-visual-arriba.jpg)
+### Experimental 
+Para definir la identidad visual del video, tomé como punto de partida el moodboard desarrollado por Camila Parada para la parte de diseño gráfico del examen. Me interesó especialmente su enfoque visual: una mezcla de distorsión, collage, tipografía experimental y caos contenido. Quiero trasladar esa estética al lenguaje audiovisual, explorando recursos como deformaciones visuales, glitches, efectos analógicos y texturas digitales, pero siempre dentro de lo posible y accesible.
 
-A continuación se presentan textos explicativos del prototipado.
+Mi intención no es saturar el video, sino intervenirlo de forma sutil pero significativa. Me interesa registrar a mis compañeros, sus gestos, movimientos o rastros, y trabajar ese material en edición, dándole un tratamiento visual que lo transforme sin desfigurarlo, manteniendo la esencia de la acción original. En ese proceso, también quiero experimentar con la tipografía como un recurso gráfico más; no tanto para comunicar información, sino para aportar ritmo, textura y estilo. Esto se trabajará en conjunto con Camila Parada.
+
+No busco simplemente documentar, sino reinterpretar visualmente lo que ocurre, creando una pieza viva que dialogue con lo que hemos construido colectivamente.
+
+Como referente visual, tomé el video [“Waiting For The End – Recording Vocals | LPTV #42” de Linkin Park](https://www.youtube.com/watch?v=vlcMQ3teZ1g) donde se combinan registros documentales con una edición muy cuidada. Me interesó particularmente cómo se integran efectos visuales como glitches, distorsiones suaves, overlays y tipografía que aparece de forma puntual. Este tratamiento aporta identidad visual al material sin restarle fuerza al contenido. Es ese equilibrio el que busco lograr: una intervención visual que complemente el registro, lo estilice y lo potencie sin opacarlo.
+
 
 ## Instrucciones de documentación en video para consistencia en los proyectos (1 punto)
 
@@ -174,13 +181,18 @@ La responsable de esta sección es @Bernardita-lobo.
 ### Plan de documentación
 
 - Se documentarán las protoboard, las placas PCB, las carcasas, el producto final y en general, cualquier avance que los grupos de trabajo consideren pertinente registrar.
+  
 - Para poder tomar registros fotográficos del proceso, primero hacemos el montaje del set. Estas fotos las tomamos en una caja de luz con fondo infinito, que cuenta con iluminación integrada. También colocamos un trípode y una cámara Canon que pedimos prestada del pañol digital.
+  
 - Los registros fotográficos se realizan durante el horario de taller. Comenzamos a tomar las fotos a partir de las 10 de la mañana. Además, vamos a agendar sesiones fotográficas en horarios fuera del taller, con el fin de alcanzar a documentar todos los procesos grupales
+  
 - Las fotografías se editan en caso de que queden muy oscuras o si es necesario eliminar alguna parte del fondo para mejorar su presentación. También se ajusta su tamaño a 1080x1080 píxeles, formato que elegimos para generar contenido para el Instagram del taller, en conjunto con mi compañera Camila Parada.
-- estas fotos las subimos al este drive <https://drive.google.com/drive/folders/1OwoyJ_nTuie-A1s_U5647DsOHI4zlNnj?usp=drive_link> donde están disponibles en formato JPEG y también como archivos editables de Illustrator. Además, las imágenes se encuentran organizadas en la carpeta "Imágenes" dentro de la carpeta de cada grupo correspondiente al Proyecto 02, así como en la carpeta "Imágenes" del grupo 0B, al que pertenece esta misma documentación.
+  
+- Estas fotos son subidas a este [Drive](<https://drive.google.com/drive/folders/1OwoyJ_nTuie-A1s_U5647DsOHI4zlNnj?usp=drive_link>), donde están disponibles en formato JPEG y también como archivos editables de Photoshop. Además, las fotografías se encuentran organizadas en la carpeta "imagenes" presente en las carpetas de los grupos dentro del repositorio "00-proyecto-02", así como en la carpeta "["imagenes"](https://github.com/Camila-Parada/dis8644-2025-1-proyectos/tree/main/00-proyecto-02/grupo-0b/imagenes)" del "grupo-0b", al que pertenece esta misma documentación.
+  
 - Los archivos de las fotos fueron nombrados siguiendo el formato: tme-proyecto02-grupo01-registro01, donde se indican las siglas del taller (TME: Taller Máquinas Electrónicas), el número del proyecto, el número del grupo y el número de registro correspondiente.
 
-### criterios especificos
+### Criterios especificos
 
 - Para las fotos de registro del proceso de maqueteo en la protoboard decidimos utilizar un fondo gris, ya que buscamos lograr una apariencia neutral. En cambio, para las fotografías del proyecto final, que incluyen las PCBs y las carcasas, utilizaremos fondos de colores diferentes para cada uno de los seis grupos, con el objetivo de dar mayor identidad a cada proyecto. Además, como se mencionó en los referentes, también tomaremos las fotos en un contexto que apoye y responda a la función e interacción de cada proyecto.
 - Para las fotografías de las protoboard tomamos tres tipos de tomas: una desde la parte frontal con perspectiva, otra en vista superior para que se aprecien con claridad los circuitos, y una tercera que enfoca algún detalle distintivo que sea necesario destacar.
