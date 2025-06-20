@@ -75,7 +75,7 @@
 			(mirror no)
 			(drillshape 0)
 			(scaleselection 1)
-			(outputdirectory "../../../../../everytihing/DISENO-INDUSTRIAL/Universidarks/7-semestre/taller.maq.elect/exports fps555 kicad/fps555-gerber/")
+			(outputdirectory "fps555-gerber/")
 		)
 	)
 	(net 0 "")
