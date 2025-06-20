@@ -22,7 +22,7 @@ El proyecto consiste en una entrada con un LDR que detecta sombra, con una salid
 
 Este es el diagrama a mano.
 
-![Dibujo del diagrama a mano](./imagenes/diagrama-mano.jpg)
+![Dibujo del diagrama a mano](./imagenes/Diagrama-flujo.jpeg)
 
 En este dibujo mostramos XX.
 
