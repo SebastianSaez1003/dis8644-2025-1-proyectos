@@ -144,7 +144,9 @@ DESCRIBIR CHIPS USADOS, CONEXIONES USADAS.
 
 ## PCB en Kicad (1 punto)
 
-![PCB general](./imagenes/pcb-general.jpg)
+![PCB general](./imagenes/pcb-general.JPG)
+
+![PCB general](./imagenes/pcb-general-2.JPG)
 
 ![PCB detalles](./imagenes/pcb-detalle-01.JPG)
 
