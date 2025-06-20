@@ -153,6 +153,12 @@ El video de cada grupo debe incluir:
 - Sombras creativas si refuerzan el concepto.
 - Fondos neutros y no neutros.
 
+### Creditos 
+- Nombre taller
+- Profesores y ayudantes 
+- Integrantes del curso divididos por grupo (nombre y apellido)
+- Año
+
 ### Checklist de grabación por grupo FINAL
 
 - [ ] Registro del circuito en protoboard  
@@ -162,12 +168,6 @@ El video de cada grupo debe incluir:
 - [ ] Testimonio breve (opcional, pero recomendado o puede ser escrito)  
 - [ ] Archivos bien nombrados: `grupoXX-nombre-2024-06-14.mp4`  
 - [ ] Entrega vía wetransfer a jotamorales-romulus.
-
-### Creditos 
-- Nombre taller
-- Profesores y ayudantes 
-- Integrantes del curso divididos por grupo (nombre y apellido)
-- Año
   
 
 
