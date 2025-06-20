@@ -120,7 +120,7 @@ DESCRIPCIÓN:
 
 CONEXIONES UTILIZADAS:
 
-**CHIP LM324**
+CHIP LM324
 
 - pin 1 y 2 para la conexión con el potenciómetro la dos para la su pin central,  mientras la uno se dirige al condensador.
 
