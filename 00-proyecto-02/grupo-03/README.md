@@ -164,6 +164,12 @@ CHIP 4017
 
 ![PCB detalle 1](./kicad/proyecto_detalle3.jpg)
 
+![PCB completo](./kicad/pcb-kicad.jpg)
+
+![pdf 1](./kicad/spectra-pcb.pdf)
+
+![pdf 2](./kicad/spectra-pcb1.pdf)
+
 Enlace de la PCB para ver los PDF <https://drive.google.com/drive/folders/13fPj71c8mFoW2-MyDWrl_n2MRV8LrotA?usp=sharing>
 
 ## Recursos adicionales
