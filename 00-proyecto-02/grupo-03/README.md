@@ -178,6 +178,9 @@ Enlace de la PCB para ver los PDF <https://drive.google.com/drive/folders/13fPj7
 
 <https://www.sparkfun.com/sparkfun-sound-detector.html>
 
+- **Moodboard de referentes de carcasa y materialidad**
+![moodboard](./imagenes/moodboard.jpg))
+
 ## Bibliografía
 
 <https://www.sparkfun.com/sparkfun-sound-detector.html>
