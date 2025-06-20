@@ -10,8 +10,8 @@ Integrantes:
 
 jotaMorales, bernardita y camila
 
-- Bernardita Lobo TODO: agregar enlace a su github.com
-- José Morales: https://github.com/jotamorales-romulus
+- Bernardita Lobo TODO: <https://github.com/Bernardita-lobo/dis8644-2025-1-proyectos/tree/main/09-Bernardita-lobo>
+- José Morales: <https://github.com/jotamorales-romulus>
 - Camila Parada TODO: agregar enlace a su github.com
 
 ### Pauta
@@ -50,7 +50,7 @@ Para el registro en sala, el fondo no neutro puede aportar contexto visual impor
 
 ### The Life of Crystal
 
-También quiero destacar como referente a Mónica Bate, quien durante la visita a la clase nos mostró el video [The Life of Crystals](https://vimeo.com/79735959), donde documenta su proyecto de arte sonoro con cristales piezoeléctricos. Elijo este video como referente porque se acerca más a lo que vamos a hacer en el taller con los trabajos de examen y siento que tiene mayor sintonía con nuestro enfoque. Además, cuenta con una edición y registro simples pero funcionales, bastante minimalistas, donde muestra claramente los avances y la interacción con el usuario. 
+También quiero destacar como referente a Mónica Bate, quien durante la visita a la clase nos mostró el video [The Life of Crystals](https://vimeo.com/79735959), donde documenta su proyecto de arte sonoro con cristales piezoeléctricos. Elijo este video como referente porque se acerca más a lo que vamos a hacer en el taller con los trabajos de examen y siento que tiene mayor sintonía con nuestro enfoque. Además, cuenta con una edición y registro simples pero funcionales, bastante minimalistas, donde muestra claramente los avances y la interacción con el usuario.
 
 ![Foto de referente registro](./imagenes/tme-proyecto02-referente01.jpeg)
 
@@ -60,11 +60,11 @@ También quiero destacar como referente a Mónica Bate, quien durante la visita 
 
 Reels de Instagram que muestran el avance de las clases durante el semestre. Estos son grabados por alumnos encargados de registrar el trabajo realizado en clases. Durante las sesiones se busca registrar la mayor cantidad de contenido posible para luego editar y juntar en un video, que posteriormente se sube a redes sociales.
 
-Estos videos son fáciles de grabar y editar. Normalmente se pueden subir cada semana. Se utiliza música de fondo para hacerlos más atractivos para el espectador. Suelen durar entre 30 segundos y 1 minuto. 
+Estos videos son fáciles de grabar y editar. Normalmente se pueden subir cada semana. Se utiliza música de fondo para hacerlos más atractivos para el espectador. Suelen durar entre 30 segundos y 1 minuto.
 
 [Taller de Celebración UDP — Instagram](https://www.instagram.com/tallerdecelebracionudp?igsh=dXU0aWNhNmR1dHNq)
 
-### Experimental 
+### Experimental
 
 Para definir la identidad visual del video, tomé como punto de partida el moodboard desarrollado por Camila Parada para la parte de diseño gráfico del examen. Me interesó especialmente su enfoque visual: una mezcla de distorsión, collage, tipografía experimental y caos contenido. Quiero trasladar esa estética al lenguaje audiovisual, explorando recursos como deformaciones visuales, glitches, efectos analógicos y texturas digitales, pero siempre dentro de lo posible y accesible.
 
@@ -93,11 +93,13 @@ Para cada sesión se realizará un registro audiovisual mediante el uso de una c
 - Cada video de los grupos registrará el proyecto completo y funcionará como una cápsula audiovisual que resuma su propuesta, mostrando desde el concepto hasta el resultado final.
 
 ### Intro del video
+
 - Nombre taller, Profesore y ayudante
 - Logos lab y taller
 - Breve introdcucion del taller
 
 ### Proyectos
+
 - Primero se mostrara parte del registro del taller
 El video de cada grupo debe incluir:
 
@@ -107,6 +109,7 @@ El video de cada grupo debe incluir:
 - Imágenes del proceso y resultado final
   
 ¿Cómo se hará?
+
 - La grabación y edición estarán a cargo de Jota Morales. Cada grupo debe ayudar al registro de su proyecto. La fecha debe ser coordinada por los profesores.
 - Tentativamente, se realizará en un espacio del Laboratorio de Interacción Digital o en la sala de fotografía de la FAAD.
   
@@ -126,12 +129,13 @@ El video de cada grupo debe incluir:
 
 ### Formato y resolución de los videos
 
-- Formato horizontal o vertical 
+- Formato horizontal o vertical
 - Resolución mínima: 1080p (Full HD)
 - FPS: 30 cuadros por segundo
 - Al exportar los videos, se verificará que los formatos estén correctos.
 
 ### Audio
+
 - La idea es registrar el audio si el proyecto produce algún sonido, y dejar sin audio si no lo produce
 - Se utilizarán canciones de fondo sobre cultura electrónica.
 
@@ -177,8 +181,8 @@ La responsable de esta sección es @Bernardita-lobo.
 - Se documentarán las protoboard, las placas PCB, las carcasas, el producto final y en general, cualquier avance que los grupos de trabajo consideren pertinente registrar.
 - Para poder tomar registros fotográficos del proceso, primero hacemos el montaje del set. Estas fotos las tomamos en una caja de luz con fondo infinito, que cuenta con iluminación integrada. También colocamos un trípode y una cámara Canon que pedimos prestada del pañol digital.
 - Los registros fotográficos se realizan durante el horario de taller. Comenzamos a tomar las fotos a partir de las 10 de la mañana. Además, vamos a agendar sesiones fotográficas en horarios fuera del taller, con el fin de alcanzar a documentar todos los procesos grupales  
-- Las fotografías se editan en caso de que queden muy oscuras o si es necesario eliminar alguna parte del fondo para mejorar su presentación. También se ajusta su tamaño a 1080x1080 píxeles, formato que elegimos para generar contenido para el Instagram del taller, en conjunto con mi compañera Camila Parada. 
-- Estas fotos son subidas a este [Drive](<https://drive.google.com/drive/folders/1OwoyJ_nTuie-A1s_U5647DsOHI4zlNnj?usp=drive_link>), donde están disponibles en formato JPEG y también como archivos editables de Photoshop. Además, las fotografías se encuentran organizadas en la carpeta "imagenes" presente en las carpetas de los grupos dentro del repositorio "00-proyecto-02", así como en la carpeta "["imagenes"](https://github.com/Camila-Parada/dis8644-2025-1-proyectos/tree/main/00-proyecto-02/grupo-0b/imagenes)" del "grupo-0b", al que pertenece esta misma documentación. 
+- Las fotografías se editan en caso de que queden muy oscuras o si es necesario eliminar alguna parte del fondo para mejorar su presentación. También se ajusta su tamaño a 1080x1080 píxeles, formato que elegimos para generar contenido para el Instagram del taller, en conjunto con mi compañera Camila Parada.
+- Estas fotos son subidas a este [Drive](<https://drive.google.com/drive/folders/1OwoyJ_nTuie-A1s_U5647DsOHI4zlNnj?usp=drive_link>), donde están disponibles en formato JPEG y también como archivos editables de Photoshop. Además, las fotografías se encuentran organizadas en la carpeta "imagenes" presente en las carpetas de los grupos dentro del repositorio "00-proyecto-02", así como en la carpeta "["imagenes"](https://github.com/Camila-Parada/dis8644-2025-1-proyectos/tree/main/00-proyecto-02/grupo-0b/imagenes)" del "grupo-0b", al que pertenece esta misma documentación.
 - Los archivos de las fotos fueron nombrados siguiendo el formato: tme-proyecto02-grupo01-registro01, donde se indican las siglas del taller (TME: Taller Máquinas Electrónicas), el número del proyecto, el número del grupo y el número de registro correspondiente.
 
 ### Criterios especificos
@@ -186,9 +190,23 @@ La responsable de esta sección es @Bernardita-lobo.
 - Para las fotos de registro del proceso de maqueteo en la protoboard decidimos utilizar un fondo gris, ya que buscamos lograr una apariencia neutral. En cambio, para las fotografías del proyecto final, que incluyen las PCBs y las carcasas, utilizaremos fondos de colores diferentes para cada uno de los seis grupos, con el objetivo de dar mayor identidad a cada proyecto. Además, como se mencionó en los referentes, también tomaremos las fotos en un contexto que apoye y responda a la función e interacción de cada proyecto.
 - Para las fotografías de las protoboard tomamos tres tipos de tomas: una desde la parte frontal con perspectiva, otra en vista superior para que se aprecien con claridad los circuitos, y una tercera que enfoca algún detalle distintivo que sea necesario destacar.
 
+### Registro fotográfico
+
+- Como ejemplo de lo que se trabajó, incluiré tres fotografías correspondientes al grupo 05.
+
+![Foto de registro fotográfico](./imagenes/tme-grupo05-registro02.jpg)
+
+![Foto de registro fotográfico](./imagenes/tme-grupo05-registro03.jpg)
+
+![Foto de registro fotográfico](./imagenes/tme-grupo05-registro04.jpg)
+
 ## Propuesta de montaje de proyectos en sala de clases y en laboratorio (1 punto)
 
 La responsable de esta sección es @Bernardita-lobo.
+
+### Elementos clave a mostrar en el montaje
+
+- Para el montaje es fundamental lograr explicar, de manera concisa y accesible, cómo se llegó a los resultados finales. Este taller, en especial, trabaja en una disciplina algo diferente y puede resultar difícil de comprender. En ese sentido, la propuesta del montaje se dividirá en dos secciones: una donde se expongan los proyectos finales y otra donde se evidencien todos los procesos por los que tuvieron que pasar los grupos de trabajo.
 
 ***
 
