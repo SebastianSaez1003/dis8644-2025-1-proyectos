@@ -135,5 +135,3 @@ Seguido por un contador 4017, cada salida alta enciende un LED en secuencia. Cad
 [Datasheet del chip NE555](https://www.ti.com/lit/ds/symlink/ne555.pdf)
 
 [Datasheet del chip LM324](https://www.ti.com/lit/ds/symlink/lm324.pdf)
-
-
