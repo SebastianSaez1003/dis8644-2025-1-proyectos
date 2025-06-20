@@ -24,7 +24,9 @@ Este es el diagrama a mano.
 
 ![Dibujo del diagrama a mano](./imagenes/Diagrama-flujo.jpeg)
 
-En este dibujo mostramos XX.
+En este dibujo mostramos el flujo de interacción del dispositivo, comenzando por la detección de sombra y sonido.
+
+Al detectar una sombra, el dispositivo activa una secuencia de luces LED en forma de ruleta, y esta secuencia se mantiene desactivada mientras no se detecten sombras; y al detectar sonido, se enciende un LED separado de esta secuencia que le hace saber al usuario que su voz está siendo captada. La detección de sonido en sí no afecta al detector de sombra o la ruleta de LEDs.
 
 ## Prototipado de circuitos en protoboard (1 punto)
 
@@ -87,6 +89,8 @@ Intentamos ayudar a [Sofía](https://github.com/sofiacartes) del grupo 03 en có
 [Issue #137 del proyecto 03](https://github.com/disenoUDP/dis8644-2025-1-proyectos/issues/137#issuecomment-2984472409)
 
 Ayudamos a [Braulio](https://github.com/brauliofigueroa2001) del grupo 04 mostrándole cómo conseguimos una imagen en blanco y negro de nuestra PCB en KiCad
+
+ [hazzaily](https://github.com/hazzaily) nos ayudó a subir imágenes correctamente a github.
 
 ## Esquematico en Kicad (1 punto)
 

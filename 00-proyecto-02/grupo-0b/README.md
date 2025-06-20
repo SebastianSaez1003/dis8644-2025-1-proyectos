@@ -45,12 +45,14 @@ Ya cuando tengamos en nuestro poder las placas y prototipos para el registro, re
 
 ![Foto de referente fondo no neutro ](./imagenes/tme-proyecto02-referente05.jpeg)
 
-Usar un fondo no neutro, seria más para el trabajo en clases, cuando se está prototipando o organizando con los grupos. Doy de ejemplo el pañol de la universidad, con herramientas y materiales, aporta contexto real y autenticidad al registro.
+▼ Fuentes: <https://arte.udp.cl/laboratorios/laboratorio-de-maquinas-y-herramientas/>
+
+Usar un fondo no neutro, sería más para el trabajo en clases, cuando se está prototipando u organizando con los grupos. Doy de ejemplo el pañol de la universidad que, con herramientas y materiales, aporta contexto real y autenticidad al registro.
 Para el registro en sala, el fondo no neutro puede aportar contexto visual importante que enriquece la comprensión del entorno y la actividad que se está documentando. A diferencia de un fondo neutro, que es más sencillo y minimalista, un fondo con elementos del espacio real, ayuda a mostrar la atmósfera, la dinámica y el ambiente natural donde se desarrolla la clase.
 
 ### The Life of Crystal
 
-También quiero destacar como referente a Mónica Bate, quien durante la visita a la clase nos mostró el video [The Life of Crystals](https://vimeo.com/79735959), donde documenta su proyecto de arte sonoro con cristales piezoeléctricos. Elijo este video como referente porque se acerca más a lo que vamos a hacer en el taller con los trabajos de examen y siento que tiene mayor sintonía con nuestro enfoque. Además, cuenta con una edición y registro simples pero funcionales, bastante minimalistas, donde muestra claramente los avances y la interacción con el usuario.
+También quiero destacar como referente a Mónica Bate, quien durante la visita a la clase, nos mostró el video [The Life of Crystals](https://vimeo.com/79735959), donde documenta su proyecto de arte sonoro con cristales piezoeléctricos. Elijo este video como referente porque se acerca más a lo que vamos a hacer en el taller con los trabajos de examen y siento que tiene mayor sintonía con nuestro enfoque. Además, cuenta con una edición y registro simples pero funcionales, bastante minimalistas, donde muestra claramente los avances y la interacción con el usuario.
 
 ![Foto de referente registro](./imagenes/tme-proyecto02-referente01.jpeg)
 
@@ -58,7 +60,7 @@ También quiero destacar como referente a Mónica Bate, quien durante la visita 
 
 ### Reels Instagram Taller: Celebración UDP por Carolina Kusanovich y Felipe Cardemil
 
-Reels de Instagram que muestran el avance de las clases durante el semestre. Estos son grabados por alumnos encargados de registrar el trabajo realizado en clases. Durante las sesiones se busca registrar la mayor cantidad de contenido posible para luego editar y juntar en un video, que posteriormente se sube a redes sociales.
+Reels de Instagram que muestran el avance de las clases durante el semestre. Estos son grabados por alumnos encargados de registrar el trabajo realizado en clases. Durante las sesiones, se busca registrar la mayor cantidad de contenido posible para luego editar y juntar en un video, que posteriormente se sube a redes sociales.
 
 Estos videos son fáciles de grabar y editar. Normalmente se pueden subir cada semana. Se utiliza música de fondo para hacerlos más atractivos para el espectador. Suelen durar entre 30 segundos y 1 minuto.
 
@@ -68,7 +70,7 @@ Estos videos son fáciles de grabar y editar. Normalmente se pueden subir cada s
 
 Para definir la identidad visual del video, tomé como punto de partida el moodboard desarrollado por Camila Parada para la parte de diseño gráfico del examen. Me interesó especialmente su enfoque visual: una mezcla de distorsión, collage, tipografía experimental y caos contenido. Quiero trasladar esa estética al lenguaje audiovisual, explorando recursos como deformaciones visuales, glitches, efectos analógicos y texturas digitales, pero siempre dentro de lo posible y accesible.
 
-Mi intención no es saturar el video, sino intervenirlo de forma sutil pero significativa. Me interesa registrar a mis compañeros, sus gestos, movimientos o rastros, y trabajar ese material en edición, dándole un tratamiento visual que lo transforme sin desfigurarlo, manteniendo la esencia de la acción original. En ese proceso, también quiero experimentar con la tipografía como un recurso gráfico más; no tanto para comunicar información, sino para aportar ritmo, textura y estilo. Esto se trabajará en conjunto con Camila Parada.
+Mi intención no es saturar el video, sino intervenirlo de forma sutil, pero significativa. Me interesa registrar a mis compañeros, sus gestos, movimientos o rastros, y trabajar ese material en edición, dándole un tratamiento visual que lo transforme sin desfigurarlo, manteniendo la esencia de la acción original. En ese proceso, también quiero experimentar con la tipografía como un recurso gráfico más; no tanto para comunicar información, sino para aportar ritmo, textura y estilo. Esto se trabajará en conjunto con Camila Parada.
 
 No busco simplemente documentar, sino reinterpretar visualmente lo que ocurre, creando una pieza viva que dialogue con lo que hemos construido colectivamente.
 
@@ -78,29 +80,41 @@ Como referente visual, tomé el video [“Waiting For The End – Recording Voca
 
 El responsable de esta sección es @jotamorales-romulus.
 
-Para cada sesión se realizará un registro audiovisual mediante el uso de una cámara. Además, para el examen se desarrollarán tres tipos distintos de video como parte del proyecto.
+Para cada sesión, se realizará un registro audiovisual mediante el uso de una cámara. Además, para el examen, se desarrollarán tres tipos distintos de video como parte del proyecto.
+
+### Almacenamiento
+
+- Los videos serán almacenados en el computador de @jotamorales-romulus. Al finalizar cada clase, los videos se pasarán a través de un adaptador de tarjeta sd
 
 ### Reels
 
 - Videos de entre 30 segundos y 1 minuto, en formato vertical (9:16), pensados para redes sociales como Instagram.
 - Su objetivo es documentar el proceso del taller de forma fragmentada pero constante, mostrando el ambiente de trabajo y los avances de los distintos grupos.
 - La idea es registrar la mayor cantidad de momentos posibles durante las sesiones, para luego contar con suficiente material con el que se puedan editar estos videos.
-- Tendra los logotipos del Laboratorio de Interacción Digital de la UDP y del Taller de Máquinas Electrónicas al inicio. Y durante el resto del video tendrá marca de agua del logotipo del taller.
-  
+- Tendrá los logotipos del Laboratorio de Interacción Digital de la UDP y del Taller de Máquinas Electrónicas al inicio. Durante el resto del video, tendrá marca de agua del logotipo del taller.
+- La sesión 15A marcó el inicio del registro audiovisual.
+
+### Primer reel (sesión 15A)
+
+[![Miniatura del video](https://img.youtube.com/vi/l8mmXpmg6G0/hqdefault.jpg)](https://youtube.com/shorts/l8mmXpmg6G0?feature=share)
+
+
 ### Video Examen
 
-- Se realizará un video que junte todo lo realizado para el examen. Registro de las classe y registro de los proyectos de los grupos.
-- Cada video de los grupos registrará el proyecto completo y funcionará como una cápsula audiovisual que resuma su propuesta, mostrando desde el concepto hasta el resultado final.
+- Se hará uso de tripode para este registro.
+- Se realizará un video que junte todo lo realizado para el examen: Registro de las clase y registro de los proyectos de los grupos.
+- Cada video de los grupos, registrará el proyecto completo y funcionará como una cápsula audiovisual que resuma su propuesta, mostrando desde el concepto hasta el resultado final.
 
 ### Intro del video
 
-- Nombre taller, Profesore y ayudante
+- Nombre taller, Profesores y ayudante
 - Logos lab y taller
-- Breve introdcucion del taller
+- Breve introducción del taller
 
 ### Proyectos
 
-- Primero se mostrara parte del registro del taller
+- Primero, se mostrará parte del registro del taller
+
 El video de cada grupo debe incluir:
 
 - Nombre del grupo cuando aparezca su proyecto en pantalla  
@@ -133,26 +147,36 @@ El video de cada grupo debe incluir:
 - Resolución mínima: 1080p (Full HD)
 - FPS: 30 cuadros por segundo
 - Al exportar los videos, se verificará que los formatos estén correctos.
+- Videos pesados se compartiran por wetransfer a aaron.montoya@mail.udp.cl
 
 ### Audio
 
-- La idea es registrar el audio si el proyecto produce algún sonido, y dejar sin audio si no lo produce
+- La idea es registrar el audio si el proyecto produce algún sonido, y dejar sin audio si no lo produce.
 - Se utilizarán canciones de fondo sobre cultura electrónica.
 
-### Iluminación
+### Puesta en escena
 
 - Usar luz blanca o luz natural.
 - Sombras creativas si refuerzan el concepto.
+- Fondos neutros y no neutros.
+
+### Creditos 
+- Nombre taller
+- Profesores y ayudantes 
+- Integrantes del curso divididos por grupo (nombre y apellido)
+- Año
 
 ### Checklist de grabación por grupo FINAL
 
 - [ ] Registro del circuito en protoboard  
 - [ ] Registro del montaje final (2 de julio 2025)  
-- [ ] Grabación del circuito en uso o en contexto  
-- [ ] Fotografías de calidad del proyecto  
-- [ ] Testimonio breve (opcional, pero recomendado o puede ser escrito)  
+- [ ] Grabación del circuito en uso o en contexto     
 - [ ] Archivos bien nombrados: `grupoXX-nombre-2024-06-14.mp4`  
-- [ ] Entrega vía wetransfer a jotamorales-romulus.
+- [ ] Entrega vía wetransfer (archivo para portafolio)
+  
+
+
+
 
 ***
 
@@ -181,13 +205,13 @@ La responsable de esta sección es @Bernardita-lobo.
 - Se documentarán las protoboard, las placas PCB, las carcasas, el producto final y en general, cualquier avance que los grupos de trabajo consideren pertinente registrar.
 - Para poder tomar registros fotográficos del proceso, primero hacemos el montaje del set. Estas fotos las tomamos en una caja de luz con fondo infinito, que cuenta con iluminación integrada. También colocamos un trípode y una cámara Canon que pedimos prestada del pañol digital.
 - Los registros fotográficos se realizan durante el horario de taller. Comenzamos a tomar las fotos a partir de las 10 de la mañana. Además, vamos a agendar sesiones fotográficas en horarios fuera del taller, con el fin de alcanzar a documentar todos los procesos grupales  
-- Las fotografías se editan en caso de que queden muy oscuras o si es necesario eliminar alguna parte del fondo para mejorar su presentación. También se ajusta su tamaño a 1080x1080 píxeles, formato que elegimos para generar contenido para el Instagram del taller, en conjunto con mi compañera Camila Parada.
+- Las fotografías se editan en caso de que queden muy oscuras o si es necesario, eliminar alguna parte del fondo para mejorar su presentación. También se ajusta su tamaño a 1080x1080 píxeles, formato que elegimos para generar contenido para el Instagram del taller, en conjunto con mi compañera Camila Parada.
 - Estas fotos son subidas a este [Drive](<https://drive.google.com/drive/folders/1OwoyJ_nTuie-A1s_U5647DsOHI4zlNnj?usp=drive_link>), donde están disponibles en formato JPEG y también como archivos editables de Photoshop. Además, las fotografías se encuentran organizadas en la carpeta "imagenes" presente en las carpetas de los grupos dentro del repositorio "00-proyecto-02", así como en la carpeta "["imagenes"](https://github.com/Camila-Parada/dis8644-2025-1-proyectos/tree/main/00-proyecto-02/grupo-0b/imagenes)" del "grupo-0b", al que pertenece esta misma documentación.
 - Los archivos de las fotos fueron nombrados siguiendo el formato: tme-proyecto02-grupo01-registro01, donde se indican las siglas del taller (TME: Taller Máquinas Electrónicas), el número del proyecto, el número del grupo y el número de registro correspondiente.
 
 ### Criterios especificos
 
-- Para las fotos de registro del proceso de maqueteo en la protoboard decidimos utilizar un fondo gris, ya que buscamos lograr una apariencia neutral. En cambio, para las fotografías del proyecto final, que incluyen las PCBs y las carcasas, utilizaremos fondos de colores diferentes para cada uno de los seis grupos, con el objetivo de dar mayor identidad a cada proyecto. Además, como se mencionó en los referentes, también tomaremos las fotos en un contexto que apoye y responda a la función e interacción de cada proyecto.
+- Para las fotos de registro del proceso de maqueteo en la protoboard, decidimos utilizar un fondo gris, ya que buscamos lograr una apariencia neutral. En cambio, para las fotografías del proyecto final, que incluyen las PCBs y las carcasas, utilizaremos fondos de colores diferentes para cada uno de los seis grupos, con el objetivo de dar mayor identidad a cada proyecto. Además, como se mencionó en los referentes, también tomaremos las fotos en un contexto que apoye y responda a la función e interacción de cada proyecto.
 - Para las fotografías de las protoboard tomamos tres tipos de tomas: una desde la parte frontal con perspectiva, otra en vista superior para que se aprecien con claridad los circuitos, y una tercera que enfoca algún detalle distintivo que sea necesario destacar.
 
 ### Registro fotográfico
@@ -207,8 +231,8 @@ La responsable de esta sección es @Bernardita-lobo.
 ### Elementos clave a mostrar en el montaje
 
 - Para el montaje es fundamental lograr explicar, de manera concisa y accesible, cómo se llegó a los resultados finales. Este taller, en especial, trabaja en una disciplina algo diferente y puede resultar difícil de comprender. En ese sentido, la propuesta del montaje se dividirá en dos secciones: una donde se expongan los proyectos finales y otra donde se evidencien todos los procesos por los que tuvieron que pasar los grupos de trabajo.
-
-***
+- Sección Proyectos finales: En esta sección se presentará la pieza final, compuesta por la PCB y su carcasa. Cada grupo tendrá su propio espacio, donde el proyecto será expuesto sobre una mesa. Frente a cada objeto se colocará una lámina simple, en la que se explicará únicamente la parte conceptual y la interacción del proyecto, con el objetivo de comunicar su funcionamiento y propósito
+- Sección Procesos: Esta sección estará dividida de acuerdo a las distintas etapas del proceso que desarrollaron los grupos. Entre estas se incluyen: el maqueteo en protoboard, la creación de los esquemáticos, el diseño y fabricación de las PCBs, las soldaduras, el modelado de las carcasas y sus impresiones. Cada parte estará acompañada por una pieza visual, por ejemplo, las protoboard o algunas de las primeras impresiones 3D que se fueron modificando a lo largo del proceso, lo que permitirá comprender fácilmente cada etapa. Además, se incluirá un video de apoyo. Esta sección funcionará como una recopilación de los procesos productivos que atravesaron los grupos de trabajo para llegar al resultado final.
 
 ## Publicación en GitHub de de alta calidad de logos institucionales de UDP (1 punto)
 
@@ -313,5 +337,26 @@ En la imagen se puede apreciar influencias del mundo análogo y digital, las cua
 Estas ideas forman parte de la esencia que busco replicar a traves de propuestas para el logotipo, plantillas para publicaciones y videos de instagram, diagramas de flujo, entre cualquier otro recurso que pueda requerir el taller a la posteridad de esta entrega.
 
 ### Logotipo teee
+
+Dado que no tenía un referente directo con el cual trabajar es que comencé con un proceso de experimentación. Para ello estuve trabajando durante varias horas para desarrollar y rediseñar los caracteres "t", "m" y "e" para usar en el logotipo. Más tarde supe que este logo no sería formado por las iniciales de "Taller de máquinas experimentales", sino que sería el nombre de la cuenta, terminando por conformar la palabra "teee". Dado que para ese momento ya tenía realizados múltiples piezas con dichas letras es que me dispuse a componerlas para montar la frase. Esta etapa fue la más complicada, puesto que como idea inicial quería presentar una "t" rígida seguida de distintas "e", las cuales se irían redondeando hasta llegar a la pieza más experimental que desarrollé. El problema es que las letras no encajaban, era difícil el poder hacer que no hubiera un desequilibrio entre los pesos visuales y el contraste de las formas.
+
+![alt-text](./diseno-grafico/logotipo-teee/logotipo-espacio_de_trabajo.png)
+
+▼ Fuente: Recurso de manufactura propia. Producción hecha con Illustrator.
+
+Por temas de tiempo, terminé realizando una versión más acotada del logo y que permitiera un mejor control al solo tener 3 piezas. Por ello decidí escoger la "t", una "e" y un "3" que fuera elevado, el cual al tratarse de una ecuación matemática sería similar a "t * e ³ = t* e * e * e", similar a "teee".
+Ante esta nueva idea comencé a componer y desarrollar este nuevo carácter, llegando a un resultado que posee como variante principal la "e". ¿Por qué tomé esta decisión? Pues resulta que "t" corresponde a "taller" y las "e" en su momento tuvieron un significado, el cuál no se condice con el nombre actual del curso (Taller de máquinas electrónicas). Por ello quise dejar esta letra como un signo que puede verse modificado según vayan surgiendo nuevas veriones de los futuros talleres o proyectos, los cuales se ven vinculados con las tecnologías que en ellos se aprenden u enseñarán. Como prototipado realicé un total de 4 de estos logos, los cuales poseen diferentes "e" y cuyo interletrado fue acomodado para poseer un equilibrio óptico. Además, vale mencionar que se realizó otra versión experimental "extendida" en la que se asocia un concepto que reemplaza el "3". Dicha idea busca representar alguna palabra clave que represente lo que se verá en estos espacios de aprendizaje.
+
+![alt-text](./diseno-grafico/logotipo-teee/logotipos_te3_multiples_acotados.jpg)
+
+![alt-text](./diseno-grafico/logotipo-teee/logotipos_te3_multiples_extendidos.jpg)
+
+▼ Fuentes: Recurso de manufactura propia. Producción hecha con Illustrator.
+
+Dado que estos logotipos son solo propuestas es que decidí no colocar los archivos en svg, puesto que no son versiones finales. En la carpeta ["logotipo-teee"](https://github.com/Camila-Parada/dis8644-2025-1-proyectos/tree/main/00-proyecto-02/grupo-0b/diseno-grafico/logotipo-teee) se pueden encontrar las versiones en jpg, png y el editable de Illustrator, además de una captura al documento que muestra la experimentación.
+
+### Plantillas para publicaciones y videos de instagram
+
+
 
 ## Bibliografía
