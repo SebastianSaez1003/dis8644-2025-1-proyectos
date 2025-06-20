@@ -70,7 +70,7 @@ El circuito de salida usa XX para cambiar XX.
 
 DOCUMENTAR TEXTUAL, CON IMÁGENES, CON ENLACES A BITÁCORAS.
 
-La persona 21 del proyecto 00 nos ayudó con pasar el BoM desde un Excel a MarkDwon.
+La persona 21 del proyecto 00 nos ayudó con pasar el BoM desde un Excel a MarkDown (Revisar su fork en la sesion 15b).
 
 La persona XX del proyecto XX nos ayudó con XX.
 
