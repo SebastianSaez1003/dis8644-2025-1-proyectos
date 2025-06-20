@@ -27,7 +27,7 @@ En este dibujo mostramos nuestro proyecto el cual consiste en un juguete automá
 
 ![DIAGRAMA DE FLUJO](https://github.com/HSB25/dis8644-2025-1-proyectos/blob/main/00-proyecto-02/grupo-04/imagenes/DIAGRAMADEFLUJO01.png?raw=true)
 
-- Resumen del funcionamiento del juguete para gato (según el dibujo):
+# Resumen del funcionamiento del juguete para gato (según el dibujo):
 
 1. Inicio:
 El sistema comienza en modo espera.
@@ -48,7 +48,7 @@ El sistema vuelve al inicio y espera una nueva detección.
 
 ![DIAGRAMA DE FLUJO 2](https://github.com/HSB25/dis8644-2025-1-proyectos/blob/main/00-proyecto-02/grupo-04/imagenes/DIAGRAMADEFLUJO02.png?raw=true)
 
-- Funcionamiento General del Sistema
+# Funcionamiento General del Sistema
 
 1. Detección de sombra (presencia del gato):
 
