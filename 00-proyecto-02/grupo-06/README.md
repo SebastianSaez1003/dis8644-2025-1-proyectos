@@ -19,7 +19,7 @@ fps555 es un dispositivo de protección ocular con posición adaptable mecánica
 
 Este es el diagrama a mano.
 
-![Dibujo del diagrama a mano](./imagenes/diagrama-mano.jpg)
+![Dibujo del diagrama a mano](./imagenes/diagramFlujo-dibujo.jpg)
 
 En este dibujo mostramos XX.
 
@@ -209,11 +209,11 @@ compramos 3 interruptor switch de 6 Pines ON-OFF-ON y tambien 1 motorreductor DC
 
 ## Esquematico en Kicad (1 punto)
 
-![Esquemático general](./imagenes/esquematico-general.jpg)
+![Esquemático general](./imagenes/fps555-sch-general.png)
 
-![Esquemático detalles](./imagenes/esquematico-detalle-01.jpg)
+![Esquemático detalles](./imagenes/fps555-sch-detalle1.png)
 
-![Esquemático detalles](./imagenes/esquematico-detalle-02.jpg)
+![Esquemático detalles](./imagenes/fps555-sch-detalle2.png)
 
 Nuestro proyecto fps555 contiene un PWM con un chip 555, un motocontrolador que es el chip L293D, un motorreductor 6V 3RPM, un switch 6 PDT y un conector de batería.
 
