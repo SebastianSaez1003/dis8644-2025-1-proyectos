@@ -4,9 +4,9 @@
 
 - Grupo: 05
 - Integrantes:
-  - Antonia Cristi
-  - Natalia Pilar
-  - Paulina Vargas
+  - Antonia Cristi [@antocristi](https://github.com/antocristi)
+  - Natalia Pilar [@sz-mada](https://github.com/sz-mada)
+  - Paulina Vargas [@paulinavargasf](https://github.com/paulinavargasf)
 - Chips usados:
   - Chip LM324
   - Chip NE555
@@ -14,11 +14,9 @@
 
 ## Presentación textual
 
-Sensor "de vibra" que activa una ruleta de luces mediante la sombra de la mano del usuario.
+Ruleta de luces que se activa mediante la detección del sombra y voz del usuario, leyendo su vibra.
 
-El proyecto consiste en una entrada que detecta sombra, para encender una secuencia de luces LED.
-
-Se incluye un circuito que detecta la entrada de sonido para encender un solo LED, pero su única finalidad es engañar al usuario.
+El proyecto consiste en una entrada de LDR que detecta sombra, con una salida de secuencia de luces LED que se encienden.
 
 ## Dibujos de diagramas del circuito (1 punto)
 
@@ -72,15 +70,25 @@ El circuito de salida usa un chip CD4017 para activar una secuencia de 10 luces 
 
 ## Ayudas y comunicación con colegas (1 punto)
 
-FranUDP del grupo 0c nos ayudó al principio del protipado recomendándonos comenzar a usar el circuito del detector de sombra.
+[FranUDP](https://github.com/FranUDP) del grupo 0c nos ayudó al principio del protipado recomendándonos comenzar a usar el circuito del detector de sombra.
 
-Misaa (docente) nos entregó el esquemático de un circuito que utiliza un micrófono para la entrada y de salida enciende un LED.
+![Esquemático detector de sombra](./imagenes/ayudacolegas_01.png)
 
-FranUDP del grupo 0c nos ayudó agregando un circuito astable entre nuestro chip LM324 y el NE555 monostable que teníamos.
+[Misaa](https://github.com/misaaaaaa) (docente) nos entregó el esquemático de un circuito que utiliza un micrófono para la entrada y de salida enciende un LED.
 
-Intentamos ayudar a Sofía Cartes del proyecto 03 en cómo regular la sensibilidad del micrófono de su circuito. Le dijimos que podrían conectar el pin 15 del chip 4017 a tierra, pero no se resolvió el problema.
+![Circuito micrófono con LED](./imagenes/ayudacolegas_02.png)
+
+[FranUDP](https://github.com/FranUDP) del grupo 0c nos ayudó agregando un circuito astable entre nuestro chip LM324 y el NE555 monostable que teníamos.
+
+![Circuito de FranUDP](./imagenes/ayudacolegas_03.png)
+
+Intentamos ayudar a [Sofía Cartes](https://github.com/sofiacartes) del proyecto 03 en cómo regular la sensibilidad del micrófono de su circuito. Le dijimos que podrían conectar el pin 15 del chip 4017 a tierra, pero no se resolvió el problema.
+
+[Issue #137 del proyecto 03](https://github.com/disenoUDP/dis8644-2025-1-proyectos/issues/137#issuecomment-2984472409)
 
 ## Esquematico en Kicad (1 punto)
+
+[Esquemático en formato PDF](./imagenes/esquematico-05.pdf)
 
 ![Esquemático general](./imagenes/esquematico_general01.png)
 
@@ -117,3 +125,13 @@ Seguido por un contador 4017, cada salida alta enciende un LED en secuencia. Cad
 ## Recursos adicionales
 
 ## Bibliografía
+
+[Tutorial de cómo diseñar una placa PCB](https://www.youtube.com/watch?v=kccAeKYytE8)
+
+[Datasheet del chip CD4017](https://www.makerhero.com/img/files/download/CD4017-Datasheet.pdf)
+
+[Datasheet del chip NE555](https://www.ti.com/lit/ds/symlink/ne555.pdf)
+
+[Datasheet del chip LM324](https://www.ti.com/lit/ds/symlink/lm324.pdf)
+
+
