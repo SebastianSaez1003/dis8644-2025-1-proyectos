@@ -245,3 +245,4 @@ Debido a que todos los esquemáticos de referentes para poder ocupar el chip L29
 ## Recursos adicionales
 
 ## Bibliografía
+-Datasheet de L293DNE ![Archivo PDF]
