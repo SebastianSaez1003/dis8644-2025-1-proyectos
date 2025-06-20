@@ -226,8 +226,8 @@ La responsable de esta sección es @Bernardita-lobo.
 ### Elementos clave a mostrar en el montaje
 
 - Para el montaje es fundamental lograr explicar, de manera concisa y accesible, cómo se llegó a los resultados finales. Este taller, en especial, trabaja en una disciplina algo diferente y puede resultar difícil de comprender. En ese sentido, la propuesta del montaje se dividirá en dos secciones: una donde se expongan los proyectos finales y otra donde se evidencien todos los procesos por los que tuvieron que pasar los grupos de trabajo.
-
-***
+- Sección Proyectos finales: En esta sección se presentará la pieza final, compuesta por la PCB y su carcasa. Cada grupo tendrá su propio espacio, donde el proyecto será expuesto sobre una mesa. Frente a cada objeto se colocará una lámina simple, en la que se explicará únicamente la parte conceptual y la interacción del proyecto, con el objetivo de comunicar su funcionamiento y propósito
+- Sección Procesos: Esta sección estará dividida de acuerdo a las distintas etapas del proceso que desarrollaron los grupos. Entre estas se incluyen: el maqueteo en protoboard, la creación de los esquemáticos, el diseño y fabricación de las PCBs, las soldaduras, el modelado de las carcasas y sus impresiones. Cada parte estará acompañada por una pieza visual, por ejemplo, las protoboard o algunas de las primeras impresiones 3D que se fueron modificando a lo largo del proceso, lo que permitirá comprender fácilmente cada etapa. Además, se incluirá un video de apoyo. Esta sección funcionará como una recopilación de los procesos productivos que atravesaron los grupos de trabajo para llegar al resultado final.
 
 ## Publicación en GitHub de de alta calidad de logos institucionales de UDP (1 punto)
 
