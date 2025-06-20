@@ -97,7 +97,7 @@ Misaaaaaa docente nos ayudó con el esquemático para regular el micrófono.
 
 Jotamorales-romulu y Bernardita-lobo del proyecto duvumentacionVisual nos ayudaron con fotografiar nuestra protoboard y el registro en clases mediante videos.
 
-<https://drive.google.com/drive/folders/1xyW8lfvPIwpi3rZzOzuXnkZNs_ZTMohJ>
+Ayuda a colegas: <https://github.com/orgs/disenoUDP/projects/4?pane=issue&itemId=115280747&issue=disenoUDP%7Cdis8644-2025-1-proyectos%7C149>
 
 ## Esquematico en Kicad (1 punto)
 
@@ -160,8 +160,6 @@ CHIP 4017
 ![PCB detalle](./kicad/spectra-detalle.jpg)
 
 ![PCB detalle 1](./kicad/proyecto_detalle3.jpg)
-
-Enlace de la PCB para ver los PDF <https://drive.google.com/drive/folders/13fPj71c8mFoW2-MyDWrl_n2MRV8LrotA?usp=sharing>
 
 ## Recursos adicionales
 
