@@ -6,9 +6,9 @@ Documentación técnica y materiales electrónicos
 
 Integrantes:
 
-- Martín Silva: https://github.com/duckusu/dis8644-2025-1-proyectos/tree/main/21-duckusu
-- Francisco Stephens
-- Izhak Villegas
+- [Martín Silva](https://github.com/duckusu)
+- [Francisco Stephens](https://github.com/FranUDP)
+- [Izhak Villegas](https://github.com/IzhakVillegas)
 
 ## Dibujos de diagramas del circuito (1 punto)
 
@@ -232,6 +232,18 @@ El responsable de esta sección es @IzhakVillegas.
 ### Texto sobre diagramas de bloque del proyecto-01
 
 ### Texto sobre diagramas de bloque del proyecto-02
+
+Basado en el diagrama subido por @AntFuentealba[https://github.com/disenoUDP/dis8644-2025-1-proyectos/issues/114]
+
+flowchart TD
+    A[Batería conectada a PCB] --> B{¿Batería con carga?}
+    B -->|Sí| C[Sistema activo]
+    B -->|No| D[Sistema inactivo]
+    C --> E[Se golpea el bongo]
+    E --> F[Genera señal de audio]
+    F --> G{¿Está conectado el Jack?}
+    G -->|Sí| H[Envía señal al Jack de salida]
+    G -->|No| I[Envía señal al parlante incorporado]
 
 ### Texto sobre diagramas de bloque del proyecto-03
 
