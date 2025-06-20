@@ -134,7 +134,7 @@ En el caso de los filamentos PTG, la mayoría de la marca esun se encuentran en 
 
 ## Comunicación y colaboración con equipos:
 
-### Proyecto-02
+### Propuestas proyecto-02
 Integrantes:
 * Sofía Etchepare 
 * Antonia Fuentealba 
@@ -148,7 +148,7 @@ Se propuso la creación de una pieza 3d que sirva para mantener el piezo a ras d
 ------------------------------------------
 
 
-### Proyecto-03
+### Propuestas proyecto-03
 Integrantes:
 * Sofía Cartes 
 * Isabella Gutierrez 
@@ -166,7 +166,7 @@ Este adhesivo lo pueden comprar en conjunto al equipo 5 que también usa acríli
 
 ------------------------------------------
 
-### Proyecto-06
+### Propuestas proyecto-06
 Integrantes:
 * Santiago Gaete Fernández 
 * Anaís Marschhausen Gajardo
