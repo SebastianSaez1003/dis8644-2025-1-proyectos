@@ -6,7 +6,7 @@
 - Integrantes:
   - Santiago Gaete Fernández
   - Anaís Marschhausen Gajardo
-  - Sebastián Saez Olivares
+  - Sebastián Sáez Olivares
 - Chips usados:
   - NE555
   - L293D
@@ -243,6 +243,10 @@ Debido a que todos los esquemáticos de referentes para poder ocupar el chip L29
 ![PCB 3D](./imagenes/pcb-3d.jpg)
 
 ## Recursos adicionales
+
+[enlace a figma](https://www.figma.com/board/xtSdleNWkWIgJeE9Af27IX/fps555?node-id=0-1&p=f&t=aDNKgy5gH7pBcTs7-0)
+
+en figma realizamos ideas rapidas y existe el proceso de nuestro proyecto
 
 ## Bibliografía
 -Datasheet de L293DNE ![Archivo PDF]
