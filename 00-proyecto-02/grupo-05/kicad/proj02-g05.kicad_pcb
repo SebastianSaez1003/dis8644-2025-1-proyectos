@@ -38,7 +38,7 @@
 		(allow_soldermask_bridges_in_footprints no)
 		(tenting front back)
 		(pcbplotparams
-			(layerselection 0x00000000_00000000_55555555_575555f5)
+			(layerselection 0x00000000_00000000_55555555_575555ff)
 			(plot_on_all_layers_selection 0x00000000_00000000_00000000_00000000)
 			(disableapertmacros no)
 			(usegerberextensions no)
@@ -74,7 +74,7 @@
 			(mirror no)
 			(drillshape 0)
 			(scaleselection 1)
-			(outputdirectory "C:/Users/napil/Downloads/taller/")
+			(outputdirectory "PCB 5G/")
 		)
 	)
 	(net 0 "")
@@ -15211,6 +15211,18 @@
 		(layer "Edge.Cuts")
 		(uuid "fe859f0d-1664-4b6d-944f-fa49676fb35d")
 	)
+	(gr_text "G5"
+		(at 46.26 45.24 0)
+		(layer "F.SilkS")
+		(uuid "080a9977-d686-4fd6-94a6-844b59d38ab4")
+		(effects
+			(font
+				(size 6 6)
+				(thickness 0.1)
+			)
+			(justify left bottom)
+		)
+	)
 	(gr_text "C7"
 		(at 124.75 62.5 0)
 		(layer "F.SilkS")
@@ -15220,6 +15232,54 @@
 				(size 1 1)
 				(thickness 0.15)
 			)
+		)
+	)
+	(gr_text "CIRCUITO RULETA"
+		(at 57.18 113.295 0)
+		(layer "F.SilkS")
+		(uuid "4dd6fbc9-e380-4feb-a0fa-d034d0e4075a")
+		(effects
+			(font
+				(size 1.5 1.5)
+				(thickness 0.1)
+			)
+			(justify left bottom)
+		)
+	)
+	(gr_text "MIC FALSO"
+		(at 99.5 33 0)
+		(layer "F.SilkS")
+		(uuid "8624e700-2788-48df-9448-f96bd745efc3")
+		(effects
+			(font
+				(size 1.5 1.5)
+				(thickness 0.1)
+			)
+			(justify left bottom)
+		)
+	)
+	(gr_text "TALLER\nMAQUINAS\nELECTRONICAS"
+		(at 126 80 0)
+		(layer "F.SilkS")
+		(uuid "a93456d4-aaa5-4813-8d48-7b3c353dd0f3")
+		(effects
+			(font
+				(size 1.5 1.5)
+				(thickness 0.1)
+			)
+			(justify right bottom)
+		)
+	)
+	(gr_text "ANTONIA CRISTI\nNATALIA PILAR\nPAULINA VARGAS"
+		(at 77 45 0)
+		(layer "F.SilkS")
+		(uuid "a9d0a702-8660-4d46-ab27-ac535d3644b6")
+		(effects
+			(font
+				(size 1.5 1.5)
+				(thickness 0.1)
+			)
+			(justify right bottom)
 		)
 	)
 	(segment
