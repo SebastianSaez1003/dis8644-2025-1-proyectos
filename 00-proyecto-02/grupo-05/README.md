@@ -22,7 +22,7 @@ El proyecto consiste en una entrada con un LDR que detecta sombra, con una salid
 
 Este es el diagrama a mano.
 
-![Dibujo del diagrama a mano](./imagenes/diagrama-flujo.jpeg)
+![Dibujo del diagrama a mano](./imagenes/Diagrama-flujo.jpeg)
 
 En este dibujo mostramos el flujo de interacción del dispositivo, comenzando por la detección de sombra y sonido.
 
