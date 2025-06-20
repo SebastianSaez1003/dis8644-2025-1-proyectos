@@ -66,9 +66,9 @@ Ayudamos a la persona XX del proyecto XX con XX.
 
 ![Esquemático general](./imagenes/esquematicofinal2.JPG)
 
-![Esquemático detalles](./imagenes/esquematico-detalle-01.jpg)
+![Esquemático detalles](./imagenes/esquematico-detalle-01.JPG)
 
-![Esquemático detalles](./imagenes/esquematico-detalle-02.jpg)
+![Esquemático detalles](./imagenes/esquematico-detalle-02.JPG)
 
 EXPLICACIÓN TEXTUAL DEL ESQUEMÁTICO.
 
