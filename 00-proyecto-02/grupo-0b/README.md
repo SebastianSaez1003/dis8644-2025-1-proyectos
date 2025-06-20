@@ -174,15 +174,10 @@ La responsable de esta sección es @Bernardita-lobo.
 ### Plan de documentación
 
 - Se documentarán las protoboard, las placas PCB, las carcasas, el producto final y en general, cualquier avance que los grupos de trabajo consideren pertinente registrar.
-  
 - Para poder tomar registros fotográficos del proceso, primero hacemos el montaje del set. Estas fotos las tomamos en una caja de luz con fondo infinito, que cuenta con iluminación integrada. También colocamos un trípode y una cámara Canon que pedimos prestada del pañol digital.
-  
-- Los registros fotográficos se realizan durante el horario de taller. Comenzamos a tomar las fotos a partir de las 10 de la mañana. Además, vamos a agendar sesiones fotográficas en horarios fuera del taller, con el fin de alcanzar a documentar todos los procesos grupales
-  
-- Las fotografías se editan en caso de que queden muy oscuras o si es necesario eliminar alguna parte del fondo para mejorar su presentación. También se ajusta su tamaño a 1080x1080 píxeles, formato que elegimos para generar contenido para el Instagram del taller, en conjunto con mi compañera Camila Parada.
-  
-- Estas fotos son subidas a este [Drive](<https://drive.google.com/drive/folders/1OwoyJ_nTuie-A1s_U5647DsOHI4zlNnj?usp=drive_link>), donde están disponibles en formato JPEG y también como archivos editables de Photoshop. Además, las fotografías se encuentran organizadas en la carpeta "imagenes" presente en las carpetas de los grupos dentro del repositorio "00-proyecto-02", así como en la carpeta "["imagenes"](https://github.com/Camila-Parada/dis8644-2025-1-proyectos/tree/main/00-proyecto-02/grupo-0b/imagenes)" del "grupo-0b", al que pertenece esta misma documentación.
-  
+- Los registros fotográficos se realizan durante el horario de taller. Comenzamos a tomar las fotos a partir de las 10 de la mañana. Además, vamos a agendar sesiones fotográficas en horarios fuera del taller, con el fin de alcanzar a documentar todos los procesos grupales  
+- Las fotografías se editan en caso de que queden muy oscuras o si es necesario eliminar alguna parte del fondo para mejorar su presentación. También se ajusta su tamaño a 1080x1080 píxeles, formato que elegimos para generar contenido para el Instagram del taller, en conjunto con mi compañera Camila Parada. 
+- Estas fotos son subidas a este [Drive](<https://drive.google.com/drive/folders/1OwoyJ_nTuie-A1s_U5647DsOHI4zlNnj?usp=drive_link>), donde están disponibles en formato JPEG y también como archivos editables de Photoshop. Además, las fotografías se encuentran organizadas en la carpeta "imagenes" presente en las carpetas de los grupos dentro del repositorio "00-proyecto-02", así como en la carpeta "["imagenes"](https://github.com/Camila-Parada/dis8644-2025-1-proyectos/tree/main/00-proyecto-02/grupo-0b/imagenes)" del "grupo-0b", al que pertenece esta misma documentación. 
 - Los archivos de las fotos fueron nombrados siguiendo el formato: tme-proyecto02-grupo01-registro01, donde se indican las siglas del taller (TME: Taller Máquinas Electrónicas), el número del proyecto, el número del grupo y el número de registro correspondiente.
 
 ### Criterios especificos
@@ -268,5 +263,12 @@ Cabe mencionar que, en paralelo al desarrollo de este proyecto de curso, se est�
 ## Creación y adaptación de material gráfico de laboratorio lid.udp y teee.udp (1 punto)
 
 La responsable de esta sección es @Camila-Parada
+
+En un principio comencé por analizar los elementos con los cuales trabajar. Para empezar, he de diseñar piezas gráficas para las cuentas de [“teee.udp”](https://www.instagram.com/teee.udp/) en colaboración con la cuenta [“lid.udp”](https://www.instagram.com/lid.udp/). En el caso de la primera decidí también definir una identidad que se ve reflejada en un logotipo.
+
+A revisar la primera cuenta (teee.udp) se puede notar que presenta contenidos variados y realizados en distintos cursos a lo largo de los años, todos centrados en tecnologías: arduino, circuitos eléctricos, programación web, desarrollo de objetos, entre otros, todos los cuales involucran el lado físico (análogo) y el virtual (digital). Estas piezas digitales son registrados a la par en el laboratorio "lid" al tratarse de un “espacio-hermano”, con la diferencia que en este filtra algunas de las publicaciones. Ante ello surge la idea de un “vínculo” entre estos elementos.
+Frente al tipo de material presente he de concluir que no solo son de carácter “inclusivos” en cuánto a la “diversidad” de tecnologías y proyectos que aparecen, por lo que se encuentran “abiertos” ante la variedad de proyectos que se pueden ir desarrollando dentro del ecosistema udp (no solo en la facultad de diseño, sino en la psicología y más).
+
+Dado que el "Laboratorio de interacción digital" ya posee una gráfica definida, decidí averiguar sobre la tipografía con la cuál trabaja. "Space Grotesk" es una fuente
 
 ## Bibliografía
