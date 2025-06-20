@@ -8,8 +8,7 @@
   - Antonia Fuentealba
   - Sofía Pérez
 - Chips usados:
-  - Chip lm324
- 
+  - Chip LM324
 
 ## Presentación textual
 
@@ -25,7 +24,8 @@ En este dibujo mostramos el funcionamiento lógico del sistema de percusión ele
 El proceso inicia cuando la batería es conectada a la PCB. Si la batería tiene carga, el sistema se activa; de lo contrario, permanece inactivo.
 
 Una vez activo, si se golpea la tapa (bongo), se genera una señal de audio.  
-Esa señal se dirige dependiendo del estado del jack de salida:  
+Esa señal se dirige dependiendo del estado del jack de salida:
+
 - Si **está conectado**, la señal se envía al **jack de salida**.  
 - Si **no está conectado**, la señal se envía al **parlante incorporado**.
 
