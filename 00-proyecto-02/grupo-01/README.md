@@ -5,7 +5,7 @@
 - Grupo: 01
 - Integrantes:
   - Emilia Contreras / [hazzaily](https://github.com/hazzaily)
-  - Katalina Riquelme / [katalinariquelme](https://github.com/katalinariquelme) 
+  - Katalina Riquelme / [katalinariquelme](https://github.com/katalinariquelme)
   - Thyare Santander / [thyare08](https://github.com/thyare08)
 - Chips usados:
   - Chip 555
