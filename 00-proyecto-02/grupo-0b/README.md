@@ -10,9 +10,9 @@ Integrantes:
 
 jotaMorales, bernardita y camila
 
-- Bernardita Lobo TODO: <https://github.com/Bernardita-lobo/dis8644-2025-1-proyectos/tree/main/09-Bernardita-lobo>
-- José Morales: <https://github.com/jotamorales-romulus>
-- Camila Parada TODO: agregar enlace a su github.com
+- [Bernardita Lobo](https://github.com/Bernardita-lobo).
+- [José Morales](https://github.com/jotamorales-romulus).
+- [Camila Parada](https://github.com/Camila-Parada).
 
 ### Pauta
 
@@ -241,7 +241,7 @@ Logotipo oficial de la facultad. Este logotipo es usado en publicaciones de cara
 
 ![alt-text](./logotipo-universidad/jpg/logo_instagram_disenoudp_2025.jpg)
 
-▼ Fuente: Recurso de manufactura propia. Desarrollo vectorial usando illustrator
+▼ Fuente: Recurso de manufactura propia. Desarrollo vectorial usando Illustrator
 
 Logotipo experimental de la escuela. Su existencia ha sido reciente. Posee en su estructura el logotipo de la "FAAD" (presente abajo), un guión y la palabra "diseño" en minúsculas. Su uso suele verse en publicaciones para redes sociales, afiches entre otras gráficas. Existen logotipos similares para cada carrera. No es posible modificar la composición u partes, puesto que se pierde la identidad que compone el logotipo de la facultad y "diseño". Las versiones de los archivos fueron realizadas por mano propia, descargando la imagen de perfil de la cuenta de instagram de ["diseño_udp"](https://www.instagram.com/diseno_udp/) y trazando los vectores a mano en "Illustrator".
 
@@ -249,7 +249,7 @@ Logotipo experimental de la escuela. Su existencia ha sido reciente. Posee en su
 
 ![alt-text](./logotipo-universidad/jpg/logo_instagram_faad_2025.jpg)
 
-▼ Fuente: Recurso de manufactura propia. Desarrollo vectorial usando illustrator
+▼ Fuente: Recurso de manufactura propia. Desarrollo vectorial usando Illustrator
 
 Logotipo experimental de la facultad. Su existencia ha sido reciente. Posee en el su estructura el logotipo acotado de la universidad (las siglas udp), y la palabra FAAD en mayúsculas. Su uso suele verse en publicaciones para redes sociales, afiches entre otras gráficas. Es posible modificar la composición de las partes partes, pero no funciona el uno sin el otro dado que se pierde la identidad. Las versiones de los archivos fueron realizadas por mano propia, descargando la imagen de perfil de la cuenta de instagram de ["faad_udp"](https://www.instagram.com/faad_udp/) y trazando los vectores a mano en "Illustrator".
 
@@ -288,6 +288,30 @@ En un principio comencé por analizar los elementos con los cuales trabajar. Par
 A revisar la primera cuenta (teee.udp) se puede notar que presenta contenidos variados y realizados en distintos cursos a lo largo de los años, todos centrados en tecnologías: arduino, circuitos eléctricos, programación web, desarrollo de objetos, entre otros, todos los cuales involucran el lado físico (análogo) y el virtual (digital). Estas piezas digitales son registrados a la par en el laboratorio "lid" al tratarse de un “espacio-hermano”, con la diferencia que en este filtra algunas de las publicaciones. Ante ello surge la idea de un “vínculo” entre estos elementos.
 Frente al tipo de material presente he de concluir que no solo son de carácter “inclusivos” en cuánto a la “diversidad” de tecnologías y proyectos que aparecen, por lo que se encuentran “abiertos” ante la variedad de proyectos que se pueden ir desarrollando dentro del ecosistema udp (no solo en la facultad de diseño, sino en la psicología y más).
 
-Dado que el "Laboratorio de interacción digital" ya posee una gráfica definida, decidí averiguar sobre la tipografía con la cuál trabaja. "Space Grotesk" es una fuente
+Dado que el "Laboratorio de interacción digital" ya posee una gráfica definida, decidí averiguar sobre la tipografía con la cuál trabajar en el logotipo para la cuenta hermana y poder realizar una copia personal de los logotipos existentes del laboratorio. Estos últimos se presentan en su versión "jpg" a continuación, mencionando que en la carpeta ["logotipos-lid"](https://github.com/Camila-Parada/dis8644-2025-1-proyectos/tree/main/00-proyecto-02/grupo-0b/logotipos-lid) se encuentran otras versiones del mismo archivo en png, svg y ai.
+
+![alt-text](./logotipos-lid/logo_acotado_lid.jpg)
+
+![alt-text](./logotipos-lid/logo_lid_completo.jpg)
+
+▼ Fuente: Recurso de manufactura propia. Desarrollo vectorial usando Illustrator.
+
+Por otro lado, pude indagar que "Space Grotesk" fue la fuente usada. Esta diseñada por Florian Karsten, la cual surge como una versión modificada de ["Space Mono"](https://fonts-google-com.translate.goog/specimen/Space+Mono?_x_tr_sl=en&_x_tr_tl=es&_x_tr_hl=es&_x_tr_pto=tc&_x_tr_hist=true), una familia tipográfica de ancho fijo diseñada por Colophon Foundry para Google Fonts. Según su creador, esta fuente ["conserva los detalles idiosincrásicos del monoespacio al tiempo que se optimiza para mejorar la legibilidad en tamaños que no son de pantalla"](https://floriankarsten.github.io/space-grotesk/). Cabe mencionar que este recurso posee una licencia de fuente abierta, por lo que se puede encontrar en distintas páginas de forma gratuita, de las cuales destajo la versión de [Github](https://github.com/floriankarsten/space-grotesk). En mi caso personal prefiero trabajar con la fuente desde [Adobe Fonts](https://fonts.adobe.com/fonts/space-grotesk-variable) para vincularla con los programas de su suite.
+
+![alt-text](./diseno-grafico/tipografia/especimen-space_grotesk.jpg)
+
+▼ Fuente: [Unblast](https://unblast.com/space-grotesk-sans-serif-font/).
+
+Ya con estos antecedentes decidí realizar un "moodboard", un collage de referentes que reune las ideas que tengo en mente para las gráficas tales como logotipo, desarrollo del video, texturas, figuras y formas, colores, entre otros. Para ello decidí indagar usando páginas tales como [Behance](https://www.behance.net/) y [Pinterest](https://es.pinterest.com/Cs_Key/%E1%B4%8D%CA%8F-%CA%99%CA%80%E1%B4%80%C9%B4%E1%B4%85/). En el caso de la segunda página, suelo usarla bastante para navegar y descubrir cosas nuevas que voy agregando a mis tableros personales, obteniendo referencias que vienen desde distintas partes (afiches, logotipos, experimentos, entre otros).
+
+![alt-text](./diseno-grafico/moodboard/moodboard-ideas_de_graficas_e_identidad.png)
+
+▼ Fuente: Recurso de manufactura propia. Producción hecha con Illustrator.
+
+En la imagen se puede apreciar influencias del mundo análogo y digital, las cuales contrastan y se acompañan, efecto que se mantiene presente dentro del taller y el laboratorio al ser un punto de encuentro para intereses ligados a la tecnología y desarrollo de proyectos interdisciplinares. Se puede identificar el uso de tramas sobrepuestas sobre imágenes, tipografías que tienden a ser ordenadas y que se deforman, signos y simbolos usados en etiquetas de productos, fotografías de muestras de estudio, formas variadas dentro de un espacio que informan ideas y valores, texturas que se aplican a imágenes para saturarlas.
+
+Estas ideas forman parte de la esencia que busco replicar a traves de propuestas para el logotipo, plantillas para publicaciones y videos de instagram, diagramas de flujo, entre cualquier otro recurso que pueda requerir el taller a la posteridad de esta entrega.
+
+### Logotipo teee
 
 ## Bibliografía
