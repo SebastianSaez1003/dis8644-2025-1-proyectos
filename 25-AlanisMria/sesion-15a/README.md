@@ -83,7 +83,12 @@ Integrantes:
 Para su trabajo se recomienda el uso de materiales resistentes, ya que los gatos pueden ser algo bruscos para jugar, se recomienda la madera porque es un material accesible.
 Se recomienda terciado de 15mm, ya que es liviano y facil de trabajar, lo pueden encontrar aqui: [Terciado15mm](https://www.imperial.cl/terciados/terciado-estructural-15mm-120x240mt/product/74734) 
 
+Para pegar la madera pueden usar [colaFria](https://www.idepal.cl/cola-fria-rex-1kg-doy-pack?srsltid=AfmBOoqiDSBRyhwMtFz5JqQEkZQnWm6lq6_Erl9XHxyvtGMBtg4LPeCh)
+
 Podrían hacer detalles en impresión 3D en color verde o azul, considerando que eso son los colores que supuestamente ven los gatos, lo que puede hacer el juguete mucho más llamativo.
+
+Pueden revisar los filamentos disponibles en el Lab en este link: [Cotización](https://docs.google.com/spreadsheets/d/1CT1RtA_BYuWpyJ54k9VGduSAs_nKiFYd9yf2WvjZ-4g/edit?gid=340656621#gid=340656621)
+
 
 Como propuesta podrían cubrir con alfombra rascadora para amortiguar la dureza de la madera y conseguir una doble función.
 
@@ -104,6 +109,8 @@ Tamaño estimado: menos de 100-150 mm
 
 Pueden encontrarlos aquí: [Acrilicos](https://novoacril.cl/acrilico-color-2)
 [Terciado3mm](https://www.imperial.cl/terciados/terciado-eucaliptus-rosado-3mm-162x220mt/product/95091?utm_term=&utm_campaign=Aon+%3E+Smart+Shopping+%3E+Contrucci%C3%B3n&utm_source=adwords&utm_medium=ppc&hsa_acc=4470782678&hsa_cam=17825982424&hsa_grp=&hsa_ad=&hsa_src=x&hsa_tgt=&hsa_kw=&hsa_mt=&hsa_net=adwords&hsa_ver=3&gad_source=1&gad_campaignid=17181152287&gbraid=0AAAAACwuZls9Iz2N1kYyZrMSiZwWIGUH5&gclid=CjwKCAjw6s7CBhACEiwAuHQckmXnOa0cWlJVUWQxYehRvBGB9j5DDSY2t_QaP9Z1rjH7k-kHd1HFEhoCJ3MQAvD_BwE)
+
+Para pegar la madera pueden usar [colaFria](https://www.idepal.cl/cola-fria-rex-1kg-doy-pack?srsltid=AfmBOoqiDSBRyhwMtFz5JqQEkZQnWm6lq6_Erl9XHxyvtGMBtg4LPeCh)
 
 Por el tamaño de su proyecto se recomienda compartir material o gastos con algún otro equipo.
 
