@@ -95,7 +95,9 @@ Para cada sesión, se realizará un registro audiovisual mediante el uso de una 
 - La sesión 15A marcó el inicio del registro audiovisual.
 
 ### Primer reel (sesión 15A)
+
 [![Miniatura del video](https://img.youtube.com/vi/l8mmXpmg6G0/hqdefault.jpg)](https://youtube.com/shorts/l8mmXpmg6G0?feature=share)
+
 
 ### Video Examen
 
