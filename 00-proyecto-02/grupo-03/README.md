@@ -19,11 +19,11 @@ Spectra consiste en una entrada que reacciona con el sonido, para controlar ka s
 
 Este es el diagrama a mano comlpleto y del Chip LM324
 
-![dibujo esquematico](./imagenes/esquematico-dibujo.jpg)
+![dibujo esquemático parte 1 de 2](./imagenes/esquematico-dibujo-01.jpg)
 
 Este es el diagrama del Chip 4017
 
-![dibujo esquematico 2](./imagenes/esquematico-dibujo2.jpg)
+![dibujo esquematico parte 2 de 2](./imagenes/esquematico-dibujo-02.jpg)
 
 En este dibujo mostramos la ayuda de Matías con Ángel; lograron hacer el esquemático del micrófono con el Chip LM324 para poder regular la sensibilidad de este (nos había faltado un condensador de 1 uF en el pin 1) luego desde el pin 14 del chip LM324 poder conectarlo al pin 14 del Chip 4017 y que funcionen las luces.
 
@@ -31,13 +31,13 @@ En este dibujo mostramos la ayuda de Matías con Ángel; lograron hacer el esque
 
 A continuación se presentan imágenes de las protoboards usadas.
 
-![vista protoboard frontal](./imagenes/tme-grupo03-registro01.jpg)
+![vista protoboard frontal](./imagenes/tme-grupo03-registro-01.jpg)
 
-![vista protoboard superior](./imagenes/tme-grupo03-registro02.jpg)
+![vista protoboard superior](./imagenes/tme-grupo03-registro-02.jpg)
 
-![vista protoboard detalle 1](./imagenes/tme-grupo03-registro03.jpg)
+![vista protoboard detalle 1](./imagenes/tme-grupo03-registro-03.jpg)
 
-![vista protoboard detalle 2](./imagenes/tme-grupo03-registro04.jpg)
+![vista protoboard detalle 2](./imagenes/tme-grupo03-registro-04.jpg)
 
 - El circuito de entrada reacciona al sonido para medir la sensibilidad del micrófono, mediante un potenciómetro.
 
@@ -108,6 +108,7 @@ Jotamorales-romulu y Bernardita-lobo del proyecto duvumentacionVisual nos ayudar
 ![Esquemático detalles](./imagenes/esquematico-detalle-02.jpg)
 
 En el primer esquemático, es el del Chip LM324, donde conectamos primero el micrófono, luego mediante los condensadores regulamos la sensibilidad de este para que capte mejor los sonidos e incorporamos dos LEDS para ver si el circuito funciona correctamente, dentro de este, el potenciómetro nos da la posibilidad de que elijamos la receptividad.
+
 En el segundo esquemático es la secuencia/contador de luces mediante el Chip 4017, donde el pin 14 va al pin 14 del LM324, lo cual nos da la posibilidad de la diferente frecuencia de los cuatro LEDS incorporados y que esta dependa del sonido emitido.
 
 DESCRIPCIÓN:
