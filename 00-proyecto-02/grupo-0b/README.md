@@ -11,7 +11,7 @@ Integrantes:
 jotaMorales, bernardita y camila
 
 - Bernardita Lobo TODO: agregar enlace a su github.com
-- José Morales TODO: agregar enlace a su github.com
+- José Morales: https://github.com/jotamorales-romulus
 - Camila Parada TODO: agregar enlace a su github.com
 
 ### Pauta
@@ -39,17 +39,20 @@ Se utilizan fondos neutros, planos detalle bien enfocados y una ambientación qu
 
 No sólo busco mostrar el resultado final, sino también documentar el recorrido completo, destacando las decisiones creativas y técnicas que llevaron al desarrollo del proyecto.
 
+![Foto de referente fondo neutro ](./imagenes/tme-proyecto02-referente04.jpeg)
+
 Ya cuando tengamos en nuestro poder las placas y prototipos para el registro, recomiendo el uso de un fondo neutro (como blanco, gris o negro), ya que no distrae y permite que la audiencia se concentre en lo que realmente importa.
+
+![Foto de referente fondo no neutro ](./imagenes/tme-proyecto02-referente05.jpeg)
 
 Usar un fondo no neutro, seria más para el trabajo en clases, cuando se está prototipando o organizando con los grupos. Doy de ejemplo el pañol de la universidad, con herramientas y materiales, aporta contexto real y autenticidad al registro.
 Para el registro en sala, el fondo no neutro puede aportar contexto visual importante que enriquece la comprensión del entorno y la actividad que se está documentando. A diferencia de un fondo neutro, que es más sencillo y minimalista, un fondo con elementos del espacio real, ayuda a mostrar la atmósfera, la dinámica y el ambiente natural donde se desarrolla la clase.
 
-
 ### The Life of Crystal
 
-También quiero destacar como referente a Mónica Bate, quien durante la visita a la clase nos mostró el video [The Life of Crystals](https://vimeo.com/79735959), donde documenta su proyecto de arte sonoro con cristales piezoeléctricos. Elijo este video como referente porque se acerca más a lo que vamos a hacer en el taller con los trabajos de examen y siento que tiene mayor sintonía con nuestro enfoque. Además, cuenta con una edición y registro simples pero funcionales, bastante minimalistas, donde muestra claramente los avances y la interacción con el usuario.
+También quiero destacar como referente a Mónica Bate, quien durante la visita a la clase nos mostró el video [The Life of Crystals](https://vimeo.com/79735959), donde documenta su proyecto de arte sonoro con cristales piezoeléctricos. Elijo este video como referente porque se acerca más a lo que vamos a hacer en el taller con los trabajos de examen y siento que tiene mayor sintonía con nuestro enfoque. Además, cuenta con una edición y registro simples pero funcionales, bastante minimalistas, donde muestra claramente los avances y la interacción con el usuario. 
 
-![Foto de referente fotográfico](./imagenes/tme-proyecto02-referente01.jpeg)
+![Foto de referente registro](./imagenes/tme-proyecto02-referente01.jpeg)
 
 ▼ Fuentes: <https://i0.wp.com/etab.cl/monica-bate/wp-content/uploads/2017/12/DSC0009.jpg?resize=1024%2C680> y <https://i0.wp.com/etab.cl/monica-bate/wp-content/uploads/2017/12/MG_3695.jpg?resize=1024%2C683>
 
@@ -57,12 +60,12 @@ También quiero destacar como referente a Mónica Bate, quien durante la visita 
 
 Reels de Instagram que muestran el avance de las clases durante el semestre. Estos son grabados por alumnos encargados de registrar el trabajo realizado en clases. Durante las sesiones se busca registrar la mayor cantidad de contenido posible para luego editar y juntar en un video, que posteriormente se sube a redes sociales.
 
-Estos videos son fáciles de grabar y editar. Normalmente se pueden subir cada semana. Se utiliza música de fondo para hacerlos más atractivos para el espectador. Suelen durar entre 30 segundos y 1 minuto.
-
+Estos videos son fáciles de grabar y editar. Normalmente se pueden subir cada semana. Se utiliza música de fondo para hacerlos más atractivos para el espectador. Suelen durar entre 30 segundos y 1 minuto. 
 
 [Taller de Celebración UDP — Instagram](https://www.instagram.com/tallerdecelebracionudp?igsh=dXU0aWNhNmR1dHNq)
 
 ### Experimental 
+
 Para definir la identidad visual del video, tomé como punto de partida el moodboard desarrollado por Camila Parada para la parte de diseño gráfico del examen. Me interesó especialmente su enfoque visual: una mezcla de distorsión, collage, tipografía experimental y caos contenido. Quiero trasladar esa estética al lenguaje audiovisual, explorando recursos como deformaciones visuales, glitches, efectos analógicos y texturas digitales, pero siempre dentro de lo posible y accesible.
 
 Mi intención no es saturar el video, sino intervenirlo de forma sutil pero significativa. Me interesa registrar a mis compañeros, sus gestos, movimientos o rastros, y trabajar ese material en edición, dándole un tratamiento visual que lo transforme sin desfigurarlo, manteniendo la esencia de la acción original. En ese proceso, también quiero experimentar con la tipografía como un recurso gráfico más; no tanto para comunicar información, sino para aportar ritmo, textura y estilo. Esto se trabajará en conjunto con Camila Parada.
@@ -71,31 +74,42 @@ No busco simplemente documentar, sino reinterpretar visualmente lo que ocurre, c
 
 Como referente visual, tomé el video [“Waiting For The End – Recording Vocals | LPTV #42” de Linkin Park](https://www.youtube.com/watch?v=vlcMQ3teZ1g) donde se combinan registros documentales con una edición muy cuidada. Me interesó particularmente cómo se integran efectos visuales como glitches, distorsiones suaves, overlays y tipografía que aparece de forma puntual. Este tratamiento aporta identidad visual al material sin restarle fuerza al contenido. Es ese equilibrio el que busco lograr: una intervención visual que complemente el registro, lo estilice y lo potencie sin opacarlo.
 
-
 ## Instrucciones de documentación en video para consistencia en los proyectos (1 punto)
 
 El responsable de esta sección es @jotamorales-romulus.
 
-Para la segunda sesión de registro, se empezs a registrar avances y prototipos en protoboard. Formato vertical y horizontal.
+Para cada sesión se realizará un registro audiovisual mediante el uso de una cámara. Además, para el examen se desarrollarán tres tipos distintos de video como parte del proyecto.
 
 ### Reels
 
-- Registro de videos de 5 segundos en formato vertical, los cuales capturan el trabajo en las sesiones.
+- Videos de entre 30 segundos y 1 minuto, en formato vertical (9:16), pensados para redes sociales como Instagram.
+- Su objetivo es documentar el proceso del taller de forma fragmentada pero constante, mostrando el ambiente de trabajo y los avances de los distintos grupos.
+- La idea es registrar la mayor cantidad de momentos posibles durante las sesiones, para luego contar con suficiente material con el que se puedan editar estos videos.
+- Tendra los logotipos del Laboratorio de Interacción Digital de la UDP y del Taller de Máquinas Electrónicas al inicio. Y durante el resto del video tendrá marca de agua del logotipo del taller.
+  
+### Video Examen
 
-### Videos Horizontal  
+- Se realizará un video que junte todo lo realizado para el examen. Registro de las classe y registro de los proyectos de los grupos.
+- Cada video de los grupos registrará el proyecto completo y funcionará como una cápsula audiovisual que resuma su propuesta, mostrando desde el concepto hasta el resultado final.
 
-### Introducción breve del taller
+### Intro del video
+- Nombre taller, Profesore y ayudante
+- Logos lab y taller
+- Breve introdcucion del taller
 
-ESTO ES UNO POR GRUPO? UNO PARA TODO EL GRUPO?
-QUIÉN LO HACE?
-SI LO HACE JOTA, CÓMO EL GRUPO LE PIDE A JOTA QUE LO HAGA?
+### Proyectos
+- Primero se mostrara parte del registro del taller
+El video de cada grupo debe incluir:
 
-### Registro de Proyectos
-
-- Nombre del grupo cuando aparezca su proyecto en pantalla
-- Nombre intregantes  
-- Breve descripción del proyecto
-
+- Nombre del grupo cuando aparezca su proyecto en pantalla  
+- Nombre de los integrantes  
+- Breve descripción del proyecto  
+- Imágenes del proceso y resultado final
+  
+¿Cómo se hará?
+- La grabación y edición estarán a cargo de Jota Morales. Cada grupo debe ayudar al registro de su proyecto. La fecha debe ser coordinada por los profesores.
+- Tentativamente, se realizará en un espacio del Laboratorio de Interacción Digital o en la sala de fotografía de la FAAD.
+  
 ### Registro del proceso
 
 - Prototipos en protoboard  
@@ -110,36 +124,16 @@ SI LO HACE JOTA, CÓMO EL GRUPO LE PIDE A JOTA QUE LO HAGA?
 - Montaje estético, funcional, mecánico y eléctrico
 - Uso en contexto
 
-Agregar ejemplos de video o imagen como referencia visual.
+### Formato y resolución de los videos
 
-OJO CON LA JERARQUÍA DE INFORMACIÓN CON LOS #
-
-### Instrucciones técnicas para la documentación (consistencia entre grupos)
-
-Para mantener coherencia visual y técnica entre todos los registros:
-
-### Formato y resolución
-
-- Formato horizontal o vertical (16:9)
+- Formato horizontal o vertical 
 - Resolución mínima: 1080p (Full HD)
 - FPS: 30 cuadros por segundo
-
-PREGUNTA: Cómo sé que cumplo con eso?
-
-### Tipos de planos sugeridos
-
-- Plano general del circuito en uso  
-- Plano detalle de componentes  
-- Plano medio o subjetivo si hay interacción
-- Una vista del curso trabajando
-
-Agregar ejemplos visuales.
+- Al exportar los videos, se verificará que los formatos estén correctos.
 
 ### Audio
-
-- La idea es registrar el audio si el proyecto produce algun sonido, y dejar sin audio si no tiene.
-
-Ojalá usar alguna canción de fondo sobre cultura electrónica.
+- La idea es registrar el audio si el proyecto produce algún sonido, y dejar sin audio si no lo produce
+- Se utilizarán canciones de fondo sobre cultura electrónica.
 
 ### Iluminación
 
