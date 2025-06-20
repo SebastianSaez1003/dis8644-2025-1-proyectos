@@ -114,6 +114,7 @@ Para cada sesión, se realizará un registro audiovisual mediante el uso de una 
 ### Proyectos
 
 - Primero, se mostrará parte del registro del taller
+
 El video de cada grupo debe incluir:
 
 - Nombre del grupo cuando aparezca su proyecto en pantalla  
@@ -169,11 +170,9 @@ El video de cada grupo debe incluir:
 
 - [ ] Registro del circuito en protoboard  
 - [ ] Registro del montaje final (2 de julio 2025)  
-- [ ] Grabación del circuito en uso o en contexto  
-- [ ] Fotografías de calidad del proyecto  
-- [ ] Testimonio breve (opcional, pero recomendado o puede ser escrito)  
+- [ ] Grabación del circuito en uso o en contexto     
 - [ ] Archivos bien nombrados: `grupoXX-nombre-2024-06-14.mp4`  
-- [ ] Entrega vía wetransfer a jotamorales-romulus.
+- [ ] Entrega vía wetransfer (archivo para portafolio)
   
 
 
