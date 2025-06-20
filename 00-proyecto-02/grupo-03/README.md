@@ -161,8 +161,6 @@ CHIP 4017
 
 ![PCB detalle 1](./kicad/proyecto_detalle3.jpg)
 
-Enlace de la PCB para ver los PDF <https://drive.google.com/drive/folders/13fPj71c8mFoW2-MyDWrl_n2MRV8LrotA?usp=sharing>
-
 ## Recursos adicionales
 
 - El chip LMV324M del SparkFun Sound Detector lo desglosamos, por así decirlo, para tener el chip aparte y poder regular la sensibilidad del micrófono.
