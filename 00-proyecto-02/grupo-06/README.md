@@ -69,7 +69,7 @@ El circuito de salida usa el L293D para cambiar el sentido de la rotación del m
 
 ## Bill of Materials (1 punto)
 
-bom extraído desde el [repo de duckusu](https://github.com/Anaisbmg/dis8644-2025-1-proyectos/tree/main/21-duckusu/sesion-15b)
+bom extraído desde [repo de duckusu](https://github.com/Anaisbmg/dis8644-2025-1-proyectos/tree/main/21-duckusu/sesion-15b)
 
 | Grupo 6 	|                         	|          Integrantes          	|                   	|                                                 	|                                                            	|
 |:-------:	|-------------------------	|:-----------------------------:	|-------------------	|-------------------------------------------------	|------------------------------------------------------------	|
