@@ -23,11 +23,11 @@ Este es el diagrama a mano.
 
 En este dibujo mostramos nuestro proyecto el cual consiste en un juguete automático para gatos que funciona con un sensor de luz (LDR). Cuando el gato se coloca frente al sensor, su sombra reduce la luz que llega al LDR, lo que activa el motor del juguete. Si el gato se aleja, vuelve a llegar luz al sensor, lo que hace que el motor se apague. Así, el juguete se enciende solo cuando el gato está presente y se apaga automáticamente cuando se va.
 
-# Diagrama de Flujo (SIMPLE)
+## Diagrama de Flujo (SIMPLE)
 
 ![DIAGRAMA DE FLUJO](https://github.com/HSB25/dis8644-2025-1-proyectos/blob/main/00-proyecto-02/grupo-04/imagenes/DIAGRAMADEFLUJO01.png?raw=true)
 
-# Resumen del funcionamiento del juguete para gato (según el dibujo):
+## Resumen del funcionamiento del juguete para gato (según el dibujo)
 
 1. Inicio:
 El sistema comienza en modo espera.
@@ -44,25 +44,25 @@ Se detecta si hay sombra sobre el sensor de luz (LDR). Esto indica que el gato e
 5. Fin:
 El sistema vuelve al inicio y espera una nueva detección.
 
-# Diagrama de Flujo (DETALLADO)
+## Diagrama de Flujo (DETALLADO)
 
 ![DIAGRAMA DE FLUJO 2](https://github.com/HSB25/dis8644-2025-1-proyectos/blob/main/00-proyecto-02/grupo-04/imagenes/DIAGRAMADEFLUJO02.png?raw=true)
 
-# Funcionamiento General del Sistema
+## Funcionamiento General del Sistema
 
-1. Detección de sombra (presencia del gato):
+### 1. Detección de sombra (presencia del gato)
 
 El sistema usa un sensor LDR (resistor dependiente de la luz) que mide la cantidad de luz ambiente.
 Cuando hay luz normal, el sensor detecta niveles altos de luz.
 Cuando el gato se acerca al juguete y lo tapa (proyectando sombra), el sensor detecta una baja de luz.
 
-2. Activación del motor:
+### 2. Activación del motor
 
 Al detectar esa baja de luz, el sistema interpreta que el gato está presente.
 Se activa un temporizador o lógica de control que enciende un motor DC.
 Este motor puede mover una cuerda, una pluma u otro objeto que atraiga la atención del gato.
 
-3. Desactivación automática:
+### 3. Desactivación automática
 
 Cuando el gato se aleja del juguete, vuelve a llegar luz al sensor.
 El sistema detecta el aumento de luz y apaga el motor automáticamente.
@@ -74,7 +74,6 @@ El juguete vuelve a estar en modo espera, listo para activarse nuevamente.
 |--------------------------------|----------------------|------------------------|
 | Gato frente al sensor (sombra) | Poca luz             | Motor se enciende      |
 | Gato se va                     | Luz normal           | Motor se apaga         |
-
 
 ## Prototipado de circuitos en protoboard (1 punto)
 
