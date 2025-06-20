@@ -196,6 +196,11 @@ La responsable de esta sección es @Bernardita-lobo.
 
 La responsable de esta sección es @Bernardita-lobo.
 
+### Elementos clave a mostrar en el montaje
+
+- Para el montaje es fundamental lograr explicar, de manera concisa y accesible, cómo se llegó a los resultados finales. Este taller, en especial, trabaja en una disciplina algo diferente y puede resultar difícil de comprender. En ese sentido, la propuesta del montaje se dividirá en dos secciones: una donde se expongan los proyectos finales y otra donde se evidencien todos los procesos por los que tuvieron que pasar los grupos de trabajo.
+
+
 ***
 
 ## Publicación en GitHub de de alta calidad de logos institucionales de UDP (1 punto)
