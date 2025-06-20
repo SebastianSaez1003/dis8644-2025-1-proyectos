@@ -255,7 +255,7 @@ La responsable de esta sección es @Bernardita-lobo.
 
 ![Foto de registro fotográfico](./imagenes/tme-proyecto02-montaje-sala-vista03.png)
 
-- Los archivos de Rhino están subidos en la carpeta [Modelados](link)
+- Los archivos de Rhino están subidos en la carpeta [Modelados](https://github.com/Bernardita-lobo/dis8644-2025-1-proyectos/tree/main/00-proyecto-02/grupo-0b/modelados)
 
 ## Publicación en GitHub de de alta calidad de logos institucionales de UDP (1 punto)
 
