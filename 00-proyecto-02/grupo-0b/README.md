@@ -10,9 +10,9 @@ Integrantes:
 
 jotaMorales, bernardita y camila
 
-- Bernardita Lobo TODO: agregar enlace a su github.com
-- José Morales TODO: agregar enlace a su github.com
-- Camila Parada TODO: agregar enlace a su github.com
+- [Bernardita Lobo](https://github.com/Bernardita-lobo).
+- [José Morales](https://github.com/jotamorales-romulus).
+- [Camila Parada](https://github.com/Camila-Parada).
 
 ### Pauta
 
