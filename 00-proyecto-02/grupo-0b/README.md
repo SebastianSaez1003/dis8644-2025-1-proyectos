@@ -192,6 +192,16 @@ La responsable de esta sección es @Bernardita-lobo.
 - Para las fotos de registro del proceso de maqueteo en la protoboard decidimos utilizar un fondo gris, ya que buscamos lograr una apariencia neutral. En cambio, para las fotografías del proyecto final, que incluyen las PCBs y las carcasas, utilizaremos fondos de colores diferentes para cada uno de los seis grupos, con el objetivo de dar mayor identidad a cada proyecto. Además, como se mencionó en los referentes, también tomaremos las fotos en un contexto que apoye y responda a la función e interacción de cada proyecto.
 - Para las fotografías de las protoboard tomamos tres tipos de tomas: una desde la parte frontal con perspectiva, otra en vista superior para que se aprecien con claridad los circuitos, y una tercera que enfoca algún detalle distintivo que sea necesario destacar.
 
+### Registro fotográfico
+
+- Como ejemplo de lo que se trabajó, incluiré tres fotografías correspondientes al grupo 05.
+
+![Foto de registro fotográfico](./imagenes/tme-grupo05-registro02.jpg)
+
+![Foto de registro fotográfico](./imagenes/tme-grupo05-registro03.jpg)
+
+![Foto de registro fotográfico](./imagenes/tme-grupo05-registro04.jpg)
+
 ## Propuesta de montaje de proyectos en sala de clases y en laboratorio (1 punto)
 
 La responsable de esta sección es @Bernardita-lobo.
