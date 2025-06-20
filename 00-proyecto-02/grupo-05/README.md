@@ -88,6 +88,8 @@ Intentamos ayudar a [Sofía](https://github.com/sofiacartes) del grupo 03 en có
 
 Ayudamos a [Braulio](https://github.com/brauliofigueroa2001) del grupo 04 mostrándole cómo conseguimos una imagen en blanco y negro de nuestra PCB en KiCad
 
+ [hazzaily](https://github.com/hazzaily) nos ayudó a subir imágenes correctamente a github.
+
 ## Esquematico en Kicad (1 punto)
 
 [Esquemático en formato PDF](./imagenes/esquematico-05.pdf)
