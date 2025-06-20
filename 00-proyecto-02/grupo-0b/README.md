@@ -78,7 +78,7 @@ Como referente visual, tomé el video [“Waiting For The End – Recording Voca
 
 El responsable de esta sección es @jotamorales-romulus.
 
-Para cada sesión se realizará un registro audiovisual mediante el uso de una cámara. Además, se desarrollarán tres tipos distintos de video como parte del proyecto.
+Para cada sesión se realizará un registro audiovisual mediante el uso de una cámara. Además, para el examen se desarrollarán tres tipos distintos de video como parte del proyecto.
 
 ### Reels
 
@@ -93,7 +93,7 @@ Para cada sesión se realizará un registro audiovisual mediante el uso de una c
 - Cada video de los grupos registrará el proyecto completo y funcionará como una cápsula audiovisual que resuma su propuesta, mostrando desde el concepto hasta el resultado final.
 
 ### Intro del video
-- Nombre taller, Profesores, Ayudante
+- Nombre taller, Profesore y ayudante
 - Logos lab y taller
 - Breve introdcucion del taller
 
@@ -126,7 +126,7 @@ El video de cada grupo debe incluir:
 
 ### Formato y resolución de los videos
 
-- Formato horizontal o vertical (16:9)
+- Formato horizontal o vertical 
 - Resolución mínima: 1080p (Full HD)
 - FPS: 30 cuadros por segundo
 - Al exportar los videos, se verificará que los formatos estén correctos.
