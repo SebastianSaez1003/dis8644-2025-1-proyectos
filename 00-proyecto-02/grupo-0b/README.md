@@ -238,7 +238,8 @@ La responsable de esta sección es @Bernardita-lobo.
 
 ### Sección Procesos
 
-- Esta sección estará dividida de acuerdo a las distintas etapas del proceso que desarrollaron los grupos. Entre estas se incluyen: el maqueteo en protoboard, la creación de los esquemáticos, el diseño y fabricación de las PCBs, las soldaduras, el modelado de las carcasas y sus impresiones. Cada parte estará acompañada por una pieza visual, por ejemplo, las protoboard o algunas de las primeras impresiones 3D que se fueron modificando a lo largo del proceso, lo que permitirá comprender fácilmente cada etapa. Además, se incluirá un video de apoyo. Esta sección funcionará como una recopilación de los procesos productivos que atravesaron los grupos de trabajo para llegar al resultado final.
+- Esta sección estará dividida de acuerdo a las distintas etapas del proceso que desarrollaron los grupos. Entre estas se incluyen: el maqueteo en protoboard, la creación de los esquemáticos, el diseño y fabricación de las PCBs, las soldaduras, el modelado de las carcasas y sus impresiones.
+- Cada parte estará acompañada por una pieza visual, por ejemplo, las protoboard o algunas de las primeras impresiones 3D que se fueron modificando a lo largo del proceso, lo que permitirá comprender fácilmente cada etapa. Además, se incluirá un video de apoyo. Esta sección funcionará como una recopilación de los procesos productivos que atravesaron los grupos de trabajo para llegar al resultado final.
 
 ### Modelado del montaje
 
