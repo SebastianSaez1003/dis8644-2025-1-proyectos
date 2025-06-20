@@ -19,7 +19,7 @@ El proyecto consiste en un juguete para gato que funciona con un LDR que control
 
 Este es el diagrama a mano.
 
-![Dibujo del diagrama a mano](./imagenes/diagrama-mano.jpg)
+![Dibujo del diagrama a mano](https://github.com/HSB25/dis8644-2025-1-proyectos/blob/main/00-proyecto-02/grupo-04/imagenes/BOCETODIAGRAMAFLUJO.jpg?raw=true)
 
 En este dibujo mostramos XX.
 
