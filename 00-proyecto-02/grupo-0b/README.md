@@ -92,7 +92,11 @@ Para cada sesión, se realizará un registro audiovisual mediante el uso de una 
 - Su objetivo es documentar el proceso del taller de forma fragmentada pero constante, mostrando el ambiente de trabajo y los avances de los distintos grupos.
 - La idea es registrar la mayor cantidad de momentos posibles durante las sesiones, para luego contar con suficiente material con el que se puedan editar estos videos.
 - Tendrá los logotipos del Laboratorio de Interacción Digital de la UDP y del Taller de Máquinas Electrónicas al inicio. Durante el resto del video, tendrá marca de agua del logotipo del taller.
-  
+- La sesión 15A marcó el inicio del registro audiovisual.
+
+### Primer reel (sesión 15A)
+[![Miniatura del video](https://img.youtube.com/vi/l8mmXpmg6G0/hqdefault.jpg)](https://youtube.com/shorts/l8mmXpmg6G0?feature=share)
+
 ### Video Examen
 
 - Se hará uso de tripode para este registro.
