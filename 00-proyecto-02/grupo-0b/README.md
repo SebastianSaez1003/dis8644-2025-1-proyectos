@@ -86,6 +86,7 @@ Para cada sesión, se realizará un registro audiovisual mediante el uso de una 
 
 - Los videos serán almacenados en el computador de @jotamorales-romulus. Al finalizar cada clase, los videos se pasarán a través de un adaptador de tarjeta sd
 - Pedir disco duro en lab para almacenar videos a futuro.
+  
 ### Reels
 
 - Videos de entre 30 segundos y 1 minuto, en formato vertical (9:16), pensados para redes sociales como Instagram.
