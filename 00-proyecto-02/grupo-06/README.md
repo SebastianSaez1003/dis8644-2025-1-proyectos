@@ -3,17 +3,19 @@
 ## Acerca del proyecto
 
 - Grupo: 06
+
 - Integrantes:
-  - Santiago Gaete Fernández
-  - Anaís Marschhausen Gajardo
-  - Sebastián Sáez Olivares
+  - Santiago Gaete Fernández @07-clifford1one
+  - Anaís Marschhausen Gajardo @10-Anaisbmg
+  - Sebastián Sáez Olivares @19-SebastianSaez1003
+
 - Chips usados:
   - NE555
   - L293D
 
 ## Presentación textual
 
-fps555 es un dispositivo de protección ocular con posición adaptable mecánicamente. consiste en un circuito que recibe un input a través de un interruptor on-off-on. esta acción provoca un output de rotación mecánico, ajustando la posición de los lentes
+fps555 es un dispositivo de protección ocular con posición adaptable mecánicamente. consiste en un circuito que recibe un input a través de un interruptor on-off-on. esta acción provoca un output de rotación mecánico, ajustando la posición de los lentes.
 
 ## Dibujos de diagramas del circuito (1 punto)
 
@@ -88,7 +90,7 @@ El circuito de salida usa el L293D para cambiar el sentido de la rotación del m
 
 ## Bill of Materials (1 punto)
 
-bom extraído desde [repo de duckusu](https://github.com/Anaisbmg/dis8644-2025-1-proyectos/tree/main/21-duckusu/sesion-15b)
+BOM extraído desde [repositorio de 21-duckusu](https://github.com/Anaisbmg/dis8644-2025-1-proyectos/tree/main/21-duckusu/sesion-15b)
 
 | Grupo 6 	|                         	|          Integrantes          	|                   	|                                                 	|                                                            	|
 |:-------:	|-------------------------	|:-----------------------------:	|-------------------	|-------------------------------------------------	|------------------------------------------------------------	|
