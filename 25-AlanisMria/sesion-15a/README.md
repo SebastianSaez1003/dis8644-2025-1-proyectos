@@ -40,6 +40,12 @@ Considerando que su proyecto es en base a una forma cilíndrica, con medidas 120
 
 Para unir distintas partes se recomienda el uso de tornillos de M3, la cual será la medida estándar establecida en el taller, estos se pueden encontrar en: [Tornillos](https://www.cimech3d.cl/producto/perno-m3-zincado-pack-50/?srsltid=AfmBOooZL1rCLgmrz2yHb-8EatIMO3Y4J9RszVUNFPxMAbg5tHtpm0yU)
 
+
+Al hablar con el equipo se definío que trabajaremos en conjunto para la realización de modelos 3D.
+
+Se propuso la creación de una pieza 3d que sirva para mantener el piezo a ras de la cubierta y que este pueda cambiarse en caso de dañarse.
+[grupo02propuesta](https://github.com/AlanisMria/dis8644-2025-1-proyectos/blob/main/25-AlanisMria/sesion-15a/archivos/grupo02propuesta.jpg)
+
 ------------------------------------------
 
 ### Proyecto-03
@@ -58,6 +64,8 @@ En cuanto al armado de su prototipo se recomienda cortar en láser, sobre todo c
 Para unir las placas al acrilico de manera pulida se recomienda hacer una especie de riel de acrílico curvado  mediante calor en el que se logren ubicar las placas, esto para no romper con la transparencia del objeto, como en la siguiente imagen:
 
 [propuestaGrupo03](https://github.com/AlanisMria/dis8644-2025-1-proyectos/blob/main/25-AlanisMria/sesion-15a/archivos/propuestaGrupo03.png)
+
+Esta idea ya se propuso al grupo y está en evaluación.
 
 este sería pegado a las paredes de la estructura mediante cianocrilato, pueden encontrarlo aqui: [Cianocrilato](https://www.mercadolibre.cl/adhesivo-magico-acelerado-seca-9-segundos-100gr-400ml-rex-color-blanco/p/MLC44873226?pdp_filters=item_id%3AMLC1572226595&from=gshop&matt_tool=83114261&matt_word=&matt_source=google&matt_campaign_id=22116391437&matt_ad_group_id=173057321469&matt_match_type=&matt_network=g&matt_device=c&matt_creative=729566854243&matt_keyword=&matt_ad_position=&matt_ad_type=pla&matt_merchant_id=735085901&matt_product_id=MLC44873226-product&matt_product_partition_id=2388258797660&matt_target_id=pla-2388258797660&cq_src=google_ads&cq_cmp=22116391437&cq_net=g&cq_plt=gp&cq_med=pla&gad_source=1&gad_campaignid=22116391437&gbraid=0AAAAADxxu6oPwtiwzjzxrJIeq7W_xnKui&gclid=Cj0KCQjwmK_CBhCEARIsAMKwcD7jPxQUKWGo0D3Lz3jVmOcSdGZrc1dMGtJBlMCvEiQQTUCpvZU_RyMaAkJ0EALw_wcB)
 
