@@ -85,7 +85,7 @@ A continuación se presentan imágenes de las protoboards usadas.
 
 A continuación se presentan textos explicativos del prototipado.
 
-El circuito de entrada usa un LDR  para medir el umbral de luz que recibe la protoboard, este LDR va conectado a un chip lm324 que actúa como comparador de voltaje y a su vez un potenciómetro que actuará como un calibrador de la luz ya que las condiciones de luz pueden cambiar según el lugar que nos encontremos, por lo cuál esto se debe calibrar.
+El circuito de entrada usa un LDR  para medir la cantidad de luz o sombra que recibe nuestro circuito, este LDR va conectado a un chip lm324 que actúa como comparador de voltaje y a su vez un potenciómetro que actuará como un calibrador de la luz ya que las condiciones de luz pueden cambiar según el lugar que nos encontremos, por lo cuál esto se debe calibrar.
 
 El circuito de salida usa XX para cambiar XX.
 
