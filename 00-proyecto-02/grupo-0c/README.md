@@ -10,8 +10,6 @@ Integrantes:
 - [Francisco Stephens](https://github.com/FranUDP)
 - [Izhak Villegas](https://github.com/IzhakVillegas)
 
-## Dibujos de diagramas del circuito (1 punto)
-
 ## Bill of materials de todos los proyectos y materiales del curso (1 punto)
 
 | Grupo 1  |           |                   Integrantes                    |                |                              |                                |

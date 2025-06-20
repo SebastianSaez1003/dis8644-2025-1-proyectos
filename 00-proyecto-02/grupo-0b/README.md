@@ -98,7 +98,6 @@ Para cada sesión, se realizará un registro audiovisual mediante el uso de una 
 
 [![Miniatura del video](https://img.youtube.com/vi/l8mmXpmg6G0/hqdefault.jpg)](https://youtube.com/shorts/l8mmXpmg6G0?feature=share)
 
-
 ### Video Examen
 
 - Se hará uso de tripode para este registro.
@@ -146,7 +145,7 @@ El video de cada grupo debe incluir:
 - Resolución mínima: 1080p (Full HD)
 - FPS: 30 cuadros por segundo
 - Al exportar los videos, se verificará que los formatos estén correctos.
-- Videos pesados se compartiran por wetransfer a aaron.montoya@mail.udp.cl
+- Videos pesados se compartiran por wetransfer a <aaron.montoya@mail.udp.cl>
 
 ### Audio
 
@@ -159,9 +158,10 @@ El video de cada grupo debe incluir:
 - Sombras creativas si refuerzan el concepto.
 - Fondos neutros y no neutros.
 
-### Creditos 
+### Creditos
+
 - Nombre taller
-- Profesores y ayudantes 
+- Profesores y ayudantes
 - Integrantes del curso divididos por grupo (nombre y apellido)
 - Año
 
@@ -175,10 +175,6 @@ El video de cada grupo debe incluir:
 - [ ] Archivos bien nombrados: `grupoXX-nombre-2024-06-14.mp4`  
 - [ ] Entrega vía wetransfer a jotamorales-romulus.
   
-
-
-
-
 ***
 
 ## referentes de documentación en imagen y plan de documentación (1 punto)
@@ -345,7 +341,7 @@ Dado que no tenía un referente directo con el cual trabajar es que comencé con
 
 ▼ Fuente: Recurso de manufactura propia. Producción hecha con Illustrator.
 
-Por temas de tiempo, terminé realizando una versión más acotada del logo y que permitiera un mejor control al solo tener 3 piezas. Por ello decidí escoger la "t", una "e" y un "3" que fuera elevado, el cual al tratarse de una ecuación matemática sería similar a "t * e ³ = t* e * e * e", similar a "teee".
+Por temas de tiempo, terminé realizando una versión más acotada del logo y que permitiera un mejor control al solo tener 3 piezas. Por ello decidí escoger la "t", una "e" y un "3" que fuera elevado, el cual al tratarse de una ecuación matemática sería similar a "t *e ³ = t* e *e* e", similar a "teee".
 Ante esta nueva idea comencé a componer y desarrollar este nuevo carácter, llegando a un resultado que posee como variante principal la "e". ¿Por qué tomé esta decisión? Pues resulta que "t" corresponde a "taller" y las "e" en su momento tuvieron un significado, el cuál no se condice con el nombre actual del curso (Taller de máquinas electrónicas). Por ello quise dejar esta letra como un signo que puede verse modificado según vayan surgiendo nuevas veriones de los futuros talleres o proyectos, los cuales se ven vinculados con las tecnologías que en ellos se aprenden u enseñarán. Como prototipado realicé un total de 4 de estos logos, los cuales poseen diferentes "e" y cuyo interletrado fue acomodado para poseer un equilibrio óptico. Además, vale mencionar que se realizó otra versión experimental "extendida" en la que se asocia un concepto que reemplaza el "3". Dicha idea busca representar alguna palabra clave que represente lo que se verá en estos espacios de aprendizaje.
 
 ![alt-text](./diseno-grafico/logotipo-teee/logotipos_te3_multiples_acotados.jpg)

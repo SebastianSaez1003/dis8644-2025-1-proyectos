@@ -17,7 +17,7 @@
 
 ## Dibujos de diagramas del circuito (1 punto)
 
-Este es el diagrama a mano comlpleto y del Chip LM324
+Este es el diagrama a mano completo y del chip LM324
 
 ![dibujo esquemático parte 1](./imagenes/esquematico-dibujo-01.jpg)
 
@@ -27,7 +27,7 @@ Este es el diagrama del Chip 4017
 
 ![dibujo esquematico parte 3](./imagenes/diagrama-dibujo-esquematico.jpg)
 
-En este dibujo mostramos la ayuda de Matías con Ángel quienes, lograron hacer el esquemático del micrófono con el **Chip LM324** para poder **regular la sensibilidad** de este (nos había faltado un condensador de 1 uF en el pin 1), luego desde el pin 14 del chip LM324 poder conectarlo al pin 14 del Chip 4017 y que funcionen las luces.
+En este dibujo mostramos la ayuda de Matías con Ángel quienes lograron hacer el esquemático del micrófono con el **Chip LM324** para poder **regular la sensibilidad** de este (nos había faltado un condensador de 1 uF en el pin 1), luego desde el pin 14 del chip LM324 poder conectarlo al pin 14 del Chip 4017 y que funcionen las luces.
 
 ## Prototipado de circuitos en protoboard (1 punto)
 
@@ -53,7 +53,7 @@ A continuación se presentan imágenes de las protoboards usadas.
 | Resistencia   | 4        | 10k             |
 | Resistencia   | 1        | 220             |
 | Resistencia   | 2        | 22k             |
-| Microfono     | 1        | CZN-15E         |
+| Micrófono     | 1        | CZN-15E         |
 | Condensador   | 2        | 10uF            |
 | Condensador   | 1        | 1uF             |
 | Diodo         | 2        | 1n5819          |
@@ -83,7 +83,7 @@ A continuación se presentan imágenes de las protoboards usadas.
 
 <https://github.com/disenoUDP/dis8644-2025-1-proyectos/issues/143#issuecomment-2981033544>
 
-**Angel** oyente de la clase, nos ayudó con el **prototipo en protoboard.**
+**Ángel** oyente de la clase, nos ayudó con el **prototipo en protoboard.**
 
 <https://github.com/disenoUDP/dis8644-2025-1-proyectos/issues/115#issuecomment-2984512973>
 
@@ -103,7 +103,7 @@ Ayuda a colegas: <https://github.com/orgs/disenoUDP/projects/4?pane=issue&itemId
 
 ## Esquematico en Kicad (1 punto)
 
-![esquematico general](./kicad/diagrama-esquematico.pdf)
+[Esquemático general en PDF](./kicad/diagrama-esquematico.pdf)
 
 ![Esquemático general](./imagenes/diagrama-esquematico.jpg)
 
