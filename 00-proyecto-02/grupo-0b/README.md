@@ -276,7 +276,7 @@ En un principio comencé por analizar los elementos con los cuales trabajar. Par
 A revisar la primera cuenta (teee.udp) se puede notar que presenta contenidos variados y realizados en distintos cursos a lo largo de los años, todos centrados en tecnologías: arduino, circuitos eléctricos, programación web, desarrollo de objetos, entre otros, todos los cuales involucran el lado físico (análogo) y el virtual (digital). Estas piezas digitales son registrados a la par en el laboratorio "lid" al tratarse de un “espacio-hermano”, con la diferencia que en este filtra algunas de las publicaciones. Ante ello surge la idea de un “vínculo” entre estos elementos.
 Frente al tipo de material presente he de concluir que no solo son de carácter “inclusivos” en cuánto a la “diversidad” de tecnologías y proyectos que aparecen, por lo que se encuentran “abiertos” ante la variedad de proyectos que se pueden ir desarrollando dentro del ecosistema udp (no solo en la facultad de diseño, sino en la psicología y más).
 
-Dado que el "Laboratorio de interacción digital" ya posee una gráfica definida, decidí averiguar sobre la tipografía con la cuál trabajar en el logotipo para la cuenta hermana y poder realizar una copia personal de los logotipos existentes del laboratorio. Estos últimos se presentan en su versión "jpg" a continuación.
+Dado que el "Laboratorio de interacción digital" ya posee una gráfica definida, decidí averiguar sobre la tipografía con la cuál trabajar en el logotipo para la cuenta hermana y poder realizar una copia personal de los logotipos existentes del laboratorio. Estos últimos se presentan en su versión "jpg" a continuación, mencionando que en la carpeta ["logotipos-lid"](https://github.com/Camila-Parada/dis8644-2025-1-proyectos/tree/main/00-proyecto-02/grupo-0b/logotipos-lid) se encuentran otras versiones del mismo archivo en png, svg y ai.
 
 
 ![alt-text](./logotipos-lid/logo_acotado_lid.jpg)
@@ -298,7 +298,12 @@ Ya con estos antecedentes decidí realizar un "moodboard", un collage de referen
 
 ▼ Fuente: Recurso de manufactura propia. Producción hecha con Illustrator.
 
-En la imagen se puede apreciar influencias del mundo análogo y digital, las cuales contrastan y se acompañan, lo cuál ocurre dentro del taller. Se puede identificar el uso de tramas sobrepuestas sobre imágenes, 
+En la imagen se puede apreciar influencias del mundo análogo y digital, las cuales contrastan y se acompañan, efecto que se mantiene presente dentro del taller y el laboratorio al ser un punto de encuentro para intereses ligados a la tecnología y desarrollo de proyectos interdisciplinares. Se puede identificar el uso de tramas sobrepuestas sobre imágenes, tipografías que tienden a ser ordenadas y que se deforman, signos y simbolos usados en etiquetas de productos, fotografías de muestras de estudio, formas variadas dentro de un espacio que informan ideas y valores, texturas que se aplican a imágenes para saturarlas.
+
+Estas ideas forman parte de la esencia que busco replicar a traves de propuestas para el logotipo, plantillas para publicaciones y videos de instagram, diagramas de flujo, entre cualquier otro recurso que pueda requerir el taller a la posteridad de esta entrega.
+
+### Logotipo teee
+
 
 
 ## Bibliografía
