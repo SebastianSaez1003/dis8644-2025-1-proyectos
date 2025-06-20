@@ -19,11 +19,13 @@ Spectra consiste en una entrada que reacciona con el sonido, para controlar ka s
 
 Este es el diagrama a mano comlpleto y del Chip LM324
 
-![dibujo esquemático parte 1 de 2](./imagenes/esquematico-dibujo-01.jpg)
+![dibujo esquemático parte 1](./imagenes/esquematico-dibujo-01.jpg)
 
 Este es el diagrama del Chip 4017
 
-![dibujo esquematico parte 2 de 2](./imagenes/esquematico-dibujo-02.jpg)
+![dibujo esquematico parte 2](./imagenes/esquematico-dibujo-02.jpg)
+
+![dibujo esquematico parte 3](./imagenes/diagrama-dibujo-esquematico.jpg)
 
 En este dibujo mostramos la ayuda de Matías con Ángel; lograron hacer el esquemático del micrófono con el Chip LM324 para poder regular la sensibilidad de este (nos había faltado un condensador de 1 uF en el pin 1) luego desde el pin 14 del chip LM324 poder conectarlo al pin 14 del Chip 4017 y que funcionen las luces.
 
@@ -101,11 +103,13 @@ Ayuda a colegas: <https://github.com/orgs/disenoUDP/projects/4?pane=issue&itemId
 
 ## Esquematico en Kicad (1 punto)
 
+![esquematico general](./kicad/diagrama-esquematico.pdf)
+
 ![Esquemático general](./imagenes/diagrama-esquematico.jpg)
 
-![Esquemático detalles](./imagenes/esquematico-detalle-01.jpg)
+![Esquemático detalles](./imagenes/chipLM324.png)
 
-![Esquemático detalles](./imagenes/esquematico-detalle-02.jpg)
+![Esquemático detalles](./imagenes/chip4017.png)
 
 En el primer esquemático, es el del Chip LM324, donde conectamos primero el micrófono, luego mediante los condensadores regulamos la sensibilidad de este para que capte mejor los sonidos e incorporamos dos LEDS para ver si el circuito funciona correctamente, dentro de este, el potenciómetro nos da la posibilidad de que elijamos la receptividad.
 
@@ -160,6 +164,14 @@ CHIP 4017
 ![PCB detalle](./kicad/spectra-detalle.jpg)
 
 ![PCB detalle 1](./kicad/proyecto_detalle3.jpg)
+
+![PCB completo](./kicad/pcb-kicad.jpg)
+
+![pdf 1](./kicad/spectra-pcb.pdf)
+
+![pdf 2](./kicad/spectra-pcb1.pdf)
+
+Enlace de la PCB para ver los PDF <https://drive.google.com/drive/folders/13fPj71c8mFoW2-MyDWrl_n2MRV8LrotA?usp=sharing>
 
 ## Recursos adicionales
 
