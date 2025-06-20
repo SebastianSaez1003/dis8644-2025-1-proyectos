@@ -249,3 +249,4 @@ Debido a que todos los esquemáticos de referentes para poder ocupar el chip L29
 en figma realizamos ideas rapidas y existe el proceso de nuestro proyecto
 
 ## Bibliografía
+-Datasheet de L293DNE ![Archivo PDF]
