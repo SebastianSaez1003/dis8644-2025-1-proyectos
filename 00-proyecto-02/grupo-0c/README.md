@@ -1,4 +1,4 @@
-# proyecto-02-grupo- 0c
+# proyecto-02-grupo-0c
 
 ## Acerca del proyecto
 
@@ -234,8 +234,6 @@ flowchart TB
     D --> n1["Comienza secuencia de luces"]
 ```
 
-### Explicación:
-
 Se trata de un sistema inverso de detección de luz el cual enciende una lámpara de manera gradual.
 
 1. Inicio: Al apagar las luces de la habitación.
@@ -244,13 +242,11 @@ Se trata de un sistema inverso de detección de luz el cual enciende una lámpar
    - Si es falso : La lámpara permanece apagada.
 3. Resultado: Dependiendo de la condición, sigue un flujo u otro.
 
-
 ### Texto sobre diagramas de bloque del proyecto-02
 
 - Máquina de tapa percutible
 
 ![diagrama b grupo 02](https://private-user-images.githubusercontent.com/203294124/457129183-2f9173ac-fbaf-41d8-a75c-6c47360f2501.jpeg?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTAzOTczMTAsIm5iZiI6MTc1MDM5NzAxMCwicGF0aCI6Ii8yMDMyOTQxMjQvNDU3MTI5MTgzLTJmOTE3M2FjLWZiYWYtNDFkOC1hNzVjLTZjNDczNjBmMjUwMS5qcGVnP1gtQW16LUFsZ29yaXRobT1BV1M0LUhNQUMtU0hBMjU2JlgtQW16LUNyZWRlbnRpYWw9QUtJQVZDT0RZTFNBNTNQUUs0WkElMkYyMDI1MDYyMCUyRnVzLWVhc3QtMSUyRnMzJTJGYXdzNF9yZXF1ZXN0JlgtQW16LURhdGU9MjAyNTA2MjBUMDUyMzMwWiZYLUFtei1FeHBpcmVzPTMwMCZYLUFtei1TaWduYXR1cmU9YjMyZDQxY2IyZjgzZGVmZTk1ODg5YTVkNTUzOGM1NzRhOTViZmNhNmE0MWQ0MDVjYThmNmQ0ZWUzM2FiZjY1MyZYLUFtei1TaWduZWRIZWFkZXJzPWhvc3QifQ.kcDDMk_rRP70AaTEWxErgSzbYgEG_EIDYoajvd-5Z7Y)
-
 
 ▲ **Figura:**  Dibujo de diagrama de bloque grupo 02 issue. Diagrama subido por @AntFuentealba[https://github.com/disenoUDP/dis8644-2025-1-proyectos/issues/114]. Consultado el 19 de junio de 2025.
 
@@ -268,34 +264,26 @@ flowchart TB
     n5 --> n7["Envía señal al parlante incorporado"]
 ```
 
-> En este dibujo mostramos el funcionamiento lógico del sistema de percusión electrónica.
+En este dibujo mostramos el funcionamiento lógico del sistema de percusión electrónica.
 El proceso inicia cuando la batería es conectada a la PCB. Si la batería tiene carga, el sistema se activa; de lo contrario, permanece inactivo.
 
-> Una vez activo, si se golpea la tapa (bongo), se genera una señal de audio.
+Una vez activo, si se golpea la tapa (bongo), se genera una señal de audio.
 Esa señal se dirige dependiendo del estado del jack de salida:
 
-> Si está conectado, la señal se envía al jack de salida.  Si no está conectado, la señal se envía al parlante incorporado. Este flujo asegura que el sistema responda correctamente al estímulo físico, priorizando la salida externa cuando esté disponible.
+Si está conectado, la señal se envía al jack de salida.  Si no está conectado, la señal se envía al parlante incorporado. Este flujo asegura que el sistema responda correctamente al estímulo físico, priorizando la salida externa cuando esté disponible.
 
-▲ **Fuente:** Grupo 02. _Descripción de funcionamiento_. TDME. Consultado de <https://github.com/disenoUDP/dis8644-2025-1-proyectos/tree/main/00-proyecto-02/grupo-02>. Consultado el 19 de junio de 2025.
+▲ **Fuente:** Grupo 02. *Descripción de funcionamiento*. TDME. Consultado de <https://github.com/disenoUDP/dis8644-2025-1-proyectos/tree/main/00-proyecto-02/grupo-02>. Consultado el 19 de junio de 2025.
 
 Este diagrama de flujo describe el funcionamiento básico de un bongó electrónico (un instrumento musical electrónico que simula un bongó tradicional).
 
-
 Es un sistema simple que detecta golpes, genera sonido y lo dirige a una salida externa (si existe) o al altavoz integrado.
 
-### Explicación
+1. Alimentación: El sistema se activa solo si la batería tiene carga; de lo contrario, queda inactivo.  
 
-1. Alimentación:  
+2. Entrada: Cuando el usuario golpea el bongó, se genera una señal de audio.  
 
-El sistema se activa solo si la batería tiene carga; de lo contrario, queda inactivo.  
+3. Salida de audio: El sistema verifica si hay un jack de auriculares/amplificador conectado:  
 
-2. Entrada:
-
-Cuando el usuario golpea el bongó, se genera una señal de audio.  
-
-4. Salida de audio:
-
-El sistema verifica si hay un jack de auriculares/amplificador conectado:  
 - Si está conectado : envía el audio por el jack.  
 - Si no está conectado : reproduce el sonido por el parlante interno.  
 
@@ -319,10 +307,9 @@ La entrada (input) reacciona al nivel de sonido para medir la sensibilidad del m
 
 El output usa luces LED de colores para representar, y ver el sonido que entra en el circuito.
 
-    
 ### Texto sobre diagramas de bloque del proyecto-04
 
--    Juguete automático para gato
+- Juguete automático para gato
 
 ![diagrama b grupo 04](https://raw.githubusercontent.com/disenoUDP/dis8644-2025-1-proyectos/main/00-proyecto-02/grupo-04/imagenes/DIAGRAMADEFLUJO02.png)
 
@@ -342,8 +329,6 @@ flowchart TB
     B@{ shape: diam}
     C@{ shape: rect}
 ```
-
-###  Explicación:
 
 - Inicio -> ¿Hay suficiente sombra?
 
@@ -381,12 +366,9 @@ flowchart TB
 
 > "Al detectar una sombra, el dispositivo activa una secuencia de luces LED en forma de ruleta, y esta secuencia se mantiene desactivada mientras no se detecten sombras; y al detectar sonido, se enciende un LED separado de esta secuencia que le hace saber al usuario que su voz está siendo captada. La detección de sonido en sí no afecta al detector de sombra o la ruleta de LEDs".
 
-▲  **Fuente:** Grupo 05. _Descripción de proyecto-05._ TDME. Consultado de <https://github.com/disenoUDP/dis8644-2025-1-proyectos/tree/main/00-proyecto-02/grupo-05>. Consultado el 19 de junio de 2025.
-
+▲  **Fuente:** Grupo 05. *Descripción de proyecto-05.* TDME. Consultado de <https://github.com/disenoUDP/dis8644-2025-1-proyectos/tree/main/00-proyecto-02/grupo-05>. Consultado el 19 de junio de 2025.
 
 Este diagrama de flujo describe un sistema que combina dos funcionalidades principales: detección de sombra y detección de sonido, controlando diferentes secuencias de LEDs en función de estas entradas.
-
-### Explicación:
 
 - Inicio:
 
@@ -394,21 +376,13 @@ El sistema comienza en el estado inicial, donde ambos sensores (de sombra y de s
 
 - Detección de sombra:
 
-Condición: 
+Condición:
 
-- Sí (se detecta sombra):
+- Sí (se detecta sombra): El sistema activa una secuencia de LEDs en modo "ruleta". Luego, verifica si sigue detectando sombra.  
 
-El sistema activa una secuencia de LEDs en modo "ruleta".
+1. Si sigue detectando: La secuencia de la ruleta LED continúa.  
 
-Luego, verifica si sigue detectando sombra.  
-
-1. Si sigue detectando:
-
-La secuencia de la ruleta LED continúa.  
-
-2. Si ya no detecta sombra:
-
-Apaga la ruleta LED y vuelve al estado inicial.
+2. Si ya no detecta sombra: Apaga la ruleta LED y vuelve al estado inicial.
 
 - No (no hay sombra).
 
@@ -421,13 +395,9 @@ Este flujo es independiente del anterior (funciona en paralelo):
 Condición:
 
 1. Sí (se detecta sonido):
-
-- Enciende un LED específico para voz (por ejemplo, un LED que indica que el sistema está captando audio).
-- Luego, vuelve a verificar si hay sonido.
-
-2. No (no hay sonido):
-
-- Apaga el LED de voz y sigue monitoreando.
+  1.1. Enciende un LED específico para voz (por ejemplo, un LED que indica que el sistema está captando audio
+  1.2. Luego, vuelve a verificar si hay sonido.)
+2. No (no hay sonido): Apaga el LED de voz y sigue monitoreando.
 
 ### Texto sobre diagramas de bloque del proyecto-06
 
@@ -435,7 +405,7 @@ Condición:
 
 ![diagrama b grupo 06](https://raw.githubusercontent.com/disenoUDP/dis8644-2025-1-proyectos/main/00-proyecto-02/grupo-06/imagenes/diagramaFlujo-dibujo.jpg)
 
->    "Este es el diagrama a mano, desde la perspectiva de un usuario interactuando con nuestro proyecto".
+> "Este es el diagrama a mano, desde la perspectiva de un usuario interactuando con nuestro proyecto".
 
 ▲  **Fuente:** Dibujo y descripción de diagrama proyecto-06. TDME. Consultado de <https://github.com/disenoUDP/dis8644-2025-1-proyectos/tree/main/00-proyecto-02/grupo-06>. Consultado el 19 de junio de 2025.
 
@@ -462,8 +432,6 @@ flowchart TB
     n9@{ shape: diam}
     n14@{ shape: diam}
 ```
-    
-### Explicación:
 
 - Inicio:
 
@@ -481,12 +449,12 @@ En cambio si el switch está hacia abajo: Los lentes bajan.
 
 - Movimiento continuo:
 
-1.    Si los lentes están subiendo: El sistema evalúa nuevamente.
-2.    Si el switch vuelve al centro: El motor se detiene.
-3.    Si el switch sigue hacia arriba: Los lentes siguen subiendo y se repite la evaluación.
-4.    Si los lentes están bajando: El sistema evalúa nuevamente.
-5.    Si el switch vuelve al centro: El motor se detiene.
-6.    Si el switch sigue hacia abajo: Los lentes siguen bajando y se repite la evaluación.
+1. Si los lentes están subiendo: El sistema evalúa nuevamente.
+2. Si el switch vuelve al centro: El motor se detiene.
+3. Si el switch sigue hacia arriba: Los lentes siguen subiendo y se repite la evaluación.
+4. Si los lentes están bajando: El sistema evalúa nuevamente.
+5. Si el switch vuelve al centro: El motor se detiene.
+6. Si el switch sigue hacia abajo: Los lentes siguen bajando y se repite la evaluación.
 
 - Retorno al estado de evaluación:
 - Tras detenerse, el sistema regresa a la evaluación inicial para esperar nuevas instrucciones.
