@@ -23,7 +23,6 @@ Este es el diagrama a mano.
 
 ![Dibujo del diagrama a mano](./imagenes/diagramaFlujo-dibujo.jpg)
 
-En este dibujo mostramos XX.
 
 ## Prototipado de circuitos en protoboard (1 punto)
 
