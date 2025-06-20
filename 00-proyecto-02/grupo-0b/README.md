@@ -84,7 +84,7 @@ Para cada sesión, se realizará un registro audiovisual mediante el uso de una 
 
 ### Almacenamiento
 
-- Los videos serán almacenados en el computador de @jotamorales-romulus. Al finalizar cada clase, los videos se pasarán a través de un adaptador de tarjeda sd
+- Los videos serán almacenados en el computador de @jotamorales-romulus. Al finalizar cada clase, los videos se pasarán a través de un adaptador de tarjeta sd
 
 ### Reels
 
