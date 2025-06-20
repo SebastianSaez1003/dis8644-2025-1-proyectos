@@ -61,15 +61,6 @@ En este link pueden encontrar diversos colores y dimensiones.
 
 En cuanto al armado de su prototipo se recomienda cortar en láser, sobre todo cuando buscan armar en base a ensambles.
 
-Para unir las placas al acrilico de manera pulida se recomienda hacer una especie de riel de acrílico curvado  mediante calor en el que se logren ubicar las placas, esto para no romper con la transparencia del objeto, como en la siguiente imagen:
-
-[propuestaGrupo03](https://github.com/AlanisMria/dis8644-2025-1-proyectos/blob/main/25-AlanisMria/sesion-15a/archivos/propuestaGrupo03.png)
-
-Esta idea ya se propuso al grupo y está en evaluación.
-
-este sería pegado a las paredes de la estructura mediante cianocrilato, pueden encontrarlo aqui: [Cianocrilato](https://www.mercadolibre.cl/adhesivo-magico-acelerado-seca-9-segundos-100gr-400ml-rex-color-blanco/p/MLC44873226?pdp_filters=item_id%3AMLC1572226595&from=gshop&matt_tool=83114261&matt_word=&matt_source=google&matt_campaign_id=22116391437&matt_ad_group_id=173057321469&matt_match_type=&matt_network=g&matt_device=c&matt_creative=729566854243&matt_keyword=&matt_ad_position=&matt_ad_type=pla&matt_merchant_id=735085901&matt_product_id=MLC44873226-product&matt_product_partition_id=2388258797660&matt_target_id=pla-2388258797660&cq_src=google_ads&cq_cmp=22116391437&cq_net=g&cq_plt=gp&cq_med=pla&gad_source=1&gad_campaignid=22116391437&gbraid=0AAAAADxxu6oPwtiwzjzxrJIeq7W_xnKui&gclid=Cj0KCQjwmK_CBhCEARIsAMKwcD7jPxQUKWGo0D3Lz3jVmOcSdGZrc1dMGtJBlMCvEiQQTUCpvZU_RyMaAkJ0EALw_wcB)
-
-Este adhesivo lo pueden comprar en conjunto al equipo 5 que también usa acrílico u otros equipos que trabajan con impresión 3d.
 
 ------------------------------------------
 
@@ -81,6 +72,7 @@ Integrantes:
 * Bastian Solís 
 
 Para su trabajo se recomienda el uso de materiales resistentes, ya que los gatos pueden ser algo bruscos para jugar, se recomienda la madera porque es un material accesible.
+
 Se recomienda terciado de 15mm, ya que es liviano y facil de trabajar, lo pueden encontrar aqui: [Terciado15mm](https://www.imperial.cl/terciados/terciado-estructural-15mm-120x240mt/product/74734) 
 
 Para pegar la madera pueden usar [colaFria](https://www.idepal.cl/cola-fria-rex-1kg-doy-pack?srsltid=AfmBOoqiDSBRyhwMtFz5JqQEkZQnWm6lq6_Erl9XHxyvtGMBtg4LPeCh)
@@ -139,4 +131,48 @@ En el caso de los filamentos PTG, la mayoría de la marca esun se encuentran en 
 
 ### Sería interesante que los grupos implementaran acrílico en ciertas paredes de sus prototipos, que permitan ver los circuitos internos y despierten la curiosidad de los usuarios y espectadores.
 
+
+## Colaboración con equipos:
+
+### Proyecto-02
+Integrantes:
+* Sofía Etchepare 
+* Antonia Fuentealba 
+* Sofía Pérez 
+
+Al hablar con el equipo se definió que trabajaremos en conjunto para la realización de modelos 3D y nos pondremos de acuerdo durante la semana en terminos formales.
+
+Se propuso la creación de una pieza 3d que sirva para mantener el piezo a ras de la cubierta y que este pueda cambiarse en caso de dañarse.
+[grupo02propuesta](https://github.com/AlanisMria/dis8644-2025-1-proyectos/blob/main/25-AlanisMria/sesion-15a/archivos/grupo02propuesta.jpg)
+
+------------------------------------------
+
+
+### Proyecto-03
+Integrantes:
+* Sofía Cartes 
+* Isabella Gutierrez 
+* Valentina Ruz 
+
+Para unir las placas al acrilico de manera pulida se recomienda hacer una especie de riel de acrílico curvado  mediante calor en el que se logren ubicar las placas, esto para no romper con la transparencia del objeto, como en la siguiente imagen:
+
+[propuestaGrupo03](https://github.com/AlanisMria/dis8644-2025-1-proyectos/blob/main/25-AlanisMria/sesion-15a/archivos/propuestaGrupo03.png)
+
+Esta idea ya se propuso al grupo y está en evaluación.
+
+este sería pegado a las paredes de la estructura mediante cianocrilato, pueden encontrarlo aqui: [Cianocrilato](https://www.mercadolibre.cl/adhesivo-magico-acelerado-seca-9-segundos-100gr-400ml-rex-color-blanco/p/MLC44873226?pdp_filters=item_id%3AMLC1572226595&from=gshop&matt_tool=83114261&matt_word=&matt_source=google&matt_campaign_id=22116391437&matt_ad_group_id=173057321469&matt_match_type=&matt_network=g&matt_device=c&matt_creative=729566854243&matt_keyword=&matt_ad_position=&matt_ad_type=pla&matt_merchant_id=735085901&matt_product_id=MLC44873226-product&matt_product_partition_id=2388258797660&matt_target_id=pla-2388258797660&cq_src=google_ads&cq_cmp=22116391437&cq_net=g&cq_plt=gp&cq_med=pla&gad_source=1&gad_campaignid=22116391437&gbraid=0AAAAADxxu6oPwtiwzjzxrJIeq7W_xnKui&gclid=Cj0KCQjwmK_CBhCEARIsAMKwcD7jPxQUKWGo0D3Lz3jVmOcSdGZrc1dMGtJBlMCvEiQQTUCpvZU_RyMaAkJ0EALw_wcB)
+
+Este adhesivo lo pueden comprar en conjunto al equipo 5 que también usa acrílico u otros equipos que trabajan con impresión 3D.
+
+------------------------------------------
+
+### Proyecto-06
+Integrantes:
+* Santiago Gaete Fernández 
+* Anaís Marschhausen Gajardo
+* Sebastián Saez Olivares
+
+Durante la clase 14b se propone el uso de impresión 3d en TPU, para que el uso de su objeto sea cómodo para el usuario y que la fabricación sea más precisa, ya que consideraban el uso de material textil, con el cual sería difícil lograr la estabilidad o resistencia para contener el circuito y mantenerlo en su lugar.
+
+Se propone como referente las gafas de Cíclope de X-men, porque declararon que no querían que su objeto fuera algo sutil.
 
