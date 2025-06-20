@@ -217,30 +217,30 @@ compramos 3 interruptor switch de 6 Pines ON-OFF-ON y tambien 1 motorreductor DC
 
 ![Esquemático detalles](./imagenes/fps555-sch-detalle2.png)
 
-Nuestro proyecto fps555 contiene un PWM con un chip 555, un motocontrolador que es el chip L293D, un motorreductor 6V 3RPM, un switch 6 PDT y un conector de batería.
+Nuestro proyecto "fps555" contiene un circuito PWM simulado con un chip 555, un motocontrolador L293D, un motorreductor de 6V 3RPM, un switch mts303 y un conector de batería.
 
-La función del PWM es un circuito que permite emular una onda análoga a través de ondas digitales; este controla el promedio que se le entrega a una carga y varía el ancho del pulso en su onda digital. Esto nos ayuda a regular la velocidad de motores DC, luz LED, entre otros. 
+El circuito PWM(pulse width modulation), que permite emular una onda análoga a través de señales digitales. Este genera señales a tal velocidad, que son percibidas como su promedio, lo que varía el ancho del pulso en su onda digital. Esto nos ayuda a regular la velocidad de motores DC,intensidad de un LED, entre otros. 
 
-El chip L293D es un doble puente H; está diseñado para controlar motores con una corriente continua, que permite controlar el encendido o apagado y cambiar el giro.
+El chip L293D es un doble puente H, el cual está diseñado para controlar motores con una corriente continua que permite controlar la dirección del giro del motor.
 
-El switch 6pdt funciona con una separación para controlar 2 circuitos de manera simultánea.
+El switch mts303 tiene 6 pines, lo que permite mandar 2 señales a dos componentes distintos, de manera simultánea.
 
-Un motorreductor es un motor de corriente continua (DC) que incluye una caja reductora, la cual permite disminuir las revoluciones por minuto; por esto, tiene una menor velocidad, pero sigue conservando fuerza. 
+Un motorreductor es un motor de corriente continua (DC) que incluye una caja reductora, la cual permite disminuir las revoluciones por minuto. Esto permite disminuir la velocidad, sin perder fuerza mecánica. 
 
-Nuestro proyecto utiliza un PWM con un chip 555 para regular las RPM que tendrá nuestro motorreductor. El pin 3 del 555 está conectado al pin 1 del L293D. En el chip L293D tenemos que utilizar solo un puente H; eso quiere decir que utilizaremos solo una mitad del chip. 
+Nuestro proyecto utiliza un PWM con un chip 555 para regular las RPM del motorreductor. El pin 3 del 555 está conectado al pin 1 del L293D. El chip L293D está compuesto por dos  puentes H, de los cuales usaremos uno, por lo que utilizaremos solo una "mitad" del chip. 
 
-El switch 6pdt está ocupado de 2 maneras en simultáneas; los pines 1, 2 y 3 corresponden al control de la dirección del motorreductor, donde el estado 1 sería rotación en sentido del reloj, el estado 2 es “off” y el estado 3 es rotación en sentido contrarreloj. Los pines 4, 5 y 6 del switch se ocuparon a modo de control del chip 555 al conectarlo directamente a su pin 4, donde el estado 1 y 3 dejan que fluya la corriente y funcione el resto del circuito, mientras que el estado 2 sería off.
+El switch mts303 ejerce dos funciones simultáneas; los pines 1, 2 y 3 corresponden al control de la dirección del motorreductor, donde el estado 1 se ejerce rotación en sentido horario, el estado 2 no deja pasar la corriente, es decir, está en estado "off" y en el estado 3 se ejerce rotación en sentido antihorario. Los pines 4, 5 y 6 del switch se ocuparon a modo de control del chip 555 al conectarlo directamente a su pin 4, donde el estado 1 y 3 dejan que fluya la corriente y funcione el resto del circuito, mientras que el estado 2 sería off. Usar este switch le da la ventaja al usuario de "encender" el circuito y activar el giro del motor con solo 1 movimiento.
 
 Debido a que todos los esquemáticos de referentes para poder ocupar el chip L293D ocupaban diodos de seguridad en las conexiones hacia el motor que era controlado, se aplicó esta misma práctica como medida de precaución. 
 
 
 ## PCB en Kicad (1 punto)
 
-![PCB general](./imagenes/pcb-general.jpg)
+![PCB general](./imagenes/fps555-pcb-general.png)
 
-![PCB detalles](./imagenes/pcb-detalle-01.jpg)
+![PCB detalles](./imagenes/fps555-pcb-detalle1.png)
 
-![PCB detalles](./imagenes/pcb-detalle-02.jpg)
+![PCB detalles](./imagenes/fps555-pcb-detalle2.png)
 
 ![PCB 3D por delante](./imagenes/fps555-fRender.png)
 
