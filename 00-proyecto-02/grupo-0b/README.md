@@ -10,7 +10,7 @@ Integrantes:
 
 jotaMorales, bernardita y camila
 
-- Bernardita Lobo TODO: agregar enlace a su github.com
+- Bernardita Lobo TODO: <https://github.com/Bernardita-lobo/dis8644-2025-1-proyectos/tree/main/09-Bernardita-lobo>
 - José Morales TODO: agregar enlace a su github.com
 - Camila Parada TODO: agregar enlace a su github.com
 
