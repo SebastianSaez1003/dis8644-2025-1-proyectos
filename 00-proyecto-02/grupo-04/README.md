@@ -13,11 +13,7 @@
 
 ## Presentación textual
 
-DESCRIPCIÓN DEL PROYECTO EN UNA LÍNEA, SIN PUNTOS SEGUIDOS.
-
 El proyecto consiste en un juguete para gato que funciona con un LDR que controla la activación de un motor dc
-
-El proyecto consiste en una entrada que XX, para CONTROLAR/OTRO VERBO
 
 ## Dibujos de diagramas del circuito (1 punto)
 
@@ -31,9 +27,9 @@ En este dibujo mostramos XX.
 
 A continuación se presentan imágenes de las protoboards usadas.
 
-![Vista protoboard de frente](./imagenes/presentacion-visual-frente.jpg)
+![Vista protoboard de frente](./imagenes/tme-grupo04-registro02.jpg)
 
-![Vista protoboard de arriba](./imagenes/presentacion-visual-arriba.jpg)
+![Vista protoboard de arriba](./imagenes/tme-grupo04-registro01.jpg)
 
 A continuación se presentan textos explicativos del prototipado.
 
@@ -64,11 +60,11 @@ Ayudamos a la persona XX del proyecto XX con XX.
 
 ## Esquematico en Kicad (1 punto)
 
-![Esquemático general](./imagenes/esquematico-general.JPG)
+![Esquemático general](./imagenes/esquematicofinal2.JPG)
 
-![Esquemático detalles](./imagenes/esquematico-detalle-01.jpg)
+![Esquemático detalles](./imagenes/esquematico-detalle-01.JPG)
 
-![Esquemático detalles](./imagenes/esquematico-detalle-02.jpg)
+![Esquemático detalles](./imagenes/esquematico-detalle-02.JPG)
 
 EXPLICACIÓN TEXTUAL DEL ESQUEMÁTICO.
 
@@ -78,11 +74,13 @@ DESCRIBIR CHIPS USADOS, CONEXIONES USADAS.
 
 ![PCB general](./imagenes/pcb-general.jpg)
 
-![PCB detalles](./imagenes/pcb-detalle-01.jpg)
+![PCB detalles](./imagenes/pcb-detalle-01.JPG)
 
-![PCB detalles](./imagenes/pcb-detalle-02.jpg)
+![PCB detalles](./imagenes/pcb-detalle-02.JPG)
 
-![PCB 3D](./imagenes/pcb-3d.jpg)
+![PCB 3D](./imagenes/pcb-3d.JPG)
+
+![PCB 3D](./imagenes/pcb-3d-02.JPG)
 
 ## Recursos adicionales
 
