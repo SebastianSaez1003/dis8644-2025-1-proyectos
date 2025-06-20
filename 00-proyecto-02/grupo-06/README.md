@@ -19,11 +19,10 @@ El fps555 es un dispositivo de protección ocular con posición adaptable mecán
 
 ## Dibujos de diagramas del circuito (1 punto)
 
-Este es el diagrama a mano.
+Este es el diagrama a mano, desde la perspectiva de un usuario interactuando con nuestro proyecto.
 
 ![Dibujo del diagrama a mano](./imagenes/diagramaFlujo-dibujo.jpg)
 
-En este dibujo mostramos XX.
 
 ## Prototipado de circuitos en protoboard (1 punto)
 
@@ -114,7 +113,7 @@ bom extraído desde [repo de duckusu](https://github.com/Anaisbmg/dis8644-2025-1
 |    17    |            5             |                                |                    |                    Pin Header                    |                  Se puede conseguir en lab                  |
 |    18    |            5             |                                |                    | Cable dupont: terminal receptora a terminal pin  |                  Se puede conseguir en lab                  |
 
-Compramos 3 interruptores switch de 6 Pines ON-OFF-ON y también 1 motorreductor DC de 6V 3RPM, para más info issue 04.
+Compramos 3 interruptores switch de 6 Pines ON-OFF-ON y también 1 motorreductor DC de 6V 3RPM, para más info issue 05.
 
 ## Ayudas y comunicación con colegas (1 punto)
 
@@ -129,22 +128,34 @@ Compramos 3 interruptores switch de 6 Pines ON-OFF-ON y también 1 motorreductor
   - conclusión: era necesario documentar todo el progreso para entender el proceso de aprendizaje  
 
 - [issue 02](https://github.com/disenoUDP/dis8644-2025-1-proyectos/issues/140#issuecomment-2986736213)  
-  - emisor: SebastianSaez1003
-  - enviado a: IzhakVillegas y docentes
-  - temática: feedback de formato
-  - conclusión: no hemos recibido respuesta
+   - emisor: SebastianSaez1003
+   - enviado a: IzhakVillegas del grupo 00c y docentes
+   - temática: feedback de formato
+   - conclusión: no hemos recibido respuesta
 
-### bom
+-  [issue 03](https://github.com/disenoUDP/dis8644-2025-1-proyectos/issues/148#issuecomment-2981757431)
+   - emisor: SebastianSaez1003  
+   - enviado a: bumwox del grupo 02
+   - temática: asistencia en armado del prototipo en protoboard
+   - conclusión: se ordenó y comprendió de mejor manera cómo pasar del esquemático a la protoboard para que se llegase a un resultado funcional.   
+
+- Ayuda presencial Jueves 19 de Junio 2025
+   - emisor: SebastianSaez1003  
+   - enviado a: bumwox del grupo 02
+   - temática: integración del piezoeléctrico, jack para audífonos y conexiones finales.
+   - conclusión: se integraron los componentes finales del proyecto, logrando identificar en qué lugares existían problemas de conexiones entre componentes, fijándolos en la protoboard y consiguiendo un funcionamiento constante y replicable.  
+
+### bom 
 
 [issue bom](https://github.com/orgs/disenoUDP/projects/4/views/1?pane=issue&itemId=115280715&issue=disenoUDP%7Cdis8644-2025-1-proyectos%7C146)
 
-- [issue 03](https://github.com/disenoUDP/dis8644-2025-1-proyectos/issues/146#issuecomment-2982287337)  
-  - emisor: anaisbmg  
-  - enviado a: franudp del grupo 0c y docentes
-  - temática:  recomendación para conectar switch 6 pines
-  - conclusión: existen nudos para cables y que podriamos utlizar resina uv o silicona para cubrir las conexiones y sí utilizábamos tblock deberíamos ocupar terminales para aislar
+- [issue 04](https://github.com/disenoUDP/dis8644-2025-1-proyectos/issues/146#issuecomment-2982287337)  
+   - emisor: anaisbmg  
+   - enviado a: franudp del grupo 0c y docentes 
+   - temática:  recomendación para conectar switch 6 pines
+   - conclusión: existen nudos para cables y que podriamos utlizar resina uv o silicona para cubrir las conexiones y sí utilizábamos tblock deberíamos ocupar terminales para aislar 
 
-- [issue 04](https://github.com/disenoUDP/dis8644-2025-1-proyectos/issues/146#issuecomment-2986084119)  
+- [issue 05](https://github.com/disenoUDP/dis8644-2025-1-proyectos/issues/146#issuecomment-2986084119)  
   - emisor: anaisbmg
   - enviado a: duckusu del grupo 0c y docentes
   - temática: pin header y bom
@@ -154,19 +165,19 @@ Compramos 3 interruptores switch de 6 Pines ON-OFF-ON y también 1 motorreductor
 
 [issue esquemático](https://github.com/orgs/disenoUDP/projects/4/views/1?pane=issue&itemId=115278736&issue=disenoUDP%7Cdis8644-2025-1-proyectos%7C128)
 
-- [issue 05](https://github.com/disenoUDP/dis8644-2025-1-proyectos/issues/128#issuecomment-2978671139)  
+- [issue 06](https://github.com/disenoUDP/dis8644-2025-1-proyectos/issues/128#issuecomment-2978671139)  
   - emisor: SebastianSaez1003
   - enviado a: franudp del grupo 0c y docentes
   - temática: interacción previa
   - conclusión: es más rápido etiquetar a @disenoUDP/docentes que estar etiquetando uno a uno y nos ayudaron con correcciones para nuestro esquemático
 
-- [issue 06](https://github.com/disenoUDP/dis8644-2025-1-proyectos/issues/128#issuecomment-2981096977)  
+- [issue 07](https://github.com/disenoUDP/dis8644-2025-1-proyectos/issues/128#issuecomment-2981096977)  
   - emisor: clifford1one
   - enviado a: franudp del grupo 0c y docentes
   - temática: feedback símbolo para el mts303 de 6 pines
   - conclusión: existe una guía para KiCAD llamada sparkfun y se nos guío con el componente y este como estaba en la footprint
 
-- [issue 07](https://github.com/disenoUDP/dis8644-2025-1-proyectos/issues/128#issuecomment-2989092959)  
+- [issue 08](https://github.com/disenoUDP/dis8644-2025-1-proyectos/issues/128#issuecomment-2989092959)  
   - emisor: clifford1one
   - enviado a: franudp del grupo 0c y docentes
   - temática: feedback respecto a la diagramación
@@ -176,19 +187,19 @@ Compramos 3 interruptores switch de 6 Pines ON-OFF-ON y también 1 motorreductor
 
 [issue pcb](https://github.com/orgs/disenoUDP/projects/4/views/1?pane=issue&itemId=115279178&issue=disenoUDP%7Cdis8644-2025-1-proyectos%7C134)
 
-- [issue 08](https://github.com/disenoUDP/dis8644-2025-1-proyectos/issues/134#issuecomment-2986132101)  
+- [issue 09](https://github.com/disenoUDP/dis8644-2025-1-proyectos/issues/134#issuecomment-2986132101)  
   - emisor: SebastianSaez1003  
   - enviado a: franudp del grupo 0c y docentes
   - temática: opiniones de pcb
   - conclusión: si hace alusión al sol, seria muy redundante, pero destacamos forma de lentes hacia atrás,
 
-- [issue 09](https://github.com/disenoUDP/dis8644-2025-1-proyectos/issues/134#issuecomment-2986654634)  
+- [issue 10](https://github.com/disenoUDP/dis8644-2025-1-proyectos/issues/134#issuecomment-2986654634)  
   - emisor: clifford1one
   - enviado a: franudp del grupo 0c y docentes
   - temática: screw terminal y vector de lente
   - conclusión: toda la fuente de poder tuviera el mismo voltaje (9v) y footprints de la batería estan bien.
 
-- [issue 10](https://github.com/disenoUDP/dis8644-2025-1-proyectos/issues/134#issuecomment-2989105082)  
+- [issue 11](https://github.com/disenoUDP/dis8644-2025-1-proyectos/issues/134#issuecomment-2989105082)  
   - emisor: clifford1one
   - enviado a: franudp del grupo 0c y docentes
   - temática: error con drc
@@ -198,7 +209,7 @@ Compramos 3 interruptores switch de 6 Pines ON-OFF-ON y también 1 motorreductor
 
 [issue carcasas](https://github.com/orgs/disenoUDP/projects/4/views/1?pane=issue&itemId=116136542&issue=disenoUDP%7Cdis8644-2025-1-proyectos%7C554)
 
-- [issue 11](https://github.com/disenoUDP/dis8644-2025-1-proyectos/issues/554#issuecomment-2989115405)  
+- [issue 12](https://github.com/disenoUDP/dis8644-2025-1-proyectos/issues/554#issuecomment-2989115405)  
   - emisor: felix-rg416  
   - enviado a: grupo 06 y docentes
   - temática: medidas de pcb
