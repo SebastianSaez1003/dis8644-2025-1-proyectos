@@ -19,7 +19,7 @@ El fps555 es un dispositivo de protección ocular con posición adaptable mecán
 
 ## Dibujos de diagramas del circuito (1 punto)
 
-Este es el diagrama a mano.
+Este es el diagrama a mano, desde la perspectiva de un usuario interactuando con nuestro proyecto.
 
 ![Dibujo del diagrama a mano](./imagenes/diagramaFlujo-dibujo.jpg)
 
@@ -113,7 +113,7 @@ bom extraído desde [repo de duckusu](https://github.com/Anaisbmg/dis8644-2025-1
 |    17    |            5             |                                |                    |                    Pin Header                    |                  Se puede conseguir en lab                  |
 |    18    |            5             |                                |                    | Cable dupont: terminal receptora a terminal pin  |                  Se puede conseguir en lab                  |
 
-Compramos 3 interruptores switch de 6 Pines ON-OFF-ON y también 1 motorreductor DC de 6V 3RPM, para más info issue 04.
+Compramos 3 interruptores switch de 6 Pines ON-OFF-ON y también 1 motorreductor DC de 6V 3RPM, para más info issue 05.
 
 ## Ayudas y comunicación con colegas (1 punto)
 
@@ -154,13 +154,8 @@ Compramos 3 interruptores switch de 6 Pines ON-OFF-ON y también 1 motorreductor
    - enviado a: franudp del grupo 0c y docentes 
    - temática:  recomendación para conectar switch 6 pines
    - conclusión: existen nudos para cables y que podriamos utlizar resina uv o silicona para cubrir las conexiones y sí utilizábamos tblock deberíamos ocupar terminales para aislar 
-- [issue 03](https://github.com/disenoUDP/dis8644-2025-1-proyectos/issues/146#issuecomment-2982287337)  
-  - emisor: anaisbmg  
-  - enviado a: franudp del grupo 0c y docentes
-  - temática:  recomendación para conectar switch 6 pines
-  - conclusión: existen nudos para cables y que podriamos utlizar resina uv o silicona para cubrir las conexiones y sí utilizábamos tblock deberíamos ocupar terminales para aislar
 
-- [issue 04](https://github.com/disenoUDP/dis8644-2025-1-proyectos/issues/146#issuecomment-2986084119)  
+- [issue 05](https://github.com/disenoUDP/dis8644-2025-1-proyectos/issues/146#issuecomment-2986084119)  
   - emisor: anaisbmg
   - enviado a: duckusu del grupo 0c y docentes
   - temática: pin header y bom
