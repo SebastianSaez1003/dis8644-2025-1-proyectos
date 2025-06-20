@@ -108,13 +108,13 @@ compramos 3 interruptor switch de 6 Pines ON-OFF-ON y tambien 1 motorreductor DC
    - emisor: SebastianSaez1003  
    - enviado a: docentes 
    - temática: documentación de proto en el proceso  
-   - conlusión: era necesario documentar todo el progreso para entender el proceso de aprendizaje  
+   - conclusión: era necesario documentar todo el progreso para entender el proceso de aprendizaje  
 
 - [issue 02](https://github.com/disenoUDP/dis8644-2025-1-proyectos/issues/140#issuecomment-2986736213)  
    - emisor: SebastianSaez1003
    - enviado a: IzhakVillegas y docentes
    - temática: feedback de formato
-   - conlusión: no hemos recibido respuesta
+   - conclusión: no hemos recibido respuesta
 
 ### bom 
 
@@ -124,13 +124,13 @@ compramos 3 interruptor switch de 6 Pines ON-OFF-ON y tambien 1 motorreductor DC
    - emisor: anaisbmg  
    - enviado a: franudp del grupo 0c y docentes 
    - temática:  recomendación para conectar switch 6 pines
-   - conlusión: existen nudos para cables y que podriamos utlizar resina uv o silicona para cubrir las conexiones y sí utilizábamos tblock deberíamos ocupar terminales para aislar 
+   - conclusión: existen nudos para cables y que podriamos utlizar resina uv o silicona para cubrir las conexiones y sí utilizábamos tblock deberíamos ocupar terminales para aislar 
 
 - [issue 04](https://github.com/disenoUDP/dis8644-2025-1-proyectos/issues/146#issuecomment-2986084119)  
    - emisor: anaisbmg   
    - enviado a: duckusu del grupo 0c y docentes
    - temática: pin header y bom
-   - conlusión: se confirmo nuestra idea de comprar una regleta y utilizar 5 pin, tambien existen de estos pin header en el lab
+   - conclusión: se confirmo nuestra idea de comprar una regleta y utilizar 5 pin, tambien existen de estos pin header en el lab
   
 
 ### esquematico 
@@ -141,19 +141,19 @@ compramos 3 interruptor switch de 6 Pines ON-OFF-ON y tambien 1 motorreductor DC
    - emisor: SebastianSaez1003
    - enviado a: franudp del grupo 0c y docentes
    - temática: interacción previa
-   - conlusión: es más rápido etiquetar a @disenoUDP/docentes que estar etiquetando uno a uno y nos ayudaron con correcciones para nuestro esquemático
+   - conclusión: es más rápido etiquetar a @disenoUDP/docentes que estar etiquetando uno a uno y nos ayudaron con correcciones para nuestro esquemático
      
 - [issue 06](https://github.com/disenoUDP/dis8644-2025-1-proyectos/issues/128#issuecomment-2981096977)  
    - emisor: clifford1one
    - enviado a: franudp del grupo 0c y docentes
    - temática: feedback símbolo para el mts303 de 6 pines
-   - conlusión: existe una guía para KiCAD llamada sparkfun y se nos guío con el componente y este como estaba en la footprint
+   - conclusión: existe una guía para KiCAD llamada sparkfun y se nos guío con el componente y este como estaba en la footprint
 
 - [issue 07](https://github.com/disenoUDP/dis8644-2025-1-proyectos/issues/128#issuecomment-2989092959)  
    - emisor: clifford1one   
    - enviado a: franudp del grupo 0c y docentes
    - temática: feedback respecto a la diagramación
-   - conlusión: esta hermoso y que podríamos añadir cajas de texto, lo cual se profundizará para el examen
+   - conclusión: esta hermoso y que podríamos añadir cajas de texto, lo cual se profundizará para el examen
 
 ### pcb 
 
@@ -163,19 +163,19 @@ compramos 3 interruptor switch de 6 Pines ON-OFF-ON y tambien 1 motorreductor DC
    - emisor: SebastianSaez1003  
    - enviado a: franudp del grupo 0c y docentes
    - temática: opiniones de pcb
-   - conlusión: si hace alusión al sol, seria muy redundante, pero destacamos forma de lentes hacia atrás, 
+   - conclusión: si hace alusión al sol, seria muy redundante, pero destacamos forma de lentes hacia atrás, 
 
 - [issue 09](https://github.com/disenoUDP/dis8644-2025-1-proyectos/issues/134#issuecomment-2986654634)  
    - emisor: clifford1one   
    - enviado a: franudp del grupo 0c y docentes
    - temática: screw terminal y vector de lente
-   - conlusión: toda la fuente de poder tuviera el mismo voltaje (9v) y footprints de la batería estan bien.
+   - conclusión: toda la fuente de poder tuviera el mismo voltaje (9v) y footprints de la batería estan bien.
 
 - [issue 10](https://github.com/disenoUDP/dis8644-2025-1-proyectos/issues/134#issuecomment-2989105082)  
    - emisor: clifford1one 
    - enviado a: franudp del grupo 0c y docentes
    - temática: error con drc
-   - conlusión: la pagina de jlcpcb salen las dimensiones mínimas para cada perforación, separación.
+   - conclusión: la pagina de jlcpcb salen las dimensiones mínimas para cada perforación, separación.
 
 ### carcasas 
 
