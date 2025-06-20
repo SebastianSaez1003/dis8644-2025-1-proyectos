@@ -50,9 +50,9 @@ El circuito de salida usa un chip CD4017 para activar una secuencia de 10 luces 
 
 |QTY|REFERENCE|VALUE|FOOTPRINT|OBS
 |:-:|-|-|-|-
-|3|U1,U4,U5|~|Socket 8-pin|-
-|1|U2|~|Socket 14-pin|-
-|1|U3|~|Socket 18-pin|-
+|3|U1,U4,U5|-|Socket 8-pin|-
+|1|U2|-|Socket 14-pin|-
+|1|U3|-|Socket 18-pin|-
 |4|R2,R3,R4,R5,R8,R10,R11|10k|Resistencia|-
 |5|R7,R9,R12|1k|Resistencia|-
 |1|R6|100k|Resistencia|-
