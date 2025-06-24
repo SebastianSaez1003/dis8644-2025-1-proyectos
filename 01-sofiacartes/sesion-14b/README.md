@@ -6,4 +6,4 @@ En esta sesión se seguía modificando el detector de sombra y como estabilizado
 
 Con la ayuda de Franudp, nos dimos cuenta que solo al tocar el microfono funcionaba y anteriormente si estaba muy cerca del sonido emitido.
 
-Franudp, intrntó estabilizar el circuito que teniamos cambiando condesadores. No se logró. 
+Franudp, intentó estabilizar el circuito que teniamos cambiando condesadores. No se logró. 
