@@ -4,6 +4,6 @@ En esta clase se prototipo en protoboard ya que, aún seguíamos buscando el por
 
 En esta sesión se seguía modificando el detector de sombra y como estabilizador utilizamos el chip 555.
 
-Con la ayuda de Franudp, nos dimos cuenta que solo al tocar el microfono funcionaba y anteriormente si estaba muy cerca del sonido emitido.
+Con la ayuda de FranUdp, nos dimos cuenta que solo al tocar el microfono funcionaba y anteriormente si estaba muy cerca del sonido emitido.
 
-Franudp, intentó estabilizar el circuito que teniamos cambiando condesadores. No se logró. 
+FranUdp, intentó estabilizar el circuito que teniamos cambiando condesadores. No se logró. 
