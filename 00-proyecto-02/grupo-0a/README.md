@@ -221,7 +221,7 @@ UDPUDU es una pcb que debe verse, no puede estar oculta. Por lo tento decidimos 
 
 ![UDPUDU caimanes](./imagenes/caimanes.png)
 
-La carcaasa se basa en un borde de PLA con agujeros libres para la salida de cables del speaker y la fuente de poder, además de un espacio para poder poner los caimánes. En la parte superior e inferior tiene un sacado para poner el acrílico cortado en láser.
+La caraasa se basa en un borde de PLA con agujeros libres para la salida de cables del speaker y la fuente de poder, además de un espacio para poder poner los caimánes. En la parte superior e inferior tiene un sacado para poner el acrílico cortado en láser.
 
 En la siguiente imagen se ve la idea principal de la carcasa. Aún falta la forma final y el ensamble del acrílico.
 
@@ -229,19 +229,19 @@ En la siguiente imagen se ve la idea principal de la carcasa. Aún falta la form
 
 ---
 
-### Sería interesante que los grupos implementaran acrílico en ciertas paredes de sus prototipos, que permitan ver los circuitos internos y despierten la curiosidad de los usuarios y espectadores.
+### Sería interesante que los grupos implementaran acrílico en ciertas paredes de sus prototipos, que permitan ver los circuitos internos y despierten la curiosidad de los usuarios y espectadores
 
-
-## Comunicación y colaboración con equipos:
+## Comunicación y colaboración con equipos (1 punto)
 
 ### Propuestas proyecto-02
 
 Integrantes:
-- Sofía Etchepare 
-- Antonia Fuentealba 
-- Sofía Pérez 
 
-Al hablar con el equipo, nos pidieron ayuda con el tema del diseño de la carcasa porque no tenían muy claro cómo poner el speaker ni la batería. Nosotros pudimos ayudarlas y guiarlas en la estructura de su máquina. Se definió que trabajaremos en conjunto para la realización de modelos 3D y nos pondremos de acuerdo durante la semana en terminos formales. 
+- Sofía Etchepare
+- Antonia Fuentealba
+- Sofía Pérez
+
+Al hablar con el equipo, nos pidieron ayuda con el tema del diseño de la carcasa porque no tenían muy claro cómo poner el speaker ni la batería. Nosotros pudimos ayudarlas y guiarlas en la estructura de su máquina. Se definió que trabajaremos en conjunto para la realización de modelos 3D y nos pondremos de acuerdo durante la semana en terminos formales.
 
 Se propuso la creación de una pieza 3d que sirva para mantener el piezo a ras de la cubierta y que éste pueda cambiarse en caso de dañarse.
 
@@ -252,9 +252,10 @@ Se propuso la creación de una pieza 3d que sirva para mantener el piezo a ras d
 ### Propuestas proyecto-03
 
 Integrantes:
-- Sofía Cartes 
-- Isabella Gutierrez 
-- Valentina Ruz 
+
+- Sofía Cartes
+- Isabella Gutierrez
+- Valentina Ruz
 
 Para unir las placas al acrilico de manera pulida se recomienda hacer una especie de riel de acrílico curvado  mediante calor en el que se logren ubicar las placas, esto para no romper con la transparencia del objeto, como en la siguiente imagen:
 
@@ -283,7 +284,8 @@ Al hablar con el equipo, se le propuso hacer que la pcb donde van los leds sea c
 ### Propuestas proyecto-06
 
 Integrantes:
-- Santiago Gaete Fernández 
+
+- Santiago Gaete Fernández
 - Anaís Marschhausen Gajardo
 - Sebastián Saez Olivares
 

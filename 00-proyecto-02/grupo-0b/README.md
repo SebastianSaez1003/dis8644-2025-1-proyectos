@@ -48,6 +48,7 @@ Ya cuando tengamos en nuestro poder las placas y prototipos para el registro, re
 ▼ Fuentes: <https://arte.udp.cl/laboratorios/laboratorio-de-maquinas-y-herramientas/>
 
 Usar un fondo no neutro, sería más para el trabajo en clases, cuando se está prototipando u organizando con los grupos. Doy de ejemplo el pañol de la universidad que, con herramientas y materiales, aporta contexto real y autenticidad al registro.
+
 Para el registro en sala, el fondo no neutro puede aportar contexto visual importante que enriquece la comprensión del entorno y la actividad que se está documentando. A diferencia de un fondo neutro, que es más sencillo y minimalista, un fondo con elementos del espacio real, ayuda a mostrar la atmósfera, la dinámica y el ambiente natural donde se desarrolla la clase.
 
 ### The Life of Crystal
@@ -84,7 +85,7 @@ Para cada sesión, se realizará un registro audiovisual mediante el uso de una 
 
 ### Almacenamiento
 
-- Los videos serán almacenados en el computador de @jotamorales-romulus. Al finalizar cada clase, los videos se pasarán a través de un adaptador de tarjeda sd
+- Los videos serán almacenados en el computador de @jotamorales-romulus. Al finalizar cada clase, los videos se pasarán a través de un adaptador de tarjeda sd.
 
 ### Reels
 
@@ -101,7 +102,7 @@ Para cada sesión, se realizará un registro audiovisual mediante el uso de una 
 ### Video Examen
 
 - Se hará uso de tripode para este registro.
-- Se realizará un video que junte todo lo realizado para el examen: Registro de las clase y registro de los proyectos de los grupos.
+- Se realizará un video que junte todo lo realizado para el examen: registro de las clases y registro de los proyectos de los grupos.
 - Cada video de los grupos, registrará el proyecto completo y funcionará como una cápsula audiovisual que resuma su propuesta, mostrando desde el concepto hasta el resultado final.
 
 ### Intro del video
@@ -113,11 +114,12 @@ Para cada sesión, se realizará un registro audiovisual mediante el uso de una 
 ### Proyectos
 
 - Primero, se mostrará parte del registro del taller
+
 El video de cada grupo debe incluir:
 
 - Nombre del grupo cuando aparezca su proyecto en pantalla  
-- Nombre de los integrantes  
-- Breve descripción del proyecto  
+- Nombre de los integrantes
+- Breve descripción del proyecto
 - Imágenes del proceso y resultado final
   
 ¿Cómo se hará?
@@ -158,7 +160,7 @@ El video de cada grupo debe incluir:
 - Sombras creativas si refuerzan el concepto.
 - Fondos neutros y no neutros.
 
-### Creditos
+### Créditos
 
 - Nombre taller
 - Profesores y ayudantes
@@ -168,16 +170,16 @@ El video de cada grupo debe incluir:
 ### Checklist de grabación por grupo FINAL
 
 - [ ] Registro del circuito en protoboard  
-- [ ] Registro del montaje final (2 de julio 2025)  
-- [ ] Grabación del circuito en uso o en contexto  
-- [ ] Fotografías de calidad del proyecto  
-- [ ] Testimonio breve (opcional, pero recomendado o puede ser escrito)  
-- [ ] Archivos bien nombrados: `grupoXX-nombre-2024-06-14.mp4`  
+- [ ] Registro del montaje final (2 de julio 2025)
+- [ ] Grabación del circuito en uso o en contexto
+- [ ] Fotografías de calidad del proyecto
+- [ ] Testimonio breve (opcional, pero recomendado o puede ser escrito)
+- [ ] Archivos bien nombrados: `grupoXX-nombre-2024-06-14.mp4`
 - [ ] Entrega vía wetransfer a jotamorales-romulus.
   
 ***
 
-## referentes de documentación en imagen y plan de documentación (1 punto)
+## Referentes de documentación en imagen y plan de documentación (1 punto)
 
 La responsable de esta sección es @Bernardita-lobo.
 
@@ -259,7 +261,8 @@ La responsable de esta sección es @Bernardita-lobo.
 
 ## Publicación en GitHub de de alta calidad de logos institucionales de UDP (1 punto)
 
-Para esta sección se logró obtener un total de cinco logos institucionales relacionados a la escuela de diseño y la facultad d e la universidad.
+Para esta sección se logró obtener un total de cinco logos institucionales relacionados a la escuela de diseño y la facultad de la universidad.
+
 Estos fueron obtenidos de diferentes fuentes, entre las cuales se encuentran el desarrollo de proyectos en colaboración con organizaciones y desarrollo personal de los vectores de imágenes de cuentas oficiales.
 
 Como consideración, cada versión de estos logotipos se encuentra presente en la carpeta ["logotipo-universidad"](https://github.com/disenoUDP/dis8644-2025-1-proyectos/tree/main/00-proyecto-02/grupo-0b/logotipo-universidad). En esta parte se pueden encontrar una serie de subcarpetas nombradas según su tipo de archivo: jpg, png y svg. A la par se presenta un archivo nombrado [logos_udp_y_sus_aplicaciones.pdf](https://github.com/disenoUDP/dis8644-2025-1-proyectos/blob/main/00-proyecto-02/grupo-0b/logotipo-universidad/logos_udp_y_sus_aplicaciones.pdf) en el que se especifica el uso de cada logotipo desarrollado por parte de la universidad y la facultad (los que se encuentran en uso hasta la fecha), indicando cuales son de uso formal o corporativo, en contraste con los de uso en redes sociales o documentos internos.
@@ -343,7 +346,7 @@ Dado que el "Laboratorio de interacción digital" ya posee una gráfica definida
 
 ▼ Fuente: Recurso de manufactura propia. Desarrollo vectorial usando Illustrator.
 
-Por otro lado, pude indagar que "Space Grotesk" fue la fuente usada. Esta diseñada por Florian Karsten, la cual surge como una versión modificada de ["Space Mono"](https://fonts-google-com.translate.goog/specimen/Space+Mono?_x_tr_sl=en&_x_tr_tl=es&_x_tr_hl=es&_x_tr_pto=tc&_x_tr_hist=true), una familia tipográfica de ancho fijo diseñada por Colophon Foundry para Google Fonts. Según su creador, esta fuente ["conserva los detalles idiosincrásicos del monoespacio al tiempo que se optimiza para mejorar la legibilidad en tamaños que no son de pantalla"](https://floriankarsten.github.io/space-grotesk/). Cabe mencionar que este recurso posee una licencia de fuente abierta, por lo que se puede encontrar en distintas páginas de forma gratuita, de las cuales destajo la versión de [Github](https://github.com/floriankarsten/space-grotesk). En mi caso personal prefiero trabajar con la fuente desde [Adobe Fonts](https://fonts.adobe.com/fonts/space-grotesk-variable) para vincularla con los programas de su suite.
+Por otro lado, pude indagar que "Space Grotesk" fue la fuente usada. Esta diseñada por Florian Karsten, la cual surge como una versión modificada de ["Space Mono"](https://fonts-google-com.translate.goog/specimen/Space+Mono?_x_tr_sl=en&_x_tr_tl=es&_x_tr_hl=es&_x_tr_pto=tc&_x_tr_hist=true), una familia tipográfica de ancho fijo diseñada por Colophon Foundry para Google Fonts. Según su creador, esta fuente ["conserva los detalles idiosincrásicos del monoespacio al tiempo que se optimiza para mejorar la legibilidad en tamaños que no son de pantalla"](https://floriankarsten.github.io/space-grotesk/). Cabe mencionar que este recurso posee una licencia de fuente abierta, por lo que se puede encontrar en distintas páginas de forma gratuita, de las cuales destaco la versión de [Github](https://github.com/floriankarsten/space-grotesk). En mi caso personal prefiero trabajar con la fuente desde [Adobe Fonts](https://fonts.adobe.com/fonts/space-grotesk-variable) para vincularla con los programas de su suite.
 
 ![alt-text](./diseno-grafico/tipografia/especimen-space_grotesk.jpg)
 
