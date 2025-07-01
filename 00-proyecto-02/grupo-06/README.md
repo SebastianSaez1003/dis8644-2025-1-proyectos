@@ -98,7 +98,7 @@ bom extraído desde [repo de duckusu](https://github.com/Anaisbmg/dis8644-2025-1
 |    3     |            2             |             R5, R6             |        470K        |                   Resistencia                    |                  Se puede conseguir en lab                  |
 |    4     |            1             |               R7               |        10KΩ        |                   Resistencia                    |                  Se puede conseguir en lab                  |
 |    5     |            6             |             D1~D6              |       1n4007       |                      Diodo                       |                   Se tendrán que comprar                    |
-|    6     |            1             |               C1               |        104         |              Condensador (cerámico)              |                  Se puede conseguir en lab                  |
+|    6     |            1             |               C1               |        100n         |              Condensador (cerámico)              |                  Se puede conseguir en lab                  |
 |    7     |            1             |               C2               |        474         |              Condensador (cerámico)              |        Se puede conseguir en lab pero no hay muchos         |
 |    8     |            1             |               D7               |        3mm         |                       Led                        |                  Se puede conseguir en lab                  |
 |    9     |            1             |               U1               |        555         |                       Chip                       |                  Se puede conseguir en lab                  |
