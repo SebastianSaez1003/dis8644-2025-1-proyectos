@@ -38,9 +38,10 @@ Ejemplo transición créditos tipo película.
 
 "Nombre enlace a github y cargo"
 
-### Créditos Propuesta
+## CRÉDITOS PROPUESTA
 
 dis844-2025
+
 ---
 [comment] Si se utiliza los tags de usuario, colocar un logo de github pues se puede malinterpretar como usuario de instagram. Ajustar nombres de proyecto.
 
@@ -121,3 +122,214 @@ dis844-2025
 **Anaís Marschhausen Gajardo** */Anaisbmg*
 
 **Sebastián Sáez Olivares** */SebastianSaez1003*
+
+## ESTRUCTURA INSTAGRAM
+
+**¿Cómo se visualiza en instagram?**
+
+De abajo hacia arriba:
+
+- Portada TE3
+
+- Equipo docente
+
+- Grupo 01 - 06 proyectos
+
+- Grupos 0a,b,c ayudantía
+
+## Maquetación orden instagram
+
+**Equipo docente:**
+
+- **Aarón montoya** */montoyamoraga*
+
+- **Matías serrano** */misaaaaaa*
+
+- **Andrés martin** */AndresMartinM*
+
+### Texto descriptivo para curso en instagram (quizás en la sala)
+
+a
+
+### Texto descriptivo para grupo
+
+GRUPOS PROYECTO 01-06
+
+---
+proyecto-01
+
+**Nombre:**
+
+[por confirmar]
+
+**Integrantes:**
+
+- Emilia Contreras /hazzaily
+- Katalina Riquelme /katalinariquelme
+- hyare Santander /thyare08
+
+**Texto descriptivo:**
+
+- ¿Qué es?
+- Descripción simple de circuito.
+- Descripción a detalle. Explicar componentes. Mediante qué pieza funciona. [ejemplo] Dado que está conectado a corriente directa depende el voltaje que circula en la casa (información anexa). "¿Qué necesita para funcionar?" "Posee un circuito inspirado en, posee un módulo enfocado en sensor de luz invertido".
+
+---
+proyecto-02
+
+**Nombre:**
+
+[por confirmar]
+
+**Integrantes:**
+
+- Sofía Etchepare /bumwox
+- Antonia Fuentealba /Antfuentealba
+- Sofía Pérez /sofia-perezm
+
+**Texto descriptivo:**
+
+- ¿Qué es?
+- Descripción simple de circuito.
+- Descripción a detalle. Explicar componentes. Mediante qué pieza funciona. [ejemplo] Dado que está conectado a corriente directa depende el voltaje que circula en la casa (información anexa). "¿Qué necesita para funcionar?" "Posee un circuito inspirado en, posee un módulo enfocado en sensor de luz invertido".
+
+---
+proyecto-03
+
+**Nombre:**
+
+[por confirmar]
+
+**Integrantes:**
+
+- Sofía Cartes /sofiacartes
+- Isabella Gutiérrez /isabellagutierrezm
+- Valentina Ruz /vxlentiinaa
+
+**Texto descriptivo:**
+
+- ¿Qué es?
+- Descripción simple de circuito.
+- Descripción a detalle. Explicar componentes. Mediante qué pieza funciona. [ejemplo] Dado que está conectado a corriente directa depende el voltaje que circula en la casa (información anexa). "¿Qué necesita para funcionar?" "Posee un circuito inspirado en, posee un módulo enfocado en sensor de luz invertido".
+
+---
+proyecto-04
+
+**Nombre:**
+
+[por confirmar]
+
+**Integrantes:**
+
+- Braulio Figueroa /brauliofigueroa2001
+- Carlo Martínez /zaaaiko
+- Bastian Solís /HSB25
+
+**Texto descriptivo:**
+
+- ¿Qué es?
+- Descripción simple de circuito.
+- Descripción a detalle. Explicar componentes. Mediante qué pieza funciona. [ejemplo] Dado que está conectado a corriente directa depende el voltaje que circula en la casa (información anexa). "¿Qué necesita para funcionar?" "Posee un circuito inspirado en, posee un módulo enfocado en sensor de luz invertido".
+
+---
+proyecto-05
+
+**Nombre:**
+
+[por confirmar]
+
+**Integrantes:**
+
+- Antonia Cristi /antocristi
+- Natalia Pilar /sz-mada
+- Paulina Vargas /paulinavargasf
+
+**Texto descriptivo:**
+
+- ¿Qué es?
+- Descripción simple de circuito.
+- Descripción a detalle. Explicar componentes. Mediante qué pieza funciona. [ejemplo] Dado que está conectado a corriente directa depende el voltaje que circula en la casa (información anexa). "¿Qué necesita para funcionar?" "Posee un circuito inspirado en, posee un módulo enfocado en sensor de luz invertido".
+
+---
+proyecto-06
+
+**Nombre:**
+
+[por confirmar]
+
+**Integrantes:**
+
+- Santiago Gaete Fernández /clifford1one
+- Anaís Marschhausen Gajardo /Anaisbmg
+- Sebastián Sáez Olivares /SebastianSaez1003
+
+**Texto descriptivo:**
+
+- ¿Qué es?
+- Descripción simple de circuito.
+- Descripción a detalle. Explicar componentes. Mediante qué pieza funciona. [ejemplo] Dado que está conectado a corriente directa depende el voltaje que circula en la casa (información anexa). "¿Qué necesita para funcionar?" "Posee un circuito inspirado en, posee un módulo enfocado en sensor de luz invertido".
+
+GRUPOS AYUDANTÍA 0a,0b,0c
+
+---
+grupo-0a
+
+**Nombre:**
+
+- Félix Rodríguez /felix-rg416
+- Alanis Vásquez /AlanisMria
+[por confirmar]
+
+**Integrantes:**
+
+- Emilia Contreras /hazzaily
+- Katalina Riquelme /katalinariquelme
+- hyare Santander /thyare08
+
+**Texto descriptivo:**
+
+- ¿Qué es?
+- Descripción simple de circuito.
+- Descripción a detalle. Explicar componentes. Mediante qué pieza funciona. [ejemplo] Dado que está conectado a corriente directa depende el voltaje que circula en la casa (información anexa). "¿Qué necesita para funcionar?" "Posee un circuito inspirado en, posee un módulo enfocado en sensor de luz invertido".
+
+---
+grupo-0b
+
+**Nombre:**
+
+[por confirmar]
+
+**Integrantes:**
+
+- Camila Parada /Camila-Parada
+
+- José Morales /jotamorales-romulus
+
+- Bernardita Lobo /Bernardita-lobo
+
+**Texto descriptivo:**
+
+- ¿Qué es?
+- Descripción simple de circuito.
+- Descripción a detalle. Explicar componentes. Mediante qué pieza funciona. [ejemplo] Dado que está conectado a corriente directa depende el voltaje que circula en la casa (información anexa). "¿Qué necesita para funcionar?" "Posee un circuito inspirado en, posee un módulo enfocado en sensor de luz invertido".
+
+---
+grupo-0c
+
+**Nombre:**
+
+[por confirmar]
+
+**Integrantes:**
+
+- Martín Silva /duckusu
+
+- Francisco Stephens /FranUDP
+
+- Izhak Villegas /IzhakVillegas
+
+**Texto descriptivo:**
+
+- ¿Qué es?
+- Descripción simple de circuito.
+- Descripción a detalle. Explicar componentes. Mediante qué pieza funciona. [ejemplo] Dado que está conectado a corriente directa depende el voltaje que circula en la casa (información anexa). "¿Qué necesita para funcionar?" "Posee un circuito inspirado en, posee un módulo enfocado en sensor de luz invertido".
