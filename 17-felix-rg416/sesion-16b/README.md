@@ -22,3 +22,11 @@ se puede decir que un grupo no nos pescó
 diagrama de bloque, explicación del circuito en macro
 
 qué hace cada parte, input - output
+
+---
+
+## Modelado
+
+Insertos M3
+
+![medidas de insertos](./archivos/medidas-insertos.jpg)
