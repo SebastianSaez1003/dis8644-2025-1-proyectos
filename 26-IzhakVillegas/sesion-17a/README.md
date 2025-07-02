@@ -78,7 +78,7 @@ dis844-2025
 
 - **proyecto-02-01** Luz de noche en secuencia gradual con forma de nube (según documentación)
 
-[comment] Propuestas: Nube luminosa nocturna, nube luminosa secuencial, nube de luz nocturna progresiva
+[comment] Propuestas: Nube luminosa nocturna, nube luminosa secuencial, nube de luz nocturna progresiva. Preferentemente "Nube de luz nocturna progresiva".
 
 **Emilia Contreras** */hazzaily*
 
