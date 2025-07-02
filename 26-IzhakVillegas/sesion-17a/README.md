@@ -56,9 +56,9 @@ dis844-2025
 
 - **grupo-0a** Impresión 3D
 
-► **Félix Rodríguez** */felix-rg416* **kicad y modelado 3D**
+► **Félix Rodríguez** */felix-rg416* **modelado e impresión 3D**
 
-► **Alanis Vásquez** */AlanisMria* **kicad y modelado 3D**
+► **Alanis Vásquez** */AlanisMria* **modelado e impresión 3D**
 
 - **grupo-0b** Diseño Gráfico
 
@@ -66,15 +66,15 @@ dis844-2025
 
 ► **José Morales** */jotamorales-romulus* **video y edición**
 
-► **Bernardita Lobo** */Bernardita-lobo* **curatoría**
+► **Bernardita Lobo** */Bernardita-lobo* **registro y curatoría**
 
 - **grupo-0c** Documentación técnica
 
-► **Martín Silva** */duckusu* **cotización bill of materials**
+► **Martín Silva** */duckusu* **cotización, materiales y tesorería**
 
-► **Francisco Stephens** */FranUDP* **revisión de esquemáticos**
+► **Francisco Stephens** */FranUDP* **simulación en falstad y fabricación en kicad**
 
-► **Izhak Villegas** */IzhakVillegas* **textos y redacción**
+► **Izhak Villegas** */IzhakVillegas* **textos técnicos y documentación**
 
 - **proyecto-01** Luz de noche en secuencia gradual con forma de nube
 
