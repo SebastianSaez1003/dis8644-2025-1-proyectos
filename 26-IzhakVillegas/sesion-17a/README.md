@@ -76,7 +76,7 @@ dis844-2025
 
 ► **Izhak Villegas** */IzhakVillegas* **textos técnicos y documentación**
 
-- **proyecto-01** Luz de noche en secuencia gradual con forma de nube
+- **proyecto-02-01** Luz de noche en secuencia gradual con forma de nube
 
 (Nube luminosa nocturna, nube luminosa secuencial, nube de luz nocturna progresiva)
 
@@ -86,7 +86,7 @@ dis844-2025
 
 **Thyare Santander** */thyare08*
 
-- **proyecto-02** Bongazo
+- **proyecto-02-02** Bongazo
 
 **Sofía Etchepare** */bumwox*
 
@@ -94,7 +94,7 @@ dis844-2025
 
 **Sofía Pérez** */sofia-perezm*
 
-- **proyecto-03** Spectra
+- **proyecto-02-03** Spectra
 
 **Sofía Cartes** */sofiacartes*
 
@@ -102,7 +102,7 @@ dis844-2025
 
 **Valentina Ruz** */vxlentiinaa*
 
-- **proyecto-04** Juguete para gatos
+- **proyecto-02-04** Juguete para gatos
 
 **Braulio Figueroa** */brauliofigueroa2001*
 
@@ -110,7 +110,7 @@ dis844-2025
 
 **Bastian Solís** */HSB25*
 
-- **proyecto-05** Ruleta de luces
+- **proyecto-02-05** Ruleta de luces
 
 **Antonia Cristi** */antocristi*
 
@@ -118,7 +118,7 @@ dis844-2025
 
 **Paulina Vargas** */paulinavargasf*
 
-- **proyecto-06** fps555
+- **proyecto-02-06** fps555
 
 **Santiago Gaete Fernández** */clifford1one*
 
