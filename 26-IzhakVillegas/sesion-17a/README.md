@@ -43,6 +43,7 @@ Ejemplo transición créditos tipo película.
 dis844-2025
 
 ---
+
 [comment] Si se utiliza los tags de usuario, colocar un logo de github pues se puede malinterpretar como usuario de instagram. Ajustar nombres de proyecto.
 
 - **docentes**
@@ -77,6 +78,8 @@ dis844-2025
 
 - **proyecto-01** Luz de noche en secuencia gradual con forma de nube
 
+(Nube luminosa nocturna, nube luminosa secuencial, nube de luz nocturna progresiva)
+
 **Emilia Contreras** */hazzaily*
 
 **Katalina Riquelme** */katalinariquelme*
@@ -99,7 +102,7 @@ dis844-2025
 
 **Valentina Ruz** */vxlentiinaa*
 
-- **proyecto-04** Juguete para gato
+- **proyecto-04** Juguete para gatos
 
 **Braulio Figueroa** */brauliofigueroa2001*
 
@@ -115,7 +118,7 @@ dis844-2025
 
 **Paulina Vargas** */paulinavargasf*
 
-- **proyecto-06** FPS-555
+- **proyecto-06** fps555
 
 **Santiago Gaete Fernández** */clifford1one*
 
