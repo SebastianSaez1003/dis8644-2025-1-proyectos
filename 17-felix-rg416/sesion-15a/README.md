@@ -29,6 +29,7 @@ Quieren un compartimiento en la parte de abajo para la batería (tipo control re
 La carcasa sería de un cilíndro de 120 - 150mm de diámetro x 55mm de alto.
 
     * imagennnn*
+    
 PCB --> tiene una forma de explosión. Nos vamos a guiar como si fuera un círculo de al rededor de 80 a 100 mm de diámetro
 
 ## Grupo 03

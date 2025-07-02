@@ -48,6 +48,7 @@ Ya cuando tengamos en nuestro poder las placas y prototipos para el registro, re
 ▼ Fuentes: <https://arte.udp.cl/laboratorios/laboratorio-de-maquinas-y-herramientas/>
 
 Usar un fondo no neutro, sería más para el trabajo en clases, cuando se está prototipando u organizando con los grupos. Doy de ejemplo el pañol de la universidad que, con herramientas y materiales, aporta contexto real y autenticidad al registro.
+
 Para el registro en sala, el fondo no neutro puede aportar contexto visual importante que enriquece la comprensión del entorno y la actividad que se está documentando. A diferencia de un fondo neutro, que es más sencillo y minimalista, un fondo con elementos del espacio real, ayuda a mostrar la atmósfera, la dinámica y el ambiente natural donde se desarrolla la clase.
 
 ### The Life of Crystal
@@ -84,7 +85,7 @@ Para cada sesión, se realizará un registro audiovisual mediante el uso de una 
 
 ### Almacenamiento
 
-- Los videos serán almacenados en el computador de @jotamorales-romulus. Al finalizar cada clase, los videos se pasarán a través de un adaptador de tarjeda sd
+- Los videos serán almacenados en el computador de @jotamorales-romulus. Al finalizar cada clase, los videos se pasarán a través de un adaptador de tarjeda sd.
 
 ### Reels
 
@@ -98,11 +99,10 @@ Para cada sesión, se realizará un registro audiovisual mediante el uso de una 
 
 [![Miniatura del video](https://img.youtube.com/vi/l8mmXpmg6G0/hqdefault.jpg)](https://youtube.com/shorts/l8mmXpmg6G0?feature=share)
 
-
 ### Video Examen
 
 - Se hará uso de tripode para este registro.
-- Se realizará un video que junte todo lo realizado para el examen: Registro de las clase y registro de los proyectos de los grupos.
+- Se realizará un video que junte todo lo realizado para el examen: registro de las clases y registro de los proyectos de los grupos.
 - Cada video de los grupos, registrará el proyecto completo y funcionará como una cápsula audiovisual que resuma su propuesta, mostrando desde el concepto hasta el resultado final.
 
 ### Intro del video
@@ -114,11 +114,12 @@ Para cada sesión, se realizará un registro audiovisual mediante el uso de una 
 ### Proyectos
 
 - Primero, se mostrará parte del registro del taller
+
 El video de cada grupo debe incluir:
 
 - Nombre del grupo cuando aparezca su proyecto en pantalla  
-- Nombre de los integrantes  
-- Breve descripción del proyecto  
+- Nombre de los integrantes
+- Breve descripción del proyecto
 - Imágenes del proceso y resultado final
   
 ¿Cómo se hará?
@@ -146,7 +147,7 @@ El video de cada grupo debe incluir:
 - Resolución mínima: 1080p (Full HD)
 - FPS: 30 cuadros por segundo
 - Al exportar los videos, se verificará que los formatos estén correctos.
-- Videos pesados se compartiran por wetransfer a aaron.montoya@mail.udp.cl
+- Videos pesados se compartiran por wetransfer a <aaron.montoya@mail.udp.cl>
 
 ### Audio
 
@@ -159,29 +160,26 @@ El video de cada grupo debe incluir:
 - Sombras creativas si refuerzan el concepto.
 - Fondos neutros y no neutros.
 
-### Creditos 
+### Créditos
+
 - Nombre taller
-- Profesores y ayudantes 
+- Profesores y ayudantes
 - Integrantes del curso divididos por grupo (nombre y apellido)
 - Año
 
 ### Checklist de grabación por grupo FINAL
 
 - [ ] Registro del circuito en protoboard  
-- [ ] Registro del montaje final (2 de julio 2025)  
-- [ ] Grabación del circuito en uso o en contexto  
-- [ ] Fotografías de calidad del proyecto  
-- [ ] Testimonio breve (opcional, pero recomendado o puede ser escrito)  
-- [ ] Archivos bien nombrados: `grupoXX-nombre-2024-06-14.mp4`  
+- [ ] Registro del montaje final (2 de julio 2025)
+- [ ] Grabación del circuito en uso o en contexto
+- [ ] Fotografías de calidad del proyecto
+- [ ] Testimonio breve (opcional, pero recomendado o puede ser escrito)
+- [ ] Archivos bien nombrados: `grupoXX-nombre-2024-06-14.mp4`
 - [ ] Entrega vía wetransfer a jotamorales-romulus.
   
-
-
-
-
 ***
 
-## referentes de documentación en imagen y plan de documentación (1 punto)
+## Referentes de documentación en imagen y plan de documentación (1 punto)
 
 La responsable de esta sección es @Bernardita-lobo.
 
@@ -232,12 +230,39 @@ La responsable de esta sección es @Bernardita-lobo.
 ### Elementos clave a mostrar en el montaje
 
 - Para el montaje es fundamental lograr explicar, de manera concisa y accesible, cómo se llegó a los resultados finales. Este taller, en especial, trabaja en una disciplina algo diferente y puede resultar difícil de comprender. En ese sentido, la propuesta del montaje se dividirá en dos secciones: una donde se expongan los proyectos finales y otra donde se evidencien todos los procesos por los que tuvieron que pasar los grupos de trabajo.
-- Sección Proyectos finales: En esta sección se presentará la pieza final, compuesta por la PCB y su carcasa. Cada grupo tendrá su propio espacio, donde el proyecto será expuesto sobre una mesa. Frente a cada objeto se colocará una lámina simple, en la que se explicará únicamente la parte conceptual y la interacción del proyecto, con el objetivo de comunicar su funcionamiento y propósito
-- Sección Procesos: Esta sección estará dividida de acuerdo a las distintas etapas del proceso que desarrollaron los grupos. Entre estas se incluyen: el maqueteo en protoboard, la creación de los esquemáticos, el diseño y fabricación de las PCBs, las soldaduras, el modelado de las carcasas y sus impresiones. Cada parte estará acompañada por una pieza visual, por ejemplo, las protoboard o algunas de las primeras impresiones 3D que se fueron modificando a lo largo del proceso, lo que permitirá comprender fácilmente cada etapa. Además, se incluirá un video de apoyo. Esta sección funcionará como una recopilación de los procesos productivos que atravesaron los grupos de trabajo para llegar al resultado final.
+
+### Sección Proyectos finales
+
+- En esta sección se presentará la pieza final, compuesta por la PCB y su carcasa. Cada grupo tendrá su propio espacio, donde el proyecto será expuesto sobre una mesa. Frente a cada objeto se colocará una lámina simple, en la que se explicará únicamente la parte conceptual y la interacción del proyecto, con el objetivo de comunicar su funcionamiento y propósito
+
+### Sección Procesos
+
+- Esta sección estará dividida de acuerdo a las distintas etapas del proceso que desarrollaron los grupos. Entre estas se incluyen: el maqueteo en protoboard, la creación de los esquemáticos, el diseño y fabricación de las PCBs, las soldaduras, el modelado de las carcasas y sus impresiones. Cada parte estará acompañada por una pieza visual, por ejemplo, las protoboard o algunas de las primeras impresiones 3D que se fueron modificando a lo largo del proceso, lo que permitirá comprender fácilmente cada etapa. Además, se incluirá un video de apoyo. Esta sección funcionará como una recopilación de los procesos productivos que atravesaron los grupos de trabajo para llegar al resultado final.
+
+### Modelado del montaje
+
+- Hay dos propuestas de montaje. Esta está diseñada según la distribución de la sala del Laboratorio de Interacción Digital.
+
+![Foto de registro fotográfico](./imagenes/tme-proyecto02-montaje-lid-vista01.jpg)
+
+![Foto de registro fotográfico](./imagenes/tme-proyecto02-montaje-lid-vista02.png)
+
+![Foto de registro fotográfico](./imagenes/tme-proyecto02-montaje-lid-vista03.png)
+
+- La segunda propuesta está diseñada según la distribución de una sala estándar en la Faad de Salvador Sanfuentes.
+
+![Foto de registro fotográfico](./imagenes/tme-proyecto02-montaje-sala-vista01.jpg)
+
+![Foto de registro fotográfico](./imagenes/tme-proyecto02-montaje-sala-vista02.png)
+
+![Foto de registro fotográfico](./imagenes/tme-proyecto02-montaje-sala-vista03.png)
+
+- Los archivos de Rhino están subidos en la carpeta [Modelados](https://github.com/Bernardita-lobo/dis8644-2025-1-proyectos/tree/main/00-proyecto-02/grupo-0b/modelados)
 
 ## Publicación en GitHub de de alta calidad de logos institucionales de UDP (1 punto)
 
-Para esta sección se logró obtener un total de cinco logos institucionales relacionados a la escuela de diseño y la facultad d e la universidad.
+Para esta sección se logró obtener un total de cinco logos institucionales relacionados a la escuela de diseño y la facultad de la universidad.
+
 Estos fueron obtenidos de diferentes fuentes, entre las cuales se encuentran el desarrollo de proyectos en colaboración con organizaciones y desarrollo personal de los vectores de imágenes de cuentas oficiales.
 
 Como consideración, cada versión de estos logotipos se encuentra presente en la carpeta ["logotipo-universidad"](https://github.com/disenoUDP/dis8644-2025-1-proyectos/tree/main/00-proyecto-02/grupo-0b/logotipo-universidad). En esta parte se pueden encontrar una serie de subcarpetas nombradas según su tipo de archivo: jpg, png y svg. A la par se presenta un archivo nombrado [logos_udp_y_sus_aplicaciones.pdf](https://github.com/disenoUDP/dis8644-2025-1-proyectos/blob/main/00-proyecto-02/grupo-0b/logotipo-universidad/logos_udp_y_sus_aplicaciones.pdf) en el que se especifica el uso de cada logotipo desarrollado por parte de la universidad y la facultad (los que se encuentran en uso hasta la fecha), indicando cuales son de uso formal o corporativo, en contraste con los de uso en redes sociales o documentos internos.
@@ -321,7 +346,7 @@ Dado que el "Laboratorio de interacción digital" ya posee una gráfica definida
 
 ▼ Fuente: Recurso de manufactura propia. Desarrollo vectorial usando Illustrator.
 
-Por otro lado, pude indagar que "Space Grotesk" fue la fuente usada. Esta diseñada por Florian Karsten, la cual surge como una versión modificada de ["Space Mono"](https://fonts-google-com.translate.goog/specimen/Space+Mono?_x_tr_sl=en&_x_tr_tl=es&_x_tr_hl=es&_x_tr_pto=tc&_x_tr_hist=true), una familia tipográfica de ancho fijo diseñada por Colophon Foundry para Google Fonts. Según su creador, esta fuente ["conserva los detalles idiosincrásicos del monoespacio al tiempo que se optimiza para mejorar la legibilidad en tamaños que no son de pantalla"](https://floriankarsten.github.io/space-grotesk/). Cabe mencionar que este recurso posee una licencia de fuente abierta, por lo que se puede encontrar en distintas páginas de forma gratuita, de las cuales destajo la versión de [Github](https://github.com/floriankarsten/space-grotesk). En mi caso personal prefiero trabajar con la fuente desde [Adobe Fonts](https://fonts.adobe.com/fonts/space-grotesk-variable) para vincularla con los programas de su suite.
+Por otro lado, pude indagar que "Space Grotesk" fue la fuente usada. Esta diseñada por Florian Karsten, la cual surge como una versión modificada de ["Space Mono"](https://fonts-google-com.translate.goog/specimen/Space+Mono?_x_tr_sl=en&_x_tr_tl=es&_x_tr_hl=es&_x_tr_pto=tc&_x_tr_hist=true), una familia tipográfica de ancho fijo diseñada por Colophon Foundry para Google Fonts. Según su creador, esta fuente ["conserva los detalles idiosincrásicos del monoespacio al tiempo que se optimiza para mejorar la legibilidad en tamaños que no son de pantalla"](https://floriankarsten.github.io/space-grotesk/). Cabe mencionar que este recurso posee una licencia de fuente abierta, por lo que se puede encontrar en distintas páginas de forma gratuita, de las cuales destaco la versión de [Github](https://github.com/floriankarsten/space-grotesk). En mi caso personal prefiero trabajar con la fuente desde [Adobe Fonts](https://fonts.adobe.com/fonts/space-grotesk-variable) para vincularla con los programas de su suite.
 
 ![alt-text](./diseno-grafico/tipografia/especimen-space_grotesk.jpg)
 
@@ -345,7 +370,7 @@ Dado que no tenía un referente directo con el cual trabajar es que comencé con
 
 ▼ Fuente: Recurso de manufactura propia. Producción hecha con Illustrator.
 
-Por temas de tiempo, terminé realizando una versión más acotada del logo y que permitiera un mejor control al solo tener 3 piezas. Por ello decidí escoger la "t", una "e" y un "3" que fuera elevado, el cual al tratarse de una ecuación matemática sería similar a "t * e ³ = t* e * e * e", similar a "teee".
+Por temas de tiempo, terminé realizando una versión más acotada del logo y que permitiera un mejor control al solo tener 3 piezas. Por ello decidí escoger la "t", una "e" y un "3" que fuera elevado, el cual al tratarse de una ecuación matemática sería similar a "t *e ³ = t* e *e* e", similar a "teee".
 Ante esta nueva idea comencé a componer y desarrollar este nuevo carácter, llegando a un resultado que posee como variante principal la "e". ¿Por qué tomé esta decisión? Pues resulta que "t" corresponde a "taller" y las "e" en su momento tuvieron un significado, el cuál no se condice con el nombre actual del curso (Taller de máquinas electrónicas). Por ello quise dejar esta letra como un signo que puede verse modificado según vayan surgiendo nuevas veriones de los futuros talleres o proyectos, los cuales se ven vinculados con las tecnologías que en ellos se aprenden u enseñarán. Como prototipado realicé un total de 4 de estos logos, los cuales poseen diferentes "e" y cuyo interletrado fue acomodado para poseer un equilibrio óptico. Además, vale mencionar que se realizó otra versión experimental "extendida" en la que se asocia un concepto que reemplaza el "3". Dicha idea busca representar alguna palabra clave que represente lo que se verá en estos espacios de aprendizaje.
 
 ![alt-text](./diseno-grafico/logotipo-teee/logotipos_te3_multiples_acotados.jpg)
