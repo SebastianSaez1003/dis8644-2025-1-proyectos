@@ -96,10 +96,10 @@ bom extraído desde [repo de duckusu](https://github.com/Anaisbmg/dis8644-2025-1
 |    1     |            2             |             R1, R2             |         1K         |                   Resistencia                    |                  Se puede conseguir en lab                  |
 |    2     |            2             |             R3, R4             |        100K        |                   Resistencia                    |                  Se puede conseguir en lab                  |
 |    3     |            2             |             R5, R6             |        470K        |                   Resistencia                    |                  Se puede conseguir en lab                  |
-|    4     |            1             |               R7               |        10KΩ        |                   Resistencia                    |                  Se puede conseguir en lab                  |
+|    4     |            1             |               R7               |        10K         |                   Resistencia                    |                  Se puede conseguir en lab                  |
 |    5     |            6             |             D1~D6              |       1n4007       |                      Diodo                       |                   Se tendrán que comprar                    |
-|    6     |            1             |               C1               |        104         |              Condensador (cerámico)              |                  Se puede conseguir en lab                  |
-|    7     |            1             |               C2               |        474         |              Condensador (cerámico)              |        Se puede conseguir en lab pero no hay muchos         |
+|    6     |            1             |               C1               |        100n        |              Condensador (cerámico)              |                  Se puede conseguir en lab                  |
+|    7     |            1             |               C2               |        474n        |              Condensador (cerámico)              |        Se puede conseguir en lab pero no hay muchos         |
 |    8     |            1             |               D7               |        3mm         |                       Led                        |                  Se puede conseguir en lab                  |
 |    9     |            1             |               U1               |        555         |                       Chip                       |                  Se puede conseguir en lab                  |
 |    10    |            1             |               U2               |       L293D        |                       Chip                       |                   Se tendrán que comprar                    |
@@ -109,8 +109,8 @@ bom extraído desde [repo de duckusu](https://github.com/Anaisbmg/dis8644-2025-1
 |    14    |            2             |                                |      2 pines       |                      Tblock                      | Se tendrán que comprar si es que no usan los que ya tienen  |
 |    15    |            1             |               U1               |      8 pines       |                      Socket                      |                  Se puede conseguir en lab                  |
 |    16    |            1             |               U2               |      16 pines      |                      Socket                      |                   Se tendrán que comprar                    |
-|    17    |            5             |                                |                    |                    Pin Header                    |                  Se puede conseguir en lab                  |
-|    18    |            5             |                                |                    | Cable dupont: terminal receptora a terminal pin  |                  Se puede conseguir en lab                  |
+|    17    |            6             |                                |                    |                    Pin Header                    |                  Se puede conseguir en lab                  |
+|    18    |            6             |                                |                    | Cable dupont: terminal receptora a terminal pin  |                  Se puede conseguir en lab                  |
 
 Compramos 3 interruptores switch de 6 Pines ON-OFF-ON y también 1 motorreductor DC de 6V 3RPM, para más info issue 05.
 
