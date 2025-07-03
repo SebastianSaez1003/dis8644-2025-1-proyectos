@@ -102,7 +102,7 @@ dis844-2025
 
 **Valentina Ruz** */vxlentiinaa*
 
-- **proyecto-02-04** Juguete para gatos
+- **proyecto-02-04** MEOWTECH
 
 **Braulio Figueroa** */brauliofigueroa2001*
 
