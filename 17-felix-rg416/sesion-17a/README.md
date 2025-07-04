@@ -36,33 +36,33 @@ Aunque los del grupo 00 no mandamos a hacer plaquitas, Arrón nos dejó sacar :]
 
 La cascasa es una caja cilíndrica con un bajo relieve del dibujo de una explosión o golpe.
 
-![](./archivos/carcasa-grupo02/carcasa-grupo02.png)
+![Carcasa Grupo-02](./archivos/carcasa-grupo02/carcasa-grupo02.png)
 
-![](./archivos/carcasa-grupo02/tapa-01.png)
+![Tapa](./archivos/carcasa-grupo02/tapa-01.png)
 
 ### Piezo
 
 En la tapa, por dentro, irá el piezo pegado al "techo" de la carcasa, tiene un espacio para que los cables vayan a la pcb
 
-![](./archivos/carcasa-grupo02/tapaPiezo.png)
+![Piezo](./archivos/carcasa-grupo02/tapaPiezo.png)
 
 ### PCB
 
 La PCB irá fijada con tornillos a 4 bases donde van los insertos M3 de 4mm de alto
 
-![](./archivos/carcasa-grupo02/basePCB.png)
+![Bases para PCB](./archivos/carcasa-grupo02/basePCB.png)
 
 ### Speaker
 
 En el interior de la carcasa hay un par de rieles para poner el speaker. Tiene un tipo de rejilla en forma de explosión o impacto.
 
-![](./archivos/carcasa-grupo02/speaker.png)
+![Speaker](./archivos/carcasa-grupo02/speaker.png)
 
 ### Otros componentes
 
 La carcasa tiene espacios disponibles para poner el potenciómetro, la entrada Jack para conectar un parlante, la entrada micro USB o USBC para cargar la batería y un espacio para el switch.
 
-![](./archivos/carcasa-grupo02/entradasPote.png)
+![Espacios para otros componentes](./archivos/carcasa-grupo02/entradasPote.png)
 
 ## Carcasa grupo-05
 
