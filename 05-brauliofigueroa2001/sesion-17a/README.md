@@ -3,3 +3,6 @@
 
 - mi grupo asistió en su totalidad
 - este día llegaron desde china las placas pcb
+- la placa del grupo quedó color azul, muy lindo color la verdad
+
+![
