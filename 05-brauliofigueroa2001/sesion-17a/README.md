@@ -26,3 +26,7 @@
 - Alanis también nos habló sobre hacer una pieza para sostener el motor y que este no quedara en el aire o suelto, que estuviera estable dentro de la carcasa
 - la pieza sostiene el motor y el motor tiene el palo/mástil puesto encima, la idea es perforar el palo para que al girar el motor el palo gire también
 - la pieza tiene casi el ancho el motor, para que quede puesto a presión, por debajo la pieza tiene una ranura que es para que pasen los cables que están soldados del motor hacia la placa, nos pareció una muy buena idea
+- se habló sobre el tipo de switch a utilizar, hubo un pequeño susto de mi parte porque pensé que al asignarle una huella a la placa, el componente físico debía calzar si o si con la huella pero no es el caso, podemos tener una huella distinta al componente físico y soldarlo igualmente con un cableo, como en este caso soldaremos desde la placa el switch directo en la carcasa
+- el switch que utilizaremos es uno que poseemos en nuestro kit que fue entregado a principio de semestre, adjunto foto
+
+
