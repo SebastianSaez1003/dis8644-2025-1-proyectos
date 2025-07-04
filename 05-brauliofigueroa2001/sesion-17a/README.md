@@ -5,4 +5,17 @@
 - este día llegaron desde china las placas pcb
 - la placa del grupo quedó color azul, muy lindo color la verdad
 
-![
+- aquí una foto de la placa ya con algunos componentes puestos por encima
+
+![pcb](./archivos/pcbplaca.jpg)
+
+- lo primero que hicimos como grupo fue ir checkeando el bill of materials y ver si estaba correcto en su totalidad o si nos faltaba algo
+- hubo una pequeña confusión en cuanto al bill of materials y la guía en kicad de la placa ya que los valores estaban cambiados en el bom, ej: R1 en realidad era R2
+- comenzamos a hacer una lista de las cosas que necesitábamos ya que por instrucciones de Aarón necesitabámos hacer 3 placas, una con la carcasa, otra de exhibición que funcione y una de repuesto
+
+![listamateriales](./archivos/listamateriales.jpg)
+
+![listamateriales](./archivos/listamateriales2.jpg)
+
+- después de completar la lista y triplicar el número de componentes en algunos casos, le pedimos los materiales necesarios a martín quién nos entregó de forma muy amable lo que le íbamos solicitando
+- al mismo tiempo que conseguíamos los materiales e íbamos poniendo sobre las huellas respectivas en las placas, Alanis del grupo 0 nos iba haciendo preguntas sobre la carcasa y nos iba mostrando avances
