@@ -110,7 +110,7 @@ dis844-2025
 
 **Bastian Solís** */HSB25*
 
-- **proyecto-02-05** Ruleta de luces
+- **proyecto-02-05** Vibe Checker
 
 **Antonia Cristi** */antocristi*
 
