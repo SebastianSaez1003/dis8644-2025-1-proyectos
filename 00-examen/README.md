@@ -21,8 +21,14 @@ el examen se realiza en Salvador Sanfuentes 2221, Santiago, Chile.
 
 ### bloque-inicial
 
-- 09:30am - 09:45am: grupo-XX
-- 09:45am - 10:00am: grupo-XX
+- 09:30am - 09:45am: grupo-05
+  - antonia cristi @antocristi
+  - natalia pilar @sz-mada
+  - paulina vargas @pauvargas
+- 09:45am - 10:00am: grupo-03
+  - sofía cartes @sofiacartes
+  - isabella gutiérrez @isabellagutierrezm
+  - valentina ruz @valentinaruz
 - 10:00am - 10:15am: grupo-06
   - santiago gaete @clifford1one
   - anaís marschhausen @Anaisbmg
@@ -36,8 +42,14 @@ el examen se realiza en Salvador Sanfuentes 2221, Santiago, Chile.
   - emilia contreras @hazzaily
   - katalina riquelme @katalinariquelme
   - thyare santander @thyare08
-- 11:00am - 11:15am: grupo-XX
-- 11:15am - 11:30pm: grupo-XX
+- 11:00am - 11:15am: grupo-04
+  - braulio figueroa @brauliofigueroa2001
+  - carlo martínez @zaaaiko
+  - bastián solís @HSB25
+- 11:15am - 11:30pm: grupo-02
+  - sofía etchepare @bumwox
+  - antonia fuentealba @AntFuentealba
+  - sofía pérez @sofia-perezm
 - 11:30am - 11:40am: comentarios
 - 11:40am - 12:000pm: descanso
 
