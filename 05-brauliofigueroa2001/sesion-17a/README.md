@@ -1,5 +1,6 @@
 # sesion-17a
-### taller día martes 1 de julio
+
+## taller día martes 1 de julio
 
 - mi grupo asistió en su totalidad
 - este día llegaron desde china las placas pcb
@@ -30,6 +31,7 @@
 - el switch que utilizaremos es uno que poseemos en nuestro kit que fue entregado a principio de semestre, adjunto foto
 
 ![switch](./archivos/switch.jpg)
+
 - fuente: mechatronicstore.cl
 - Alanis necesitaba saber el tipo de switch que utilizaríamos ya que necesitaba hacer un agujero en la carcasa en donde pudiera calzar el switch y también el conector de la fuente de poder que en este caso es un barreljack
 - también conversamos con Alanis sobre cómo iría situado el mástil sobre el motor, para simular esto lo que hicimos fue agarrar un lápiz grafito y pegarlo con maskingtape sobre el motor, conectamos el motor directamente una batería. El lápiz giró en su eje a una velocidad bastante elevada otorgada por el motor, esto fue preocupante pero luego recordé que en nuestro circuito poseemos un potenciómetro que está encargado específicamente de regular la velocidad a la que gira el motor, el experimento que realizamos fue un éxito
@@ -60,7 +62,3 @@
 ![impresion2](./archivos/impresion3d2.jpg)
 
 - Alanis ha sido una ayuda vital para la realización de la carcasa, estamos muy agradecidos por su colaboración
-
-
-
-
