@@ -43,6 +43,7 @@ Ejemplo transición créditos tipo película.
 dis844-2025
 
 ---
+
 [comment] Si se utiliza los tags de usuario, colocar un logo de github pues se puede malinterpretar como usuario de instagram. Ajustar nombres de proyecto.
 
 - **docentes**
@@ -55,9 +56,9 @@ dis844-2025
 
 - **grupo-0a** Impresión 3D
 
-► **Félix Rodríguez** */felix-rg416* **kicad y modelado 3D**
+► **Félix Rodríguez** */felix-rg416* **modelado e impresión 3D**
 
-► **Alanis Vásquez** */AlanisMria* **kicad y modelado 3D**
+► **Alanis Vásquez** */AlanisMria* **modelado e impresión 3D**
 
 - **grupo-0b** Diseño Gráfico
 
@@ -65,17 +66,19 @@ dis844-2025
 
 ► **José Morales** */jotamorales-romulus* **video y edición**
 
-► **Bernardita Lobo** */Bernardita-lobo* **curatoría**
+► **Bernardita Lobo** */Bernardita-lobo* **registro y curatoría**
 
 - **grupo-0c** Documentación técnica
 
-► **Martín Silva** */duckusu* **cotización bill of materials**
+► **Martín Silva** */duckusu* **cotización, materiales y tesorería**
 
-► **Francisco Stephens** */FranUDP* **revisión de esquemáticos**
+► **Francisco Stephens** */FranUDP* **simulación en falstad y fabricación en kicad**
 
-► **Izhak Villegas** */IzhakVillegas* **textos y redacción**
+► **Izhak Villegas** */IzhakVillegas* **textos técnicos y documentación**
 
-- **proyecto-01** Luz de noche en secuencia gradual con forma de nube
+- **proyecto-02-01** Luz de noche en secuencia gradual con forma de nube (según documentación)
+
+[comment] Propuestas: Nube luminosa nocturna, nube luminosa secuencial, nube de luz nocturna progresiva. Preferentemente "Nube de luz nocturna progresiva".
 
 **Emilia Contreras** */hazzaily*
 
@@ -83,7 +86,7 @@ dis844-2025
 
 **Thyare Santander** */thyare08*
 
-- **proyecto-02** Bongazo
+- **proyecto-02-02** Bongazo
 
 **Sofía Etchepare** */bumwox*
 
@@ -91,7 +94,7 @@ dis844-2025
 
 **Sofía Pérez** */sofia-perezm*
 
-- **proyecto-03** Spectra
+- **proyecto-02-03** Spectra
 
 **Sofía Cartes** */sofiacartes*
 
@@ -99,7 +102,7 @@ dis844-2025
 
 **Valentina Ruz** */vxlentiinaa*
 
-- **proyecto-04** Juguete para gato
+- **proyecto-02-04** MEOWTECH
 
 **Braulio Figueroa** */brauliofigueroa2001*
 
@@ -107,7 +110,7 @@ dis844-2025
 
 **Bastian Solís** */HSB25*
 
-- **proyecto-05** Ruleta de luces
+- **proyecto-02-05** Vibe Checker
 
 **Antonia Cristi** */antocristi*
 
@@ -115,7 +118,7 @@ dis844-2025
 
 **Paulina Vargas** */paulinavargasf*
 
-- **proyecto-06** FPS-555
+- **proyecto-02-06** fps555
 
 **Santiago Gaete Fernández** */clifford1one*
 
@@ -149,7 +152,15 @@ De abajo hacia arriba:
 
 ### Texto descriptivo para curso en instagram (quizás en la sala)
 
-a
+- Texto introductorio
+
+El taller de máquinas electrónicas estructuró su metodología como una práctica de inteligencia colectiva. El proceso inició la experimentación física de protoboards en colaboración con el Laboratorio de Interacción Digital UDP y avanzó hacia el uso de herramientas digitales como Tinkercad para simular la utilización de componentes, Falstad para reproducir diagramas de circuitos y Kicad para el diseño de placas de circuito impreso, las cuales luego se envíaron para su fabricación en el extranjero y posterior soldadura en clases.
+
+Los proyectos exhibidos sugieren una estructura organizacional cuidadosa: desde los grupos de soporte especializado (impresión 3D, diseño de identidad y documentación técnica) hasta los equipos interdisciplinarios que integraron aspectos técnicos, estéticos y funcionales. Cada máquina electrónica es fruto de iteraciones grupales, validaciones colectivas y soluciones co-creadas, meticulosamente documentadas en repositorios GitHub que transparentaron este arduo proceso.
+
+Estas piezas trascienden su función como objetos: son manifestaciones tangibles de un enfoque sistémico del diseño. Son resultado del potencial de las redes colaborativas, donde la interconexión humana fue tan esencial como las electrónica. La exhibición propone así repensar la práctica del diseño electrónico como un ecosistema sinérgico, donde la innovación rompe las barreras entre disciplinas, se despliega y hace eco gracias al flujo horizontal de saberes.
+
+Bienvenidos a un taller que funcionó como circuito eléctrico: cada estudiante, docente y herramienta fueron conexiones necesarias para que el proyecto funcionara.
 
 ### Texto descriptivo para grupo
 
