@@ -43,9 +43,17 @@ el examen se realiza en Salvador Sanfuentes 2221, Santiago, Chile.
 
 ## bloque-final
 
-- 12:00am - 12:15pm: grupo-XX
-- 12:15pm - 12:30pm: grupo-XX
-- 12:30pm - 12:45pm: grupo-XX
+- 12:00am - 12:15pm: grupo-0a
+  - félix rodríguez @felix-rg416
+  - alanis vásquez @AlanisMria
+- 12:15pm - 12:30pm: grupo-0b
+  - josé morales @jotaMorales
+  - bernardita lobo @Bernardita-lobo
+  - camila 0arada @Camila-Parada
+- 12:30pm - 12:45pm: grupo-0c
+  - francisco stephens @FranUDP
+  - martín silva @duckusu
+  - izhak villegas @IzhakVillegas
 - 12:45pm - 01:00pm: comentarios
 - 01:00pm - 01:30pm: deliberación de notas
 
