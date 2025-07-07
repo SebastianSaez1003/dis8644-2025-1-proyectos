@@ -1,5 +1,6 @@
 # sesion-16a
-### taller martes 24 de junio
+
+taller martes 24 de junio
 
 - este día tuvimos la salida al palacio pereira, estuvimos aprox desde las 10:00 hasta las 12:50-13:00
 - hubo alumnos de la udp exponiendo sus proyectos y también alumnos de otras universidades

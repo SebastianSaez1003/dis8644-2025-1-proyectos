@@ -1,5 +1,6 @@
 # sesion-16b
-### taller día viernes 27 de junio
+
+taller día viernes 27 de junio
 
 - el día viernes 27 de junio se entregó feedback sobre el proyecto 2
 - nos corrigieron un poco el esquemático, faltó poner para qué servía cada potenciómetro y corregir los valores de los condensadores en kicad, en vez de poner 104n, poner 100n
@@ -9,6 +10,7 @@
 - le mostré a alanis el primer boceto que se había realizado, el día martes 10 de junio
 
 ![boceto1](./archivos/boceto1.jpg)
+
 - este boceto consistía en una especie de rampa de la cuál a través de un palo que va en el medio, cuelga un juguete para gato
 - describe la idea de poner un LDR en posición para que detecte la sombra del gato
 - luego dibujamos con Alanis un boceto un poco más claro
