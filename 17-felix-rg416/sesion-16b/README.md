@@ -27,6 +27,8 @@ qué hace cada parte, input - output
 
 ## Modelado
 
-Insertos M3
+### Insertos M3
 
-![medidas de insertos](./archivos/medidas-insertos.jpg)
+![medidas de insertos](./archivos/medidas-insertos.png)
+
+### Carcasa grupo-02
