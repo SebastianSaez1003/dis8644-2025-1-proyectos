@@ -183,12 +183,12 @@ Enlace de la PCB para ver los PDF <https://drive.google.com/drive/folders/13fPj7
 
 ## Bibliografía
 
-<https://www.sparkfun.com/sparkfun-sound-detector.html>
+1. alldatasheet.com. (2005). *CD4017, CD4022B Types Datasheet*. Texas Instruments. Recuperado de <https://www.alldatasheet.com/datasheet-pdf/pdf/26855/TI/CD4017.html>
 
-<chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://cdn.sparkfun.com/datasheets/Sensors/Sound/LMV324.pdf>
+2. alldatasheet.es. (1999). *LM124 - LM224 - LM324N Datasheet*. STMicroelectronics. Recuperado de <https://www.alldatasheet.es/datasheet-pdf/pdf/22756/STMICROELECTRONICS/LM324N.html>
 
-<https://www.digikey.com/es/resources/conversion-calculators/conversion-calculator-resistor-color-code>
+3. Fairchild Semiconductor. (2012). *LMV321, LMV358, LMV324: General purpose, low voltage, rail-to-rail output amplifiers* (Rev. 1.0) [Data sheet]. Fairchild Semiconductor. Recuperado de <https://cdn.sparkfun.com/datasheets/Sensors/Sound/LMV324.pdf>
 
-<https://www.alldatasheet.com/datasheet-pdf/pdf/26855/TI/CD4017.html>
+4. DigiKey Electronics. (s.f.). Resistor color code calculator [Herramienta interactiva en línea]. DigiKey. Recuperado de <https://www.digikey.com/es/resources/conversion-calculators/conversion-calculator-resistor-color-code>
 
-<https://www.alldatasheet.es/datasheet-pdf/pdf/22756/STMICROELECTRONICS/LM324N.html>
+5. SparkFun Electronics. (s.f.). *Sound Detector (SEN-12642)* [www.sparkfun.com]. SparkFun Electronics. Recuperado de <https://www.sparkfun.com/products/12642>
