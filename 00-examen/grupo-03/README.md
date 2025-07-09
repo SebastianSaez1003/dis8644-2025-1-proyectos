@@ -4,14 +4,13 @@ grupo-xx
 
 ## integrantes
 
-  - Sofía Cartes
-  - Isabella Gutiérrez
-  - Valentina Ruz
-    
+- Sofía Cartes
+- Isabella Gutiérrez
+- Valentina Ruz
+
 ## proyecto-02
 
-
-* aprendizajes
+- aprendizajes
 
 trabajo en equipo, el hacer y rehacer un circuito para lograr que funcione, paciencia,  potenciómetro de 1m ohm para regular las luces junto al de 500k
 
@@ -21,9 +20,7 @@ cómo interactúa el objeto con el espacio, ya que como grupo definimos que cier
 
 elección de luces, material y refracción, interacción de la luz con distintos objetos.
 
-
-
-* dificultades
+- dificultades
 
 que el circuito funcionara como queríamos, porque había veces que **funcionaba pero su sensibilidad no era la que necesitábamos** (poca sensibilidad).
 
@@ -35,8 +32,8 @@ decisión de la forma de la carcasa
 
 Prototipado de circuitos en protoboard
 
-* El circuito de entrada reacciona al sonido para medir la sensibilidad del micrófono, mediante un potenciómetro.
-* El circuito de salida usa luces LEDS de colores para representar, y ver el sonido que entra en el circuito.
+- El circuito de entrada reacciona al sonido para medir la sensibilidad del micrófono, mediante un potenciómetro.
+- El circuito de salida usa luces LEDS de colores para representar, y ver el sonido que entra en el circuito.
   
 A continuación se presentan imágenes de las protoboards usadas.
 
@@ -56,7 +53,7 @@ IMAGENES
 | Diodo         | 2        | 1n5819          |
 | Diodo         | 1        | 1n4007          |
 | Potenciómetro | 1        | 1M Ohm          |
-| Potenciómetro | 1        | 500k            |       
+| Potenciómetro | 1        | 500k            |
 | LED           | 6     | 5mm             |
 | Chip          | 1        | LM324N          |
 | Chip          | 1        | 4017            |
@@ -65,12 +62,13 @@ IMAGENES
 | Bateria        | 1        | 9v              |  
 |socket         | 1         |  14 pins |
 |socket         |  1        | 16 pins  |
-|terminal block | 1  | 
-|pernos m2      |4     |
+|terminal block | 1  | |
+|pernos m2      |4     | |
 
 - Los LEDS de 5mm son de **colores variados**  (verde, blanco, amarillo, rojo, azul)
 
 ## esquematico
+
 En el primer esquemático, es el del **Chip LM324,** donde conectamos primero el micrófono, luego mediante los condensadores **regulamos la sensibilidad** de este para que capte mejor los sonidos e incorporamos dos LEDS para ver si el circuito funciona correctamente, dentro de este, el potenciómetro nos da la posibilidad de que **elijamos la receptividad.**
 En el segundo esquemático es la **secuencia/contador** de luces mediante el **Chip 4017**, donde el pin 14 va al pin 14 del LM324, lo cual nos da la posibilidad de tener una **frecuencia diferente de los cuatro LEDS** incorporados,y que esta **dependa del sonido emitido.**
 
@@ -113,27 +111,27 @@ CHIP 4017
 - pin 15 para hacer reset se conecta al pin 10.
 
 - pin 16 a VVC.
- 
+
 ## kicad
+
 ## Recursos adicionales
 
 - El **Chip LMV324M** del SparkFun Sound Detector **lo desglosamos**, por así decirlo, para tener el chip aparte y **poder regular la sensibilidad del micrófono.**
 
 <https://www.sparkfun.com/sparkfun-sound-detector.html>
 
-
 ## soldadura
 
 Se utilizó soldadura sin plomo y los cautines del laboratorio (ersa  i-con pico) (weller)
-a 400° 
+a 400°
 
-* Pasos para soldar:
+- Pasos para soldar:
 
 1. Se pone el cautín  3 seg. en el pad para calentar
 2. Colocar soldadura
 3. Mantener 3seg.
 4. Sacar cautin.
-   
+
 Con mucho cuidado
 
 **Recomendaciones:** Utilizamos cinta de papel para que los componentes no se movieran y antes de soldar, revisamos el esquemático y medimos con multímetro cada componente para verificar su valor.
@@ -150,7 +148,7 @@ Según **Erco**, el espectro visible "Se denomina espectro a la distribución de
 
 Dicho en otras palabras, es cuando la luz pasa a través de un prisma/cristal y emite la **reflexión de colores.**
 
-* Decisión de materiales y colores
+- Decisión de materiales y colores
   
 **Materiales:**
 
