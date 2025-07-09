@@ -138,10 +138,10 @@ Seguido por un contador 4017, cada salida alta enciende un LED en secuencia. Cad
 
 ## Bibliografía
 
-[Tutorial de cómo diseñar una placa PCB](https://www.youtube.com/watch?v=kccAeKYytE8)
+1. FAIRCHILD semiconductor. (1987). *CD4017BC CD4022BC Decade Counter/Divider with 10 Decoded Outputs Divide-by-8 Counter/Divider with 8 Decoded Outputs*. Recuperado de <https://www.makerhero.com/img/files/download/CD4017-Datasheet.pdf>
 
-[Datasheet del chip CD4017](https://www.makerhero.com/img/files/download/CD4017-Datasheet.pdf)
+2. Serrano M. [Matías Serrano misaa]. (2025, 26 de abril) *Diseño de placa y exportacion gerber (UDP 20240425)* [Video]. Youtube. <https://www.youtube.com/watch?v=kccAeKYytE8>
 
-[Datasheet del chip NE555](https://www.ti.com/lit/ds/symlink/ne555.pdf)
+3. Texas Instruments. (1973) *xx555 Precision Timers*. Recuperado de <https://www.ti.com/lit/ds/symlink/ne555.pdf>
 
-[Datasheet del chip LM324](https://www.ti.com/lit/ds/symlink/lm324.pdf)
+4. Texas Instruments. (1975) *LMx24, LMx24x, LMx24xx, LM2902, LM2902x, LM2902xx, LM2902xxx Quadruple Operational Amplifiers* Recuperado de <https://www.ti.com/lit/ds/symlink/lm324.pdf>

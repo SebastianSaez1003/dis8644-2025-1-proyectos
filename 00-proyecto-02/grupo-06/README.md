@@ -258,8 +258,6 @@ en figma realizamos ideas rapidas y existe el proceso de nuestro proyecto
 
 ## Bibliografía
 
-- [Datasheet de L293DNE](00-proyecto-02/grupo-06/datasheets/L293NE.PDF)
-- PDF extraido de: <https://www.alldatasheet.es/datasheet-pdf/view/26889/TI/L293DNE.html>
+1. Texas Instruments. (1973) *xx555 Precision Timers*. Recuperado de <https://www.ti.com/lit/ds/symlink/ne555.pdf>
 
-- [Datasheet de 555 Presicion Timer](./grupo-06/datasheets/ne555.pdf)  
-- PDF extraido de: <https://ti.com/lit/ds/symlink/ne555.pdf>
+2. Texas Instruments. (1986). *L293, L293D Quadruple Half-H Drivers*. STMicroelectronics. Recuperado de <https://www.alldatasheet.es/datasheet-pdf/view/26889/TI/L293DNE.html>
