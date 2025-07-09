@@ -16,13 +16,13 @@ La responsable de esta sección es @Bernardita-lobo.
 
 - Estas fotografías de productos que me gustaron las tomé como referencia. Me pareció simple y neutra la manera en que expone sus productos, pero también muy acotada. <https://www.trucco.photography/productos>
 
-![Foto de referente fotográfico](./imagenes/tme-proyecto02-referente02.jpeg)
+![Foto de referente fotográfico](./imagenes/referentes/tme-proyecto02-referente02.jpeg)
 
 ▼ Fuentes: <https://images.squarespace-cdn.com/content/v1/55814e1de4b0f9f986faf351/1440725269068-ZH3CG5A674FMJMB0ZQ4R/image-asset.jpeg?format=2500w> y <https://images.squarespace-cdn.com/content/v1/55814e1de4b0f9f986faf351/1437147802659-J0WL73ASBVFSBVZXKKHD/Torna+Final+-+Post.jpg?format=2500w>
 
 - Este otro referente me gustaría considerarlo para la segunda parte del proyecto, ya que en esa etapa nos interesa que los proyectos sean fotografiados en un contexto que se relacione de manera más directa con su funcionamiento y propósito. La idea es que la imagen no solo muestre el objeto, sino también cómo se inserta en su entorno o cómo podría ser utilizado en una situación real. <http://martisans.com/portfolio/>
 
-![Foto de referente fotográfico](./imagenes/tme-proyecto02-referente03.jpeg)
+![Foto de referente fotográfico](./imagenes/referentes/tme-proyecto02-referente03.jpeg)
 
 ▼ Fuentes: <http://martisans.com/wp-content/uploads/2022/06/Marshall-BCN_201_R3-6000x4000.jpg> y  <http://martisans.com/wp-content/uploads/2021/10/2021-02-10_stock6271-2500x4000.jpg>
 
