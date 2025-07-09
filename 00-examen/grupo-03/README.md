@@ -4,12 +4,11 @@ grupo-xx
 
 ## integrantes
 
-  - Sofía Cartes
-  - Isabella Gutiérrez
-  - Valentina Ruz
-    
-## proyecto-02
+- Sofía Cartes
+- Isabella Gutiérrez
+- Valentina Ruz
 
+## proyecto-02
 
 aprendizajes
 
