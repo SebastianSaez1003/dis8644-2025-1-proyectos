@@ -16,4 +16,6 @@ dificultades
 
 ## carcasa
 
+![](./imagenes/carcasa/tme-grupo02-carcasa-registro01.JPG)
+
 ## montaje
