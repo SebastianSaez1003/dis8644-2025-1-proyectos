@@ -138,13 +138,13 @@ Descripción general del curso
 
 ![comparativa poster](./imagenes/comparativa-poster.jpg)
 
-Comparativa entre propuesta y diseño final.
+La presente imagen indica la comparativa entre propuesta (0c) y diseño final (0b).
 
-Textos para mesas de avances (medío carta).
+Textos para mesas de avances (medio carta).
 
 [Adjuntar propuesta]
 
-Textos para mesas de proyectos (medío carta).
+Textos para mesas de proyectos (medio carta).
 
 [Adjuntar propuesta]
 
@@ -157,6 +157,16 @@ Propuesta de stickers NFC (en colaboración con Laboratorio de Interacción Digi
 - Soporte físico
 
 Mediciones de mesas para curatoría y distribución espacial de proyectos.
+
+- Medidas mesa: 90.8x70.7x89cm.
+- Medida grosor de madera (en mesa): 1.5 cm  madera.
+- Primera medida 2.30m.
+- Segunda medida 3m.
+- Distancia entre dos mesas 75cm.
+- Distancia máxima entre mesas 3,23m.
+- Espacio para caminar entre mesas 181cm.
+- Añadido a mesas por tela 15cm.
+- 15 cm x2 (por cada extremo).
 
 [Adjuntar medidas]
 
