@@ -19,6 +19,8 @@ awawawaw
 
 ## PCB
 
+wawwawa
+
 ![protoboard vista lateral](./imagenes/protoboard/tme-grupo05-protoboard-registro02.JPG)
 
 ![protoboard vista superior](./imagenes/protoboard/tme-grupo05-protoboard-registro03.JPG)
@@ -26,6 +28,8 @@ awawawaw
 ![protoboard detalle 01](./imagenes/protoboard/tme-grupo05-protoboard-registro04.JPG)
 
 ![protoboard detalle 02](./imagenes/protoboard/tme-grupo05-protoboard-registro06.JPG)
+
+wawawaw
 
 ![PCB vacía](./imagenes/pcb/tme-grupo05-pcb-registro01.JPG)
 
@@ -45,9 +49,13 @@ awawawaw
 
 wawawaw
 
+
+
 ## carcasa
 
 awawawaw
+
+
 
 ## montaje
 
