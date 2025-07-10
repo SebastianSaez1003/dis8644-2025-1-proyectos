@@ -267,13 +267,13 @@ Tras la compra, se recopilaron las boletas para hacer un recuento de todo lo imp
 - Electrónica Ibarra y Orfalí
 - Katode
 
-![]()
-![]()
-![]()
-![]()
-![]()
-![]()
-![]()
+![victronics1](https://github.com/duckusu/dis8644-2025-1-proyectos/blob/main/00-examen/grupo-0c/imagenes/victronics1.jpg)
+![victronics2](https://github.com/duckusu/dis8644-2025-1-proyectos/blob/main/00-examen/grupo-0c/imagenes/victronics2.jpg)
+![victronics3](https://github.com/duckusu/dis8644-2025-1-proyectos/blob/main/00-examen/grupo-0c/imagenes/victronics3.jpg)
+![afel](https://github.com/duckusu/dis8644-2025-1-proyectos/blob/main/00-examen/grupo-0c/imagenes/afel.jpg)
+![mercadolibre](https://github.com/duckusu/dis8644-2025-1-proyectos/blob/main/00-examen/grupo-0c/imagenes/mercadolibre.jpg)
+![Ibarra&orfali](https://github.com/duckusu/dis8644-2025-1-proyectos/blob/main/00-examen/grupo-0c/imagenes/Ibarra%26orfali.jpg)
+![ktd](https://github.com/duckusu/dis8644-2025-1-proyectos/blob/main/00-examen/grupo-0c/imagenes/ktd.jpg)
 
 ## Observaciones y conclusiones
 
