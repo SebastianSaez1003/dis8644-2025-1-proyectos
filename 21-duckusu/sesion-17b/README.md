@@ -26,7 +26,9 @@ Como encargado de los materiales, mi trabajo consistió en hacerme cargo de todo
 ## Materiales del Lab
 Antes de tomar en cuenta la idea de comprar los materiales, primero se reviso en la sala Lab si los materiales necesitados para cada grupo se encontraban en ese lugar, el resultado fue el siguiente:
 
+![materiales caja](https://github.com/duckusu/dis8644-2025-1-proyectos/blob/main/21-duckusu/sesion-17b/archivos/materiales%20caja.jpg)
 
+![caja](https://github.com/duckusu/dis8644-2025-1-proyectos/blob/main/21-duckusu/sesion-17b/archivos/caja.jpg)
 
 ## Bill of Materials (B.O.M)
 Para los BOM de cada grupo, se trabajó en un Excel de donde se desgloso cada uno de los materiales que se iban a usar por grupo y a su vez, cuales le podrían hacer falta, a continuación, estos son los BOM de cada grupo:
@@ -184,6 +186,44 @@ Para los BOM de cada grupo, se trabajó en un Excel de donde se desgloso cada un
 ## Cotizaciones
 Cotizaciones que se realizaron de cada uno de los materiales que se iban a usar en base a lo visto en los bom:
 
+|          Item          	| Precio unidad 	|                                  Precio cantidad                                  	|             Tipo             	|                 Item y proveedor                	|
+|:----------------------:	|:-------------:	|:---------------------------------------------------------------------------------:	|:----------------------------:	|:-----------------------------------------------:	|
+|      Resistencias      	|       x       	|                                   $1.390 x 50un                                   	|             100k             	|          Resistencia 100k (victronics)          	|
+|      Resistencias      	|       x       	|                                   $1.390 x 50un                                   	|              1M              	|           Resistencia 1M (victronics)           	|
+|      Resistencias      	|       x       	|                                    $890 x 50un                                    	|              47k             	|           Resistencia 47k (victronics)          	|
+|           Led          	|       x       	| $590 x 10un (rojo) $740 x 10un (amarillo) $600 x 10un (blanco) $920 x 10un (azul) 	|          5mm difuso          	|              LED 5mm (victronics)               	|
+|           LDR          	|       x       	|                                    $990 x 10un                                    	|       5mm 10Mohm GL5549      	|                 LDR (victronics)                	|
+|      Condensadores     	|       x       	|                                         x                                         	|      Ceramico 680pF 50V      	|        Condensador ceramico (victronics)        	|
+|      Condensadores     	|       x       	|                                    $670 x 10un                                    	|      Electrolitico 100UF     	|      Condensador Electrolítico (victronics)     	|
+|      Condensadores     	|       x       	|                                    $990 x 10un                                    	|    Electrolitico 220UF/50v   	|        Electrolítico 220 uf (victronics)        	|
+|      Condensadores     	|       x       	|                                    $540 x 10un                                    	|    Electrolitico 220UF/25V   	|         Electrolítico 220uf (victronics)        	|
+|      Condensadores     	|       x       	|                                    $440 x 10un                                    	|    Electrolitico 220UF/16v   	|         Electrolítico 220uf (victronics)        	|
+|         Diodos         	|       x       	|                                    $790 x 50un                                    	|            1N4007            	|            Diodo 1N4007 (victronics)            	|
+|         Diodos         	|       x       	|                                    $840 x 50un                                    	|            1N4148            	|            Diodos 1N4148 (victronics)           	|
+|       Transistor       	|      $490     	|                                         x                                         	|   DARL PNP 5A 100V 2W TO220  	|             Transistor (victronics)             	|
+|       Transistor       	|       x       	|                                    $350 x 50un                                    	|                PN2222A       	|             Transistor (victronics)             	|
+|          Chips         	|      $520     	|                                         x                                         	|             L293D            	|                L293D (victronics)               	|
+|          Chips         	|      $390     	|                                         x                                         	|             555,0            	|                 555 (victronics)                	|
+|          Chips         	|      $295     	|                                         x                                         	|            CD4017            	|                CD4017 (altronics)               	|
+|         Puentes        	|       x       	|                                    $990 x 20un                                    	|             20cm             	|               Puentes (victronics)              	|
+|         Switch         	|       x       	|                                    $740 c 10un                                    	|              9mm             	|             Tact switch (victronics)            	|
+|          Botón         	|       x       	|                                    $620 x 10un                                    	|          6*6*h5mm 4P         	|                Botón (victronics)               	|
+|       Pin header       	|       x       	|                                    $320 x 20un                                    	|     3×1 FILA 2.54mm (10u)    	|             Pin header (victronics)             	|
+|      Socket DIP 14     	|      $600     	|                                         x                                         	| DIP14/0.3″ PARA C. INTEGRADO 	|              Socket 14 (victronics)             	|
+|      Socket DIP 16     	|      $470     	|                                         x                                         	|      DIP 16 PIN TORNEADO     	|              Socket 16 (victronics)             	|
+|      Socke DIP 16      	|      $600     	|                                         x                                         	| DIP16/0.3″ PARA C. INTEGRADO 	|              Socket 16 (victronics)             	|
+|     Socket DIP 20      	|      $570     	|                                         x                                         	|      DIP20 PIN TORNEADO      	|              Socket 20 (victronics)             	|
+|     Socket DIP 20      	|      $890     	|                                         x                                         	| DIP20/0.3″ PARA C. INTEGRADO 	|              Socket 20 (victronics)             	|
+|      Socket DIP 18     	|       x       	|                                    $750 x 10un                                    	|      TICVT-18 INTEGRADO      	|              socket 18 (victronics)             	|
+|       Socket DIP       	|       x       	|                                       $5.990                                      	|                              	|                Sockets kit (afel)               	|
+|       Protoboard       	|       x       	|                               $8.630 x kit completo                               	|            PB1660            	|           Protoboard kit (victronics)           	|
+|       Protoboard       	|     $1.990    	|                                         x                                         	|           PROTO400           	|             Protoboard (victronics)             	|
+|   Motor DC Miniatura   	|      $500     	|                                         x                                         	|                              	|                 Motor DC (Afel)                 	|
+|     Piezoeléctrico     	|       x       	|                                   $6.990 x 10un                                   	|             35mm             	|          Piezoeléctrico (mercado libre)         	|
+|   Microfono electret   	|     $5.928    	|                                         x                                         	|            Max4466           	|         Micrófono elec. (mercado libre)         	|
+|     Terminal block     	|    $ 1.990    	|                                         x                                         	|             2 pin            	|      Terminal block 3 pines (mercado libre)     	|
+|     Terminal block     	|      $990     	|                                         x                                         	|             3 pin            	|    Terminal block 3 pines (MCI electronics))    	|
+| Espaciadores Metalicos 	|       x       	|                                   $8.490 x 120un                                  	|              M3              	| Kit de Espaciadores Metálicos (MCI electronics) 	|
 
 ## A comprar
 
