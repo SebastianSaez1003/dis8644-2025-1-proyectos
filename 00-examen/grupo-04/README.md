@@ -1,14 +1,25 @@
 # examen
 
-grupo-xx
+grupo-04
 
 ## integrantes
+- Braulio Figueroa
+- Carlo Martínez
+- Bastian Solís
 
 ## proyecto-02
 
-aprendizajes
+aprendizajes: 
 
 dificultades
+
+## premisa e idea de proyecto
+
+
+
+## protoboard
+
+## esquemático
 
 ## PCB
 
