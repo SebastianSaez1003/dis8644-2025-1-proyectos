@@ -42,22 +42,22 @@ A pesar de que este plazo fue cumplido muchos grupos tuvieron inconvenientes, a 
 
 ## Grupo 01 KET-cloud
 
-### Integrantes: 
+### Integrantes-01: 
 
 Emilia Contreras
 Katalina Riquelme
 Thyare Santander
 
-#### Placa de circuito impreso
+#### Placa de circuito impreso-01
 
 ![PCB control grupo-01](./archivos/g01-control.png)
 ![PCB modulo grupo-01](./archivos/g01-modulo.png)
 
-#### Descripción del proyecto
+#### Descripción del proyecto-01
 
 Es una luz de noche hecha a partir de un detector de sombra invertido. Se enciende con una secuencia gradual.
 
-#### Proceso:
+#### Proceso-01
 
 El proyecto tiene forma de nube, una forma suave y clara, que acompaña al dormir o querer un momento tranquilo y de relajación.
 
@@ -66,36 +66,23 @@ Este grupo decidió, desde el inicio, ser parte única del desarrollo de todos s
 ![nube]()
 ![timelapseNube]()
 
-
-
-
-
-
-
-
-
-
-
-
-
-
 ## Grupo 02 Bongazo
 
-### Integrantes: 
+### Integrantes-02
 
 Sofia etchepare
 Antonia Fuentealba
 Sofía Pérez
 
-
-#### Placa de circuito impreso
+#### Placa de circuito impreso-02
 
 ![PCB grupo-02 Bongazo](./archivos/g02-PCB.png)
 
-#### Descripción del proyecto
+#### Descripción del proyecto-02
+
 Es un instrumento de percusión que mediante un piezo eléctrico se envía señales para alterar la frecuencia de un speaker.
 
-#### Proceso
+#### Proceso-02
 
 Desde el primer momento tuvieron definida una identidad visual que se complemento perfectamente con las decisiones formales, al integrar ambos aspectos se consiguió que el objeto invite a la percusión mediante su color vibrante y formas punteagudas presentes en su logo. El equipo nos pidió ayuda con el diseño, modelado e impresión de la carcasa, ya que, al ser de la mención gráfico, no están familiarizadas con el modelado 3D. 
 
@@ -127,81 +114,52 @@ Para la parte del potenciómetro sólo tuvimos que hacer una impresión, ya que 
 
 ![Pruebas de calce](./archivos/grupo-02/test-calce.JPG)
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ## Grupo 03 Spectra
 
-### Integrantes: 
+### Integrantes-03
 
 Sofía Cartes
 Isabella Gutierrez
 Valentina Ruz
 
-#### Placa de circuito impreso
+#### Placa de circuito impreso-03
 
 ![PCB grupo-03 Spectra](./archivos/g03-spectra.png)
 
-#### Descripción del proyecto
+#### Descripción del proyecto-03
 
 Es un controlador de luces leds de colores que se activan con el sonido.
 
-#### Proceso
+#### Proceso-03
 
 El equipo planteó desde el inicio el uso de acrílico, por lo que se volvió un desafío el fijar la placa a su carcasa sin romper la transparencia del material. Como primera propuesta, por parte de nuestro grupo, se planteó el uso de acrílico curvado para crear una especie de riel dentro de la estructura, lo que lograba no romper la transparencia y exponer al exterior la placa. 
 
-
 ![Propuesta “rieles de acrílico”](./archivos/grupo-03/PropuestaAcrilico.jpg)
-
 
 El grupo, en un comienzo, consideró viable esta opción, pero luego decidieron crear una base de impresión 3D en PLA que contuviera la placa y los componentes para fijarlos de manera ordenada y estratégica respecto al funcionamiento de su proyecto.
 
 Este grupo modeló su propia carcasa y acudió al grupo 00a por consejos relacionados a la impresión 3D y los procesos para fijar la placa. Al mostrarnos su modelo vimos que tenían pensado imprimir muchas piezas distintas y pequeñas, por lo que nosotros les
 recomendamos hacer esas piezas directamente en la base final para que sea más fácil imprimirlo y armarlo.
 
-
 ![carcasaGrupo03](./archivos/grupo-03/CarcasaGrupo03.gif)
 
 ## Grupo 04 MeowTech
 
-### Integrantes: 
+### Integrantes-04
 
 Braulio Figueroa
 Carlo Martínez
 Batian Solíz
 
-#### Placa de circuito impreso
+#### Placa de circuito impreso-04
 
 ![PCB grupo-04 MeowTech](./archivos/g04.png)
 
-#### Descripción del proyecto
+#### Descripción del proyecto-04
 
 Este proyecto  consiste en una pequeña rampa con un sensor de sombra que activa un motor que hace girar un juguete para gatos.
 
-#### Proceso: 
+#### Proceso-04
 
 Durante el proceso los integrantes tienen definida una forma inicial de rampa, para que el gato pudiera apoyar sus patas al momento de querer alcanzar el objeto giratorio, es por eso que el desafío se encontraba en desarrollar y organizar su estructura interna.
 
@@ -240,28 +198,26 @@ Finalmente se propuso el uso de un logo para brindar personalidad al proyecto.
 
 ![logo](./archivos/grupo-04/logo-meowtech.png)
 
-
 ## Grupo 05 Vibe Checker
 
-###Integrantes: 
-
+### Integrantes-05
 
 Antonia Cristi
 Natalia Pilar
 Paulina Vargas
 
-#### Placa de circuito impreso
+#### Placa de circuito impreso-05
 
 ![PCB grupo-05 micrófono falso](./archivos/g05-micfalso.png)
 
 ![PCB grupo-05 ruleta de leds](./archivos/g05-ruleta.png)
 
 
-#### Descripción del proyecto
+#### Descripción del proyecto-05
 
 Este proyecto es una ruleta “Medidora de vibra”  que funciona mediante la percepción de sombra, voz y vibras del usuario.
 
-#### Proceso:
+#### Proceso-05
 
 En primera instancia este grupo planteó la fabricación de su proyecto en base a madera terciada de 3mm cortada en láser y en forma curva, al saber esta información el grupo 0a propuso un método más rápido, mostrando como referente el proyecto MarcaMorsa realizado en uno de los talleres anteriores, planteando el uso de impresión 3D y madera, optimizando tiempos de fabricación y  previniendo posibles errores o fallas al momento de curvar la madera o hacer encajar las partes.
 
@@ -279,21 +235,21 @@ Para luego llegar a la forma final.
 
 ## Grupo 06 fps555
 
-### Integrantes: 
+### Integrantes-06
 
 Santiago Gaete
 Anaís Marschhausen
 Sebastían Sáez
 
-#### Placa de circuito impreso
+#### Placa de circuito impreso-06
 
 ![PCB grupo-06 fps555](./archivos/g06-fps555.png)
 
-#### Descripción del proyecto
+#### Descripción del proyecto-06
 
+- DESCRIPCIÓN -
 
-
-#### Proceso
+#### Proceso-06
 
 Al igual que el grupo 01 este grupo llevó a cabo cada parte de su proyecto, incluyendo la fabricación, de igual manera los integrantes se acercaron a pedir opiniones respecto a que relleno creíamos mejor para que su producto fuera cómodo y adaptable al usuario.
 
