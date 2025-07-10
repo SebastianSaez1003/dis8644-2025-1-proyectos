@@ -91,9 +91,10 @@ El Taller de diseño de máquinas electrónicas es un espacio de encuentro entre
 
 Las piezas de la muestra son evidencia de un arduo trabajo por parte de 26 estudiantes estructurados en 9 equipos: 6 equipos concibieron y fabricaron máquinas electrónicas, mientras que otros 3 equipos se encargaron de tareas de apoyo colectivo que abarcan la planificación de aspectos técnicos, estéticos y funcionales para la producción de las máqiunas y su exposición.
 
-Es así que cada máquina emerge como un fruto de iteraciones grupales, validaciones colectivas y soluciones cocreadas, cuyos procesos y resultados han sido sido rigurosamente documentadas en repositorios de GitHub, donde hemos incluido todas las etapas de desarrollo, archivos de diseño de PCBs en Kicad, simulaciones de circuitos en Falstad, y todo lo necesario para comprender el proceso productivo de cada máquina.
+Es así que cada máquina emerge como un fruto de iteraciones grupales, validaciones colectivas y soluciones cocreadas, cuyos procesos y resultados han sido sido rigurosamente documentadas en repositorios de GitHub, en el que se han incluido todas las etapas de desarrollo: archivos de diseño de PCBs en Kicad, simulaciones de circuitos en Falstad, y todo lo necesario para comprender el proceso productivo de cada máquina.
 
 Bienvenides a un espacio que funciona metafóricamente como una máquina electrónica: cada estudiante, docente y herramienta actúan como componentes conectados para formar un circuito por donde transita energía y datos de forma colectiva. Les animamos a seguir la corriente y disfrutar de la exhibición.
+
 
 #### Cédulas introductoras de los contenidos
 
