@@ -20,12 +20,14 @@ Como encargado de los materiales, mi trabajo consistió en hacerme cargo de todo
 
 ### **Link del Excel / Google sheets: <https://docs.google.com/spreadsheets/d/1CT1RtA_BYuWpyJ54k9VGduSAs_nKiFYd9yf2WvjZ-4g/edit?gid=529027261#gid=529027261>**
 
-### Proveedores
+### Proveedores:
+-	Victronics (https://www.victronics.cl/)
+-	Afel (https://afel.cl/)
+-	Mercado libre (https://www.mercadolibre.cl/)
+-	MCI electronics (https://mcielectronics.cl/)
 
-- Victronics (<https://www.victronics.cl/>)
-- Afel (<https://afel.cl/>)
-- Mercado libre (<https://www.mercadolibre.cl/>)
-- MCI electronics (<https://mcielectronics.cl/>)
+![proveedores](https://github.com/duckusu/dis8644-2025-1-proyectos/blob/main/21-duckusu/sesion-17b/archivos/proveedores.jpg)
+
 
 ## Materiales del Lab
 
