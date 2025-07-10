@@ -19,9 +19,27 @@ El proyecto se centra en la idea de un juguete para gatos que se encuentren solo
 
 ### primeros bocetos y referentes
 
+**Petr Válek**
 
+Kinetic-Petr Válek
+
+![referente](./imagenes/protoboard/tme-grupo04-referente-registro01.jpg)
+
+![referente](./imagenes/protoboard/tme-grupo04-referente-registro02.JPG)
+
+![boceto](./imagenes/protoboard/tme-grupo04-premisa-registro01.jpg)
+
+![boceto](./imagenes/protoboard/tme-grupo04-premisa-registro02.jpg)
+
+![boceto](./imagenes/protoboard/tme-grupo04-premisa-registro03.jpg)
+
+Lo que se busca es que el gato al subir a la plataforma, el sensor LDR detecte sombra y active el motor para que se mueva el juguete de forma automática, para ello el proyecto fue estudiado y se basó en el siguiente esquemático
 
 ## esquemático
+
+![esquematico](./imagenes/protoboard/tme-grupo04-esquemático-registro01.jpg)
+
+Para entender el circuito y explicarlo, debemos separarlo en 3 partes las cuáles son
 
 ## protoboard
 
