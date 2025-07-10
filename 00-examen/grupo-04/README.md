@@ -38,9 +38,8 @@ Lo que se busca es que el gato al subir a la plataforma, el sensor LDR detecte s
 
 ![esquematico](./imagenes/protoboard/tme-grupo04-esquemático-registro01.jpg)
 
-Para entender el circuito y explicarlo, debemos separarlo en 3 partes las cuáles son:
-
-- Fase de sombra/uso de chip comparador: Esta fase es el input del circuito 
+El circuito se compone de 3 fases principales, en primer lugar está la fase de sombra. Esta fase funciona en base a un divisor de voltaje entre un LDR, una resistencia  y un chip lm324 que está funcionando como un comparador de voltaje. También posee un potenciómetro que sirve como un regulador del umbral de luz (lo que está acá adelante planeo decirlo y no escribirlo acá: "es decir, si lo llevamos al plano físico, al regular el umbral específico mediante el potenciómetro en base al nivel de luz del ambiente, si damos sombra al LDR este hará que el led que nos indica el umbral se encienda, en el caso contrario, si exhibimos el LDR a la luz, el led se apaga"). La salida del lm324 pin 1 positivo, está conectada a el pin 4 del chip 555, de esta forma funciona en modo astable ya que el pin 4 activa el reset. Este chip 555 está conectado a un potenciómetro que regula la velocidad del motor, la salida del 555 pin 3 no posee la suficiente energía para hacer funcionar el motor, es por ello que utilizamos un transistor mosfet que funciona como un amplificador de (voltaje, amperes?,duda de como decirlo) y permite que el motor pueda encenderse.
+ 
 
 ## protoboard
 
