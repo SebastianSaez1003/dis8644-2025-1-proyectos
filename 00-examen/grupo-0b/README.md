@@ -51,12 +51,12 @@
 
 ### archivos de fotos
 
-- grupo 01
-- grupo 02
-- grupo 03
-- grupo 04
-- grupo 05
-- grupo 06
+- [Grupo 01](https://github.com/Bernardita-lobo/dis8644-2025-1-proyectos/tree/main/00-examen/grupo-01/imagenes)
+- [Grupo 02](https://github.com/Bernardita-lobo/dis8644-2025-1-proyectos/tree/main/00-examen/grupo-02/imagenes)
+- [Grupo 03](https://github.com/Bernardita-lobo/dis8644-2025-1-proyectos/tree/main/00-examen/grupo-03/imagenes)
+- [Grupo 04](https://github.com/Bernardita-lobo/dis8644-2025-1-proyectos/tree/main/00-examen/grupo-04/imagenes)
+- [Grupo 05](https://github.com/Bernardita-lobo/dis8644-2025-1-proyectos/tree/main/00-examen/grupo-05/imagenes)
+- [Grupo 06](https://github.com/Bernardita-lobo/dis8644-2025-1-proyectos/tree/main/00-examen/grupo-06/imagenes)
 
 ### Registro fotográfico
 
