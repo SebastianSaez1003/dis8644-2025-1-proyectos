@@ -4,9 +4,9 @@ grupo-03
 
 ## Integrantes
 
-- Sofía Cartes
-- Isabella Gutiérrez
-- Valentina Ruz
+- Sofía Cartes / [sofiacartes](https://github.com/sofiacartes)
+- Isabella Gutiérrez / [isabellagutierrezm](https://github.com/isabellagutierrezm)
+- Valentina Ruz / [vxlentiinaa](https://github.com/vxlentiinaa)
 
 ## Proyecto-02
 
@@ -132,6 +132,17 @@ CHIP 4017
 - pin 16 a VVC.
 
 ## kicad
+
+![grupo03-pcb](./imagenes/grupo03-pcb-kicad02.jpg)
+
+![grupo03-pcb](./imagenes/grupo03-pcb-kicad03.jpg)
+
+![grupo03-pcb](./imagenes/grupo03-pcb-kicad04.jpg)
+
+![Esquematico en Kicad](./imagenes/grupo03-esquematico-kicad01.pdf)
+
+![PCB en Kicad](./imagenes/grupo03-pcb-kicad05.pdf)
+
 
 ## Recursos adicionales
 
