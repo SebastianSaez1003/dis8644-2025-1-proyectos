@@ -126,6 +126,16 @@ Exportación de fotografías en Drive (.jpg) para edición en Adobe Photoshop y 
 
 Descripción general del curso (50 × 65.3 cm).
 
+*"El Taller de diseño de máquinas electrónicas es un espacio de encuentro entre lo análogo y lo digital, entre lo artesanal y lo industrial, entre lo local y lo mundial. Su metodología se centra en las prácticas de inteligencias de carácter colectivo en pos del desarrollo de ideas innovadoras por parte de les estudiantes en un espacio.*
+
+*Las piezas de la muestra son evidencia de un arduo trabajo por parte de 26 estudiantes estructurados en 9 equipos: 6 equipos concibieron y fabricaron máquinas electrónicas, mientras que otros 3 equipos se encargaron de tareas de apoyo colectivo que abarcan la planificación de aspectos técnicos, estéticos y funcionales para la producción de las máqiunas y su exposición.*
+
+*Es así que cada máquina emerge como un fruto de iteraciones grupales, validaciones colectivas y soluciones cocreadas, cuyos procesos y resultados han sido sido rigurosamente documentadas en repositorios de GitHub, en el que se han incluido todas las etapas de desarrollo: archivos de diseño de PCBs en Kicad, simulaciones de circuitos en Falstad, y todo lo necesario para comprender el proceso productivo de cada máquina.*
+
+*Bienvenides a un espacio que funciona metafóricamente como una máquina electrónica: cada estudiante, docente y herramienta actúan como componentes conectados para formar un circuito por donde transita energía y datos de forma colectiva. Les animamos a seguir la corriente y disfrutar de la exhibición".*
+
+▼ **Fuente:** Texto descriptivo iterativo entre grupo-0c, grupo-0b y equipo docente. Grupo 0c. *Texto descriptivo del curso (lámina)* [Github] Recuperado de <https://github.com/IzhakVillegas/dis8644-2025-1-proyectos/tree/main/00-examen/grupo-0b>
+
 [Adjuntar propuesta]
 
 Textos para mesas de avances (medío carta).
@@ -167,4 +177,3 @@ Mediciones de mesas para curatoría y distribución espacial de proyectos.
 ## Conclusiones generales
 
 Se destaca el **ambiente colaborativo** digital y físico de cada uno de los integrantes de este Taller.
-

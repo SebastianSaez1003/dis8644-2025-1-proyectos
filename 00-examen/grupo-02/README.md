@@ -1,6 +1,6 @@
 # examen
 
-grupo-xx
+grupo-02
 
 ## integrantes
 
