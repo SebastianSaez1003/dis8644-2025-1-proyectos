@@ -78,6 +78,8 @@ Debido a que el esquemático en el cuál está basado la protoboard contiene muc
 
 ## PCB
 
+(agregar proceso en fotos y poco texto, ir pasando rápido y explicando hasta llegar a pcb vacía recién llegada de china)
+
 ## soldadura
 
 ## carcasa
