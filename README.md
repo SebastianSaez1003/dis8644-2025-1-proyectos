@@ -18,7 +18,6 @@ dictado durante el primer semestre 2025 (marzo a julio)
 
 ## enlaces a carpetas principales
 
-* [00-proyecto-01](./00-proyecto-01/)
 * [00-proyecto-02](./00-proyecto-02/)
   * [00-proyecto-02/grupo-0a](./00-proyecto-02/grupo-0a/)
   * [00-proyecto-02/grupo-0b](./00-proyecto-02/grupo-0b/)
@@ -30,6 +29,15 @@ dictado durante el primer semestre 2025 (marzo a julio)
   * [00-proyecto-02/grupo-05](./00-proyecto-02/grupo-05/)
   * [00-proyecto-02/grupo-06](./00-proyecto-02/grupo-06/)
 * [00-examen](./00-examen/)
+  * [00-examen/grupo-0a](./00-examen/grupo-0a/)
+  * [00-examen/grupo-0b](./00-examen/grupo-0b/)
+  * [00-examen/grupo-0c](./00-examen/grupo-0c/)
+  * [00-examen/grupo-01](./00-examen/grupo-01/)
+  * [00-examen/grupo-02](./00-examen/grupo-02/)
+  * [00-examen/grupo-03](./00-examen/grupo-03/)
+  * [00-examen/grupo-04](./00-examen/grupo-04/)
+  * [00-examen/grupo-05](./00-examen/grupo-05/)
+  * [00-examen/grupo-06](./00-examen/grupo-06/)
 
 ## enlaces a carpetas de docentes
 
