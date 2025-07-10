@@ -94,4 +94,4 @@ nuestras sesiones de clases serán los martes y viernes entre marzo y julio 2025
 | [15b](00-docentes/sesion-15b/)| 06-20 vie| feriado, entrega noche anterior  |
 | [16a](00-docentes/sesion-16a/)| 06-24 mar| salida:  palacio pereira         |
 | [16b](00-docentes/sesion-16b/)| 06-27 vie| preparación examen - carcasas    |
-| [examen](examen/)             | 07-07 tbd| preparación examen - carcasas    |
+| [00-examen](00-examen/)       | 07-11 vie| preparación examen - carcasas    |
