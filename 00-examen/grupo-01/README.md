@@ -22,7 +22,7 @@ Si nos vamos un poco más a lo técnico, podemos ver la capacidad de identificar
 
 Una  cosa muy útil que nos dejó el proyecto-02 es poder manejarnos un poco mejor en Kicad, siendo una habilidad que siempre estará ahí, además de poder ir armando y viendo qué le falta al proyecto, y cómo se verá en su forma final.
 
-dificultades
+- dificultades
 
 Llegar a la cantidad de LEDs que queríamos funcionando al mismo tiempo, y cómo lograrlo.
 
