@@ -10,9 +10,9 @@ grupo-04
 
 ## proyecto-02
 
-aprendizajes:
+aprendizajes: 
 
-dificultades
+dificultades: 
 
 ## premisa e idea de proyecto
 
@@ -38,7 +38,9 @@ Lo que se busca es que el gato al subir a la plataforma, el sensor LDR detecte s
 
 ![esquematico](./imagenes/protoboard/tme-grupo04-esquemático-registro01.jpg)
 
-Para entender el circuito y explicarlo, debemos separarlo en 3 partes las cuáles son
+Para entender el circuito y explicarlo, debemos separarlo en 3 partes las cuáles son:
+
+- Fase de sombra/uso de chip comparador: Esta fase es el input del circuito 
 
 ## protoboard
 
