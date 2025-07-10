@@ -91,6 +91,14 @@ A continuación se presentan imágenes de la PCB final.
 En el primer esquemático, es el del **Chip LM324,** donde conectamos primero el micrófono, luego mediante los condensadores **regulamos la sensibilidad** de este para que capte mejor los sonidos e incorporamos dos LEDS para ver si el circuito funciona correctamente, dentro de este, el potenciómetro nos da la posibilidad de que **elijamos la receptividad.**
 En el segundo esquemático es la **secuencia/contador** de luces mediante el **Chip 4017**, donde el pin 14 va al pin 14 del LM324, lo cual nos da la posibilidad de tener una **frecuencia diferente de los cuatro LEDS** incorporados,y que esta **dependa del sonido emitido.**
 
+Primer esquemático, CHIP LM324
+
+![grupo03-esquematico](./imagenes/grupo03-esquematico-chipLM324.png)
+
+Segundo esquemático, CHIP 4017
+
+![grupo03-esquematico](./imagenes/grupo03-esquematico-chip4017.png)
+
 DESCRIPCIÓN:
 
 - **LM324** nos sirvió para **amplificar la señal emitida y poder regular la sensibilidad** de la recepción de los sonidos (micrófono)
