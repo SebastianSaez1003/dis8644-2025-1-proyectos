@@ -82,3 +82,26 @@ La responsable de esta sección es @Bernardita-lobo.
 - Esta sección estará dividida de acuerdo a las distintas etapas del proceso que desarrollaron los grupos. Entre estas se incluyen: el maqueteo en protoboard, la creación de los esquemáticos, el diseño y fabricación de las PCBs, las soldaduras, el modelado de las carcasas y sus impresiones. Cada parte estará acompañada por una pieza visual, por ejemplo, las protoboard o algunas de las primeras impresiones 3D que se fueron modificando a lo largo del proceso, lo que permitirá comprender fácilmente cada etapa. Además, se incluirá un video de apoyo. Esta sección funcionará como una recopilación de los procesos productivos que atravesaron los grupos de trabajo para llegar al resultado final.
 
 - Los archivos de Rhino están subidos en la carpeta [Modelados](https://github.com/Bernardita-lobo/dis8644-2025-1-proyectos/tree/main/00-proyecto-02/grupo-0b/modelados)
+
+***
+
+Espacio a cargo de [@Camila-Parada](https://github.com/Camila-Parada)
+
+### Texto e información contenida en soportes impresos
+
+#### Afiche introductorio a la exhibición
+
+El Taller de diseño de máquinas electrónicas es un espacio de encuentro entre lo análogo y lo digital, entre lo artesanal y lo industrial, entre lo local y lo mundial. Su metodología se centra en las prácticas de inteligencias de carácter colectivo en pos del desarrollo de ideas innovadoras por parte de les estudiantes en un espacio.
+
+Las piezas de la muestra son evidencia de un arduo trabajo por parte de 26 estudiantes estructurados en 9 equipos: 6 equipos concibieron y fabricaron máquinas electrónicas, mientras que otros 3 equipos se encargaron de tareas de apoyo colectivo que abarcan la planificación de aspectos técnicos, estéticos y funcionales para la producción de las máqiunas y su exposición.
+
+Es así que cada máquina emerge como un fruto de iteraciones grupales, validaciones colectivas y soluciones cocreadas, cuyos procesos y resultados han sido sido rigurosamente documentadas en repositorios de GitHub, en el que se han incluido todas las etapas de desarrollo: archivos de diseño de PCBs en Kicad, simulaciones de circuitos en Falstad, y todo lo necesario para comprender el proceso productivo de cada máquina.
+
+Bienvenides a un espacio que funciona metafóricamente como una máquina electrónica: cada estudiante, docente y herramienta actúan como componentes conectados para formar un circuito por donde transita energía y datos de forma colectiva. Les animamos a seguir la corriente y disfrutar de la exhibición.
+
+
+#### Cédulas introductoras de los contenidos
+
+Parte 1: Esta exposición surge gracias al modelado de ideas generadas por cada grupo para desarrollar un objeto que funcionara en base a un circuito eléctrico. Para simular el comportamiento de la red en conjunto con la corriente eléctrica se trabajó con el simulador “Falstad”. Por otra parte, para generar diagramas, afianzar las piezas y diseño de las placas impresas se usó el software de KiCad. Estás últimas fueron fabricadas por “JLCPBC”, y entregadas al curso para su pronta soldadura de los componentes y montaje del objeto.
+
+Parte 2: Estas piezas trascienden su función: son manifestaciones tangibles de un enfoque sistémico del diseño. Son resultado del potencial de las redes colaborativas, donde la interconexión humana fue tan esencial como las redes electrónicas. Es así que la muestra propone repensar la práctica del diseño electrónico como un ecosistema sinérgico, en el que la innovación rompe las barreras entre disciplinas, se despliega y hace eco gracias al flujo horizontal de saberes.
