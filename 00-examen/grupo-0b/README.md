@@ -1,4 +1,4 @@
-# examen
+# Examen
 
 ## Grupo-0b
 
@@ -8,12 +8,15 @@
 - [José Morales](https://github.com/jotamorales-romulus).
 - [Camila Parada](https://github.com/Camila-Parada).
 
-## Referentes de documentación en imagen y plan de documentación
+## registro fotografico y plan de documentacion
 
 La responsable de esta sección es @Bernardita-lobo.
 
+- mi trabajo consistió en la gestión, captura y edición fotográfica de los protoboards, placas PCB y carcasas desarrollados por mis compañeros.
+
 ### Referentes e investigación para los registros
 
+- Para esto, inicié con una investigación de referentes fotográficos vinculados al área tecnológica y de producto, con el fin de definir un estilo visual coherente.
 - Estas fotografías de productos que me gustaron las tomé como referencia. Me pareció simple y neutra la manera en que expone sus productos, pero también muy acotada. <https://www.trucco.photography/productos>
 
 ![Foto de referente fotográfico](./imagenes/referentes/tme-proyecto02-referente02.jpeg)
@@ -27,6 +30,33 @@ La responsable de esta sección es @Bernardita-lobo.
 ▼ Fuentes: <http://martisans.com/wp-content/uploads/2022/06/Marshall-BCN_201_R3-6000x4000.jpg> y  <http://martisans.com/wp-content/uploads/2021/10/2021-02-10_stock6271-2500x4000.jpg>
 
 - Además, revisé un video como referencia para comprender mejor qué elementos son necesarios al momento de fotografiar los procesos. <https://youtu.be/75OEz5csiP8?si=EtXw4-0HqXXj7hrX>
+
+### Plan de documentación
+
+- Luego, planifiqué el set fotográfico: definí que el fondo sería neutro para mantener una estética limpia y facilitar su integración con la identidad gráfica y tipográfica del proyecto.
+- En un comienzo se consideró el uso de fondos de color, pero se descartó por razones de legibilidad y coherencia visual.
+- Organicé los horarios de las sesiones y diseñé una pauta de tomas que incluyó tres tipos de encuadres: una toma en perspectiva, una cenital (desde arriba) y una de detalle. Esta variedad buscó capturar tanto la forma general como las terminaciones de cada objeto.
+
+Realice una selección de las fotografías, edité las imágenes en Photoshop, ajustando luz, color y recorte según los formatos definidos previamente.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ### Plan de documentación
 
