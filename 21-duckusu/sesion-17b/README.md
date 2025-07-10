@@ -33,7 +33,7 @@ Como encargado de los materiales, mi trabajo consistió en hacerme cargo de todo
 
 Antes de tomar en cuenta la idea de comprar los materiales, primero se reviso en la sala Lab si los materiales necesitados para cada grupo se encontraban en ese lugar, el resultado fue el siguiente:
 
-![materiales caja](https://github.com/duckusu/dis8644-2025-1-proyectos/blob/main/21-duckusu/sesion-17b/archivos/materiales%20caja.jpg)
+![caja1](https://github.com/duckusu/dis8644-2025-1-proyectos/blob/main/21-duckusu/sesion-17b/archivos/caja1.jpg)
 
 ![caja](https://github.com/duckusu/dis8644-2025-1-proyectos/blob/main/21-duckusu/sesion-17b/archivos/caja.jpg)
 
@@ -273,4 +273,4 @@ Tras la compra, se recopilaron las boletas para hacer un recuento de todo lo imp
 ![afel](./archivos/afel.jpg)
 ![mercado libre](./archivos/mercado-libre.jpg)
 ![ibarra y orfali](./archivos/ibarra-orfali.jpg)
-![Katode](./archivos/katode.jpg)
+![ktd](https://github.com/duckusu/dis8644-2025-1-proyectos/blob/main/21-duckusu/sesion-17b/archivos/ktd.jpg)
