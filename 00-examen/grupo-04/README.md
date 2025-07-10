@@ -21,7 +21,7 @@ El proyecto se centra en la idea de un juguete para gatos que se encuentren solo
 
 **Petr Válek**
 
-Kinetic-Petr Válek
+Petr Válek - Kinetic
 
 ![referente](./imagenes/protoboard/tme-grupo04-referente-registro01.jpg)
 
