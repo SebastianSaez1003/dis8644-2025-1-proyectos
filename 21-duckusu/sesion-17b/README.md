@@ -265,10 +265,10 @@ Tras la compra, se recopilaron las boletas para hacer un recuento de todo lo imp
 - Electrónica Ibarra y Orfalí
 - Katode
 
-![victronics 1](https://github.com/duckusu/dis8644-2025-1-proyectos/blob/main/21-duckusu/sesion-17b/archivos/victronics%201.jpg)
-![victronics 2](https://github.com/duckusu/dis8644-2025-1-proyectos/blob/main/21-duckusu/sesion-17b/archivos/victronics%202.jpg)
-![victronics 3](https://github.com/duckusu/dis8644-2025-1-proyectos/blob/main/21-duckusu/sesion-17b/archivos/victronics%203.jpg)
-![afel](https://github.com/duckusu/dis8644-2025-1-proyectos/blob/main/21-duckusu/sesion-17b/archivos/afel.jpg)
-![mercado libre](https://github.com/duckusu/dis8644-2025-1-proyectos/blob/main/21-duckusu/sesion-17b/archivos/mercado%20libre.jpg)
-![Ibarra & orfali](https://github.com/duckusu/dis8644-2025-1-proyectos/blob/main/21-duckusu/sesion-17b/archivos/Ibarra%20%26%20orfali.jpg)
-![Katode](https://github.com/duckusu/dis8644-2025-1-proyectos/blob/main/21-duckusu/sesion-17b/archivos/Katode.jpg)
+![victronics 1](./archivos/victronics-1.jpg)
+![victronics 2](./archivos/victronics-2.jpg)
+![victronics 3](./archivos/victronics-3.jpg)
+![afel](./archivos/afel.jpg)
+![mercado libre](./archivos/mercado-libre.jpg)
+![ibarra y orfali](./archivos/ibarra-orfali.jpg)
+![Katode](./archivos/katode.jpg)
