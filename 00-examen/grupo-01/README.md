@@ -28,7 +28,7 @@ Llegar a la cantidad de LEDs que queríamos funcionando al mismo tiempo, y cómo
 
 Que el detector de sombre hiciera lo que necesitábamos, que es que encienda cuando llega sombra, y no al revés.
 
-Encontrar loa potenciómetros correctos para que lograr las acciones previstas.
+Encontrar los potenciómetros correctos para que lograr las acciones previstas.
 
 Armar el circuito final conectado al secuenciador, con los transistores.
 
