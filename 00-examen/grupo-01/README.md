@@ -4,13 +4,13 @@ grupo-01
 
 ## integrantes
 
- - Emilia Contreras / [hazzaily](https://github.com/hazzaily)
- - Katalina Riquelme / [katalinariquelme](https://github.com/katalinariquelme)
- - Thyare Santander / [thyare08](https://github.com/thyare08)
+- Emilia Contreras / [hazzaily](https://github.com/hazzaily)
+- Katalina Riquelme / [katalinariquelme](https://github.com/katalinariquelme)
+- Thyare Santander / [thyare08](https://github.com/thyare08)
 
 ## proyecto-02
 
- - aprendizajes
+- aprendizajes
 
 Dentro de los aprendizajes podemos rescatar el revisar las entregas en GitHub muchas veces, al punto de saber qué es lo que estamos haciendo y tratando de no dejar pasar ningún error.
 
@@ -18,17 +18,17 @@ También el trabajar con tiempo, esto porque facilita muchas cosas y nos da tiem
 
 Aprendimos a cómo manejar la frustación de que las cosas no nos resulten a la primera, al menos mejor que en el inicio. Y con la mentalidad de que todo tiene una solución.
 
-Si nos vamos un poco más a lo técnico, podemos ver la capacidad de identificar problemas y soluciones en cuanto al proyecto, podiendo apoyarnos un poco más entre nosotras, sin necesariemante recurrir a alguien más. 
+Si nos vamos un poco más a lo técnico, podemos ver la capacidad de identificar problemas y soluciones en cuanto al proyecto, podiendo apoyarnos un poco más entre nosotras, sin necesariemante recurrir a alguien más.
 
 Una  cosa muy útil que nos dejó el proyecto-02 es poder manejarnos un poco mejor en Kicad, siendo una habilidad que siempre estará ahí, además de poder ir armando y viendo qué le falta al proyecto, y cómo se verá en su forma final.
 
-dificultades
+- dificultades
 
 Llegar a la cantidad de LEDs que queríamos funcionando al mismo tiempo, y cómo lograrlo.
 
 Que el detector de sombre hiciera lo que necesitábamos, que es que encienda cuando llega sombra, y no al revés.
 
-Encontrar loa potenciómetros correctos para que lograr las acciones previstas.
+Encontrar los potenciómetros correctos para que lograr las acciones previstas.
 
 Armar el circuito final conectado al secuenciador, con los transistores.
 

@@ -1,6 +1,7 @@
 # examen
 
 grupo-03
+grupo-03
 
 ## Integrantes
 
@@ -12,28 +13,28 @@ grupo-03
 
 - aprendizajes
 
-Trabajo en equipo; el hacer y rehacer un circuito para lograr que funcione, paciencia,  potenciómetro de 1m ohm para regular las luces junto al de 500k
+Trabajo en equipo, el hacer y rehacer un circuito para lograr que funcione, paciencia, potenciómetro de 1m ohm para regular las luces junto al de 500k.
 
-soldar
+- soldar
 
-cómo interactúa el objeto con el espacio, ya que como grupo definimos que ciertos elementos sobresalen de la pcb para que el usuario interactúe con estos para que funcione tal como esperamos
+Cómo interactúa el objeto con el espacio, ya que como grupo definimos que ciertos elementos sobresalen de la pcb para que el usuario interactúe con estos para que funcione tal como esperamos.
 
-elección de luces, material y refracción, interacción de la luz con distintos objetos.
+Elección de luces, material y refracción, interacción de la luz con distintos objetos.
 
 - dificultades
 
-que el circuito funcionara como queríamos, porque había veces que **funcionaba pero su sensibilidad no era la que necesitábamos** (poca sensibilidad).
+Que el circuito funcionara como queríamos, porque había veces que **funcionaba pero su sensibilidad no era la que necesitábamos** (poca sensibilidad).
 
-probar distintos micrófonos y sus sensibilidades.
+Probar distintos micrófonos y sus sensibilidades.
 
-decisión de la forma de la carcasa
+Decisión de la forma de la carcasa.
 
 ## PCB
 
 Prototipado de circuitos en protoboard
 
 - El circuito de entrada reacciona al sonido para medir la sensibilidad del micrófono, mediante un potenciómetro.
-- El circuito de salida usa luces LEDS de colores para representar, y ver el sonido que entra en el circuito.
+- El circuito de salida usa luces LED de colores para representar, y ver el sonido que entra en el circuito.
   
 A continuación se presentan imágenes de las protoboards usadas.
 
@@ -44,7 +45,6 @@ A continuación se presentan imágenes de las protoboards usadas.
 ![grupo03-pcb-1](./imagenes/protoboard/tme-grupo03-registro01.JPG)
 
 ![grupo03-pcb-1](./imagenes/protoboard/tme-grupo03-registro05.JPG)
-
 
 A continuación se presentan imágenes de la PCB final.
 
@@ -84,7 +84,7 @@ A continuación se presentan imágenes de la PCB final.
 |terminal block | 1  | |
 |pernos m2      |4     | |
 
-- Los LEDS de 5mm son de **colores variados**  (verde, blanco, amarillo, rojo, azul)
+- Los LEDs de 5mm son de **colores variados**  (verde, blanco, amarillo, rojo, azul).
 
 ## Esquemático
 
@@ -101,7 +101,7 @@ Segundo esquemático, CHIP 4017
 
 DESCRIPCIÓN:
 
-- **LM324** nos sirvió para **amplificar la señal emitida y poder regular la sensibilidad** de la recepción de los sonidos (micrófono)
+- **LM324** nos sirvió para **amplificar la señal emitida y poder regular la sensibilidad** de la recepción de los sonidos (micrófono).
 
 CONEXIONES UTILIZADAS:
 
@@ -111,15 +111,15 @@ CHIP LM324
 
 - pin 3 hacia dos resistencias de 10k, una hacia VCC y otra a GND.
 
-- pin 4 a  VVC
+- pin 4 a  VCC.
 
-- pin 5 a GND
+- pin 5 a GND.
 
 - pin 6 va con una conexión al pin 1, pasando por la resistencia de 10k y el condensador de 1uF, anteriormente mencionados. También, está conectado al diodo 1N5819 en serie a la resistencia de 22k, intersectando con el pin 7 que está conectado al diodo 1N5819, siguiendo a la resistencia de 220, al condensador de 10uF, resistencia 10k, llegando al pin 10.
 
 - pin 9 se dirige a la resistencia de 1k, conectando con el pin 8 dirigiéndose a GND por medio una resistencia de 1k y un LED. De igual manera, la conexión anterior pasa por el pin 12.
 
-- pin 13, está conectado al pin central de un potenciómetro de 500k y sus otros pines uno a VVC y otro a GND.
+- pin 13 está conectado al pin central de un potenciómetro de 500k y sus otros pines uno a VVC y otro a GND.
 
 - pin 14 hacia GND, mediante una resistencia de 1k y al LED.
 
@@ -137,7 +137,7 @@ CHIP 4017
 
 - pin 15 para hacer reset se conecta al pin 10.
 
-- pin 16 a VVC.
+- pin 16 a VCC.
 
 ## kicad
 
@@ -151,8 +151,17 @@ CHIP 4017
 
 ![PCB en Kicad](./imagenes/grupo03-pcb-kicad05.pdf)
 
+![grupo03-pcb](./imagenes/grupo03-pcb-kicad02.jpg)
 
-## Recursos adicionales
+![grupo03-pcb](./imagenes/grupo03-pcb-kicad03.jpg)
+
+![grupo03-pcb](./imagenes/grupo03-pcb-kicad04.jpg)
+
+![Esquematico en Kicad](./imagenes/grupo03-esquematico-kicad01.pdf)
+
+![PCB en Kicad](./imagenes/grupo03-pcb-kicad05.pdf)
+
+## recursos adicionales
 
 - El **Chip LMV324M** del SparkFun Sound Detector **lo desglosamos**, por así decirlo, para tener el chip aparte y **poder regular la sensibilidad del micrófono.**
 
@@ -160,46 +169,50 @@ CHIP 4017
 
 ## Soldadura
 
-Se utilizó soldadura sin plomo y los cautines del laboratorio (ersa  i-con pico) (weller)
-a 400°
+Se utilizó soldadura sin plomo y los cautines del laboratorio (ersa i-con pico) (weller)
+a 400°C.
 
 - Pasos para soldar:
 
 1. Se pone el cautín  3 seg. en el pad para calentar
 2. Colocar soldadura
 3. Mantener 3seg.
-4. Sacar cautin.
+4. Sacar cautín.
 
-Con mucho cuidado
+El proceso se realizó con mucho cuidado.
 
 **Recomendaciones:** Utilizamos cinta de papel para que los componentes no se movieran y antes de soldar, revisamos el esquemático y medimos con multímetro cada componente para verificar su valor.
 
+Solo ocurrieron **dos percances**, ya que el socket del 4017 lo colocamos al revés pero, esto tiene **diferencia mecánica y no eléctrica** . Por otra parte, la huella de las resistencia en kicad es más pequeña pero los acomodamos para que quepan bien sin problemas.
 Sólo ocurrieron **dos percances**, ya que el socket del 4017 lo colocamos al revés pero, esto tiene **diferencia mecánica y no eléctrica** . Por otra parte, la huella de las resistencias en kicad es más pequeña pero las acomodamos para que quepan bien sin problemas.
 
 ## Carcasa
 
-Decidimos hacer una forma ortogonal, ya que nosotras relacionamos la electrónica con la **geometría,** debido a la **representación gráfica** que pusimos en la pcb, por eso decidimos seguir con la idea en cuanto a la forma de un **prisma** ya que, al buscar sobre los estados de la luz encontramos uno que es el **espectro visible .**
+Decidimos hacer una forma ortogonal, ya que nosotras relacionamos la electrónica con la **geometría,** debido a la **representación gráfica** que pusimos en la pcb, por eso decidimos seguir con la idea en cuanto a la forma de un **prisma** ya que, al buscar sobre los estados de la luz encontramos uno que es el **espectro visible.**
 
 Según **Erco**, el espectro visible "Se denomina espectro a la distribución de las **ondas electromagnéticas.** Solo una pequeña parte en el rango entre 380 y 780 nanómetros (nm) es visible para el ser humano; este rango es lo que **denominamos luz."**
 
 <https://www.erco.com/es/planificacion-de-iluminacion/conocimientos-luminotecnicos/fotometria/espectro-visible-7528/>
 
-Dicho en otras palabras, es cuando la luz pasa a través de un prisma/cristal y emite la **reflexión de colores.**
+En otras palabras, es cuando la luz pasa a través de un prisma o cristal y emite una **reflexión de colores.**
 
 - Decisión de materiales y colores
   
 **Materiales:**
 
-Impresión 3D PLA+ (marca esun). Realizado en Bambulab.
+Impresión 3D PLA + (marca esun). Realizado en Bambulab.
   
-Vinilo tornasol transparentoso. Comprado en mercado libre.
+Vinilo tornasol transparente. Comprado en Mercado Libre.
 
+Acrílico transparente de 2 mm. Comprado en Acrílicos Chile.
 Acrílico transparente de 2 mm. Comprado en Acrílicos Chile.
 
 Colores utilizados:
+
+Impresión 3D PLA+ rosado ya que, el vinilo utilizado tiene esta tonalidad, comprado en Mercado Libre.
 Impresión 3D PLA+ rosada ya que, el vinilo tornasol que utilizamos tiene tonalidades rosadas.
 
-Vinilo tornasol transparentoso.
+Vinilo tornasol transparente.
 
 Acrílico transparente.
 
