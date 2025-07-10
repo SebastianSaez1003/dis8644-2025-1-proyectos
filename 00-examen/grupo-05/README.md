@@ -11,21 +11,21 @@ grupo-05
 
 ### aprendizajes
 
-Pedir ayuda a gente externa al equipo (específicamente los grupos 00), organizarnos en estaciones de trabajo para facilitar el avance durante el día
+Pedir ayuda a gente externa al equipo de trabajo, organizarnos en estaciones de trabajo para facilitar el avance durante el día.
 
 ### dificultades
 
-El circuito de la ruleta en las placas no funcionaba como se esperaba
+El circuito de la ruleta en las placas no funcionaba como se esperaba.
 
-Los cables para soldar los componentes colgantes se cortaban constantemente a la altura de la placa
+Los cables para soldar los componentes colgantes se cortaban constantemente a la altura de la placa.
 
-Se nos olvidó quitar un chip al momento de soldar y lo quemamos, pero conseguimos darnos cuenta y cambiarlo
+Se nos olvidó quitar un chip al momento de soldar y lo quemamos, pero conseguimos darnos cuenta y cambiarlo.
 
-El circuito no recibía el input del LDR
+El circuito no recibía el input del LDR.
 
-[FranUDP](https://github.com/FranUDP) y Aarón nos ayudaron a darnos cuenta que el chip LM324 no lo habíamos conectado a tierra ni VCC en el esquemático, así que en la placa final tampoco estaba conectado
+[FranUDP](https://github.com/FranUDP) y Aarón nos ayudaron a darnos cuenta que el chip LM324 no lo habíamos conectado a tierra ni VCC en el esquemático, así que en la placa final tampoco estaba conectado.
 
-La solución que nos dió Aarón fue conectar los pines 4 y 11 externamente a la alimentación de la placa
+Aarón nos sugirió como solución conectar los pines 4 y 11 externamente a la alimentación de la placa, tristemente no resolvió el problema.
 
 ![chip LM324 con pin 4 levantado](./imagenes/procesos/proceso_01.jpg)
 
@@ -37,11 +37,9 @@ La solución que nos dió Aarón fue conectar los pines 4 y 11 externamente a la
 
 ## PCB
 
-Protoboards de prototipado
+El proyecto consiste en dos circuitos paralelos con sus respectivas PCBs; el primer circuito consiste en un detector de sombra que, por medio de un LDR, activa una secuencia de 10 pasos de LEDs, y el segundo es un micrófono electret que enciende una luz LED por medio del input de sonido. Estos circuitos **no** están relacionados en funcionalidad; el circuito del micrófono solo es un truco para el usuario.
 
-El proyecto consiste en dos circuitos paralelos; el primero consiste en un detector de sombra que activa una secuencia de leds de 10 pasos, y el segundo en un micrófono electret que enciende una luz led por medio del input de sonido. Estos circuitos **no** están relacionados en funcionalidad; el circuito del micrófono solo es un truco para el usuario.
-
-Imágenes de las protoboards
+Imágenes de las protoboards de prototipado
 
 ![protoboards vista lateral](./imagenes/protoboard/tme-grupo05-protoboard-registro01.JPG)
 
