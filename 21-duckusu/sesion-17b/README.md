@@ -28,6 +28,8 @@ Como encargado de los materiales, mi trabajo consistió en hacerme cargo de todo
 -	Mercado libre (https://www.mercadolibre.cl/)
 -	MCI electronics (https://mcielectronics.cl/)
 
+![proveedores](https://github.com/duckusu/dis8644-2025-1-proyectos/blob/main/21-duckusu/sesion-17b/archivos/proveedores.jpg)
+
 
 ## Materiales del Lab
 
