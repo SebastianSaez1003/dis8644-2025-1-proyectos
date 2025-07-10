@@ -76,9 +76,7 @@ dis844-2025
 
 ► **Izhak Villegas** */IzhakVillegas* **textos técnicos y documentación**
 
-- **proyecto-02-01** Luz de noche en secuencia gradual con forma de nube (según documentación)
-
-[comment] Propuestas: Nube luminosa nocturna, nube luminosa secuencial, nube de luz nocturna progresiva. Preferentemente "Nube de luz nocturna progresiva".
+- **proyecto-02-01** KET-cloud
 
 **Emilia Contreras** */hazzaily*
 
