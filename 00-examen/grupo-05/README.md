@@ -33,7 +33,7 @@ wawawaw
 
 ![PCB vacía](./imagenes/pcb/tme-grupo05-pcb-registro01.JPG)
 
-![PCB vacía](./imagenes/pcb/tme-grupo05-pcb-registro03.JPG)
+![PCB vacía reverso](./imagenes/pcb/tme-grupo05-pcb-registro03.JPG)
 
 ![PCB juntas](./imagenes/pcb/tme-grupo05-pcb-registro07.JPG)
 
@@ -55,7 +55,13 @@ wawawaw
 
 awawawaw
 
+![carcasa vista axial 01](./imagenes/carcasa/tme-grupo05-carcasa-registro01.jpg)
 
+![carcasa vista axial 02](./imagenes/carcasa/tme-grupo05-carcasa-registro03.jpg)
+
+![carcasa vista superior](./imagenes/carcasa/tme-grupo05-carcasa-registro04.jpg)
+
+![carcasa detalle](./imagenes/carcasa/tme-grupo05-carcasa-registro06.jpg)
 
 ## montaje
 
