@@ -37,7 +37,14 @@ Prototipado de circuitos en protoboard
   
 A continuación se presentan imágenes de las protoboards usadas.
 
-IMAGENES
+![grupo03-pcb-1](./imagenes/protoboard/tme-grupo03-registro02.JPG)
+
+![grupo03-pcb-1](./imagenes/protoboard/tme-grupo03-registro03.JPG)
+
+![grupo03-pcb-1](./imagenes/protoboard/tme-grupo03-registro01.JPG)
+
+![grupo03-pcb-1](./imagenes/protoboard/tme-grupo03-registro05.JPG)
+
 
 A continuación se presentan imágenes de la PCB final.
 
