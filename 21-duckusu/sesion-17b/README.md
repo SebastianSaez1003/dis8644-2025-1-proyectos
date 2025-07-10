@@ -1,5 +1,5 @@
 # sesion-17b
-# Examen (borrador)
+# Examen
 ## Grupo 0c
 ### Integrantes
 - Francisco Sthepens
