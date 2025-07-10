@@ -25,7 +25,7 @@ El circuito no recibía el input del LDR
 
 [FranUDP](https://github.com/FranUDP) y Aarón nos ayudaron a darnos cuenta que el chip LM324 no lo habíamos conectado a tierra ni VCC en el esquemático, así que en la placa final tampoco estaba conectado
 
-La solución que nos dió Aarón, fue conectar los pines 4 y 11 externamente a la alimentación de la placa
+La solución que nos dió Aarón fue conectar los pines 4 y 11 externamente a la alimentación de la placa
 
 ![chip LM324 con pin 4 levantado](./imagenes/procesos/proceso_01.jpg)
 
@@ -39,7 +39,7 @@ La solución que nos dió Aarón, fue conectar los pines 4 y 11 externamente a l
 
 Protoboards de prototipado
 
-El proyecto consiste en dos circuitos paralelos; el primero consiste en un detector de sombra y una secuencia de leds de 10 pasos, y el segundo de un micrófono electret que activa una luz led. Estos circuitos no afectan entre sí, y tan solo son un truco para el usuario.
+El proyecto consiste en dos circuitos paralelos; el primero consiste en un detector de sombra que activa una secuencia de leds de 10 pasos, y el segundo en un micrófono electret que enciende una luz led por medio del input de sonido. Estos circuitos **no** están relacionados en funcionalidad; el circuito del micrófono solo es un truco para el usuario.
 
 Imágenes de las protoboards
 
@@ -75,7 +75,7 @@ Decidimos soldar las placas a lo largo de distintos días.
 
 Inicialmente, soldamos una de cada placa con todos los componentes directo en estas para asegurarnos que todo funcionara como debía.
 
-Luego, las otras placas las soldamos con cables para poder montar en la carcasa, pero tuvimos problemas ya que estos cables tendían a cortarse muy fácilmente.
+Luego, en las otras placas, soldamos cables hacia los LEDs y el LDR para poder montarlos en la carcasa, pero tuvimos problemas ya que estos cables tendían a cortarse muy fácilmente.
 
 Finalmente, luego de terminar de soldar y arreglar los cables cortados, montamos las placas correspondientes a la carcasa.
 
@@ -87,11 +87,11 @@ Finalmente, luego de terminar de soldar y arreglar los cables cortados, montamos
 
 ## carcasa
 
-La carcasa se hizo en dos partes, la tapa con terciado de 3mm, y el contendor con impresión 3D PLA+ en Bambulab.
+La carcasa se construyó en dos partes: una tapa hecha en corte láser con terciado de 3mm, y el contendor en impresión 3D.
 
-Las luces LED de la ruleta se colocaron en la parte superior de la carcasa en forma de arco, y el LDR fue situado en el centro para ser accesible al usuario.
+Las luces LED de la ruleta se colocaron en la parte superior de la tapa en forma de arco, y el LDR fue situado en el centro para ser accesible al usuario.
 
-Para la tapa decidimos agregar un diseño inspirado por la rueda de la fortuna de las cartas de tarot, con el centro de esta ruleta alineándose con el LDR.
+Antes de cortar la tapa, decidimos agregar un diseño inspirado por una de las cartas del tarot, la rueda de la fortuna, con el centro de esta rueda alineándose con el posicionamiento del LDR.
 
 ![carta del tarot](./imagenes/procesos/carta_tarot.jpg)
 
@@ -108,5 +108,3 @@ Imágenes de la carcasa
 ![carcasa detalle](./imagenes/carcasa/tme-grupo05-carcasa-registro06.jpg)
 
 ## montaje
-
-????
