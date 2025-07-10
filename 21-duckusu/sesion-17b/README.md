@@ -22,17 +22,16 @@ Como encargado de los materiales, mi trabajo consistió en hacerme cargo de todo
 -	Mercado libre (https://www.mercadolibre.cl/)
 -	MCI electronics (https://mcielectronics.cl/)
 
-**4 imagenes para esta parte**
 
 ## Materiales del Lab
 Antes de tomar en cuenta la idea de comprar los materiales, primero se reviso en la sala Lab si los materiales necesitados para cada grupo se encontraban en ese lugar, el resultado fue el siguiente:
-**2 imagenes para esta parte**
+
 
 
 ## Bill of Materials (B.O.M)
 Para los BOM de cada grupo, se trabajó en un Excel de donde se desgloso cada uno de los materiales que se iban a usar por grupo y a su vez, cuales le podrían hacer falta, a continuación, estos son los BOM de cada grupo:
 
-**Colocar markdown de los bom pero sin el tab de accesibilidad**
+
 
 | Grupo 1 	|          	|    Integrantes   	|                             	|
 |:-------:	|----------	|:----------------:	|-----------------------------	|
@@ -185,17 +184,13 @@ Para los BOM de cada grupo, se trabajó en un Excel de donde se desgloso cada un
 ## Cotizaciones
 Cotizaciones que se realizaron de cada uno de los materiales que se iban a usar en base a lo visto en los bom:
 
-**Colocar markdown de las cotizaciones**
 
 ## A comprar
 
 Despues de analizar la disponibilidad de cada uno de los materiales, se llego a la conclusión de que se tiene que comprar en estos lugares:
-
-**colocar markdown de las cotizaciones**
 
 
 ## Boletas
 
 Tras la compra, se recopilaron las boletas para hacer un recuento de todo lo implementado:
 
-**Imagenes de las boletas de cada lote**
