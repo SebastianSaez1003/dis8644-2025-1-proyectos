@@ -1,22 +1,25 @@
-# examen
+# Examen
 
 ## Grupo-0b
 
 ### integrantes
 
-- [José Morales](https://github.com/jotamorales-romulus).
-- [Bernardita Lobo](https://github.com/Bernardita-lobo).
-- [Camila Parada](https://github.com/Camila-Parada).
+- [José Morales](https://github.com/jotamorales-romulus)
+- [Bernardita Lobo](https://github.com/Bernardita-lobo)
+- [Bernardita Lobo](https://github.com/Bernardita-lobo)
+- [Camila Parada](https://github.com/Camila-Parada)
 
-## Referentes de documentación en imagen y plan de documentación
+## registro fotografico y plan de documentacion
 
-La responsable de esta sección es @Bernardita-lobo.
+- La responsable de esta sección es @Bernardita-lobo.
+- mi trabajo consistió en la gestión, captura y edición fotográfica de los protoboards, placas PCB y carcasas desarrollados por mis compañeros.
 
 ### Referentes e investigación para registros fotográficos
 
-- Basé mi proyecto en [Añadir referentes y explicar]. Sugiere simpleza y neutralidad al momento de exponer sus productos de manera muy acotada. <https://www.trucco.photography/productos>
+- Para esto, inicié con una investigación de referentes fotográficos vinculados al área tecnológica y de producto, con el fin de definir un estilo visual coherente.
+- Estas fotografías de productos que me gustaron las tomé como referencia. Me pareció simple y neutra la manera en que expone sus productos, pero también muy acotada. <https://www.trucco.photography/productos>
 
-![Foto de referente fotográfico](./imagenes/referentes/tme-proyecto02-referente02.jpeg)
+![Foto de referente fotográfico](./imagenes/referentes/tme-examen-referente02.jpeg)
 
 ▼ Fuente: Foto de referente fotográfico. Arturia. *MICROBRUTE*. Recuperado de <https://images.squarespace-cdn.com/content/v1/55814e1de4b0f9f986faf351/1440725269068-ZH3CG5A674FMJMB0ZQ4R/image-asset.jpeg?format=2500w>
 
@@ -26,13 +29,20 @@ La responsable de esta sección es @Bernardita-lobo.
 
 - La idea es que la imagen no solo muestre el objeto, sino también se halla inmerso en su entorno o cómo podría ser utilizado en una situación real. <http://martisans.com/portfolio/>
 
-![Foto de referente fotográfico](./imagenes/referentes/tme-proyecto02-referente03.jpeg)
+![Foto de referente fotográfico](./imagenes/referentes/tme-examen-referente03.jpeg)
 
 ▼ Fuentes: Marshall BCN 201 R3. Recuperado de <http://martisans.com/wp-content/uploads/2022/06/Marshall-BCN_201_R3-6000x4000.jpg>
 
 <http://martisans.com/wp-content/uploads/2021/10/2021-02-10_stock6271-2500x4000.jpg>
 
 - Además, revisé un video como referencia para comprender mejor qué elementos son necesarios al momento de fotografiar los procesos. <https://youtu.be/75OEz5csiP8?si=EtXw4-0HqXXj7hrX>
+
+### Planificación de tomas
+
+- Luego, planifiqué el set fotográfico: definí que el fondo sería neutro para mantener una estética limpia y facilitar su integración con la identidad gráfica y tipográfica del proyecto.
+- En un comienzo se consideró el uso de fondos de color, pero se descartó por razones de legibilidad y coherencia visual.
+- Para poder tomar registros fotográficos del proceso, primero hacemos el montaje del set. Estas fotos las tomamos en una caja de luz con fondo infinito, que cuenta con iluminación integrada. También colocamos un trípode y una cámara.
+- Organicé los horarios de las sesiones y diseñé una pauta de tomas que incluyó tres tipos de encuadres: una toma en perspectiva, una cenital (desde arriba) y una de detalle. Esta variedad buscó capturar tanto la forma general como las terminaciones de cada objeto.
 
 ### Plan de documentación
 
@@ -54,19 +64,22 @@ La responsable de esta sección es @Bernardita-lobo.
 
 - Para las fotografías de las protoboard tomamos tres tipos de tomas: una desde la parte frontal con perspectiva, otra en vista superior para que se aprecien con claridad los circuitos, y una tercera que enfoca algún detalle distintivo que sea necesario destacar.
 
-### pcbs
+### Postproducción
 
-- grupo-01: Morado
+- Realice una selección de las fotografías, edité las imágenes en Photoshop, ajustando luz, color y recorte según los formatos definidos previamente.
+- Estas fotos son subidas a este [Drive](<https://drive.google.com/drive/folders/1OwoyJ_nTuie-A1s_U5647DsOHI4zlNnj?usp=drive_link>), donde están disponibles en formato JPG Además, las fotografías se encuentran organizadas en la carpeta "imagenes" presente en las carpetas de los grupos dentro del repositorio "00-examen", así como en la carpeta "[imagenes](https://github.com/Bernardita-lobo/dis8644-2025-1-proyectos/tree/main/00-examen/grupo-0b/imagenes)" del "grupo-0b", al que pertenece esta misma documentación.
+- Los archivos de las fotos fueron nombrados siguiendo el formato por ejemplo: tme-grupo01-protoboard-registro01, donde se indican las siglas del taller (TME: Taller Máquinas Electrónicas), el número del proyecto, el número del grupo y el número de registro correspondiente.
 
-- grupo-02: Negra
+![Foto de referente fotográfico](./imagenes/referentes/tme-examen-drive.png)
 
-- grupo-03: Verde
+### archivos de fotos
 
-- grupo-04: Azul
-
-- grupo-05: Blanco
-
-- grupo-06: Rojo
+- [Grupo 01](https://github.com/Bernardita-lobo/dis8644-2025-1-proyectos/tree/main/00-examen/grupo-01/imagenes)
+- [Grupo 02](https://github.com/Bernardita-lobo/dis8644-2025-1-proyectos/tree/main/00-examen/grupo-02/imagenes)
+- [Grupo 03](https://github.com/Bernardita-lobo/dis8644-2025-1-proyectos/tree/main/00-examen/grupo-03/imagenes)
+- [Grupo 04](https://github.com/Bernardita-lobo/dis8644-2025-1-proyectos/tree/main/00-examen/grupo-04/imagenes)
+- [Grupo 05](https://github.com/Bernardita-lobo/dis8644-2025-1-proyectos/tree/main/00-examen/grupo-05/imagenes)
+- [Grupo 06](https://github.com/Bernardita-lobo/dis8644-2025-1-proyectos/tree/main/00-examen/grupo-06/imagenes)
 
 ### Registro fotográfico
 
