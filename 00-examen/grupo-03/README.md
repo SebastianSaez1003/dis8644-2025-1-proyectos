@@ -1,18 +1,18 @@
 # examen
 
-grupo-xx
+grupo-03
 
-## integrantes
+## Integrantes
 
 - Sofía Cartes
 - Isabella Gutiérrez
 - Valentina Ruz
 
-## proyecto-02
+## Proyecto-02
 
 - aprendizajes
 
-trabajo en equipo, el hacer y rehacer un circuito para lograr que funcione, paciencia,  potenciómetro de 1m ohm para regular las luces junto al de 500k
+Trabajo en equipo; el hacer y rehacer un circuito para lograr que funcione, paciencia,  potenciómetro de 1m ohm para regular las luces junto al de 500k
 
 soldar
 
@@ -38,6 +38,18 @@ Prototipado de circuitos en protoboard
 A continuación se presentan imágenes de las protoboards usadas.
 
 IMAGENES
+
+A continuación se presentan imágenes de la PCB final.
+
+![grupo03-pcb-1](./imagenes/pcb/tme-grupo03-pcb-registro01.JPG)
+
+![grupo03-pcb-1](./imagenes/pcb/tme-grupo03-pcb-registro03.JPG)
+
+![grupo03-pcb-1](./imagenes/pcb/tme-grupo03-pcb-registro07.JPG)
+
+![grupo03-pcb-1](./imagenes/pcb/tme-grupo03-pcb-registro08.JPG)
+
+![grupo03-pcb-1](./imagenes/pcb/tme-grupo03-pcb-registro11.JPG)
 
 ## Bill of Materials
 
@@ -67,7 +79,7 @@ IMAGENES
 
 - Los LEDS de 5mm son de **colores variados**  (verde, blanco, amarillo, rojo, azul)
 
-## esquematico
+## Esquemático
 
 En el primer esquemático, es el del **Chip LM324,** donde conectamos primero el micrófono, luego mediante los condensadores **regulamos la sensibilidad** de este para que capte mejor los sonidos e incorporamos dos LEDS para ver si el circuito funciona correctamente, dentro de este, el potenciómetro nos da la posibilidad de que **elijamos la receptividad.**
 En el segundo esquemático es la **secuencia/contador** de luces mediante el **Chip 4017**, donde el pin 14 va al pin 14 del LM324, lo cual nos da la posibilidad de tener una **frecuencia diferente de los cuatro LEDS** incorporados,y que esta **dependa del sonido emitido.**
@@ -120,7 +132,7 @@ CHIP 4017
 
 <https://www.sparkfun.com/sparkfun-sound-detector.html>
 
-## soldadura
+## Soldadura
 
 Se utilizó soldadura sin plomo y los cautines del laboratorio (ersa  i-con pico) (weller)
 a 400°
@@ -136,9 +148,9 @@ Con mucho cuidado
 
 **Recomendaciones:** Utilizamos cinta de papel para que los componentes no se movieran y antes de soldar, revisamos el esquemático y medimos con multímetro cada componente para verificar su valor.
 
-Sólo ocurrieron **dos percances**, ya que el socket del 4017 lo colocamos al revés pero, esto tiene **diferencia mecánica y no eléctrica** . Por otra parte, la huella de las resistencia en kicad es más pequeña pero los acomodamos para que quepan bien sin problemas.
+Sólo ocurrieron **dos percances**, ya que el socket del 4017 lo colocamos al revés pero, esto tiene **diferencia mecánica y no eléctrica** . Por otra parte, la huella de las resistencias en kicad es más pequeña pero las acomodamos para que quepan bien sin problemas.
 
-## carcasa
+## Carcasa
 
 Decidimos hacer una forma ortogonal, ya que nosotras relacionamos la electrónica con la **geometría,** debido a la **representación gráfica** que pusimos en la pcb, por eso decidimos seguir con la idea en cuanto a la forma de un **prisma** ya que, al buscar sobre los estados de la luz encontramos uno que es el **espectro visible .**
 
@@ -156,13 +168,13 @@ Impresión 3D PLA+ (marca esun). Realizado en Bambulab.
   
 Vinilo tornasol transparentoso. Comprado en mercado libre.
 
-Acrílico transparente de 2 mm. Comprado en acrílicos chile.
+Acrílico transparente de 2 mm. Comprado en Acrílicos Chile.
 
 Colores utilizados:
-Impresión 3D PLA+ rosada ya que, el vinilo que utilizamos tiene esta tonalidad, comprado en mercado libre.
+Impresión 3D PLA+ rosada ya que, el vinilo tornasol que utilizamos tiene tonalidades rosadas.
 
 Vinilo tornasol transparentoso.
 
 Acrílico transparente.
 
-## montaje
+## Montaje
