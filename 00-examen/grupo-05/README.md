@@ -55,6 +55,8 @@ wawawaw
 
 awawawaw
 
+![carcasa recién impresa](./imagenes/carcasa/tme-grupo05-carcasa-registro00.jpg)
+
 ![carcasa vista axial 01](./imagenes/carcasa/tme-grupo05-carcasa-registro01.jpg)
 
 ![carcasa vista axial 02](./imagenes/carcasa/tme-grupo05-carcasa-registro03.jpg)
