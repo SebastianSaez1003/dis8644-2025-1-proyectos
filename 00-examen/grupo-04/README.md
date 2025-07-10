@@ -28,6 +28,3 @@ dificultades
 ## carcasa
 
 ## montaje
-
-
-![carcasa](./imagenes/tme-grupo04-carcasa-registro05.jpg)
