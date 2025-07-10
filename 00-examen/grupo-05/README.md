@@ -49,7 +49,11 @@ wawawaw
 
 wawawaw
 
+![soldadura de PCBs](./imagenes/soldadura/soldadura_01.jpg)
 
+![soldadura de PCB ruleta](./imagenes/soldadura/soldadura_02.jpg)
+
+![soldadura de PCB micrófono](./imagenes/soldadura/soldadura_03.jpg)
 
 ## carcasa
 
