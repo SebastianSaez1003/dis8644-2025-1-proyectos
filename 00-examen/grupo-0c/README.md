@@ -86,7 +86,7 @@ A continuación, las labores realizadas.
 
  Se diseñó un **formato estandarizado para la carpeta 00-proyecto-02** y se presentó para su posterior aprobación de parte del equipo docente.
 
-imagen referencial
+![plantilla proyecto-02](./imagenes/plantilla-proyecto-02.jpg)
 
 - Se incluyó una estructura de **secciones, lineamientos de redacción y ejemplos visuales**.
 
@@ -116,7 +116,7 @@ Fuente:
 
 Créditos de integrantes (para videos, viñetas y redes sociales).
 
-imagen propuesta
+![texto créditos](./imagenes/texto-creditos.jpg)
 
 Exportación de fotografías en Drive (.jpg) para edición en Adobe Photoshop y posterior subida al repositorio.
 
@@ -124,7 +124,7 @@ Exportación de fotografías en Drive (.jpg) para edición en Adobe Photoshop y 
 
 - Redacción y diseño de materiales impresos (cartulina fluorescente, monocromía):
 
-Descripción general del curso (50 × 65.3 cm).
+Descripción general del curso
 
 *"El Taller de diseño de máquinas electrónicas es un espacio de encuentro entre lo análogo y lo digital, entre lo artesanal y lo industrial, entre lo local y lo mundial. Su metodología se centra en las prácticas de inteligencias de carácter colectivo en pos del desarrollo de ideas innovadoras por parte de les estudiantes en un espacio.*
 
@@ -136,7 +136,9 @@ Descripción general del curso (50 × 65.3 cm).
 
 ▼ **Fuente:** Texto descriptivo iterativo entre grupo-0c, grupo-0b y equipo docente. Grupo 0c. *Texto descriptivo del curso (lámina)* [Github] Recuperado de <https://github.com/IzhakVillegas/dis8644-2025-1-proyectos/tree/main/00-examen/grupo-0b>
 
-[Adjuntar propuesta]
+![comparativa poster](./imagenes/comparativa-poster.jpg)
+
+Comparativa entre propuesta y diseño final.
 
 Textos para mesas de avances (medío carta).
 
