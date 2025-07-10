@@ -1,14 +1,15 @@
 # examen
 
 grupo-03
+grupo-03
 
-## integrantes
+## Integrantes
 
-- Sofía Cartes
-- Isabella Gutiérrez
-- Valentina Ruz
+- Sofía Cartes / [sofiacartes](https://github.com/sofiacartes)
+- Isabella Gutiérrez / [isabellagutierrezm](https://github.com/isabellagutierrezm)
+- Valentina Ruz / [vxlentiinaa](https://github.com/vxlentiinaa)
 
-## proyecto-02
+## Proyecto-02
 
 - aprendizajes
 
@@ -37,7 +38,25 @@ Prototipado de circuitos en protoboard
   
 A continuación se presentan imágenes de las protoboards usadas.
 
-IMÁGENES
+![grupo03-pcb-1](./imagenes/protoboard/tme-grupo03-registro02.JPG)
+
+![grupo03-pcb-1](./imagenes/protoboard/tme-grupo03-registro03.JPG)
+
+![grupo03-pcb-1](./imagenes/protoboard/tme-grupo03-registro01.JPG)
+
+![grupo03-pcb-1](./imagenes/protoboard/tme-grupo03-registro05.JPG)
+
+A continuación se presentan imágenes de la PCB final.
+
+![grupo03-pcb-1](./imagenes/pcb/tme-grupo03-pcb-registro01.JPG)
+
+![grupo03-pcb-1](./imagenes/pcb/tme-grupo03-pcb-registro03.JPG)
+
+![grupo03-pcb-1](./imagenes/pcb/tme-grupo03-pcb-registro07.JPG)
+
+![grupo03-pcb-1](./imagenes/pcb/tme-grupo03-pcb-registro08.JPG)
+
+![grupo03-pcb-1](./imagenes/pcb/tme-grupo03-pcb-registro11.JPG)
 
 ## Bill of Materials
 
@@ -67,10 +86,18 @@ IMÁGENES
 
 - Los LEDs de 5mm son de **colores variados**  (verde, blanco, amarillo, rojo, azul).
 
-## esquematico
+## Esquemático
 
-En el primer esquemático, perteneciente al **Chip LM324,** donde conectamos primero el micrófono, luego mediante los condensadores **regulamos la sensibilidad** de este para que capte mejor los sonidos e incorporamos dos LEDs para ver si el circuito funciona correctamente, dentro de este, el potenciómetro nos da la posibilidad de que **elijamos la receptividad.**
-En el segundo esquemático es la **secuencia/contador** de luces mediante el **Chip 4017**, donde el pin 14 va al pin 14 del LM324, lo cual nos da la posibilidad de tener una **frecuencia diferente de los cuatro LEDs** incorporados, y que esta **dependa del sonido emitido.**
+En el primer esquemático, es el del **Chip LM324,** donde conectamos primero el micrófono, luego mediante los condensadores **regulamos la sensibilidad** de este para que capte mejor los sonidos e incorporamos dos LEDS para ver si el circuito funciona correctamente, dentro de este, el potenciómetro nos da la posibilidad de que **elijamos la receptividad.**
+En el segundo esquemático es la **secuencia/contador** de luces mediante el **Chip 4017**, donde el pin 14 va al pin 14 del LM324, lo cual nos da la posibilidad de tener una **frecuencia diferente de los cuatro LEDS** incorporados,y que esta **dependa del sonido emitido.**
+
+Primer esquemático, CHIP LM324
+
+![grupo03-esquematico](./imagenes/grupo03-esquematico-chipLM324.png)
+
+Segundo esquemático, CHIP 4017
+
+![grupo03-esquematico](./imagenes/grupo03-esquematico-chip4017.png)
 
 DESCRIPCIÓN:
 
@@ -114,13 +141,33 @@ CHIP 4017
 
 ## kicad
 
+![grupo03-pcb](./imagenes/grupo03-pcb-kicad02.jpg)
+
+![grupo03-pcb](./imagenes/grupo03-pcb-kicad03.jpg)
+
+![grupo03-pcb](./imagenes/grupo03-pcb-kicad04.jpg)
+
+![Esquematico en Kicad](./imagenes/grupo03-esquematico-kicad01.pdf)
+
+![PCB en Kicad](./imagenes/grupo03-pcb-kicad05.pdf)
+
+![grupo03-pcb](./imagenes/grupo03-pcb-kicad02.jpg)
+
+![grupo03-pcb](./imagenes/grupo03-pcb-kicad03.jpg)
+
+![grupo03-pcb](./imagenes/grupo03-pcb-kicad04.jpg)
+
+![Esquematico en Kicad](./imagenes/grupo03-esquematico-kicad01.pdf)
+
+![PCB en Kicad](./imagenes/grupo03-pcb-kicad05.pdf)
+
 ## recursos adicionales
 
 - El **Chip LMV324M** del SparkFun Sound Detector **lo desglosamos**, por así decirlo, para tener el chip aparte y **poder regular la sensibilidad del micrófono.**
 
 <https://www.sparkfun.com/sparkfun-sound-detector.html>
 
-## soldadura
+## Soldadura
 
 Se utilizó soldadura sin plomo y los cautines del laboratorio (ersa i-con pico) (weller)
 a 400°C.
@@ -137,8 +184,9 @@ El proceso se realizó con mucho cuidado.
 **Recomendaciones:** Utilizamos cinta de papel para que los componentes no se movieran y antes de soldar, revisamos el esquemático y medimos con multímetro cada componente para verificar su valor.
 
 Solo ocurrieron **dos percances**, ya que el socket del 4017 lo colocamos al revés pero, esto tiene **diferencia mecánica y no eléctrica** . Por otra parte, la huella de las resistencia en kicad es más pequeña pero los acomodamos para que quepan bien sin problemas.
+Sólo ocurrieron **dos percances**, ya que el socket del 4017 lo colocamos al revés pero, esto tiene **diferencia mecánica y no eléctrica** . Por otra parte, la huella de las resistencias en kicad es más pequeña pero las acomodamos para que quepan bien sin problemas.
 
-## carcasa
+## Carcasa
 
 Decidimos hacer una forma ortogonal, ya que nosotras relacionamos la electrónica con la **geometría,** debido a la **representación gráfica** que pusimos en la pcb, por eso decidimos seguir con la idea en cuanto a la forma de un **prisma** ya que, al buscar sobre los estados de la luz encontramos uno que es el **espectro visible.**
 
@@ -157,13 +205,15 @@ Impresión 3D PLA + (marca esun). Realizado en Bambulab.
 Vinilo tornasol transparente. Comprado en Mercado Libre.
 
 Acrílico transparente de 2 mm. Comprado en Acrílicos Chile.
+Acrílico transparente de 2 mm. Comprado en Acrílicos Chile.
 
 Colores utilizados:
 
 Impresión 3D PLA+ rosado ya que, el vinilo utilizado tiene esta tonalidad, comprado en Mercado Libre.
+Impresión 3D PLA+ rosada ya que, el vinilo tornasol que utilizamos tiene tonalidades rosadas.
 
 Vinilo tornasol transparente.
 
 Acrílico transparente.
 
-## montaje
+## Montaje

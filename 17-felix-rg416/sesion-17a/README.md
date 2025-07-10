@@ -64,6 +64,12 @@ La carcasa tiene espacios disponibles para poner el potenciómetro, la entrada J
 
 ![Espacios para otros componentes](./archivos/carcasa-grupo02/entradasPote.png)
 
+## Carcasa grupo-03
+
+El grupo-03 nos compartió su modelo para corregirlo y poder mandarlo. Vimos que habían un par de cosas por mejorar, les ayudamos e hicimos un nuevo modelo más práctico y eficiente siguiendo la forma inicial que ya tenían.
+
+
+
 ## Carcasa grupo-05
 
 Junto a Alanis, le ofrecimos al grupo 05 hacerle la carcasa. 
