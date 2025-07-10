@@ -84,7 +84,7 @@ CHIP LM324
 
 - pin 3 hacia dos resistencias de 10k, una hacia VCC y otra a GND.
 
-- pin 4 a  VVC.
+- pin 4 a  VCC.
 
 - pin 5 a GND.
 
@@ -110,7 +110,7 @@ CHIP 4017
 
 - pin 15 para hacer reset se conecta al pin 10.
 
-- pin 16 a VVC.
+- pin 16 a VCC.
 
 ## kicad
 
@@ -130,13 +130,13 @@ a 400°C.
 1. Se pone el cautín  3 seg. en el pad para calentar
 2. Colocar soldadura
 3. Mantener 3seg.
-4. Sacar cautin.
+4. Sacar cautín.
 
-Con mucho cuidado.
+El proceso se realizó con mucho cuidado.
 
 **Recomendaciones:** Utilizamos cinta de papel para que los componentes no se movieran y antes de soldar, revisamos el esquemático y medimos con multímetro cada componente para verificar su valor.
 
-Sólo ocurrieron **dos percances**, ya que el socket del 4017 lo colocamos al revés pero, esto tiene **diferencia mecánica y no eléctrica** . Por otra parte, la huella de las resistencia en kicad es más pequeña pero los acomodamos para que quepan bien sin problemas.
+Solo ocurrieron **dos percances**, ya que el socket del 4017 lo colocamos al revés pero, esto tiene **diferencia mecánica y no eléctrica** . Por otra parte, la huella de las resistencia en kicad es más pequeña pero los acomodamos para que quepan bien sin problemas.
 
 ## carcasa
 
@@ -146,23 +146,23 @@ Según **Erco**, el espectro visible "Se denomina espectro a la distribución de
 
 <https://www.erco.com/es/planificacion-de-iluminacion/conocimientos-luminotecnicos/fotometria/espectro-visible-7528/>
 
-Dicho en otras palabras, es cuando la luz pasa a través de un prisma/cristal y emite la **reflexión de colores.**
+En otras palabras, es cuando la luz pasa a través de un prisma o cristal y emite una **reflexión de colores.**
 
 - Decisión de materiales y colores
   
 **Materiales:**
 
-Impresión 3D PLA+ (marca esun). Realizado en Bambulab.
+Impresión 3D PLA + (marca esun). Realizado en Bambulab.
   
-Vinilo tornasol transparentoso. Comprado en Mercado Libre.
+Vinilo tornasol transparente. Comprado en Mercado Libre.
 
 Acrílico transparente de 2 mm. Comprado en Acrílicos Chile.
 
 Colores utilizados:
 
-Impresión 3D PLA+ rosada ya que, el vinilo que utilizamos tiene esta tonalidad, comprado en Mercado Libre.
+Impresión 3D PLA+ rosado ya que, el vinilo utilizado tiene esta tonalidad, comprado en Mercado Libre.
 
-Vinilo tornasol transparentoso.
+Vinilo tornasol transparente.
 
 Acrílico transparente.
 
