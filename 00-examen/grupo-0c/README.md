@@ -94,11 +94,11 @@ A continuación, las labores realizadas.
 
 Resolución de dudas mediante commits, issues en Github y comunicación externa tanto en Whatsapp como presencialmente.
 
-imagen commit
+![commits](./imagenes/commits-imagen)
 
 Fuente: añadir
 
-imagen inbox
+![inbox](./imagenes/revisiones-imagen.jpg)
 
 Fuente: añadir
 
