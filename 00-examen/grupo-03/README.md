@@ -147,15 +147,15 @@ CHIP 4017
 
 ## kicad
 
-![grupo03-pcb](./imagenes/grupo03-pcb-kicad02.jpg)
+![grupo03-pcb](./imagenes/kicad/grupo03-pcb-kicad02.jpg)
 
-![grupo03-pcb](./imagenes/grupo03-pcb-kicad03.jpg)
+![grupo03-pcb](./imagenes/kicad/grupo03-pcb-kicad03.jpg)
 
-![grupo03-pcb](./imagenes/grupo03-pcb-kicad04.jpg)
+![grupo03-pcb](./imagenes/kicad/grupo03-pcb-kicad04.jpg)
 
-![Esquematico en Kicad](./imagenes/grupo03-esquematico-kicad01.pdf)
+![Esquematico en Kicad](./imagenes/kicad/grupo03-esquematico-kicad01.pdf)
 
-![PCB en Kicad](./imagenes/grupo03-pcb-kicad05.pdf)
+![PCB en Kicad](./imagenes/kicad/grupo03-pcb-kicad05.pdf)
 
 ## Recursos adicionales
 
