@@ -96,7 +96,7 @@ En el siguiente listado se incluyen los enlaces a los registros fotográficos de
 
 - [Grupo 06](https://github.com/Bernardita-lobo/dis8644-2025-1-proyectos/tree/main/00-examen/grupo-06/imagenes)
 
-## Propuesta de montaje de proyectos en sala de clases y en laboratorio
+## Propuesta de montaje de proyectos
 
 La responsable de esta sección es @Bernardita-lobo.
 
