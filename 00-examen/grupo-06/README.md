@@ -26,11 +26,29 @@ Para nuestro test inicial del circuito, el servomotor no funcionaba con ninguno 
 
 Con la guía de nuestro profesor Matias Serrano, investigamos sobre el funcionamiento de un circuito llamado el “puente H”, este permite que un motor gire en ambos sentidos. Como era perfecto para nuestro objetivo, lo probamos de manera mecánica, a través de botones que permitían que llegara la corriente para que el motor girara en sentido horario o antihorario.
 
+![foto del puente H manual, con LEDs prendidos](./imagenes/procesos/puenteHbotones-1.jpg)
+
+![foto del circuito con muestra de los botones que forman el puente H](./imagenes/procesos/puenteHbotones-2.jpg)
+
+![foto mas de cerca del circuito PWM](./imagenes/procesos/puenteHbotones-3.jpg)
+
 Ya que de esta manera era plausible el funcionamiento, fuimos capaces de incorporar un circuito integrado de nombre L293DNE, que tenía por dentro el puente H de manera nativa para el funcionamiento de 2 motores, el cual solo ocupamos un motor, que puede rotar en ambas direcciones.
+
+![foto mas de cerca del circuito PWM](./imagenes/procesos/l293dBotones-2.jpg)
 
 Ya con la conexión entre el circuito PWM (Pulse Width Modulation) y el puente H teníamos nuestro funcionamiento por completo, excepto por el tema de las revoluciones de nuestro motor, que ni siquiera con el PWM era lo suficientemente lento, así que implementamos un motoreductor que tuviese 3 RPM y de esta manera es más razonable el movimiento de la rotación de los lentes.
 
+![foto del motorreductor](./imagenes/protoboard/tme-grupo06-protoboard-registro08.JPG)
+
 Con esto ya está el funcionamiento, pero la interacción del usuario aún estaba pendiente, lo que se ocupó fue un interruptor ON-OFF-ON de 6 pines, que fue usado con 2 funciones, 3 de sus pines servía para  era que el motorreductor rotará en el sentido horario, contrahorario o no rotara en absoluto, mientras que los otros 3 pines servían a modo de interruptor de alimentación hasta el circuito que llegaba al moto controlador (L293DNE), donde dejará pasar la energía en sus dos estados ON, qué son los mismos que activan el motorreductor en sus dos sentidos, mientras que el estado OFF no dejaba el paso de energía, de esta manera no se perdía batería de mayor manera, solo lo necesario para que el LED de funcionamiento esté encendido
+
+![foto con zoom del switch ON-OFF-ON](./imagenes/protoboard/tme-grupo06-protoboard-registro07.JPG)
+
+![foto del circuito con cables largos desde un angulo frontal](./imagenes/protoboard/tme-grupo06-protoboard-registro01.JPG)
+
+![foto del circuito ordenados en vista frontal](./imagenes/protoboard/tme-grupo06-protoboard-registro04.JPG)
+
+![foto del circuito ordenados en vista superior](./imagenes/protoboard/tme-grupo06-protoboard-registro06.JPG)
 
 ## PCB
 
@@ -42,7 +60,6 @@ Para la PCB elegimos un formato de 10 cm x 5 cm, ya que elegimos serigrafía par
 
 El posicionamiento de los componentes fue pensado con la intención de mantener la forma de los lentes reconocible, donde uno de los holders del chip funcionase como la conexión entre los anteojos, el potenciómetro pareciera una nariz y los tblock, de donde saldrían cables de conexión, parecieran varillas.
 
-
 ## Soldadura
 
 En el proceso previo a la soldadura, se realizó una selección de componentes del BOM y los fuimos posicionando respectivamente en su lugar en la PCB. Primero colocamos las resistencias y los condensadores, ya que estos son más pequeños. Luego seguimos con el LED y los sockets, ya que los chips deben posicionarse sobre un socket para evitar repercusiones en su funcionamiento. Para finalizar, agregamos los T-blocks, los pin headers y el potenciómetro, a este último decidimos hacerle una adaptación para que su posición esté más cercana al usuario.
@@ -51,28 +68,33 @@ Parte importante de este proceso es asegurarse de la polaridad de nuestros compo
 
 ![foto de la pcb con sus componentes ya en su lugar](./imagenes/pcb/tme-grupo06-pcb-registro04.JPG)
 
-![foto de la pcb con sus componentes ya en su lugar desde un algulo que se pueda ver los t-blocks](./imagenes/pcb/tme-grupo06-pcb-registro06.JPG)
-
+![foto de la pcb con sus componentes ya en su lugar desde un angulo que se pueda ver los t-blocks](./imagenes/pcb/tme-grupo06-pcb-registro06.JPG)
 
 ## Carcasa
 
 Debido a que nuestro dispositivo es un “wearable”, tuvimos que investigar sobre materialidad que fuese flexible, donde se llegó al filamento TPU de impresión 3D. Se realizaron probetas de pequeño tamaño para poder determinar el grosor que es el más adecuado para nuestras impresiones.
 
-!(Foto de las probetas de TPU)
+![Foto de las probetas de TPU](./imagenes/procesos/pruebasMaterial-1.jpg)
+
+![Foto de las probetas de TPU](./imagenes/procesos/pruebasMaterial2.jpg)
+
+![Foto de las probetas de TPU](./imagenes/procesos/pruebasMaterial3.jpg)
 
 La forma elegida fueron triángulos con unas sustracciones de una circunferencia en cada uno de sus lados, con un orificio cerca de la punta de estos, para poder interconectarlos entre sí con unos topes impresos en 3D para que no se desarme.
 
-![foto de las figura en digtal](./imagenes/procesos/Boomerang.JPG)
+![foto de las figura en digtal](./imagenes/procesos/Boomerang.jpg)
 
-![foto de las figura ya impresa con filamento](./imagenes/procesos/trianguloImpreso.JPG)
+![foto de las figura ya impresa con filamento](./imagenes/procesos/trianguloImpreso.jpg)
 
-![foto de los tarugos en vista axonometrica](./imagenes/procesos/topes.JPG)
+![foto de los tarugos en vista axonometrica](./imagenes/procesos/topes.jpg)
 
-Con esta forma se llegó a un casco que, gracias a la flexibilidad del filamento, se adapta a distintos tamaños de cabezas.
+Con esta forma se llegó a un casco que gracias a la flexibilidad del filamento, se adapta a distintos tamaños de cabezas.
 
 ![foto del casco en una cabeza](./imagenes/procesos/cascoEnCabeza.png)
 
 Para poder montar el circuito en sí, se modeló en RHINO una pieza que sería impresa en 3D con un filamento más firme PET-G, para que el funcionamiento no sufriera por ninguna variación mayor, y que estuviese lo más controlada posible. En esta pieza se podía introducir la PCB, dejándola fija con los agujeros que tiene en sí misma con pernos, también tiene un espacio en el que se introduce el switch, una base donde montar el motorreductor y que no se moviese de su lugar.
+
+![foto del soporte de la PCB, motorreductor y switch](./imagenes/procesos/soportefps555.jpg)
 
 ## Aprendizajes
 
@@ -90,7 +112,7 @@ Nuestro circuito inicial no funcionó con un componente en un inicio, el cual er
 
 
 ## BOM (bill of materials)
-| Grupo 6  |                          |                                |                    |                                                  |                                                           
+|          |                          |      Componentes electricos    |                    |                                                  |                                                           
 |:-------: |------------------------- |:-----------------------------: |------------------- |------------------------------------------------- |                                                       
 |   Item   |           Qty            |           Referencia           |       Valor        |                   Tipo de ítem                   |                             
 |    1     |            2             |             R1, R3             |         1K         |                   Resistencia                    |                             
@@ -110,4 +132,20 @@ Nuestro circuito inicial no funcionó con un componente en un inicio, el cual er
 |    15    |            1             |               U1               |      8 pines       |                      Socket                      |                        
 |    16    |            1             |               U2               |      16 pines      |                      Socket                      |                               
 |    17    |            6             |                                |                    |                    Pin Header                    |                           
-|    18    |            6             |                                |                    | Cable dupont: terminal receptora a terminal pin  |                                   
+|    18    |            6             |                                |                    | Cable dupont: terminal receptora a terminal pin  |               
+
+
+
+
+
+
+|          |    Materiales Extra      |                    |                                                  |                                                           
+|:-------: |------------------------- |------------------- |------------------------------------------------- |                                                       
+|   Item   |           Qty            |       Valor        |                   Tipo de ítem                   |                             
+|    1     |            -             |        TPU         |                   Filamento 3d                   |                             
+|    2     |            -             |        PET-G       |                   Filamento 3d                   |                              
+|    3     |            3             |        2.6mm       |                   Tornillos                      |                            
+|    4     |            4             |        3mm         |                   Pernos                         |     
+|    5     |            4             |        3mm         |                   Tuercas                        |   
+|    6     |            4             |        3.6mm       |                   Amarra cables                  |
+|    7     |            1             |        De sol      |                   Lentes                         |   
