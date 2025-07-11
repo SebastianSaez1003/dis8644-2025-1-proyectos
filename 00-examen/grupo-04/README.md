@@ -86,11 +86,17 @@ Durante el desarrollo del proyecto, la carcasa fue impresa en el laboratorio, di
 
 Una vez finalizado el proceso de impresion, se verifico que la carcasa cerrara correctamente antes de colocar el modulo electronico. 
 
-### Imagen 1: ![carcasaazul](./imagenes/carcasa/tme-grupo04-carcasa-registro01.JPG)
+### Imagen 1: 
 
-### Imagen 2: ![carcasaazul](./imagenes/carcasa/tme-grupo04-carcasa-registro02.JPG)
+![carcasaazul](./imagenes/carcasa/tme-grupo04-carcasa-registro01.JPG)
 
-### Imagen 3: ![carcasamorada](./imagenes/carcasa/tme-grupo04-carcasa-registro03.JPG)
+### Imagen 2: 
+
+![carcasaazul](./imagenes/carcasa/tme-grupo04-carcasa-registro02.JPG)
+
+### Imagen 3: 
+
+![carcasamorada](./imagenes/carcasa/tme-grupo04-carcasa-registro03.JPG)
 
 
 ## Montaje
