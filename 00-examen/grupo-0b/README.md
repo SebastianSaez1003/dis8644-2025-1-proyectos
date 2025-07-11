@@ -36,8 +36,6 @@
 
 <http://martisans.com/wp-content/uploads/2021/10/2021-02-10_stock6271-2500x4000.jpg>
 
-- La idea es que la imagen no solo muestre el objeto, sino también se halla inmerso en su entorno o cómo podría ser utilizado en una situación real. <http://martisans.com/portfolio/>
-
 - Además, revisé un video como referencia para comprender mejor qué elementos son necesarios al momento de fotografiar los procesos. <https://youtu.be/75OEz5csiP8?si=EtXw4-0HqXXj7hrX>
 
 ### Planificación de tomas
