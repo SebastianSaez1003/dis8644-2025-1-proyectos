@@ -99,11 +99,11 @@ En el segundo esquemático es la **secuencia/contador** de luces mediante el **C
 
 Primer esquemático, CHIP LM324
 
-![grupo03-esquematico](./imagenes/grupo03-esquematico-chipLM324.png)
+![grupo03-esquematico](./imagenes/kicad/grupo03-esquematico-chipLM324.png)
 
 Segundo esquemático, CHIP 4017
 
-![grupo03-esquematico](./imagenes/grupo03-esquematico-chip4017.png)
+![grupo03-esquematico](./imagenes/kicad/grupo03-esquematico-chip4017.png)
 
 DESCRIPCIÓN:
 
@@ -180,7 +180,7 @@ El proceso se realizó con mucho cuidado.
 
 Solo ocurrieron **dos percances**, ya que el socket del 4017 lo colocamos al revés pero, esto tiene **diferencia mecánica y no eléctrica** . Por otra parte, la huella de las resistencia en kicad es más pequeña pero los acomodamos para que quepan bien sin problemas.
 
-IMAGENES 
+![proceso](./imagenes/proceso/grupo03-proceso.jpg)
 
 ## Carcasa
 
@@ -212,6 +212,14 @@ Vinilo tornasol transparente.
 
 Acrílico transparente.
 
+![carcasa](./imagenes/carcasa/tme-grupo03-impresion3d-registro01.JPG)
+
+![carcasa](./imagenes/carcasa/tme-grupo03-impresion3d-registro02.JPG)
+
+![carcasa](./imagenes/carcasa/grupo03-carcasa01.jpg)
+
+![carcasa](./imagenes/carcasa/grupo03-carcasa02.jpg)
+
 ## Montaje
 
-IMAGENES
+![montaje](./imagenes/montaje/grupo03-montaje02.jpg)
