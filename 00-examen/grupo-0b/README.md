@@ -112,11 +112,11 @@ La responsable de esta sección es @Bernardita-lobo.
 
 - Esta sección estará dividida de acuerdo a las distintas etapas del proceso que desarrollaron los grupos. Entre estas se incluyen: el maqueteo en protoboard, la creación de los esquemáticos, el diseño y fabricación de las PCBs, las soldaduras, el modelado de las carcasas y sus impresiones. Cada parte estará acompañada por una pieza visual, por ejemplo, las protoboard o algunas de las primeras impresiones 3D que se fueron modificando a lo largo del proceso, lo que permitirá comprender fácilmente cada etapa. Además, se incluirá un video de apoyo. Esta sección funcionará como una recopilación de los procesos productivos que atravesaron los grupos de trabajo para llegar al resultado final.
 
-![Fotografia](./imagenes/modelado/tme-examen-modelado01.PNG)
+![Fotografia](./imagenes/tme-examen-modelado01.PNG)
 
-![Fotografia](./imagenes/modelado/tme-examen-modelado02.PNG)
+![Fotografia](./imagenes/tme-examen-modelado02.PNG)
 
-![Fotografia](./imagenes/modelado/tme-examen-modelado03.PNG)
+![Fotografia](./imagenes/tme-examen-modelado03.PNG)
 
 - Los archivos de Rhino están subidos en la carpeta [Modelados](https://github.com/Bernardita-lobo/dis8644-2025-1-proyectos/tree/main/00-proyecto-02/grupo-0b/modelados)
 
