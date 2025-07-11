@@ -102,7 +102,7 @@ En el siguiente listado se incluyen los enlaces a los registros fotográficos de
 
 La responsable de esta sección es @Bernardita-lobo.
 
-### referentes y motivaciones
+### Referentes y Motivaciones
 
 - Como taller visitamos el Museo MAC para ver la exposición de Matías Serrano. Cuando fui, no solo quedé maravillada, sino que también me pareció un referente perfecto para esta parte de mi trabajo.
 
@@ -110,9 +110,9 @@ La responsable de esta sección es @Bernardita-lobo.
 
 - Para evitar esa sensación y darle más dinamismo al espacio, decidí incorporar iluminación estratégica que genera volumen y contrastes. inspirándome en el uso de la luz que observé en el Museo MAC.
 
-![Foto de referente](./imagenes/referentes/tme-examen-referente04.JPG)
+![Foto de referente](./imagenes/referentes/tme-examen-referente04.jpeg)
 
-![Foto de referente](./imagenes/referentes/tme-examen-referente05.JPG)
+![Foto de referente](./imagenes/referentes/tme-examen-referente01.jpeg)
 
 - En un principio, me habían encargado desarrollar dos propuestas de montaje, ya que aún no sabíamos con certeza de qué sala íbamos a disponer. Por lo tanto, elaboré dos alternativas considerando distintas condiciones de espacio e iluminación.
 
