@@ -8,7 +8,13 @@
 - [Bernardita Lobo](https://github.com/Bernardita-lobo)
 - [Camila Parada](https://github.com/Camila-Parada)
 
-## registro fotografico y plan de documentacion
+## Registro audiovisual y plan de documentacion
+
+El responsable de esta sección es @jotamorales-romulus.
+
+***
+
+## Registro fotográfico y plan de documentacion
 
 La responsable de esta sección es @Bernardita-lobo.
 
@@ -162,7 +168,36 @@ La responsable de esta sección es @Bernardita-lobo.
 
 ***
 
+## Identidad gráfica y recuperación de elementos visuales
+
 Espacio a cargo de [@Camila-Parada](https://github.com/Camila-Parada)
+
+En un inicio las tareas asignadas al cargo consistieron en las labores de:
+- Recuperación de logotipos institucionales desarrollados por organismos involucrados con el contexto de la entrega: “La Escuela de Diseño”, “la Facultad de Arte, Arquitectura y Diseño” y la Universidad Diego Portales.
+- Desarrollo y producción de una identidad gráfica para el taller, y por ende, la exhibición.
+
+### Recuperación de logotipos institucionales
+
+Cumplir con la primera parte fue un proceso lento pero sencillo. El contacto con estudiantes de la carrera, el desarrollo de encargos previos de otros talleres en conjunto con el desarrollo personal de archivos vectoriales fue imprescindible para la obtención de cinco versiones de logotipos presentes en formatos svg, jpg y png. 
+Menciono que en por temas de tiempo no fue posible la obtención del nuevo logotipo de la facultad que actualmente se encuentra en desarrollo por parte de “Constanza Gaggero” (Gaggero Works) pese a haber asistido a la charla el pasado 13 de junio.
+Dicho evento pudo ser un apoyo al entendimiento del desarrollo de una identidad colectiva. Una guía para pensar en el desarrollo de la pieza clave que representa el taller: un logotipo.
+
+### Desarrollo del logotipo para el taller
+
+En un comienzo todo fue muy abstracto. 
+Al no tener un camino establecido es que se elige como punto de partida el estudio aquellos elementos creados para la identidad y cuenta de Instagram del “Laboratorio de Interacción Digital” (LID), un espacio-hermano que se encuentra en contacto constante con la cuenta del taller (teee.udp) y que se dedican a exponer contenido de carácter exploratorio e inclusivo de máquinas y proyectos. 
+
+Ante ello surge la idea de un “vínculo” entre dichos espacios virtuales y el entorno físico de la universidad, manteniéndose “abiertos” ante la variedad de proyectos que se pueden ir desarrollando dentro del ecosistema UDP (no solo en la facultad de diseño, sino en la psicología y más). Al enfocarse en el tipo de contenidos he de concluir que son de carácter “inclusivo” en cuanto a la “diversidad” de tecnologías que son compartidas.
+
+Con esta conceptualización de la esencia del taller se toma la decisión de explorar con la tipografía “Space Grotesk”, una fuente digital que se encuentra presente en los logotipos del “LID”. Se comienza a moldear cada carácter de forma libre. Con el tiempo el nombre “teee” se vuelve un problema dada la repetición de la vocal, por lo que se elije el acotarlo al termino “te3”.
+Otra idea que se aplica al momento del desarrollo es la “continuidad” del taller. Este espacio es solo una versión de una serie de cursos que se ven vinculados con “tecnologías”, pero que por limitaciones de tiempo este semestre se acota al desarrollo de circuitos eléctricos. Ello hace que me decida por diseñar una pieza que por un lado conserve una letra y estructura rígida, a la par de presentar un carácter que pueda ser modificada según la temática futura que abordará el taller.
+Para ejemplificar esto se crean 4 versiones de un mismo logo acotado, además de presentar otros dos logotipos extendidos de presentan un concepto asociado al taller en si.
+Tras ello se escoge la propuesta que presenta sobriedad y equilibrio visual. Esta dará inicio a un futuro de posibilidades de nuevas representaciones.
+
+
+### Profundizando en los elementos identitarios
+  
+
 
 ### Texto e información contenida en soportes impresos
 
