@@ -30,7 +30,7 @@ La responsable de esta sección es @Bernardita-lobo.
 
 - La idea es que la imagen no solo muestre el objeto, sino también se halla inmerso en su entorno o cómo podría ser utilizado en una situación real. <http://martisans.com/portfolio/>
 
-![Foto de referente fotográfico](./imagenes/referentes/tme-proyecto02-referente03.jpeg)
+![Foto de referente fotográfico](./imagenes/referentes/tme-examen-referente03.jpeg)
 
 ▼ Fuentes: Marshall BCN 201 R3. Recuperado de <http://martisans.com/wp-content/uploads/2022/06/Marshall-BCN_201_R3-6000x4000.jpg>
 
@@ -80,6 +80,8 @@ La responsable de esta sección es @Bernardita-lobo.
 
 ![Foto de referente fotográfico](./imagenes/referentes/tme-examen-drive.png)
 
+![Foto de referente fotográfico](./imagenes/tme-grupo00-pcb-registro01.jpeg)
+
 ### archivos de fotos
 
 En el siguiente listado se incluyen los enlaces a los registros fotográficos de cada grupo, donde es posible acceder al conjunto completo de imágenes documentadas durante el proceso
@@ -100,7 +102,7 @@ En el siguiente listado se incluyen los enlaces a los registros fotográficos de
 
 La responsable de esta sección es @Bernardita-lobo.
 
-### referentes y motivaciones
+### Referentes y Motivaciones
 
 - Como taller visitamos el Museo MAC para ver la exposición de Matías Serrano. Cuando fui, no solo quedé maravillada, sino que también me pareció un referente perfecto para esta parte de mi trabajo.
 
@@ -108,9 +110,9 @@ La responsable de esta sección es @Bernardita-lobo.
 
 - Para evitar esa sensación y darle más dinamismo al espacio, decidí incorporar iluminación estratégica que genera volumen y contrastes. inspirándome en el uso de la luz que observé en el Museo MAC.
 
-![Foto de referente](./imagenes/referentes/tme-examen-referente04.JPG)
+![Foto de referente](./imagenes/referentes/tme-examen-referente04.jpeg)
 
-![Foto de referente](./imagenes/referentes/tme-examen-referente05.JPG)
+![Foto de referente](./imagenes/referentes/tme-examen-referente01.jpeg)
 
 - En un principio, me habían encargado desarrollar dos propuestas de montaje, ya que aún no sabíamos con certeza de qué sala íbamos a disponer. Por lo tanto, elaboré dos alternativas considerando distintas condiciones de espacio e iluminación.
 
@@ -120,7 +122,7 @@ La responsable de esta sección es @Bernardita-lobo.
 
 ![Fotografia](./imagenes/tme-examen-modelado01.JPG)
 
-![Fotografia](./imagenes/tme-examen-modelado03.JPG)
+![Fotografia](./imagenes/tme-examen-modelado02.PNG)
 
 ### Sección Proyectos finales
 
@@ -140,7 +142,9 @@ La responsable de esta sección es @Bernardita-lobo.
 
 - Además, se incluirá un video de apoyo que muestra a los estudiantes trabajando y documentando sus procesos. Este material será proyectado tanto en un monitor como en el data. La sección funcionará como una recopilación visual y narrativa de los procesos productivos recorridos por los grupos para llegar al resultado final.
 
-![Fotografia](./imagenes/tme-examen-modelado02.PNG)
+![Fotografia](./imagenes/tme-examen-modelado03.JPG)
+
+![Fotografia](./imagenes/tme-trabajo.jpeg)
 
 ### Bill of Materials (BOM)
 
