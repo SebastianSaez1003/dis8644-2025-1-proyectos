@@ -74,7 +74,11 @@ Parte importante de este proceso es asegurarse de la polaridad de nuestros compo
 
 Debido a que nuestro dispositivo es un “wearable”, tuvimos que investigar sobre materialidad que fuese flexible, donde se llegó al filamento TPU de impresión 3D. Se realizaron probetas de pequeño tamaño para poder determinar el grosor que es el más adecuado para nuestras impresiones.
 
-!(Foto de las probetas de TPU)
+![Foto de las probetas de TPU](./imagenes/procesos/pruebasMaterial-1.jpg)
+
+![Foto de las probetas de TPU](./imagenes/procesos/pruebasMaterial2.jpg)
+
+![Foto de las probetas de TPU](./imagenes/procesos/pruebasMaterial3.jpg)
 
 La forma elegida fueron triángulos con unas sustracciones de una circunferencia en cada uno de sus lados, con un orificio cerca de la punta de estos, para poder interconectarlos entre sí con unos topes impresos en 3D para que no se desarme.
 
