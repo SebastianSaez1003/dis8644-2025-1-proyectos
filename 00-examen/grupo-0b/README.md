@@ -18,7 +18,7 @@
 
 - Para esto, inicié con una investigación de referentes fotográficos vinculados al área tecnológica y de producto, con el fin de definir un estilo visual coherente.
 
-- Basé mi proyecto en [Añadir referentes y explicar]. Sugiere simpleza y neutralidad al momento de exponer sus productos de manera muy acotada. <https://www.trucco.photography/productos>
+- Tomé como referencia el portafolio de un fotógrafo especializado en productos, ya que su enfoque estético sugiere simpleza y neutralidad al momento de exponer los objetos. Además, me interesó cómo trabaja con fondos limpios, encuadres cerrados y una paleta controlada, lo que permite centrar la atención exclusivamente en el producto, sin distracciones. Esta referencia me ayudó a definir una línea visual coherente para las fotografías del taller. <https://www.trucco.photography/productos>
 
 ![Foto de referente fotográfico](./imagenes/referentes/tme-examen-referente02.jpeg)
 
@@ -35,8 +35,6 @@
 ▼ Fuentes: Marshall BCN 201 R3. Recuperado de <http://martisans.com/wp-content/uploads/2022/06/Marshall-BCN_201_R3-6000x4000.jpg>
 
 <http://martisans.com/wp-content/uploads/2021/10/2021-02-10_stock6271-2500x4000.jpg>
-
-- La idea es que la imagen no solo muestre el objeto, sino también se halla inmerso en su entorno o cómo podría ser utilizado en una situación real. <http://martisans.com/portfolio/>
 
 - Además, revisé un video como referencia para comprender mejor qué elementos son necesarios al momento de fotografiar los procesos. <https://youtu.be/75OEz5csiP8?si=EtXw4-0HqXXj7hrX>
 
