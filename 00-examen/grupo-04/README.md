@@ -92,41 +92,65 @@ Debido a que el esquemático en el cuál está basado la protoboard contiene muc
 
 ## Soldadura
 
-## Carcasa
+Una vez verificado el funcionamiento del circuito en la protoboard, avanzamos a la siguiente fase del proyecto: la soldadura y ensamblaje de la PCB (Placa de Circuito Impreso). Esta etapa consistió en trasladar el diseño electrónico funcional desde la protoboard a una placa fabricada previamente, siguiendo un diseño generado en software especializado.
 
-Durante el desarrollo del proyecto, la carcasa fue impresa en el laboratorio, diseñado, impreso y supervisado por Alanis Vasquez, del grupo 0a. Se utilizo una impresora 3D, modelo Bambu Lab X1C, usando un filamento PLA de 1.75 mm. Para el diseño en un pricnipio, se habia seleccionado un color azul (Ver imagenes 1-2), que va a juego con la placa, pero debido a problemas con la calidad de este post impresion, se decidio cambiar a un filamento de color morado para reimprimir la base, la carcasa , el logo y los soportes para la madera (Ver imagen 3).
+![soldadura02](./imagenes/pcb/tme-grupo04-soldado-registro01.jpg)
 
-Una vez finalizado el proceso de impresion, se verifico que la carcasa cerrara correctamente antes de colocar el modulo electronico.
+Esta fue una experiencia completamente nueva para nosotros, ya que nunca habíamos realizado soldaduras electrónicas antes. Gracias a la clase de soldadura impartida durante el curso, pudimos aprender las técnicas básicas y luego ponerlas en práctica para soldar correctamente los componentes en la PCB del proyecto.
 
-### Imagen 1
+![soldadura03](./imagenes/pcb/tme-grupo04-pcb-registro04.JPG)
 
-![carcasaazul](./imagenes/carcasa/tme-grupo04-carcasa-registro01.JPG)
+![soldadura04](./imagenes/pcb/tme-grupo04-soldado-registro02.jpg)
 
-### Imagen 2
+# Durante esta etapa, soldamos un total de tres placas:
 
-![carcasaazul](./imagenes/carcasa/tme-grupo04-carcasa-registro02.JPG)
+### 1. Placa principal (carcasa)
 
-### Imagen 3
+Es la placa que está instalada dentro de la carcasa del juguete. En esta versión, utilizamos **cables largos** para poder alcanzar componentes que se encuentran en distintas zonas del exterior, como:
+- Sensor LDR
+- Motor 9V
+- 2 potenciómetros
+- Terminal Jack de alimentación 
 
-![carcasamorada](./imagenes/carcasa/tme-grupo04-carcasa-registro03.JPG)
+![soldadura05](./imagenes/pcb/tme-grupo04-soldado-registro08.jpg.jpg)
 
-## Montaje
+### 2. Placa de muestra
 
-El montaje se realizo insertando el PCB con su previo cableado y organizacion de estos, pegado de conectores, leds y potenciometro a la carcasa. Se coloca la PCB sobre soportes impresos previamente directo en la base. La fijacion se hizo con tornillos, y luego se coloco la tapa, mediante encaje con una pequeña ranura al lado para el retiro de esta, para luego pegar el logotipo a la parte superior. Una vez hecho esto, se une el palo de maqueta con el juguete al motor, mediante los soportes hechos en impresion 3D, para que este quede ajustado de forma correcta. Para finalizar, se comprobo que todos los accesos importantes (como el jack, potenciometros y switch) quedaran de forma correcta.
+Esta placa fue diseñada con **cables más cortos**, lo cual la hace más cómoda para pruebas, validaciones y para entender visualmente cómo funciona el circuito sin la carcasa. Es la que usamos en las demostraciones.
 
-El resultado final fue una carcasa totalmente funcional. bien ajustada y visualmente adecuada, la cual permite proteger el circuito electronico y presentar tanto su manipulacion como su presentacion.
+![PCB06](./imagenes/pcb/tme-grupo04-pcb-registro06.jpg)
+![PCB07](./imagenes/pcb/tme-grupo04-pcb-registro07.JPG)
 
-![montajefinal](./imagenes/carcasa/tme-grupo04-montajefinal1.JPG)
+### 3. Placa de repuesto
 
-![montajefinal](./imagenes/carcasa/tme-grupo04-montajefinal2.JPG)
-El proceso de pcb consistió en traspasar el circuito de la protoboard a una placa pcb, para esto se buscó seguir de la mejor manera posible lo que ya estaba armado en esquemático y protoboard para mantener un orden y coherencia con lo que ya se había planteado. En este caso no es necesario seguir al 100% la composición de la protoboard ya que se busca la mejor forma en que la placa quede ordenada, por lo que se pueden plantear cambios de posición en conveniencia de la placa.
+Similar a la placa de muestra, pero armada con **cables trenzados y terminal blocks**, lo que facilita el reemplazo o conexión rápida de componentes si fuera necesario. Como se puede apreciar en las imágenes.
 
-![pcbkicad](./imagenes/pcb/tme-grupo04-pcbkicad-registro00.jpg)
+![soldadura08](./imagenes/pcb/tme-grupo04-soldado-registro09.jpg)
+![soldadura09](./imagenes/pcb/tme-grupo04-soldado-registro10.jpg)
 
-![pcbkicad](./imagenes/pcb/tme-grupo04-pcbkicad-registro001.jpg)
+## Desafíos durante la soldadura
 
-![pcbkicad](./imagenes/pcb/tme-grupo04-pcbkicad-registro01.jpg)
+Durante el proceso de armado, nos enfrentamos a distintos **problemas técnicos**:
 
-![pcbkicad](./imagenes/pcb/tme-grupo04-pcbkicad-registro02.jpg)
+- **Errores en la PCB:** Algunas conexiones estaban mal ubicadas o fallaban. Gracias a la ayuda de **FRAN UDP**, aprendimos a **hacer puentes con cables** y **cortar pistas de cobre en la parte posterior** para corregir errores y redirigir conexiones utilizando flex.
+- **LED de velocidad del motor:** Este LED, que funcionaba correctamente en la protoboard, **no encendía en la PCB final**. Pero si funcionaba en la Protoboard.
+- **Orientación de componentes:** Aprendimos sobre la correcta orientación de los polos de componentes como transistores, diodos y el LDR. A medida que soldábamos más placas, nuestro entendimiento sobre polaridad y ubicación mejoró considerablemente.
+- **Problema con el LDR en la placa principal:** En la PCB principal, la que va dentro de la carcasa, el **LDR no funcionaba correctamente**, o su señal era **muy débil**. Esto se debió a un problema con las **resistencias SMD** en el diseño de la placa. Estas resistencias, al tener un **espacio muy pequeño entre el pin del LDR y la conexión a tierra**, generaban una **resistencia muy baja**, lo que impedía que el LDR recibiera la corriente adecuada. Como resultado, el sistema estaba **alimentando una resistencia fija de 10k** en lugar del LDR, y por eso este último no actuaba como debía. Este fue un error difícil de identificar inicialmente, pero nos ayudó a comprender mejor cómo afectan las pistas y componentes del diseño a nivel físico.
 
-![pcb](./imagenes/pcb/tme-grupo04-pcb-registro01.JPG)
+![soldadura11](./imagenes/pcb/tme-grupo04-soldado-registro04.jpg)
+![soldadura12](./imagenes/pcb/tme-grupo04-soldado-registro05.jpg)
+
+## Aprendizaje despues de la soldadura
+
+Esta etapa fue una experiencia súper completa y práctica. No solo repasamos lo que habíamos aprendido en clases, sino que también pusimos manos a la obra y aprendimos a soldar y armar placas reales por primera vez. Fue un proceso donde realmente entendimos cómo funcionan las cosas, y también cómo detectar y corregir errores cuando algo no anda bien.
+
+El hecho de haber soldado tres placas distintas nos ayudó mucho a entender mejor los componentes, cómo conectarlos bien, y a tener más confianza con las herramientas y materiales.
+
+
+
+
+
+
+## carcasa
+
+## montaje
