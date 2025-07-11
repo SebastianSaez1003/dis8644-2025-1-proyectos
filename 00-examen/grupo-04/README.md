@@ -26,7 +26,7 @@ Petr Válek - Kinetic
 
 ![referente](./imagenes/protoboard/tme-grupo04-referente-registro01.jpg)
 
-![referente](./imagenes/protoboard/tme-grupo04-referente-registro02.jpg)
+![referente](./imagenes/protoboard/tme-grupo04-referente-registro02.JPG)
 
 ![boceto](./imagenes/protoboard/tme-grupo04-premisa-registro01.jpg)
 
@@ -36,7 +36,7 @@ Petr Válek - Kinetic
 
 Lo que se busca es que **al subir el gato a la plataforma, un sensor LDR detecte sombra y active el motor para que se mueva el juguete de forma automática**, para ello el proyecto fue estudiado y se basó en el siguiente esquemático.
 
-## esquemático
+## Esquemático
 
 ![esquematico](./imagenes/protoboard/tme-grupo04-esquemático-registro01.jpg)
 
@@ -69,6 +69,12 @@ La salida del chip 555 es la que controla si debemos o no mover el motor. Como e
 AGREGAR FOTOS DE ESQUEMATICO, DE DETALLE DE PROTOBOARD, Y DE DETALLE DE PCB.
 
 ## protoboard
+
+El desarrollo de la protoboard es el primer paso para que nuestro circuito sea probado y verifiquemos que todo funcione de la manera en la cuál propusimos. 
+
+![protoboard](./imagenes/protoboard/tme-grupo04-protoboard-registro01.JPG)
+
+Debido a que el esquemático en el cuál está basado la protoboard contiene muchos componentes, decidimos que la forma más ordenada y clara de trabajarlo era con dos protoboard conectadas entre sí para que de esta forma se entendiera mucho mejor el circuito y no diera problemas estéticos ni de espacio.
 
 ## PCB
 
