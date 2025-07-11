@@ -1,20 +1,11 @@
-<<<<<<< Updated upstream
 # Examen
 
 grupo-0a
-=======
-# Examen Grupo-00a
->>>>>>> Stashed changes
 
 ## Integrantes
 
-<<<<<<< Updated upstream
 - [Félix Rodríguez Guevara](https://github.com/felix-rg416/)
 - [Alanis Vásquez Jara](https://github.com/AlanisMria)
-=======
-- Félix Rodríguez Guevara
-- Alanis Vásquez Jara
->>>>>>> Stashed changes
 
 ## Labores
 
@@ -44,13 +35,7 @@ Como evaluación inicial tuvimos que crear una carcasa para la UDPUDU y realizar
 
 ![PCB UDPUDU](./archivos/udpudu/udpudu.png)
 
-<<<<<<< Updated upstream
-La UDPUDU es la primera placa de circuito impreso que se mandó a hacer al extranjero. Su función es reproducir sonidos usando objetos conductores y pinzas caimán como interruptores. La idea es que la PCB pueda verse. Por lo tanto decidimos usar acrílico para la parte superior y PLA para lo demás de la caja. La carcasa debe tener espacio para una entrada Jack, un cable USB como fuente de poder y un espacio para pinzas caimán.
-
-La carcasa se basa en una caja de PLA con agujeros para la salida de un cable USB y una entrada tipo Jack, además de una apertura para poder poner un par de caimanes. En la parte superior tiene un espacio para deslizar una lámina de acrílico de 3mm cortada en láser.
-=======
 La UDPUDU es la primera placa de circuito impreso que se mandó a hacer al extrantero. Su función es reproducir sonidos usando pinzas caimán para conectar losse  objetos, usando cosas cotidianas como resistencias variables. La idea es que la pcb pueda ser visible, para dejar de lado la incógnita de la caja negra. Por lo tanto decidimos usar acrílico para la parte superior y PLA para lo demás. La carcasa debe tener espacio para una entrada jack, un cable USB como fuente de poder y un espacio para pinzas caimán
->>>>>>> Stashed changes
 
 ![carcasa UDPUDU](./archivos/udpudu/carcasa-base.png)
 
@@ -64,31 +49,15 @@ La semana del 17 de junio comenzamos a hablar con los grupos para saber quiénes
 
 La semana del 30 de junio se estipula un plazo máximo hasta el martes 8 de julio para tener todas o la mayor parte de las carcasas listas.
 
-<<<<<<< Updated upstream
-A pesar de que este plazo fue cumplido muchos grupos tuvieron inconvenientes, no obstante todo se logró antes del viernes 11 de julio.
-=======
 A pesar de que este plazo fue cumplido muchos grupos tuvieron inconvenientes, sin embargo, se logró antes del viernes 11 de julio.
 
 ## Grupo-01 KET-cloud
->>>>>>> Stashed changes
-
-### Integrantes 01
-
-<<<<<<< Updated upstream
-### Integrantes-01
 
 - Emilia Contreras
 - Katalina Riquelme
 - Thyare Santander
 
 #### Placa de circuito impreso-01
-=======
-- Emilia Contreras
-- Katalina Riquelme
-- Thyare Santander
-
-#### Placa de circuito impreso 01
->>>>>>> Stashed changes
 
 ![PCB control grupo-01](./archivos/g01-control.png)
 
@@ -126,15 +95,11 @@ Es un instrumento de percusión que mediante un piezo eléctrico se envían señ
 
 #### Proceso 02
 
-<<<<<<< Updated upstream
-Desde el primer momento tuvieron definida una identidad visual que se complemento perfectamente con las decisiones formales, al integrar ambos aspectos se consiguió que el objeto invite a la percusión mediante su color vibrante y formas puntiagudas presentes en su logo. El equipo nos pidió ayuda con el diseño, modelado e impresión de la carcasa, ya que, al ser de la mención gráfico, no están familiarizadas con el modelado 3D.
-=======
 Desde el primer momento tuvieron definida una identidad visual que se complementa perfectamente con las decisiones formales, al integrar ambos aspectos se consiguió que el objeto invite a la percusión mediante su color vibrante y formas puntiagudas presentes en su logo. El equipo nos pidió ayuda con el diseño, modelado e impresión de la carcasa, ya que, al ser de la mención gráfico, no están familiarizadas con el modelado 3D. 
 
 Usaron de referente el EF105 [Drum Thing](https://www.electrofaustus.com/ef105-drum-thing), un “Dispositivo de ruido”. En el tema de la carcasa, se guiaron por el color vibrante y el dibujo en la parte superior. 
 
 ![Referente “Drum Thing”](./archivos/grupo-02/referencia-grupo02.jpg)
->>>>>>> Stashed changes
 
 Ellas nos propusieron la forma principal y las dimensiones, usando un cilindro para imitar a un tambor, querían usar PLA rojo vibrante para llamar la atención.
 
@@ -219,15 +184,11 @@ Este proyecto consiste en una pequeña rampa con un sensor de sombra que activa 
 
 Durante el proceso los integrantes tienen definida una forma inicial de rampa, para que el gato pudiera apoyar sus patas al momento de querer alcanzar el objeto giratorio, es por eso que el desafío se encontraba en desarrollar y organizar su estructura interna.
 
-<<<<<<< Updated upstream
 Al conocer los diversos componentes que este grupo utiliza se llegó a una propuesta inicial, que consiste en la creación de orificios para potenciómetros, alimentación, LEDs e interruptor, junto a un soporte interno que permite fijar el motor a la carcasa.
-=======
+
 Enviaron un referente a considerar en cuanto a la forma de las curvas, sin considerar las dimensiones, ya que por tiempo y dimensiones de la impresora se decidió disminuir el tamaño al máximo posible para que el usuario logre una buena interacción.
 
 ![referente04](./archivos/grupo-04/referente04.jpg)
-
-Al conocer los diversos componentes que este grupo utiliza se llegó a una propuesta inicial, que consiste en la creación de orificios para potenciómetros, alimentación, leds e interruptor, junto a un soporte interno que permite fijar el motor a la carcasa.
->>>>>>> Stashed changes
 
 ![croquis inicial grupo-04](./archivos/grupo-04/croquisInicial.jpg)
 
@@ -247,11 +208,7 @@ Luego se imprimió la primera prueba de carcasa, ya que se tuvo que realizar una
 
 ![piezasGrupo04](./archivos/grupo-04/piezasGrupos04.jpg)
 
-<<<<<<< Updated upstream
-Al imprimir la cubierta inferior hubo un problema relacionado a la distancia de los componentes de la placa con el soporte interno del motor, ya que el método para fijar la PCB se modificó, debido a esto se tuvo que reubicar las bases de fijación de la PCB, ubicándolas mucho más en medio.
-=======
 Al imprimir la cubierta inferior hubo un problema relacionado a la distancia de los componentes de la placa con el soporte interno del motor, ya que el método para fijar la pcb se modificó, debido a esto se tuvo que reubicar las bases de fijación de la pcb, ubicandolas mucho más en medio.
->>>>>>> Stashed changes
 
 ![cuberta04](./archivos/grupo-04/cubierta04)
 
@@ -283,11 +240,7 @@ Finalmente se propuso el uso de un logo para brindar personalidad al proyecto, i
 
 ![PCB grupo-05 ruleta de leds](./archivos/g05-ruleta.png)
 
-<<<<<<< Updated upstream
-#### Descripción del proyecto-05
-=======
 #### Descripción del proyecto 05
->>>>>>> Stashed changes
 
 Este proyecto es una ruleta “Medidora de vibra”  que funciona mediante la percepción de sombra, voz y vibras del usuario.
 
@@ -331,11 +284,9 @@ Similarmente a los demás grupos usaron impresión 3D, pero en este caso, al ser
 
 ![PiezaGrupo06](./archivos/grupo-06/PiezaGrupo06.jpg)
 
-<<<<<<< Updated upstream
 Al saber de su proyecto se propone como referente los lentes de cíclope de x-men.
 
 Luego de la producción de las carcasas, se acompañó a cada grupo en el proceso de armado de sus productos finales, indicando métodos de fijación, terminaciones y resolución de problemas que surgieron.
-=======
 
 El grupo realizó un moodboard de referentes en base a como ubicar los circuitos y lograr que el proyecto sea wearable, cabe destacar que su intención de no disimular el dispositivo, se ve muy reflejada en estos referentes.
 
@@ -352,5 +303,4 @@ A partir de este proceso como grupo aprendimos a adentrarnos en las mentes y con
 
 Reafirmamos lo relevante que es organizar tiempos para pruebas, errores y modificaciones.
 
-Finalmente valoramos  cada elemento o situación presente en el proceso y como estos nutren nuestro aprendizaje.
->>>>>>> Stashed changes
+Finalmente valoramos  cada elemento o situación presente en el proceso y como estos nutren nuestro aprendizaje
