@@ -8,6 +8,88 @@
 - [Bernardita Lobo](https://github.com/Bernardita-lobo)
 - [Camila Parada](https://github.com/Camila-Parada)
 
+## Registro en video y plan de documentación
+
+El responsable de esta sección es @jotamorales-romulus
+
+El registro en video se realizó con el objetivo de dejar constancia en el tiempo del proceso, los avances y los resultados finales de cada proyecto. Este material sirve como testimonio del trabajo colectivo llevado a cabo durante el taller, mostrando de manera ordenada las distintas etapas de construcción y experimentación. Además, permite difundir la experiencia en redes sociales e instancias académicas, acercando el trabajo realizado a otras personas interesadas en el área. También constituye un recurso que podrá consultarse en el futuro para valorar y recordar la experiencia compartida en el curso, así como para inspirar a nuevos estudiantes que participen en ediciones posteriores de la asignatura.
+
+### Referentes e investigación para los registros
+
+### The Life of Crystals – Mónica Bate
+- Durante una visita a la universidad, Mónica Bate nos mostró el video [The Life of Crystals](https://vimeo.com/79735959), donde documenta su proyecto de arte sonoro con cristales piezoeléctricos. Este registro fue un referente clave, ya que su enfoque minimalista y claro resulta cercano a lo que queríamos realizar en el taller. La edición sencilla y la manera en que muestra los avances y la interacción con el objeto aportaron ideas valiosas para la documentación de los proyectos.
+
+### Reels y videos de Taller: Celebración UDP – Carolina Kusanovich y Felipe Cardemil
+Otro referente importante fueron los registros audiovisuales que han realizado anteriormente en el Taller de Celebración. Se hace registro de las clases y trabajo de los alumnos. Anteriormente habia cursado este taller y había realizado registro en este. También tomé como referencia los reels de Instagram que se publican semanalmente, los cuales buscan captar la atención con cortes breves, música de fondo y un formato vertical pensado para redes sociales. Este tipo de registros son fáciles de grabar y editar, y suelen tener una duración de entre 30 segundos y 1 minuto.
+
+### Decisiones sobre el estilo de los videos
+
+Se decidió trabajar con dos estilos principales según el formato:
+- Para los reels de Instagram, se optó por un estilo dinámico, con cortes rápidos y música de fondo que mantuvieran la atención del espectador. La idea es generar contenido que llame la atención de las personas y despierte su interés por el taller.
+- Para los videos de registro completo, se eligió un enfoque más neutro y detallado, con planos más largos que permitieran observar cada etapa del proceso con claridad y una amplia variedad de tomas que mostraran casi en su totalidad el trabajo realizado en clases.
+
+### Plan de grabación y documentación del proceso en video
+
+- El registro se realizó principalmente durante las sesiones de taller, a lo largo de aproximadamente tres semanas, comenzando con el prototipado en protoboard y continuando con el desarrollo de las PCBs, el modelado y la impresión 3D.
+- El objetivo fue capturar la mayor cantidad posible de instancias relevantes, generando un registro completo del proceso de cada grupo.
+- Me aproximé a cada grupo para registrar sus actividades, desplazándome por las salas a lo largo de todo el horario de las sesiones.
+- Se utilizaron los siguientes equipos:
+  - Cámara Canon solicitada al pañol digital
+  - Trípode de mano
+  - Trípode grande (para tomas fijas)
+- La grabación comenzó una sesión después del inicio del prototipado, para dar tiempo a que los grupos avanzaran con sus protoboards, pero aún se encontraban realizando modificaciones.
+- Los videos se almacenaron inicialmente en la tarjeta SD de la cámara (64 GB), que permitió registrar todo el material. Para asegurar respaldo y agilizar la edición, se transfirieron posteriormente al computador, desde donde se importaron a los programas de edición.
+
+## Edición y montaje
+
+- Se utilizó CapCut en PC por su facilidad de uso e interfaz intuitiva, lo que permitió realizar la edición de forma rápida y sencilla.
+- Se generaron diferentes tipos de videos:
+  - *Reels de sesiones*: fragmentos cortos, de cortes rápidos y duración total entre 30 y 50 segundos, adaptados al ritmo de la música y pensados para redes sociales.
+  - *Video general de registro*: tomas de aproximadamente 5 segundos cada una, permitiendo apreciar detalles de las etapas de trabajo.
+  - *Videos individuales por grupo*: registro en un set montado especialmente, mostrando la evolución del proyecto de cada equipo (protoboards en funcionamiento, PCBs diseñadas y PCBs finales funcionando).
+- En todos los casos se ajustó el color y se agregó información básica al inicio del video (nombre del grupo y del proyecto).
+
+## Salida final
+
+- Los videos se subieron a la cuenta de Instagram del taller, y adicionalmente se subieron al canal [https://www.youtube.com/@jothitaromulus](https://www.youtube.com/@jothitaromulus) y fueron entregados via Wetransfer
+- Los formatos utilizados fueron:
+  - Resolución *1080p*
+  - Formato *MP4*
+  - Orientación vertical (para reels) y horizontal (para videos completos)
+- La duración de los clips varió según el objetivo:
+  - Reels: 30–50 segundos
+  - Videos de registro completo: duración más extensa, con cortes más largos para que el espectador pueda visualizar el trabajo con calma o dependiendo del ritmo.
+
+### Organización y criterios de diferenciación de los videos
+
+- Como el registro se realizaba de manera continua durante el taller y no necesariamente en orden, la clasificación de los videos se hizo en etapa de edición.
+- Para diferenciar el material de cada grupo, se crearon proyectos de edición independientes, organizando los clips por equipo antes de montar cada video final.
+- En la introducción de cada video individual se incluyeron:
+  - Nombre del proyecto
+  - Integrantes del equipo
+  - Breve explicación del funcionamiento
+
+### Propuesta de montaje de videos en el examen
+
+Al iniciar el examen se hara uso de un video el acompañará la presentación deñ taller y cumplirá la función de contextualizar el trabajo realizado. Contiene los siguientes elementos:
+
+  -Este video se presentará como apoyo para la introducción del taller ante la comisión, mostrando el avance y trabajo realizado por los alumnos.
+  - Registro de sesiones de clase: fragmentos que muestran el trabajo colectivo, el desarrollo de prototipos, la colaboración entre grupos y los distintos momentos de aprendizaje durante el semestre.
+  - Presentación del equipo docente:
+  - Nombres de los profesores responsables.
+  - Nombre de la ayudante de taller.
+  - Créditos finales: mención a todos los estudiantes participantes, indicando sus grupos de trabajo y los nombres de cada proyecto.
+
+Para la presentación de cada grupo se acompañara con un video con el registro de su trabajo en loop en tablets o iPads apoyadas en un soporte impreso en PLA
+- A cada grupo se le hace envio de sus respectivos videos mediante WeTransfer.
+
+### Estructura de videos grupales 
+
+1. intro y descricipion del del proyecto con los nombre de los integrantes
+2. Registro protoboard
+3. Registro de la PCB diseñada.
+4. Registro de la PCB final en funcionamiento.
+
 ## registro fotografico y plan de documentacion
 
 La responsable de esta sección es @Bernardita-lobo.
