@@ -84,13 +84,14 @@ Debido a que el esquemático en el cuál está basado la protoboard contiene muc
 
 Durante el desarrollo del proyecto, la carcasa fue impresa en el laboratorio, diseñado, impreso y supervisado por Alanis Vasquez, del grupo 0a. Se utilizo una impresora 3D, modelo Bambu Lab X1C, usando un filamento PLA de 1.75 mm. Para el diseño en un pricnipio, se habia seleccionado un color azul (Ver imagenes 1-2), que va a juego con la placa, pero debido a problemas con la calidad de este post impresion, se decidio cambiar a un filamento de color morado para reimprimir la base, la carcasa , el logo y los soportes para la madera (Ver imagen 3).
 
+Una vez finalizado el proceso de impresion, se verifico que la carcasa cerrara correctamente antes de colocar el modulo electronico. 
+
 Imagen 1: ![carcasaazul](./imagenes/carcasa/tme-grupo04-carcasa-registro01.JPG)
 
 Imagen 2: ![carcasaazul](./imagenes/carcasa/tme-grupo04-carcasa-registro02.JPG)
 
 Imagen 3: ![carcasamorada](./imagenes/carcasa/tme-grupo04-carcasa-registro03.JPG)
 
-Una vez finalizado el proceso de impresion, se verifico que la carcasa cerrara correctamente antes de colocar el modulo electronico. 
 
 ## Montaje
 
