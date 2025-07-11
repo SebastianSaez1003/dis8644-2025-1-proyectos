@@ -10,9 +10,9 @@ grupo-04
 
 ## Proyecto-02
 
-aprendizajes:
+aprendizajes: como equipo uno de los mayores aprendizajes que tuvimos en el proyecto 2 es que hay que hacer las cosas con tiempo para que nos salgan bien para no llegar justos con los plazos de entrega.
 
-dificultades:
+dificultades: una de las mayores dificultades que tuvimos como equipo fue la comunicación entre nosotros.
 
 ## Descripción del proyecto
 
@@ -21,6 +21,10 @@ El proyecto MeowTech es un juguete interactivo para gatos que se encuentran solo
 Es por ello que se llegó a la conclusión de que tenía que ser un objeto que se mueva solo, de una forma suficientemente autónoma para que el gato pueda jugar con la menor intervención humana posible. Para esto se ideó que debíamos usar alguna especie de motor que nos diera movimiento sobre el juguete y también algún sensor que detectara la presencia del gato, en este caso un sensor LDR. El proyecto mezcla aspectos de un circuito detector de sombra y por otra parte una variación de un circuito pwm.
 
 ### Primeros bocetos y referentes
+
+**Petr Válek**
+
+Petr Válek es un artista electrónico, de ruidos analógicos, proveniente de República Checa. Sus obras usan muchos materiales caseros y chatarra para ser realizadas. Utiliza mucho los motores para hacer girar cosas y que se golpeen entre sí generando diversos sonidos. Lo que rescatamos de este referente es más que nada el uso del motor y el cómo hace girar los objetos con estos mismos, por eso pensamos que podía ser un buen referente para un juguete de gato. En un principio se exploró el concepto de motor vibrador pero finalmente no fue realizado.
 
 Petr Válek - Kinetic
 
@@ -86,7 +90,17 @@ Debido a que el esquemático en el cuál está basado la protoboard contiene muc
 
 ## PCB
 
-El proceso de pcb consistió en traspasar el circuito de la protoboard a una placa pcb, para esto se buscó seguir de la mejor manera posible lo que ya estaba armado en esquemático y protoboard para mantener un orden y coherencia con lo que ya se había planteado. En este caso no es necesario seguir al 100% la composición de la protoboard ya que se busca la mejor forma en que la placa quede ordenada por lo cuál se pueden plantear cambios de posición.
+El proceso de pcb consistió en traspasar el circuito de la protoboard a una placa pcb, para esto se buscó seguir de la mejor manera posible lo que ya estaba armado en esquemático y protoboard para mantener un orden y coherencia con lo que ya se había planteado. En este caso no es necesario seguir al 100% la composición de la protoboard ya que se busca la mejor forma en que la placa quede ordenada, por lo que se pueden plantear cambios de posición en conveniencia de la placa.
+
+![pcbkicad](./imagenes/pcb/tme-grupo04-pcbkicad-registro00.jpg)
+
+![pcbkicad](./imagenes/pcb/tme-grupo04-pcbkicad-registro001.jpg)
+
+![pcbkicad](./imagenes/pcb/tme-grupo04-pcbkicad-registro01.jpg)
+
+![pcbkicad](./imagenes/pcb/tme-grupo04-pcbkicad-registro02.jpg)
+
+![pcb](./imagenes/pcb/tme-grupo04-pcb-registro01.JPG)
 
 
 
