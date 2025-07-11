@@ -20,14 +20,14 @@ grupo-0c
 
 ### **Link del Excel / Google sheets: <https://docs.google.com/spreadsheets/d/1CT1RtA_BYuWpyJ54k9VGduSAs_nKiFYd9yf2WvjZ-4g/edit?gid=529027261#gid=529027261>**
 
-### Proveedores:
--	Victronics (https://www.victronics.cl/)
--	Afel (https://afel.cl/)
--	Mercado libre (https://www.mercadolibre.cl/)
--	MCI electronics (https://mcielectronics.cl/)
+### Proveedores
+
+- Victronics <https://www.victronics.cl/>
+- Afel <https://afel.cl/>
+- Mercado Libre <https://www.mercadolibre.cl/>
+- MCI electronics <https://mcielectronics.cl/>
 
 ![proveedores](https://github.com/duckusu/dis8644-2025-1-proyectos/blob/main/21-duckusu/sesion-17b/archivos/proveedores.jpg)
-
 
 ## Materiales del Lab
 
@@ -279,11 +279,9 @@ Tras la compra, se recopilaron las boletas para hacer un recuento de todo lo imp
 
 Dificultades: Se me llego a dificultar mas que nada el como ordenar cada markdown de una forma mas rapida, por suerte, misaa llego a ayudarme con eso y enseñarme sobre como generar los markdown a partir de un excel usando la siguiente pagina:
 
-- https://www.tablesgenerator.com/markdown_tables#
-
+- [Tables Generator](https://www.tablesgenerator.com/markdown_tables#)
 
 Logros: Aprendí sobre los proveedores mas viables en el mercardo, así como comprar al por mayor y finalmente, pagar con factura.
-
 
 ---
 
@@ -373,7 +371,7 @@ Exportación de fotografías en Drive (.jpg) para edición en Adobe Photoshop y 
 
 - Redacción y diseño de materiales impresos (cartulina fluorescente, monocromía):
 
-**Descripción general del curso**
+- Descripción general del curso
 
 *"El Taller de diseño de máquinas electrónicas es un espacio de encuentro entre lo análogo y lo digital, entre lo artesanal y lo industrial, entre lo local y lo mundial. Su metodología se centra en las prácticas de inteligencias de carácter colectivo en pos del desarrollo de ideas innovadoras por parte de les estudiantes en un espacio.*
 
@@ -418,7 +416,7 @@ Mediciones de mesas para curatoría y distribución espacial de proyectos.
 - **Dificultades:**
 
  Limitaciones en la redacción centralizada para permitir las expresiones libres de cada grupo.
- 
+
  Mejor comunicación en persona que en medios digitales, sin embargo, gracias a los canales de comunicación como Commits y Discord se logró llegar a buen puerto.
 
 - **Logros:**
