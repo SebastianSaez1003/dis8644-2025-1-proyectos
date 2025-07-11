@@ -30,7 +30,7 @@ La responsable de esta sección es @Bernardita-lobo.
 
 - La idea es que la imagen no solo muestre el objeto, sino también se halla inmerso en su entorno o cómo podría ser utilizado en una situación real. <http://martisans.com/portfolio/>
 
-![Foto de referente fotográfico](./imagenes/referentes/tme-proyecto02-referente03.jpeg)
+![Foto de referente fotográfico](./imagenes/referentes/tme-examen-referente03.jpeg)
 
 ▼ Fuentes: Marshall BCN 201 R3. Recuperado de <http://martisans.com/wp-content/uploads/2022/06/Marshall-BCN_201_R3-6000x4000.jpg>
 
@@ -79,6 +79,8 @@ La responsable de esta sección es @Bernardita-lobo.
 - Los archivos fotográficos se nombraron siguiendo un formato estandarizado, como tme-grupo01-protoboard-registro01, que indica el taller, el grupo, el tipo de elemento y el número de registro. Esto facilitó la organización y el acceso a los documentos.
 
 ![Foto de referente fotográfico](./imagenes/referentes/tme-examen-drive.png)
+
+![Foto de referente fotográfico](./imagenes/tme-grupo00-pcb-registro01.jpeg)
 
 ### archivos de fotos
 
