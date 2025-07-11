@@ -57,7 +57,7 @@ A pesar de que este plazo fue cumplido muchos grupos tuvieron inconvenientes, si
 - Katalina Riquelme
 - Thyare Santander
 
-#### Placa de circuito impreso-01
+### Placa de circuito impreso-01
 
 ![PCB control grupo-01](./archivos/g01-control.png)
 
@@ -95,9 +95,9 @@ Es un instrumento de percusión que mediante un piezo eléctrico se envían señ
 
 #### Proceso 02
 
-Desde el primer momento tuvieron definida una identidad visual que se complementa perfectamente con las decisiones formales, al integrar ambos aspectos se consiguió que el objeto invite a la percusión mediante su color vibrante y formas puntiagudas presentes en su logo. El equipo nos pidió ayuda con el diseño, modelado e impresión de la carcasa, ya que, al ser de la mención gráfico, no están familiarizadas con el modelado 3D. 
+Desde el primer momento tuvieron definida una identidad visual que se complementa perfectamente con las decisiones formales, al integrar ambos aspectos se consiguió que el objeto invite a la percusión mediante su color vibrante y formas puntiagudas presentes en su logo. El equipo nos pidió ayuda con el diseño, modelado e impresión de la carcasa, ya que, al ser de la mención gráfico, no están familiarizadas con el modelado 3D.
 
-Usaron de referente el EF105 [Drum Thing](https://www.electrofaustus.com/ef105-drum-thing), un “Dispositivo de ruido”. En el tema de la carcasa, se guiaron por el color vibrante y el dibujo en la parte superior. 
+Usaron de referente el EF105 [Drum Thing](https://www.electrofaustus.com/ef105-drum-thing), un “Dispositivo de ruido”. En el tema de la carcasa, se guiaron por el color vibrante y el dibujo en la parte superior.
 
 ![Referente “Drum Thing”](./archivos/grupo-02/referencia-grupo02.jpg)
 
@@ -250,7 +250,7 @@ En primera instancia este grupo planteó la fabricación de su proyecto en base 
 
 ![referencia](./archivos/grupo-05/referencia.jpg)
 
-En un principio se planteó una forma bastante curva, la cual el grupo rechazó, enfatizando en que las curvas de los extremos no fueran tan pronunciadas. 
+En un principio se planteó una forma bastante curva, la cual el grupo rechazó, enfatizando en que las curvas de los extremos no fueran tan pronunciadas.
 
 ![PropuestaInicial](./archivos/grupo-05/propuestaInicial05.png)
 
@@ -274,7 +274,7 @@ Para luego llegar a la forma final.
 
 #### Descripción del proyecto 06
 
-Es un dispositivo que regula la orientación de un lente de sol mediante un motor. 
+Es un dispositivo que regula la orientación de un lente de sol mediante un motor.
 
 #### Proceso 06
 
@@ -290,12 +290,10 @@ Luego de la producción de las carcasas, se acompañó a cada grupo en el proces
 
 El grupo realizó un moodboard de referentes en base a como ubicar los circuitos y lograr que el proyecto sea wearable, cabe destacar que su intención de no disimular el dispositivo, se ve muy reflejada en estos referentes.
 
-
 Como referente formal más directo usaron el proyecto [Bo-Katan LED Headband](https://learn.adafruit.com/led-headband/overview)
  de Ruiz Brothers.
 
 Luego de la producción de las carcasas, se acompañó a cada grupo en el proceso de armado de sus productos finales, indicando métodos de fijación, terminaciones y resolución de problemas que surgieron.
-
 
 ## Aprendizajes
 
