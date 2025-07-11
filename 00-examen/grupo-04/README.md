@@ -68,7 +68,7 @@ La salida del chip 555 es la que controla si debemos o no mover el motor. Como e
 
 AGREGAR FOTOS DE ESQUEMATICO, DE DETALLE DE PROTOBOARD, Y DE DETALLE DE PCB.
 
-## protoboard
+## Protoboard
 
 El desarrollo de la protoboard es el primer paso para que nuestro circuito sea probado y verifiquemos que todo funcione de la manera en la cuál propusimos. 
 
@@ -80,6 +80,20 @@ Debido a que el esquemático en el cuál está basado la protoboard contiene muc
 
 ## soldadura
 
-## carcasa
+## Carcasa
 
-## montaje
+Durante el desarrollo del proyecto, la carcasa fue impresa en el laboratorio, diseñado, impreso y supervisado por Alanis Vasquez, del grupo 0a. Se utilizo una impresora 3D, modelo Bambu Lab X1C, usando un filamento PLA de 1.75 mm. Para el diseño en un pricnipio, se habia seleccionado un color azul (Ver imagenes 1-2), que va a juego con la placa, pero debido a problemas con la calidad de este post impresion, se decidio cambiar a un filamento de color morado para reimprimir la base, la carcasa y los soportes para la madera (Ver imagen 3).
+
+Imagen 1:
+
+Imagen 2:
+
+Imagen 3:
+
+Una vez finalizado el proceso de impresion, se verifico que la carcasa cerrara correctamente antes de colocar el modulo electronico. 
+
+## Montaje
+
+El montaje se realizo insertando el PCB con su previo cableado y organizacion de estos, pegado de conectores, leds y potenciometro a la carcasa. Se coloca la PCB sobre soportes impresos previamente directo en la base. La fijacion se hizo con tornillos, y luego se coloco la tapa, mediante encaje con una pequeña ranura al lado para el retiro de esta. Una vez hecho esto, se une el palo de maqueta junto al juguete al motor, mediante los soportes hechos en impresion 3D, para que este quede ajustado de forma correcta. Para finalizar, se comprobo que todos los accesos  importantes (como el jack, potenciometros y switch) quedaran de forma correcta.
+
+El resultado final fue una carcasa totalmente funcional. bien ajustada y visualmente adecuada, la cual permite porteger el circuito electronico y presentar tanto su manipulacion como su presentacion.
