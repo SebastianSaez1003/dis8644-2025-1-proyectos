@@ -144,6 +144,8 @@ La responsable de esta sección es @Bernardita-lobo.
 
 ![Fotografia](./imagenes/tme-examen-modelado02.PNG)
 
+![Fotografia](./imagenes/tme-trabajo.jpeg)
+
 ### Bill of Materials (BOM)
 
 |                    Elemento | Cantidad    |
