@@ -18,7 +18,7 @@
 
 - Para esto, inicié con una investigación de referentes fotográficos vinculados al área tecnológica y de producto, con el fin de definir un estilo visual coherente.
 
-- Tomé como referencia el portafolio de un fotógrafo especializado en productos, ya que su enfoque estético sugiere simpleza y neutralidad al momento de exponer los objetos. Además, me interesó cómo trabaja con fondos limpios, encuadres cerrados y una paleta controlada, lo que permite centrar la atención exclusivamente en el producto, sin distracciones. Esta referencia me ayudó a definir una línea visual coherente para las fotografías del taller. <https://www.trucco.photography/productos>
+- Tomé como referencia el portafolio de un fotógrafo especializado en productos, ya que su enfoque estético sugiere simpleza y neutralidad al momento de exponer los objetos. Además, me interesó cómo trabaja con fondos limpios, encuadres cerrados y una paleta controlada, lo que permite centrar la atención exclusivamente en el producto. Esta referencia me ayudó a definir una línea visual coherente para las fotografías del taller. <https://www.trucco.photography/productos>
 
 ![Foto de referente fotográfico](./imagenes/referentes/tme-examen-referente02.jpeg)
 
@@ -38,25 +38,25 @@
 
 - Además, revisé un video como referencia para comprender mejor qué elementos son necesarios al momento de fotografiar los procesos. <https://youtu.be/75OEz5csiP8?si=EtXw4-0HqXXj7hrX>
 
-### Planificación de tomas
+### Planificación de Tomas
 
-- Luego, planifiqué el set fotográfico: definí que el fondo sería neutro para mantener una estética limpia y facilitar su integración con la identidad gráfica y tipográfica del proyecto.
+- Antes de comenzar con la documentación fotográfica, planifiqué el set fotográfico. Se definió el uso de un fondo neutro con el objetivo de mantener una estética limpia y coherente, que facilitara la integración con la identidad gráfica y tipográfica del proyecto.
 
-- En un comienzo se consideró el uso de fondos de color, pero se descartó por razones de legibilidad y coherencia visual.
+- En una etapa inicial, se evaluó la posibilidad de utilizar fondos de color. Sin embargo, esta opción fue descartada por razones de legibilidad y para mantener una coherencia visual general.
 
-- Para poder tomar registros fotográficos del proceso, primero hacemos el montaje del set. Estas fotos las tomamos en una caja de luz con fondo infinito, que cuenta con iluminación integrada. También colocamos un trípode y una cámara.
+- Se diseñó una pauta de tomas que contempló tres tipos de encuadres: una toma en perspectiva, una vista cenital (desde arriba) y una toma de detalle. Esta planificación buscó asegurar la captura tanto de la forma general como de las terminaciones y particularidades de cada objeto.
 
-- Organicé los horarios de las sesiones y diseñé una pauta de tomas que incluyó tres tipos de encuadres: una toma en perspectiva, una cenital (desde arriba) y una de detalle. Esta variedad buscó capturar tanto la forma general como las terminaciones de cada objeto.
+- También organicé los horarios de las sesiones fotográficas, considerando tanto los tiempos disponibles dentro del taller como la necesidad de sesiones adicionales fuera del horario habitual.
 
-### Plan de documentación
+### Ejecución y Registro del Proceso
 
-- Se documentaron las protoboard, las placas PCB, las carcasas, el producto final y en general, cualquier avance que los grupos de trabajo consideren pertinente registrar.
+- Para llevar a cabo las tomas fotográficas, primero se realizó el montaje del set. Las fotos se tomaron en una caja de luz con fondo infinito, equipada con iluminación integrada. Se utilizó también un trípode y una cámara para garantizar estabilidad y calidad en los registros.
 
-- Para las fotografías de las protoboard tomamos tres tipos de tomas: una desde la parte frontal con perspectiva, otra en vista superior para que se aprecien con claridad los circuitos, y una tercera que enfoca algún detalle distintivo que sea necesario destacar.
+- Durante las sesiones, se documentaron distintos elementos del proceso: protoboard, placas PCB, carcasas, el producto final y cualquier otro avance que los grupos de trabajo consideraran relevante.
 
-- Para poder tomar registros fotográficos del proceso, primero hacemos el montaje del set. Estas fotos las tomamos en una caja de luz con fondo infinito, que cuenta con iluminación integrada. También colocamos un trípode y una cámara Canon que pedimos prestada del pañol digital.
+- En el caso específico de las protoboard, se aplicó la pauta de encuadres definida en la planificación: una toma frontal con perspectiva, una desde arriba para mostrar la disposición de los circuitos y una de detalle para resaltar aspectos particulares.
 
-- Los registros fotográficos se realizan durante el horario de taller. Comenzamos a tomar las fotos a partir de las 10 de la mañana. Además, vamos a agendar sesiones fotográficas en horarios fuera del taller, con el fin de alcanzar a documentar todos los procesos grupales  
+- Los registros fotográficos se realizaron principalmente durante el horario de taller, comenzando a partir de las 10 de la mañana. Para cubrir todos los procesos grupales, también se agendaron sesiones adicionales fuera del horario regular.
 
 ### Postproducción
 
