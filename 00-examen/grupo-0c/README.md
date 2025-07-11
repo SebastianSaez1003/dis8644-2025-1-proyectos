@@ -487,7 +487,7 @@ Mas su PCB no se comportaba como la versión de la breadboard, los LEDs parpadea
 
 Se conectaron capacitores y pulldowns, pero el problema no se solucionó.
 
-# Observaciones y conclusiones (3)
+## Observaciones y conclusiones (3)
 
 - **Dificultades:**
 
