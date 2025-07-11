@@ -222,4 +222,8 @@ Acrílico transparente.
 
 ## Montaje
 
+Dentro del montaje se deidió colocar la protoboard, esta realizó en un principio para analizar el resultado que queríamos obtener. Por otra parte,estáel paso a paso de a PCB, una sin nada, otra siendo parte del proceso, con todos sus componentes fijos y finalmente en adecuadas a la carcasa. 
+
+La carcasa cuenta con una probeta del corte láser en acrílico, el cual nos sirvió para definir su forma y mostrar que para llegar al resultado final son varias pruebas.
+
 ![montaje](./imagenes/montaje/grupo03-montaje02.jpg)
