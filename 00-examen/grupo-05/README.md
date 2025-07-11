@@ -11,21 +11,21 @@ grupo-05
 
 ### aprendizajes
 
-Pedir ayuda a gente externa al equipo de trabajo, organizarnos en estaciones de trabajo para facilitar el avance durante el día.
+El mayor aprendizaje que obtuvimos durante el proyecto fue la importancia de pedir ayuda a personas externas al equipo. Al principio intentamos resolver todo solos, pero nos dimos cuenta que consultando con los docentes o gente de otros grupos, podíamos tener nuevas soluciones que nunca habríamos pensado. Si bien no logramos solucionar el principal problema que tuvimos durante todo el proyecto, el pedir ayuda nos permitió entender mejor la raíz de este error.
+
+También aprendimos a organizarnos mejor dividiendo la carga en estaciones de trabajo, lo cual fue muy útil para optimizar el tiempo, ya que cada uno podía concentrarse en algo específico, y así como equipo avanzábamos en paralelo en vez de esperar a que alguien terminara de hacer lo suyo para que el resto siguiera trabajando.
 
 ### dificultades
 
-El circuito de la ruleta en las placas no funcionaba como se esperaba.
+Una de las principales dificultades fue que el circuito de la ruleta no funcionaba como habíamos planeado. Cuando montamos todos los componentes en la placa, al probarlo notamos que no respondía como debía. Revisamos varias veces los componentes para asegurarnos de no haber echo nada mal, pero no logramos encontrar el problema.
 
-Los cables para soldar los componentes colgantes se cortaban constantemente a la altura de la placa.
+Otro problema constante fueron los cables de los componentes colgantes, que se cortaban con facilidad justo en la unión con la placa. Esto nos generó muchos retrasos ya que tuvimos que volver a soldar varias veces y reforzar las conexiones, lo cual también aumentaba el riesgo de dañar otros componentes en la placa.
 
-Se nos olvidó quitar un chip al momento de soldar y lo quemamos, pero conseguimos darnos cuenta y cambiarlo.
+Además, tuvimos un descuido **muy** importante: se nos olvidó retirar un chip antes de soldar cerca, así que se quemó. Por suerte, pudimos descubrir el error a tiempo.
 
-El circuito no recibía el input del LDR.
+Tuvimos un problema con el LDR, ya que el circuito no estaba recibiendo su señal como se esperaba. Aún después de revisar el componente y las conexiones, el sensor seguía sin responder correctamente, lo cual fue una de las dificultades que no logramos solucionar completamente.
 
-[FranUDP](https://github.com/FranUDP) y Aarón nos ayudaron a darnos cuenta que el chip LM324 no lo habíamos conectado a tierra ni VCC en el esquemático, así que en la placa final tampoco estaba conectado.
-
-Aarón nos sugirió como solución conectar los pines 4 y 11 externamente a la alimentación de la placa, tristemente no resolvió el problema.
+Con ayuda de [FranUDP](https://github.com/FranUDP) y Aarón pudimos descubrir el error principal que estaba afectando el circuito. Nos hicieron notar que no teníamos el chip LM324 conectado a la alimentación, lo que explica por qué el circuito no funcionaba desde el inicio. Aarón nos sugirió una posible solución, conectar externamente los pines 4 y 11 del chip a la fuente de alimentación de la placa. Tristemente, aún después de probar esto, el circuito siguió sin funcionar correctamente. No sabemos si este problema era la única causa o si habían otros errores adicionales en la placa, pero sin dudarlo, podemos decir que fue el problema principal que nos retuvo durante la gran parte del proyecto.
 
 ![chip LM324 con pin 4 levantado](./imagenes/procesos/proceso_01.jpg)
 
@@ -106,3 +106,15 @@ Imágenes de la carcasa
 ![carcasa detalle](./imagenes/carcasa/tme-grupo05-carcasa-registro06.jpg)
 
 ## montaje
+
+Para el montaje, decidimos que la mejor manera de exponer nuestro proyecto sería comenzando con el "producto" final a la izquierda (el proyecto montado con la carcasa), llevando al prototipo inicial en la derecha (las protoboards).
+
+El orden de las placas PCBs desde abajo hacia arriba es: placa vacía &rarr; placa con componentes soldados directamente en esta &rarr; placa con componentes soldados en cables para montaje en la carcasa &rarr; placas de intentos fallidos
+
+![montaje 1](./imagenes/montaje/montaje_01.jpg)
+
+
+![montaje 2](./imagenes/montaje/montaje_02.jpg)
+
+
+![montaje placas](./imagenes/montaje/montaje_03.jpg)
