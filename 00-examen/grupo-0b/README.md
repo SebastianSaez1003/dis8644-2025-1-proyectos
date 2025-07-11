@@ -100,13 +100,23 @@ En el siguiente listado se incluyen los enlaces a los registros fotográficos de
 
 La responsable de esta sección es @Bernardita-lobo.
 
-- En un principio, me habían encargado desarrollar dos propuestas de montaje, ya que aún no sabíamos con certeza de qué sala íbamos a disponer. Por lo tanto, elaboré dos alternativas considerando distintas condiciones de espacio e iluminación.
+### referentes y motivaciones
 
-![Fotografia](./imagenes/tme-examen-modelado01.JPG)
+Como taller visitamos el Museo MAC para ver la exposición de Matías Serrano. Cuando fui, no solo quedé maravillada, sino que también me pareció un referente perfecto para esta parte de mi trabajo. Uno de los mayores retos para el montaje fue trabajar en una sala tan grande, donde predominan superficies planas y espacios abiertos que pueden sentirse fríos o vacíos. Para evitar esa sensación y darle más dinamismo al espacio, decidí incorporar iluminación estratégica que genera volumen y contrastes. inspirándome en el uso de la luz que observé en el Museo MAC.
+
+![Foto de referente](./imagenes/referentes/tme-examen-referente04.JPG)
+
+![Foto de referente](./imagenes/referentes/tme-examen-referente05.JPG)
+
+- En un principio, me habían encargado desarrollar dos propuestas de montaje, ya que aún no sabíamos con certeza de qué sala íbamos a disponer. Por lo tanto, elaboré dos alternativas considerando distintas condiciones de espacio e iluminación.
 
 ### Elementos clave a mostrar en el montaje
 
 - Para el montaje es fundamental lograr explicar, de manera concisa y accesible, cómo se llegó a los resultados finales. Este taller en especial, trabaja en una disciplina algo diferente y puede resultar difícil de comprender. En ese sentido, la propuesta del montaje se dividirá en dos secciones: una donde se expongan los proyectos finales y otra donde se evidencien todos los procesos por los que tuvieron que pasar los grupos de trabajo.
+
+![Fotografia](./imagenes/tme-examen-modelado01.JPG)
+
+![Fotografia](./imagenes/tme-examen-modelado03.JPG)
 
 ### Sección Proyectos finales
 
@@ -125,8 +135,6 @@ La responsable de esta sección es @Bernardita-lobo.
 - Cada fase estará acompañada por una pieza visual representativa, como las protoboard o algunas de las primeras versiones impresas en 3D que fueron modificadas a lo largo del desarrollo. Esto permitirá visualizar y comprender fácilmente el avance de cada etapa.
 
 - Además, se incluirá un video de apoyo que muestra a los estudiantes trabajando y documentando sus procesos. Este material será proyectado tanto en un monitor como en el data. La sección funcionará como una recopilación visual y narrativa de los procesos productivos recorridos por los grupos para llegar al resultado final.
-
-![Fotografia](./imagenes/tme-examen-modelado03.JPG)
 
 ![Fotografia](./imagenes/tme-examen-modelado02.PNG)
 
