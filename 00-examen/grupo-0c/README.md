@@ -20,14 +20,14 @@ grupo-0c
 
 ### **Link del Excel / Google sheets: <https://docs.google.com/spreadsheets/d/1CT1RtA_BYuWpyJ54k9VGduSAs_nKiFYd9yf2WvjZ-4g/edit?gid=529027261#gid=529027261>**
 
-### Proveedores:
--	Victronics (https://www.victronics.cl/)
--	Afel (https://afel.cl/)
--	Mercado libre (https://www.mercadolibre.cl/)
--	MCI electronics (https://mcielectronics.cl/)
+### Proveedores
+
+- Victronics <https://www.victronics.cl/>
+- Afel <https://afel.cl/>
+- Mercado Libre <https://www.mercadolibre.cl/>
+- MCI electronics <https://mcielectronics.cl/>
 
 ![proveedores](https://github.com/duckusu/dis8644-2025-1-proyectos/blob/main/21-duckusu/sesion-17b/archivos/proveedores.jpg)
-
 
 ## Materiales del Lab
 
@@ -277,13 +277,11 @@ Tras la compra, se recopilaron las boletas para hacer un recuento de todo lo imp
 
 ## Observaciones y conclusiones
 
-Dificultades: Se me llego a dificultar mas que nada el como ordenar cada markdown de una forma mas rapida, por suerte, misaa llego a ayudarme con eso y enseñarme sobre como generar los markdown a partir de un excel usando la siguiente pagina:
+Dificultades:Mi principal reto fue organizar rápidamente los archivos Markdown. Afortunadamente, Misaa me ayudó mostrándome cómo generarlos desde Excel usando la siguiente pagina:
 
-- https://www.tablesgenerator.com/markdown_tables#
+- [Tables Generator](https://www.tablesgenerator.com/markdown_tables#)
 
-
-Logros: Aprendí sobre los proveedores mas viables en el mercardo, así como comprar al por mayor y finalmente, pagar con factura.
-
+Logros: Aprendí a identificar los proveedores más viables del mercado, a comprar al por mayor y a realizar pagos con factura.
 
 ---
 
@@ -345,21 +343,19 @@ A continuación, las labores realizadas.
 
 Resolución de dudas mediante commits, issues en Github y comunicación externa tanto en Whatsapp como presencialmente.
 
-![commits](./imagenes/commits-imagen)
+![commits](./imagenes/commits-imagen.jpg)
 
-Fuente: añadir
+▼ **Fuente:** DiseñoUDP. *Commits*.[Github] Recuperado de <https://github.com/disenoUDP/dis8644-2025-1-proyectos/commits?author=IzhakVillegas&since=2025-07-01&until=2025-07-11>
 
 ![inbox](./imagenes/revisiones-imagen.jpg)
 
-Fuente: añadir
+Pantallazos de conversaciones y correcciones sobre el repositorio y temas técnicos
 
-imagen en el lab
+![imagen en el lab](./imagenes/imagen-lab.jpg)
 
-Fuente: añadir
+▼ **Fuente:** Fotografiado por [@jotamorales-romulus](https://github.com/jotamorales-romulus)
 
 - Se recopilaron los datos entregados por cada grupo-proyecto para presentarlos como diagrama de bloque mediante Mermaid gracias a la herramienta [Mermaid Chart](https://www.mermaidchart.com/). Sintetizando la arquitectura de cada proyecto.
-
-Fuente:
 
 ## Colaboración con grupo-0b (logística)
 
@@ -375,7 +371,7 @@ Exportación de fotografías en Drive (.jpg) para edición en Adobe Photoshop y 
 
 - Redacción y diseño de materiales impresos (cartulina fluorescente, monocromía):
 
-Descripción general del curso
+- Descripción general del curso
 
 *"El Taller de diseño de máquinas electrónicas es un espacio de encuentro entre lo análogo y lo digital, entre lo artesanal y lo industrial, entre lo local y lo mundial. Su metodología se centra en las prácticas de inteligencias de carácter colectivo en pos del desarrollo de ideas innovadoras por parte de les estudiantes en un espacio.*
 
@@ -391,21 +387,17 @@ Descripción general del curso
 
 La presente imagen indica la comparativa entre propuesta (0c) y diseño final (0b).
 
-Textos para mesas de avances (medio carta).
+- Se estableció un orden de presentación para los textos de la presentación.
 
-[Adjuntar propuesta]
+1. Textos para mesas de avances (medio carta).
 
-Textos para mesas de proyectos (medio carta).
+2. Textos para mesas de proyectos (medio carta).
 
-[Adjuntar propuesta]
-
-Viñetas por proyecto (nombre, integrantes, explicación técnica).
+3. Viñetas por proyecto (nombre, integrantes, explicación técnica).
 
 Propuesta de stickers NFC (en colaboración con Laboratorio de Interacción Digital UDP) para vincular físicamente al repositorio GitHub.
 
-[Adjuntar propuesta]
-
-- Soporte físico
+- **Soporte físico**
 
 Mediciones de mesas para curatoría y distribución espacial de proyectos.
 
@@ -419,17 +411,15 @@ Mediciones de mesas para curatoría y distribución espacial de proyectos.
 - Añadido a mesas por tela 15cm.
 - 15 cm x2 (por cada extremo).
 
-[Adjuntar medidas]
-
 ## Observaciones y conclusiones (3)
 
-- Dificultades:
+- **Dificultades:**
 
  Limitaciones en la redacción centralizada para permitir las expresiones libres de cada grupo.
 
- Comunicación más efectiva en persona que en medios digitales.
+ Mejor comunicación en persona que en medios digitales, sin embargo, gracias a los canales de comunicación como Commits y Discord se logró llegar a buen puerto.
 
-- Logros:
+- **Logros:**
 
  Estandarización de formatos (README, diagramas, textos físicos).
 
@@ -439,4 +429,6 @@ Mediciones de mesas para curatoría y distribución espacial de proyectos.
 
 ## Conclusiones generales
 
-Se destaca el **ambiente colaborativo** digital y físico de cada uno de los integrantes de este Taller.
+Se destaca el **ambiente colaborativo** digital y físico de cada uno de los integrantes de este Taller. **Transparencia, comunicación efectiva y voluntad de cada uno de los integrantes** en desarrollar colectivamente cada proyecto-02.
+
+Se reforzó el valor del **trabajo en red.** La sinergia entre roles demuestra que la conexión entre partes diversas genera un resultado mayor que la suma de sus partes. La exhibición final es un testimonio de cómo la **colaboración estructurada y la creatividad compartida pueden transformar desafíos complejos en soluciones tangibles**.

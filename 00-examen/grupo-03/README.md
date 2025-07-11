@@ -10,24 +10,30 @@ grupo-03
 
 ## Proyecto-02
 
-- aprendizajes
+- Aprendizajes
 
-Trabajo en equipo, el hacer y rehacer un circuito para lograr que funcione, paciencia, potenciómetro de 1m ohm para regular las luces junto al de 500k.
+Uno de los principales aprendizajes fue desarrollar la perseverancia y la paciencia, cualidades esenciales durante todo el proceso. Esto implicó un constante trabajo en equipo, donde la colaboración y la comunicación fueron fundamentales para alcanzar el resultado final. Tuvimos que hacer y rehacer el circuito varias veces hasta lograr que funcionara correctamente. Además, profundizamos nuestros conocimientos sobre componentes electrónicos, como el potenciómetro de 1M ohm y el de 500k ohm. Estos elementos resultaron clave para regular la sensibilidad del micrófono y afinar el comportamiento del sistema. Cada etapa fue un desafío técnico y humano que enriqueció la experiencia.
 
-- soldar
+Aprendimos a priorizar y organizar mejor nuestros tiempos, lo que nos permitió avanzar de manera más eficiente en cada etapa del proyecto. Supimos aprovechar al máximo los momentos "vacíos", utilizándolos para adelantar otras tareas pendientes. Este manejo del tiempo fue clave para mantener el ritmo de trabajo. Además, desarrollamos una mayor organización en el uso de los componentes, asegurándonos de tener siempre a mano lo necesario y evitando confusiones o pérdidas. Estos hábitos mejoraron nuestra forma de trabajar en equipo.
 
-Cómo interactúa el objeto con el espacio, ya que como grupo definimos que ciertos elementos sobresalen de la PCB para que el usuario interactúe con estos para que funcione tal como esperamos.
+Por último, aprendimos a visualizar cómo se integraría la placa dentro de una carcasa, asegurándonos de que cumpliera con nuestros objetivos tanto a nivel de circuito como de iluminación. Cómo interactúa el objeto con el espacio, como grupo definimos que ciertos elementos sobresalen de la PCB para que el usuario interactúe con estos. Nos informamos más sobre la refracción para saber la alteración que tiene la luz, al estar en emisión con distintos elementos.
 
-Elección de luces, material y refracción, interacción de la luz con distintos objetos.
+- Dificultades
 
-- dificultades
+Una de las principales dificultades fue lograr que el circuito funcionara de manera óptima, ya que en varias ocasiones la sensibilidad del micrófono fallaba, lo que impedía que las luces respondieran correctamente al sonido; encendiéndose solo un LED. 
 
-Que el circuito funcionara como queríamos, porque había veces que **funcionaba pero su sensibilidad no era la que necesitábamos** (poca sensibilidad).
+También enfrentamos el desafío de probar distintos micrófonos, evaluando sus niveles de sensibilidad para encontrar el más adecuado. Sin embargo, la dificultad más decisiva surgió al integrar la placa en la carcasa final: una vez ensamblado todo, solo un LED reaccionaba al sonido. Esto nos llevó a replantear el diseño y la forma de la carcasa, tomando decisiones cruciales para asegurar el correcto funcionamiento del sistema.
 
-Probar distintos micrófonos y sus sensibilidades.
+Por último, la decisión de la forma de la carcasa, ya que al principio queríamos hacer una forma más orgánica pero nuestra placa estaba ordenada de una manera más lineal, por lo que decidimos hacer una forma ortogonal para seguir la misma característica de la placa.
 
-Decisión de la forma de la carcasa.
+- Soldar
 
+Aprendizajes: Uno de los aprendizajes fue saber ordenar los cables para facilitar el proceso. Por otro lado, nos dieron como tip, colocar cinta de papel para que los componentes se mantuvieran estables. También aprendimos a utilizar los soportes para mantener la placa y los componentes. 
+
+Dificultades: Una de las dificultades fue que a veces el estaño no unía los cables por lo que debíamos cortar para volver a empezar. 
+
+IMAGEN
+ 
 ## PCB
 
 Prototipado de circuitos en protoboard
@@ -77,11 +83,11 @@ A continuación se presentan imágenes de la PCB final.
 | Chip          | 1        | 4017            |
 | Terminal block | 1        | 2 pin           |
 | Switch        | 1        | spdt            |
-| Bateria        | 1        | 9v              |  
-|socket         | 1         |  14 pins |
-|socket         |  1        | 16 pins  |
-|terminal block | 1  | |
-|pernos m2      |4     | |
+| Batería        | 1        | 9v              |  
+| Socket         | 1         |  14 pins |
+| Socket         |  1        | 16 pins  |
+| Terminal block | 1  | 2 pin|
+| Pernos m2      |4     | |
 
 - Los LEDs de 5mm son de **colores variados**  (verde, blanco, amarillo, rojo, azul).
 
@@ -93,11 +99,11 @@ En el segundo esquemático es la **secuencia/contador** de luces mediante el **C
 
 Primer esquemático, CHIP LM324
 
-![grupo03-esquematico](./imagenes/grupo03-esquematico-chipLM324.png)
+![grupo03-esquematico](./imagenes/kicad/grupo03-esquematico-chipLM324.png)
 
 Segundo esquemático, CHIP 4017
 
-![grupo03-esquematico](./imagenes/grupo03-esquematico-chip4017.png)
+![grupo03-esquematico](./imagenes/kicad/grupo03-esquematico-chip4017.png)
 
 DESCRIPCIÓN:
 
@@ -141,27 +147,17 @@ CHIP 4017
 
 ## kicad
 
-![grupo03-pcb](./imagenes/grupo03-pcb-kicad02.jpg)
+![grupo03-pcb](./imagenes/kicad/grupo03-pcb-kicad02.jpg)
 
-![grupo03-pcb](./imagenes/grupo03-pcb-kicad03.jpg)
+![grupo03-pcb](./imagenes/kicad/grupo03-pcb-kicad03.jpg)
 
-![grupo03-pcb](./imagenes/grupo03-pcb-kicad04.jpg)
+![grupo03-pcb](./imagenes/kicad/grupo03-pcb-kicad04.jpg)
 
-![Esquematico en Kicad](./imagenes/grupo03-esquematico-kicad01.pdf)
+![Esquematico en Kicad](./imagenes/kicad/grupo03-esquematico-kicad01.pdf)
 
-![PCB en Kicad](./imagenes/grupo03-pcb-kicad05.pdf)
+![PCB en Kicad](./imagenes/kicad/grupo03-pcb-kicad05.pdf)
 
-![grupo03-pcb](./imagenes/grupo03-pcb-kicad02.jpg)
-
-![grupo03-pcb](./imagenes/grupo03-pcb-kicad03.jpg)
-
-![grupo03-pcb](./imagenes/grupo03-pcb-kicad04.jpg)
-
-![Esquematico en Kicad](./imagenes/grupo03-esquematico-kicad01.pdf)
-
-![PCB en Kicad](./imagenes/grupo03-pcb-kicad05.pdf)
-
-## recursos adicionales
+## Recursos adicionales
 
 - El **Chip LMV324M** del SparkFun Sound Detector **lo desglosamos**, por así decirlo, para tener el chip aparte y **poder regular la sensibilidad del micrófono.**
 
@@ -183,6 +179,8 @@ El proceso se realizó con mucho cuidado.
 **Recomendaciones:** Utilizamos cinta de papel para que los componentes no se movieran y antes de soldar, revisamos el esquemático y medimos con multímetro cada componente para verificar su valor.
 
 Solo ocurrieron **dos percances**, ya que el socket del 4017 lo colocamos al revés pero, esto tiene **diferencia mecánica y no eléctrica** . Por otra parte, la huella de las resistencia en kicad es más pequeña pero los acomodamos para que quepan bien sin problemas.
+
+![proceso](./imagenes/proceso/grupo03-proceso.jpg)
 
 ## Carcasa
 
@@ -214,4 +212,18 @@ Vinilo tornasol transparente.
 
 Acrílico transparente.
 
+![carcasa](./imagenes/carcasa/tme-grupo03-impresion3d-registro01.JPG)
+
+![carcasa](./imagenes/carcasa/tme-grupo03-impresion3d-registro02.JPG)
+
+![carcasa](./imagenes/carcasa/grupo03-carcasa01.jpg)
+
+![carcasa](./imagenes/carcasa/grupo03-carcasa02.jpg)
+
 ## Montaje
+
+Dentro del montaje se deidió colocar la protoboard, esta realizó en un principio para analizar el resultado que queríamos obtener. Por otra parte,estáel paso a paso de a PCB, una sin nada, otra siendo parte del proceso, con todos sus componentes fijos y finalmente en adecuadas a la carcasa. 
+
+La carcasa cuenta con una probeta del corte láser en acrílico, el cual nos sirvió para definir su forma y mostrar que para llegar al resultado final son varias pruebas.
+
+![montaje](./imagenes/montaje/grupo03-montaje02.jpg)

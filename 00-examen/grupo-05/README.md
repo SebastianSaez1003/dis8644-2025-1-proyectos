@@ -11,21 +11,21 @@ grupo-05
 
 ### aprendizajes
 
-Pedir ayuda a gente externa al equipo (específicamente los grupos 00), organizarnos en estaciones de trabajo para facilitar el avance durante el día
+El mayor aprendizaje que obtuvimos durante el proyecto fue la importancia de pedir ayuda a personas externas al equipo. Al principio intentamos resolver todo solos, pero nos dimos cuenta que consultando con los docentes o gente de otros grupos, podíamos tener nuevas soluciones que nunca habríamos pensado. Si bien no logramos solucionar el principal problema que tuvimos durante todo el proyecto, el pedir ayuda nos permitió entender mejor la raíz de este error.
+
+También aprendimos a organizarnos mejor dividiendo la carga en estaciones de trabajo, lo cual fue muy útil para optimizar el tiempo, ya que cada uno podía concentrarse en algo específico, y así como equipo avanzábamos en paralelo en vez de esperar a que alguien terminara de hacer lo suyo para que el resto siguiera trabajando.
 
 ### dificultades
 
-El circuito de la ruleta en las placas no funcionaba como se esperaba
+Una de las principales dificultades fue que el circuito de la ruleta no funcionaba como habíamos planeado. Cuando montamos todos los componentes en la placa, al probarlo notamos que no respondía como debía. Revisamos varias veces los componentes para asegurarnos de no haber echo nada mal, pero no logramos encontrar el problema.
 
-Los cables para soldar los componentes colgantes se cortaban constantemente a la altura de la placa
+Otro problema constante fueron los cables de los componentes colgantes, que se cortaban con facilidad justo en la unión con la placa. Esto nos generó muchos retrasos ya que tuvimos que volver a soldar varias veces y reforzar las conexiones, lo cual también aumentaba el riesgo de dañar otros componentes en la placa.
 
-Se nos olvidó quitar un chip al momento de soldar y lo quemamos, pero conseguimos darnos cuenta y cambiarlo
+Además, tuvimos un descuido **muy** importante: se nos olvidó retirar un chip antes de soldar cerca, así que se quemó. Por suerte, pudimos descubrir el error a tiempo.
 
-El circuito no recibía el input del LDR
+Tuvimos un problema con el LDR, ya que el circuito no estaba recibiendo su señal como se esperaba. Aún después de revisar el componente y las conexiones, el sensor seguía sin responder correctamente, lo cual fue una de las dificultades que no logramos solucionar completamente.
 
-[FranUDP](https://github.com/FranUDP) y Aarón nos ayudaron a darnos cuenta que el chip LM324 no lo habíamos conectado a tierra ni VCC en el esquemático, así que en la placa final tampoco estaba conectado
-
-La solución que nos dió Aarón, fue conectar los pines 4 y 11 externamente a la alimentación de la placa
+Con ayuda de [FranUDP](https://github.com/FranUDP) y Aarón pudimos descubrir el error principal que estaba afectando el circuito. Nos hicieron notar que no teníamos el chip LM324 conectado a la alimentación, lo que explica por qué el circuito no funcionaba desde el inicio. Aarón nos sugirió una posible solución, conectar externamente los pines 4 y 11 del chip a la fuente de alimentación de la placa. Tristemente, aún después de probar esto, el circuito siguió sin funcionar correctamente. No sabemos si este problema era la única causa o si habían otros errores adicionales en la placa, pero sin dudarlo, podemos decir que fue el problema principal que nos retuvo durante la gran parte del proyecto.
 
 ![chip LM324 con pin 4 levantado](./imagenes/procesos/proceso_01.jpg)
 
@@ -37,21 +37,7 @@ La solución que nos dió Aarón, fue conectar los pines 4 y 11 externamente a l
 
 ## PCB
 
-Protoboards de prototipado
-
-El proyecto consiste en dos circuitos paralelos; el primero consiste en un detector de sombra y una secuencia de leds de 10 pasos, y el segundo de un micrófono electret que activa una luz led. Estos circuitos no afectan entre sí, y tan solo son un truco para el usuario.
-
-Imágenes de las protoboards
-
-![protoboards vista lateral](./imagenes/protoboard/tme-grupo05-protoboard-registro01.JPG)
-
-![protoboard ruleta vista lateral](./imagenes/protoboard/tme-grupo05-protoboard-registro02.JPG)
-
-![protoboard ruleta vista superior](./imagenes/protoboard/tme-grupo05-protoboard-registro03.JPG)
-
-![protoboard ruleta detalle 01](./imagenes/protoboard/tme-grupo05-protoboard-registro04.JPG)
-
-![protoboard ruleta detalle 02](./imagenes/protoboard/tme-grupo05-protoboard-registro06.JPG)
+El proyecto consiste en dos circuitos paralelos con sus respectivas PCBs; el primer circuito consiste en un detector de sombra que, por medio de un LDR, activa una secuencia de 10 pasos de LEDs, y el segundo es un micrófono electret que enciende una luz LED por medio del input de sonido. Estos circuitos **no** están relacionados en funcionalidad; el circuito del micrófono solo es un truco para el usuario.
 
 Imágenes de las placas PCB
 
@@ -75,7 +61,7 @@ Decidimos soldar las placas a lo largo de distintos días.
 
 Inicialmente, soldamos una de cada placa con todos los componentes directo en estas para asegurarnos que todo funcionara como debía.
 
-Luego, las otras placas las soldamos con cables para poder montar en la carcasa, pero tuvimos problemas ya que estos cables tendían a cortarse muy fácilmente.
+Luego, en las otras placas, soldamos cables hacia los LEDs y el LDR para poder montarlos en la carcasa, pero tuvimos problemas ya que estos cables tendían a cortarse muy fácilmente.
 
 Finalmente, luego de terminar de soldar y arreglar los cables cortados, montamos las placas correspondientes a la carcasa.
 
@@ -87,11 +73,11 @@ Finalmente, luego de terminar de soldar y arreglar los cables cortados, montamos
 
 ## carcasa
 
-La carcasa se hizo en dos partes, la tapa con terciado de 3mm, y el contendor con impresión 3D PLA+ en Bambulab.
+La carcasa se construyó en dos partes: una tapa hecha con madera terciada de 3mm en corte láser, y el contendor en impresión 3D.
 
-Las luces LED de la ruleta se colocaron en la parte superior de la carcasa en forma de arco, y el LDR fue situado en el centro para ser accesible al usuario.
+Las luces LED de la ruleta se colocaron en la parte superior de la tapa en forma de arco, y el LDR fue situado en el centro para ser accesible al usuario.
 
-Para la tapa decidimos agregar un diseño inspirado por la rueda de la fortuna de las cartas de tarot, con el centro de esta ruleta alineándose con el LDR.
+Antes de cortar la tapa, decidimos agregar un diseño inspirado por una de las cartas del tarot, la rueda de la fortuna, con el centro de esta rueda alineándose con el posicionamiento del LDR.
 
 ![carta del tarot](./imagenes/procesos/carta_tarot.jpg)
 
@@ -109,4 +95,14 @@ Imágenes de la carcasa
 
 ## montaje
 
-????
+Para el montaje, decidimos que la mejor manera de exponer nuestro proyecto sería comenzando con el "producto" final a la izquierda (el proyecto montado con la carcasa), llevando al prototipo inicial en la derecha (las protoboards).
+
+El orden de las placas PCBs desde abajo hacia arriba es: placa vacía &rarr; placa con componentes soldados directamente en esta &rarr; placa con componentes soldados en cables para montaje en la carcasa &rarr; placas de intentos fallidos
+
+![montaje 1](./imagenes/montaje/montaje_01.jpg)
+
+
+![montaje 2](./imagenes/montaje/montaje_02.jpg)
+
+
+![montaje placas](./imagenes/montaje/montaje_03.jpg)
