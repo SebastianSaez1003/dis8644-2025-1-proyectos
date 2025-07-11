@@ -18,7 +18,7 @@
 
 - Para esto, inicié con una investigación de referentes fotográficos vinculados al área tecnológica y de producto, con el fin de definir un estilo visual coherente.
 
-- Tomé como referencia el portafolio de un fotógrafo especializado en productos, ya que su enfoque estético sugiere simpleza y neutralidad al momento de exponer los objetos. Además, me interesó cómo trabaja con fondos limpios, encuadres cerrados y una paleta controlada, lo que permite centrar la atención exclusivamente en el producto, sin distracciones. Esta referencia me ayudó a definir una línea visual coherente para las fotografías del taller. <https://www.trucco.photography/productos>
+- Tomé como referencia el portafolio de un fotógrafo especializado en productos, ya que su enfoque estético sugiere simpleza y neutralidad al momento de exponer los objetos. Además, me interesó cómo trabaja con fondos limpios, encuadres cerrados y una paleta controlada, lo que permite centrar la atención exclusivamente en el producto. Esta referencia me ayudó a definir una línea visual coherente para las fotografías del taller. <https://www.trucco.photography/productos>
 
 ![Foto de referente fotográfico](./imagenes/referentes/tme-examen-referente02.jpeg)
 
