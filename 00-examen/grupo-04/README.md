@@ -102,15 +102,16 @@ Esta fue una experiencia completamente nueva para nosotros, ya que nunca habíam
 
 ![soldadura04](./imagenes/pcb/tme-grupo04-soldado-registro02.jpg)
 
-# Durante esta etapa, soldamos un total de tres placas:
+Durante esta etapa, soldamos un total de tres placas
 
 ### 1. Placa principal (carcasa)
 
 Es la placa que está instalada dentro de la carcasa del juguete. En esta versión, utilizamos **cables largos** para poder alcanzar componentes que se encuentran en distintas zonas del exterior, como:
+
 - Sensor LDR
 - Motor 9V
 - 2 potenciómetros
-- Terminal Jack de alimentación 
+- Terminal Jack de alimentación
 
 ![soldadura05](./imagenes/pcb/tme-grupo04-soldado-registro08.jpg.jpg)
 
@@ -145,11 +146,6 @@ Durante el proceso de armado, nos enfrentamos a distintos **problemas técnicos*
 Esta etapa fue una experiencia súper completa y práctica. No solo repasamos lo que habíamos aprendido en clases, sino que también pusimos manos a la obra y aprendimos a soldar y armar placas reales por primera vez. Fue un proceso donde realmente entendimos cómo funcionan las cosas, y también cómo detectar y corregir errores cuando algo no anda bien.
 
 El hecho de haber soldado tres placas distintas nos ayudó mucho a entender mejor los componentes, cómo conectarlos bien, y a tener más confianza con las herramientas y materiales.
-
-
-
-
-
 
 ## carcasa
 
