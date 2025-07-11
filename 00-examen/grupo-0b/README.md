@@ -10,7 +10,7 @@
 
 ## registro fotografico y plan de documentacion
 
-- La responsable de esta sección es @Bernardita-lobo.
+La responsable de esta sección es @Bernardita-lobo.
 
 - mi trabajo consistió en la gestión, captura y edición fotográfica de los protoboards, placas PCB y carcasas desarrollados por mis compañeros.
 
@@ -76,17 +76,24 @@
 
 - Estas fotos son subidas a este [Drive](<https://drive.google.com/drive/folders/1OwoyJ_nTuie-A1s_U5647DsOHI4zlNnj?usp=drive_link>), donde están disponibles en formato JPG y también como archivos editables de Photoshop. Además, las fotografías se encuentran organizadas en la carpeta "imagenes" presente en las carpetas de los grupos dentro del repositorio "00-examen", así como en la carpeta "[imagenes](https://github.com/Bernardita-lobo/dis8644-2025-1-proyectos/tree/main/00-examen/grupo-0b/imagenes)" del "grupo-0b", al que pertenece esta misma documentación.
 
-- Los archivos de las fotos fueron nombrados siguiendo el formato por ejemplo: tme-grupo01-protoboard-registro01, donde se indican las siglas del taller (TME: Taller Máquinas Electrónicas), el número del proyecto, el número del grupo y el número de registro correspondiente.
+- Los archivos fotográficos se nombraron siguiendo un formato estandarizado, como tme-grupo01-protoboard-registro01, que indica el taller, el grupo, el tipo de elemento y el número de registro. Esto facilitó la organización y el acceso a los documentos.
 
 ![Foto de referente fotográfico](./imagenes/referentes/tme-examen-drive.png)
 
 ### archivos de fotos
 
+En el siguiente listado se incluyen los enlaces a los registros fotográficos de cada grupo, donde es posible acceder al conjunto completo de imágenes documentadas durante el proceso
+
 - [Grupo 01](https://github.com/Bernardita-lobo/dis8644-2025-1-proyectos/tree/main/00-examen/grupo-01/imagenes)
+
 - [Grupo 02](https://github.com/Bernardita-lobo/dis8644-2025-1-proyectos/tree/main/00-examen/grupo-02/imagenes)
+
 - [Grupo 03](https://github.com/Bernardita-lobo/dis8644-2025-1-proyectos/tree/main/00-examen/grupo-03/imagenes)
+
 - [Grupo 04](https://github.com/Bernardita-lobo/dis8644-2025-1-proyectos/tree/main/00-examen/grupo-04/imagenes)
+
 - [Grupo 05](https://github.com/Bernardita-lobo/dis8644-2025-1-proyectos/tree/main/00-examen/grupo-05/imagenes)
+
 - [Grupo 06](https://github.com/Bernardita-lobo/dis8644-2025-1-proyectos/tree/main/00-examen/grupo-06/imagenes)
 
 ## Propuesta de montaje de proyectos en sala de clases y en laboratorio
