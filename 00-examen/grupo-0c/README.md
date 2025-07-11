@@ -285,12 +285,6 @@ Logros: Aprendí a identificar los proveedores más viables del mercado, a compr
 
 ---
 
-## Simulación: Apoyo en Falstad y Fabricación en KiCad
-
-**Encargado:** Francisco Stephens *@FranUDP*
-
-## Labores a realizar (2)
-
 ## Simulación: Apoyo en Falstad, Fabricación en KiCad y Soporte Técnico
 
 *Encargado:* Francisco Stephens @FranUDP
