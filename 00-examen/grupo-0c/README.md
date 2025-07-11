@@ -285,31 +285,221 @@ Logros: Aprendí a identificar los proveedores más viables del mercado, a compr
 
 ---
 
-## Simulación: Apoyo en Falstad y Fabricación en KiCad
+## Simulación: Apoyo en Falstad, Fabricación en KiCad y Soporte Técnico
 
-**Encargado:** Francisco Stephens *@FranUDP*
+*Encargado:* Francisco Stephens @FranUDP
 
 ## Labores a realizar (2)
 
-(Presentación)
+Asistencia a los grupos en diseño del circuito, investigando las datasheet de los componentes y realizando simulaciones en Falstad y Tinkercad.
 
-Detalles
+Diseño de las PCBs en Kicad, apoyando en dudas en cuanto al uso del programa, revisando y dando feedback de los esquemáticos y planos de las placas.
 
-Revisión de esquemáticos
+Apoyo soldando los componentes a las placas y troubleshooting de cualquier problema que estas presenten.
 
-Revisión de PCBs en KiCad
+- Detalles
 
-Ayudantía
+Mis labores comenzaron en la sesión 14a revisando y simulando el esquema enviado el grupo-05, después de revisar el comportamiento del circuito se conversó con el grupo sobre su visión del proyecto y el comportamiento deseado de este mismo.
 
-## Observaciones y conclusiones (2)
+![esquemático g5 v1](./imagenes/franudp/sch1.jpg)
 
-- Dificultades:
+▼ *Fuente:* Grupo-05
 
- Añadir.
+![simulación falstad g5 v1](./imagenes/franudp/fals1.jpg)
 
-- Logros:
+▼ *Fuente:* [@FranUDP](https://github.com/FranUDP/dis8644-2025-1/tree/main/25-FranUDP)
 
- Añadir.
+El grupo 05 explicó que buscaban un objeto que al detectar “movimiento”, mediante un LDR, que en respuesta active los LDRs en secuencia, por lo que se les aconsejó comenzar con el segmento INPUT del circuito “detector de sombra”, visto en clases, que utiliza un LM324 (comparador) conectado a un NE555p en configuración monostable (para evitar múltiples activaciones) y luego conectar su OUTPUT a un segundo NE555p en configuración astable (oscilador) y su OUTPUT conectado a un CD4017 (secuenciador), para generar la secuencia de LEDs.
+
+![detector de sombras](https://github.com/FranUDP/dis8644-2025-1/blob/main/25-FranUDP/sesion-12a/archivos/detectorSombra.png)
+
+▼ *Fuente:* [@misaaaaaa](https://github.com/misaaaaaa/)
+
+En la sesión 14b se revisó el esquemático que [@misaaaaaa](https://github.com/misaaaaaa/) le dio al grupo 04 y se les aconsejó que invirtieran los INPUTS del comparador (LM324), en comparación con el "detector de sombras" que en lugar de tener el LDR conectado al Pin3 y el potenciómetro al Pin2, conectaran el LDR al Pin2 y el potenciómetro al Pin3. 
+
+Esto es debido a que cuando el LDR recibe menos luz, su resistencia aumenta, por lo que el voltaje que emite, al estar conectado como divisor de voltaje, aumenta. Esto hace que, al recibir poca luz, el comparador emita HIGH, activando el NE555P.
+
+![pizarra esquemático](./imagenes/franudp/sch2.jpg)
+
+▼ *Fuente:* Fotografiado por [@FranUDP](https://github.com/FranUDP/dis8644-2025-1/tree/main/25-FranUDP)
+
+![comparador](./imagenes/franudp/fals2.gif)
+
+▼ *Fuente:* [@FranUDP](https://github.com/FranUDP/dis8644-2025-1/tree/main/25-FranUDP)
+
+![LM324 pinout](https://github.com/FranUDP/dis8644-2025-1/blob/main/25-FranUDP/sesion-10a/archivos/LM324-pinout.jpg)
+
+▼ *Fuente:* Microcontrollerslab. OP/AMP pinout datasheet. Recuperado de <https://microcontrollerslab.com/lm324-op-amp-pinout-datasheet-applications-features-datasheet/>
+
+Tras dificultades con sus circuitos, se asistó al grupo 05 mediante el diseño de un circuito base en Falstad, teniendo en cuenta el comportamiento deseado, que pudieran ajustar después.
+
+```txt
+LDR recibe poca luz -> LM324 -> NE555p (monostable) -> NE555P (astable) -> CD4017 -> LEDs que se iluminan y apagan en secuencia.
+```
+
+![simulación falstad g5 v2](./imagenes/franudp/fals3.gif)
+
+▼ *Fuente:* [@FranUDP](https://github.com/FranUDP/dis8644-2025-1/tree/main/25-FranUDP)
+
+En la sesión 15a, tras revisar su esquemático antes de la clase, se le corrigió al grupo 06 las conexiones de los pines 1A y 2A (dirección) del L293D (controlador de motor), a una señal PWM y se les propuso añadir un 2n2222 (NPN transistor) que conecte el pin4 del NE555p a GND, para apagarlo cuando la "segunda parte" (L293D) del circuito esté apagada.
+
+![esquemático propuesta modificación g6](./imagenes/franudp/sch3.jpg)
+
+▼ *Fuente:* Grupo 06, fotografiado y editado por [@FranUDP](https://github.com/FranUDP/dis8644-2025-1/tree/main/25-FranUDP)
+
+![L293D direction pins](./imagenes/franudp/tinker1.gif)
+
+▼ *Fuente:* [@FranUDP](https://github.com/FranUDP/dis8644-2025-1/tree/main/25-FranUDP)
+
+![NE555 Pin4 -> NPN -> GND](./imagenes/franudp/tinker2.gif)
+
+▼ *Fuente:* [@FranUDP](https://github.com/FranUDP/dis8644-2025-1/tree/main/25-FranUDP)
+
+Posteriormente se ayudó al grupo 01 con su esquemático, para distribuir las partes de su circuito, en varias placas distintas, de forma modular. Reorganizando las conexiones de los componentes y añadiendo pines para que las placas se comuniquen entre sí.
+
+![esquemático kicad a detalle](./imagenes/franudp/sch4.jpg)
+
+▼ *Fuente:* Grupo 01, editado por [@FranUDP](https://github.com/FranUDP/dis8644-2025-1/tree/main/25-FranUDP)
+
+Después se asistió al grupo 04 a colocar sus potenciómetros, motor e interruptor fuera de la placa, definiendo las footprints de esos componentes como “terminal blocks” (conectores) en Kicad.
+
+## Apoyo fuera de horario de clase
+
+Grupo-06:
+
+- Resolviendo dudas sobre la resistencia al uso de su proyecto
+
+![issue 1](./imagenes/franudp/g6-1.jpg)
+
+▼ *Fuente:* Captura de pantalla por [@FranUDP](https://github.com/FranUDP/dis8644-2025-1/tree/main/25-FranUDP)
+
+![issue 2](./imagenes/franudp/g6-2.jpg)
+
+▼ *Fuente:* Captura de pantalla por [@FranUDP](https://github.com/FranUDP/dis8644-2025-1/tree/main/25-FranUDP)
+
+- Feedback del esquemático
+
+![issue feedback](./imagenes/franudp/g6-3.jpg)
+
+▼ *Fuente:* Captura de pantalla por [@FranUDP](https://github.com/FranUDP/dis8644-2025-1/tree/main/25-FranUDP)
+
+![esquemático kicad issue](./imagenes/franudp/sch5.jpg)
+
+▼ *Fuente:* grupo 06
+
+![issue clifford](./imagenes/franudp/g6-4.jpg)
+
+▼ *Fuente:* Captura de pantalla por [@FranUDP](https://github.com/FranUDP/dis8644-2025-1/tree/main/25-FranUDP)
+
+Grupo 04:
+
+- Resolviendo dudas de Kicad
+
+![issue brauliofigueroa](./imagenes/franudp/g4-1.jpg)
+
+▼ *Fuente:* Captura de pantalla por [@FranUDP](https://github.com/FranUDP/dis8644-2025-1/tree/main/25-FranUDP)
+
+- Feedback del esquemático y PCB
+
+![pcb kicad huellas](./imagenes/franudp/pcb1.jpg)
+
+▼ *Fuente:* Grupo 04
+
+![pcb kicad issue udpudu](./imagenes/franudp/g4-2.jpg)
+
+▼ *Fuente:* Captura de pantalla por [@FranUDP](https://github.com/FranUDP/dis8644-2025-1/tree/main/25-FranUDP)
+
+![pcb kicad udpudu](./imagenes/franudp/pcb2.jpg)
+
+▼ *Fuente:* UDPudu hecha por [@FranUDP](https://github.com/FranUDP/dis8644-2025-1/tree/main/25-FranUDP) en clase
+
+![pcb issue braulio](./imagenes/franudp/g4-3.jpg)
+
+▼ *Fuente:* Captura de pantalla por [@FranUDP](https://github.com/FranUDP/dis8644-2025-1/tree/main/25-FranUDP)
+
+![pcb issue divisor voltaje](./imagenes/franudp/g6-4.jpg)
+
+▼ *Fuente:* Captura de pantalla por [@FranUDP](https://github.com/FranUDP/dis8644-2025-1/tree/main/25-FranUDP)
+
+![esquemático completo 2](./imagenes/franudp/sch6.jpg)
+
+▼ *Fuente:* Grupo 04
+
+![correción issue 9v](./imagenes/franudp/g4-5.jpg)
+
+▼ *Fuente:* Captura de pantalla por [@FranUDP](https://github.com/FranUDP/dis8644-2025-1/tree/main/25-FranUDP)
+
+![issue plugin gerber to order](./imagenes/franudp/g4-6.jpg)
+
+▼ *Fuente:* Captura de pantalla por [@FranUDP](https://github.com/FranUDP/dis8644-2025-1/tree/main/25-FranUDP)
+
+![issue plugin gerber instalación](./imagenes/franudp/g4-7.jpg)
+
+▼ *Fuente:* Captura de pantalla por [@FranUDP](https://github.com/FranUDP/dis8644-2025-1/tree/main/25-FranUDP)
+
+Grupo 02
+
+- Dudas de Kicad
+
+![duda kicad sofia perez](./imagenes/franudp/g2-1.jpg)
+
+▼ *Fuente:* Captura de pantalla por [@FranUDP](https://github.com/FranUDP/dis8644-2025-1/tree/main/25-FranUDP)
+
+Grupo 01
+
+![issue hazzaily](./imagenes/franudp/g1-1.png)
+
+▼ *Fuente:* Captura de pantalla por [@FranUDP](https://github.com/FranUDP/dis8644-2025-1/tree/main/25-FranUDP)
+
+- Troubleshooting
+
+Después de ayudar a soldar las PCBs, hubo que revisar las placas de los grupos 04 y 05, pues su funcionamiento difería de sus prototipos en breadboard, e intervenirlas para recuperar la funcionalidad.
+
+Grupo-04
+
+Las PCBs del grupo 04 presentaban un LDR que no funcionaba, tras una inspección se encontró que el LDR y R5 estaban conectados en serie y no como un divisor de voltaje, a pesar de estar conectados distinto en el esquemático.
+Ocurrió que tras realizar los cambios al esquema, olvidaron actualizar la PCB.
+
+![corrigiendo divisor de voltaje](./imagenes/franudp/g4Fix1.jpg)
+
+▼ *Fuente:* Captura de pantalla por Grupo 04, editada por [@FranUDP](https://github.com/FranUDP/dis8644-2025-1/tree/main/25-FranUDP)
+
+Tras corregir el divisor de voltaje nos percatamos que en el esquemático, y por ende la PCB, el LDR y el potenciómetro que van conectados al comparador no fueron cambiados del Pin2 al Pin3 y viceversa, sin embargo, en la breadboard si se hiso esta rotación de pines.
+
+Para corregir esto, se desoldó el LDR y R5 y se intercambiaron de lugar, invirtiendo el divisor de voltaje
+
+![Modificando la PCB](./imagenes/franudp/g4Fix2.jpg)
+
+▼ *Fuente:* [@FranUDP](https://github.com/FranUDP/dis8644-2025-1/tree/main/25-FranUDP) modificando la placa, captura de pantalla de video grabado por [@FranUDP](https://github.com/FranUDP/dis8644-2025-1/tree/main/25-FranUDP)
+
+Hubo una placa que después de realizar las modificaciones siguió sin funcionar, ya que entre GND y el Pin3 (LM324) hay un "cortocircuito" con un valor de 10KΩ, por lo que la corriente no fluye a través del LDR. Es posible que sea debido a GND estando expuesto en muy poca proximidad del Pin3 (error cometido durante los arreglos)
+
+![error](./imagenes/franudp/g4Fix3.jpg)
+
+▼ *Fuente:* [@FranUDP](https://github.com/FranUDP/dis8644-2025-1/tree/main/25-FranUDP) modificando la placa, captura de pantalla de video grabado por [@FranUDP](https://github.com/FranUDP/dis8644-2025-1/tree/main/25-FranUDP)
+
+
+Grupo 05
+
+Este grupo también tenía un LDR que no funcionaba, tras una rápida revisión se identificó la causa del problema, el LM324 no tenía las conexiones VCC ni GND trazadas.
+
+Mas su PCB no se comportaba como la versión de la breadboard, los LEDs parpadeaban todos al mismo tiempo, en lugar de activarse y desactivarse en secuencia, y al retirar la mano del LDR, o se apagaban todos los LEDs o se mantenía encendido la mayoría, en lugar de mantenerse encendido solo uno.
+
+Se conectaron capacitores y pulldowns, pero el problema no se solucionó.
+
+## Observaciones y  conclusiones 
+
+- **Dificultades:**
+
+ Complejidades a la hora de distribuir el tiempo entre los otros ramos, investigar cada problema y/o duda de los distintos grupos.   
+
+ Debido a la naturaleza sensible de los circuitos, debía estar "encima" para cerciorarme que mi INPUT fue comprendido correctamente y prevenir errores.
+
+- **Logros:**
+
+ Éxito guiando a los distintos grupos a un objeto funcional
+
+ Aprendizaje más profundo sobre el uso de chips nuevos, de transistores, amplificadores y demás componentes.
 
 ---
 
