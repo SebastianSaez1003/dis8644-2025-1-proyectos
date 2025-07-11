@@ -70,7 +70,7 @@ La forma elegida fueron triángulos con unas sustracciones de una circunferencia
 
 Con esta forma se llegó a un casco que, gracias a la flexibilidad del filamento, se adapta a distintos tamaños de cabezas.
 
-![foto del caco en una cabeza](./imagenes/procesos/cascoEnCabeza.png)
+![foto del casco en una cabeza](./imagenes/procesos/cascoEnCabeza.png)
 
 Para poder montar el circuito en sí, se modeló en RHINO una pieza que sería impresa en 3D con un filamento más firme PET-G, para que el funcionamiento no sufriera por ninguna variación mayor, y que estuviese lo más controlada posible. En esta pieza se podía introducir la PCB, dejándola fija con los agujeros que tiene en sí misma con pernos, también tiene un espacio en el que se introduce el switch, una base donde montar el motorreductor y que no se moviese de su lugar.
 
