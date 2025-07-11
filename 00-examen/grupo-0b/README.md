@@ -10,7 +10,7 @@
 
 ## registro fotografico y plan de documentacion
 
-- La responsable de esta sección es @Bernardita-lobo.
+La responsable de esta sección es @Bernardita-lobo.
 
 - mi trabajo consistió en la gestión, captura y edición fotográfica de los protoboards, placas PCB y carcasas desarrollados por mis compañeros.
 
@@ -48,6 +48,12 @@
 
 - También organicé los horarios de las sesiones fotográficas, considerando tanto los tiempos disponibles dentro del taller como la necesidad de sesiones adicionales fuera del horario habitual.
 
+![Fotografia](./imagenes/protoboard/tme-grupo03-protoboard-registro02.JPG)
+
+![Fotografia](./imagenes/protoboard/tme-grupo03-protoboard-registro03.JPG)
+
+![Fotografia](./imagenes/protoboard/tme-grupo03-protoboard-registro04.JPG)
+
 ### Ejecución y Registro del Proceso
 
 - Para llevar a cabo las tomas fotográficas, primero se realizó el montaje del set. Las fotos se tomaron en una caja de luz con fondo infinito, equipada con iluminación integrada. Se utilizó también un trípode y una cámara para garantizar estabilidad y calidad en los registros.
@@ -58,36 +64,39 @@
 
 - Los registros fotográficos se realizaron principalmente durante el horario de taller, comenzando a partir de las 10 de la mañana. Para cubrir todos los procesos grupales, también se agendaron sesiones adicionales fuera del horario regular.
 
+![Fotografia](./imagenes/pcb/tme-grupo05-pcb-registro01.JPG)
+
+![Fotografia](./imagenes/pcb/tme-grupo05-pcb-registro07.JPG)
+
+![Fotografia](./imagenes/pcb/tme-grupo05-pcb-registro12.JPG)
+
 ### Postproducción
 
 - Las fotografías se editan en caso de que queden muy oscuras o si es necesario, eliminar alguna parte del fondo para mejorar su presentación. También se ajusta su tamaño a 1080x1080 píxeles, formato que elegimos para generar contenido para el Instagram del taller, en conjunto con mi compañera Camila Parada.
 
 - Estas fotos son subidas a este [Drive](<https://drive.google.com/drive/folders/1OwoyJ_nTuie-A1s_U5647DsOHI4zlNnj?usp=drive_link>), donde están disponibles en formato JPG y también como archivos editables de Photoshop. Además, las fotografías se encuentran organizadas en la carpeta "imagenes" presente en las carpetas de los grupos dentro del repositorio "00-examen", así como en la carpeta "[imagenes](https://github.com/Bernardita-lobo/dis8644-2025-1-proyectos/tree/main/00-examen/grupo-0b/imagenes)" del "grupo-0b", al que pertenece esta misma documentación.
 
-- Los archivos de las fotos fueron nombrados siguiendo el formato por ejemplo: tme-grupo01-protoboard-registro01, donde se indican las siglas del taller (TME: Taller Máquinas Electrónicas), el número del proyecto, el número del grupo y el número de registro correspondiente.
+- Los archivos fotográficos se nombraron siguiendo un formato estandarizado, como tme-grupo01-protoboard-registro01, que indica el taller, el grupo, el tipo de elemento y el número de registro. Esto facilitó la organización y el acceso a los documentos.
 
 ![Foto de referente fotográfico](./imagenes/referentes/tme-examen-drive.png)
 
 ### archivos de fotos
 
+En el siguiente listado se incluyen los enlaces a los registros fotográficos de cada grupo, donde es posible acceder al conjunto completo de imágenes documentadas durante el proceso
+
 - [Grupo 01](https://github.com/Bernardita-lobo/dis8644-2025-1-proyectos/tree/main/00-examen/grupo-01/imagenes)
+
 - [Grupo 02](https://github.com/Bernardita-lobo/dis8644-2025-1-proyectos/tree/main/00-examen/grupo-02/imagenes)
+
 - [Grupo 03](https://github.com/Bernardita-lobo/dis8644-2025-1-proyectos/tree/main/00-examen/grupo-03/imagenes)
+
 - [Grupo 04](https://github.com/Bernardita-lobo/dis8644-2025-1-proyectos/tree/main/00-examen/grupo-04/imagenes)
+
 - [Grupo 05](https://github.com/Bernardita-lobo/dis8644-2025-1-proyectos/tree/main/00-examen/grupo-05/imagenes)
+
 - [Grupo 06](https://github.com/Bernardita-lobo/dis8644-2025-1-proyectos/tree/main/00-examen/grupo-06/imagenes)
 
-### Registro fotográfico
-
-- Como ejemplo de lo que se trabajó, incluiré tres fotografías correspondientes al grupo 05.
-
-![Foto de registro fotográfico](./imagenes/tme-grupo05-registro02.jpg)
-
-![Foto de registro fotográfico](./imagenes/tme-grupo05-registro03.jpg)
-
-![Foto de registro fotográfico](./imagenes/tme-grupo05-registro04.jpg)
-
-## Propuesta de montaje de proyectos en sala de clases y en laboratorio (1 punto)
+## Propuesta de montaje de proyectos
 
 La responsable de esta sección es @Bernardita-lobo.
 
@@ -103,7 +112,13 @@ La responsable de esta sección es @Bernardita-lobo.
 
 - Esta sección estará dividida de acuerdo a las distintas etapas del proceso que desarrollaron los grupos. Entre estas se incluyen: el maqueteo en protoboard, la creación de los esquemáticos, el diseño y fabricación de las PCBs, las soldaduras, el modelado de las carcasas y sus impresiones. Cada parte estará acompañada por una pieza visual, por ejemplo, las protoboard o algunas de las primeras impresiones 3D que se fueron modificando a lo largo del proceso, lo que permitirá comprender fácilmente cada etapa. Además, se incluirá un video de apoyo. Esta sección funcionará como una recopilación de los procesos productivos que atravesaron los grupos de trabajo para llegar al resultado final.
 
-- Los archivos de Rhino están subidos en la carpeta [Modelados](https://github.com/Bernardita-lobo/dis8644-2025-1-proyectos/tree/main/00-proyecto-02/grupo-0b/modelados)
+![Fotografia](./imagenes/tme-examen-modelado01.JPG)
+
+![Fotografia](./imagenes/tme-examen-modelado03.JPG)
+
+![Fotografia](./imagenes/tme-examen-modelado02.PNG)
+
+- Los archivos de Rhino están subidos en la carpeta [Modelados](https://github.com/Bernardita-lobo/dis8644-2025-1-proyectos/tree/main/00-examen/grupo-0b/modelado)
 
 ***
 
