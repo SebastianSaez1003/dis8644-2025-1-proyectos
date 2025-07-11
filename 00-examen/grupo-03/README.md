@@ -12,6 +12,8 @@ grupo-03
 
 NOMBRE PROYECTO: _SPECTRA_
 
+Controlador de luces LEDS, que se activa al reconocer la presencia de sonido.
+
 - Aprendizajes
 
 Uno de los principales aprendizajes fue desarrollar la perseverancia y la paciencia, cualidades esenciales durante todo el proceso. Esto implicó un constante trabajo en equipo, donde la colaboración y la comunicación fueron fundamentales para alcanzar el resultado final. Tuvimos que hacer y rehacer el circuito varias veces hasta lograr que funcionara correctamente. Además, profundizamos nuestros conocimientos sobre componentes electrónicos, como el potenciómetro de 1M ohm y el de 500k ohm. Estos elementos resultaron clave para regular la sensibilidad del micrófono y afinar el comportamiento del sistema. Cada etapa fue un desafío técnico y humano que enriqueció la experiencia.
@@ -227,8 +229,10 @@ Acrílico transparente.
 
 ## Montaje
 
-Dentro del montaje se deidió colocar la protoboard, esta realizó en un principio para analizar el resultado que queríamos obtener. Por otra parte,estáel paso a paso de a PCB, una sin nada, otra siendo parte del proceso, con todos sus componentes fijos y finalmente en adecuadas a la carcasa. 
+Durante el montaje, se decidió incluir la protoboard, utilizada inicialmente para analizar y experimentar con el resultado que queríamos alcanzar. Paralelamente, se muestra el paso a paso del desarrollo de la PCB: una versión vacía, otra en proceso con los componentes ya fijados, y finalmente adaptada dentro de la carcasa.
 
-La carcasa cuenta con una probeta del corte láser en acrílico, el cual nos sirvió para definir su forma y mostrar que para llegar al resultado final son varias pruebas.
+La carcasa incluye una muestra de acrílico cortado con láser, que funcionó como probeta para definir su forma final y demostrar que el proceso implicó varias pruebas antes de llegar al diseño definitivo.
+
+También implementamos unos soportes para apoyar las placas y que se muestren de mejor manera.
 
 ![montaje](./imagenes/montaje/grupo03-montaje02.jpg)
