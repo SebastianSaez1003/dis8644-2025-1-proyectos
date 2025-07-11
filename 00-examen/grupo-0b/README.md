@@ -212,6 +212,43 @@ Ya con estos antecedentes decidí realizar un "moodboard", un collage de referen
 
 ▼ Fuente: Recurso de manufactura propia. Producción hecha con Illustrator.
 
+Tras ello se utiliza una imagen para generar propuestas de paletas de 4 colores cada una. Estos tonos representan paletas vibrantes de colores que sólo pueden observarse en una pantalla. 
+
+<img width="5600" height="5304" alt="09" src="https://github.com/user-attachments/assets/a32917fd-9b8d-4849-b476-c29ee4c44bd6" />
+
+▼ Fuente: Recurso de manufactura propia. Producción hecha con Illustrator.
+
+A la par, recuerdan al logotipo de Apple en versión arcoíris. 
+
+<img width="208" height="243" alt="image" src="https://github.com/user-attachments/assets/60f179f7-6644-4ca9-90fd-9bef1276f8d6" />
+
+▼ Fuente: Wikipedia.
+
+Estas paletas son sometidas a votación por parte del curso, teniendo como resultante la opción 2.
+
+<img width="2926" height="4456" alt="10" src="https://github.com/user-attachments/assets/21015b8b-ee88-445c-911f-e852700ccfd2" />
+
+▼ Fuente: Recurso de manufactura propia. Producción hecha con Illustrator.
+
+Por otra parte se destacan nuevas piezas que inspiran a la creación de gráficas, lo que permite trabajar con una grilla cuadrada, donde el texto contrasta con el fondo y recuerdan a pantallas de códigos.
+
+![A](https://github.com/user-attachments/assets/b5c76484-7c5d-4aaf-8969-b2586c56893f)
+
+![B](https://github.com/user-attachments/assets/9cf74a69-ed69-4042-a2a1-90b05d62c3d9)
+
+▼ Fuente: Pinterest.
+
+Cómo último recurso, se decide trabajar con una tipografía "Neo Geo" de W Type Foundry, fuente formada por figuras tales como cuadrados y circulos. Esta permite ser aplicada tanto en títulos como e textos acotados.
+
+<img width="632" height="632" alt="image" src="https://github.com/user-attachments/assets/f06da3bd-0c37-4590-a4b8-2a1aa3e6ff80" />
+
+<img width="632" height="632" alt="image" src="https://github.com/user-attachments/assets/5a4af104-21bd-423f-956e-592274786584" />
+
+<img width="632" height="632" alt="image" src="https://github.com/user-attachments/assets/aa7b56b1-f431-42fb-aa0d-ff73e9ab980e" />
+
+▼ Fuente: Behance.
+
+
 ### Desarrollo del logotipo para el taller
 
 Se comienza a moldear cada carácter de forma libre. 
@@ -247,8 +284,18 @@ Tras ello se escoge la propuesta que presenta sobriedad y equilibrio visual. Est
 
 ### Desarrollo de publicaciones digitales
 
-Se trabaja con una grilla cuadrada.
+Se trabaja con una grilla cuadrada, la cual pese a contener dichas figuras permite acomodar elementos tales como fotografías, logotipos, fuentes, entre otros de forma más fluida gracias a la unión de estas figuras para la creación de piezas. 
 
+Primero se crean piezas para introducir al taller y presentar contenido para el examen.
+
+<img width="4501" height="4501" alt="12" src="https://github.com/user-attachments/assets/0fb10563-8f9e-42c9-a19f-56375641c5c9" />
+<img width="4501" height="4501" alt="13" src="https://github.com/user-attachments/assets/623de276-d3cb-4724-a7d0-ae402851ec8e" />
+<img width="4501" height="4501" alt="14" src="https://github.com/user-attachments/assets/6775c443-4889-4e55-9d5d-e2c44e88ec33" />
+
+Segundo se crean plantillas para modificar los contenidos para cada equipo.
+
+<img width="4502" height="4502" alt="15" src="https://github.com/user-attachments/assets/689752e6-f268-48d0-ad3b-849adc4cbb63" />
+<img width="4501" height="4502" alt="16" src="https://github.com/user-attachments/assets/d6fb3b7a-06c6-4439-b773-a7e269d67c7e" />
 
 
 ### Desarrollo de soportes impresos
