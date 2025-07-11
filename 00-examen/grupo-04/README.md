@@ -147,6 +147,24 @@ Esta etapa fue una experiencia súper completa y práctica. No solo repasamos lo
 
 El hecho de haber soldado tres placas distintas nos ayudó mucho a entender mejor los componentes, cómo conectarlos bien, y a tener más confianza con las herramientas y materiales.
 
-## carcasa
+## Carcasa
 
-## montaje
+Durante el desarrollo del proyecto, la carcasa fue impresa en el laboratorio, diseñado, impreso y supervisado por Alanis Vasquez, del grupo 0a. Se utilizo una impresora 3D, modelo Bambu Lab X1C, usando un filamento PLA de 1.75 mm. Para el diseño en un pricnipio, se habia seleccionado un color azul (Ver imagenes 1-2), que va a juego con la placa, pero debido a problemas con la calidad de este post impresion, se decidio cambiar a un filamento de color morado para reimprimir la base, la carcasa , el logo y los soportes para la madera (Ver imagen 3).
+
+Imagen 1: ![carcasaazul](./imagenes/carcasa/tme-grupo04-carcasa-registro01.JPG)
+
+Imagen 2: ![carcasaazul](./imagenes/carcasa/tme-grupo04-carcasa-registro02.JPG)
+
+Imagen 3: ![carcasamorada](./imagenes/carcasa/tme-grupo04-carcasa-registro03.JPG)
+
+Una vez finalizado el proceso de impresion, se verifico que la carcasa cerrara correctamente antes de colocar el modulo electronico.
+
+## Montaje
+
+El montaje se realizo insertando el PCB con su previo cableado y organizacion de estos, pegado de conectores, leds y potenciometro a la carcasa. Se coloca la PCB sobre soportes impresos previamente directo en la base. La fijacion se hizo con tornillos, y luego se coloco la tapa, mediante encaje con una pequeña ranura al lado para el retiro de esta, para luego pegar el logotipo a la parte superior. Una vez hecho esto, se une el palo de maqueta con el juguete al motor, mediante los soportes hechos en impresion 3D, para que este quede ajustado de forma correcta. Para finalizar, se comprobo que todos los accesos importantes (como el jack, potenciometros y switch) quedaran de forma correcta.
+
+El resultado final fue una carcasa totalmente funcional. bien ajustada y visualmente adecuada, la cual permite proteger el circuito electronico y presentar tanto su manipulacion como su presentacion.
+
+![montajefinal](./imagenes/carcasa/tme-grupo04-montajefinal1.JPG)
+
+![montajefinal](./imagenes/carcasa/tme-grupo04-montajefinal2.JPG)
