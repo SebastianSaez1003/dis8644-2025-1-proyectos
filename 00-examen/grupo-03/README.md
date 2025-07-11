@@ -10,6 +10,10 @@ grupo-03
 
 ## Proyecto-02
 
+NOMBRE PROYECTO: _SPECTRA_
+
+Controlador de luces LEDS, que se activa al reconocer la presencia de sonido.
+
 - Aprendizajes
 
 Uno de los principales aprendizajes fue desarrollar la perseverancia y la paciencia, cualidades esenciales durante todo el proceso. Esto implicó un constante trabajo en equipo, donde la colaboración y la comunicación fueron fundamentales para alcanzar el resultado final. Tuvimos que hacer y rehacer el circuito varias veces hasta lograr que funcionara correctamente. Además, profundizamos nuestros conocimientos sobre componentes electrónicos, como el potenciómetro de 1M ohm y el de 500k ohm. Estos elementos resultaron clave para regular la sensibilidad del micrófono y afinar el comportamiento del sistema. Cada etapa fue un desafío técnico y humano que enriqueció la experiencia.
@@ -30,9 +34,7 @@ Por último, la decisión de la forma de la carcasa, ya que al principio quería
 
 Aprendizajes: Uno de los aprendizajes fue saber ordenar los cables para facilitar el proceso. Por otro lado, nos dieron como tip, colocar cinta de papel para que los componentes se mantuvieran estables. También aprendimos a utilizar los soportes para mantener la placa y los componentes. 
 
-Dificultades: Una de las dificultades fue que a veces el estaño no unía los cables por lo que debíamos cortar para volver a empezar. 
-
-IMAGEN
+Dificultades: Una de las dificultades fue que a veces el estaño no unía los cables por lo que debíamos cortar para volver a empezar. También a veces era díficil encontrar una posición cómoda para poder soldar los cables y componentes a la placa
  
 ## PCB
 
@@ -52,6 +54,11 @@ A continuación se presentan imágenes de las protoboards usadas.
 ![grupo03-pcb-1](./imagenes/protoboard/tme-grupo03-registro05.JPG)
 
 A continuación se presentan imágenes de la PCB final.
+
+- La PCB mide 95mm x 50mm, donde cada esquina fue redondeada aproximadamente 5mm.
+- En cada esquina colocamos agujeros para poder instalar la placa mediante unos tornillos de 2 mm.
+- La versión que mandaron los profesores a JLCPCB; colocaron los nombres en la parte trasera y añadieron los logos del laboratorio de interacción digital.
+- Colocamos los componentes de forma ordenada, asegurándonos de que aquellos que interactúan con el usuario no se interfieran entre sí.
 
 ![grupo03-pcb-1](./imagenes/pcb/tme-grupo03-pcb-registro01.JPG)
 
@@ -89,7 +96,7 @@ A continuación se presentan imágenes de la PCB final.
 | Terminal block | 1  | 2 pin|
 | Pernos m2      |4     | |
 
-- Los LEDs de 5mm son de **colores variados**  (verde, blanco, amarillo, rojo, azul).
+- Los LEDs de 5mm son de **colores variados**
 
 ## Esquemático
 
@@ -97,11 +104,11 @@ En el primer esquemático, es el del **Chip LM324,** donde conectamos primero el
 
 En el segundo esquemático es la **secuencia/contador** de luces mediante el **Chip 4017**, donde el pin 14 va al pin 14 del LM324, lo cual nos da la posibilidad de tener una **frecuencia diferente de los cuatro LEDS** incorporados,y que esta **dependa del sonido emitido.**
 
-Primer esquemático, CHIP LM324
+Primer esquemático, CHIP LM324 (Preamplificador de micrófono)
 
 ![grupo03-esquematico](./imagenes/kicad/grupo03-esquematico-chipLM324.png)
 
-Segundo esquemático, CHIP 4017
+Segundo esquemático, CHIP 4017 (Secuenciador de luces)
 
 ![grupo03-esquematico](./imagenes/kicad/grupo03-esquematico-chip4017.png)
 
@@ -135,7 +142,7 @@ CHIP 4017
 
 - Desde el pin 14 del LM324N se dirige al pin 14 del 4017.
 
-- pin 2 hacia un LED, con un color predeterminado, consecutivamente a una resistencia de 1k llegando a GND. Se repite esto con los pins 3, 4 y 7.
+- pin 2 hacia un LED, consecutivamente a una resistencia de 1k llegando a GND. Se repite esto con los pins 3, 4 y 7.
 
 - pin 8 a GND.
 
@@ -222,8 +229,10 @@ Acrílico transparente.
 
 ## Montaje
 
-Dentro del montaje se deidió colocar la protoboard, esta realizó en un principio para analizar el resultado que queríamos obtener. Por otra parte,estáel paso a paso de a PCB, una sin nada, otra siendo parte del proceso, con todos sus componentes fijos y finalmente en adecuadas a la carcasa. 
+Durante el montaje, se decidió incluir la protoboard, utilizada inicialmente para analizar y experimentar con el resultado que queríamos alcanzar. Paralelamente, se muestra el paso a paso del desarrollo de la PCB: una versión vacía, otra en proceso con los componentes ya fijados, y finalmente adaptada dentro de la carcasa.
 
-La carcasa cuenta con una probeta del corte láser en acrílico, el cual nos sirvió para definir su forma y mostrar que para llegar al resultado final son varias pruebas.
+La carcasa incluye una muestra de acrílico cortado con láser, que funcionó como probeta para definir su forma final y demostrar que el proceso implicó varias pruebas antes de llegar al diseño definitivo.
+
+También implementamos unos soportes para apoyar las placas y que se muestren de mejor manera.
 
 ![montaje](./imagenes/montaje/grupo03-montaje02.jpg)
