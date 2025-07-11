@@ -199,20 +199,56 @@ Tras ello se escoge la propuesta que presenta sobriedad y equilibrio visual. Est
   
 
 
-### Texto e información contenida en soportes impresos
+### Desarrollo de soportes impresos
 
-#### Afiche introductorio a la exhibición
+Para la exhibición se debió preparar una serie de elementos que entreguen información de forma estratégica. Para ello se aplican las gráficas realizadas para Instagram adaptadas al formato físico de la impresión. Se escogen como sustratos el papel bond de 280 gr (50x70 cm) impreso en plotter, y cartulinas de 200 gr (carta) impreso con tinta negra en láser.
 
-El Taller de diseño de máquinas electrónicas es un espacio de encuentro entre lo análogo y lo digital, entre lo artesanal y lo industrial, entre lo local y lo mundial. Su metodología se centra en las prácticas de inteligencias de carácter colectivo en pos del desarrollo de ideas innovadoras por parte de les estudiantes en un espacio.
+#### 1. Afiche introductorio a la exhibición
+
+A) Listado de elementos
+
+- Código del curso (DIS8644)
+- Semestre y año
+- Nombre del taller
+- Nombre y apellido de los docentes
+- Texto curatorial
+- Logotipo actual de la carrera de diseño
+- Logotipo scotado del laboratorio de interacción digital
+- Logotipo desarrollado para el taller
+
+B) Texto curatorial
+
+"El Taller de diseño de máquinas electrónicas es un espacio de encuentro entre lo análogo y lo digital, entre lo artesanal y lo industrial, entre lo local y lo mundial. Su metodología se centra en las prácticas de inteligencias de carácter colectivo en pos del desarrollo de ideas innovadoras por parte de les estudiantes en un espacio.
 
 Las piezas de la muestra son evidencia de un arduo trabajo por parte de 26 estudiantes estructurados en 9 equipos: 6 equipos concibieron y fabricaron máquinas electrónicas, mientras que otros 3 equipos se encargaron de tareas de apoyo colectivo que abarcan la planificación de aspectos técnicos, estéticos y funcionales para la producción de las máqiunas y su exposición.
 
 Es así que cada máquina emerge como un fruto de iteraciones grupales, validaciones colectivas y soluciones cocreadas, cuyos procesos y resultados han sido sido rigurosamente documentadas en repositorios de GitHub, en el que se han incluido todas las etapas de desarrollo: archivos de diseño de PCBs en Kicad, simulaciones de circuitos en Falstad, y todo lo necesario para comprender el proceso productivo de cada máquina.
 
-Bienvenides a un espacio que funciona metafóricamente como una máquina electrónica: cada estudiante, docente y herramienta actúan como componentes conectados para formar un circuito por donde transita energía y datos de forma colectiva. Les animamos a seguir la corriente y disfrutar de la exhibición.
+Bienvenides a un espacio que funciona metafóricamente como una máquina electrónica: cada estudiante, docente y herramienta actúan como componentes conectados para formar un circuito por donde transita energía y datos de forma colectiva. Les animamos a seguir la corriente y disfrutar de la exhibición."
 
-#### Cédulas introductoras de los contenidos
 
-**Parte 1:** Esta exposición surge gracias al modelado de ideas generadas por cada grupo para desarrollar un objeto que funcionara en base a un circuito eléctrico. Para simular el comportamiento de la red en conjunto con la corriente eléctrica se trabajó con el simulador “Falstad”. Por otra parte, para generar diagramas, afianzar las piezas y diseño de las placas impresas se usó el software de KiCad. Estás últimas fueron fabricadas por “JLCPBC”, y entregadas al curso para su pronta soldadura de los componentes y montaje del objeto.
+#### 2. Cédulas introductoras de los contenidos
 
-**Parte 2:** Estas piezas trascienden su función: son manifestaciones tangibles de un enfoque sistémico del diseño. Son resultado del potencial de las redes colaborativas, donde la interconexión humana fue tan esencial como las redes electrónicas. Es así que la muestra propone repensar la práctica del diseño electrónico como un ecosistema sinérgico, en el que la innovación rompe las barreras entre disciplinas, se despliega y hace eco gracias al flujo horizontal de saberes.
+Lámina 1 (sólo texto)
+
+"Esta exposición surge gracias al modelado de ideas generadas por cada grupo para desarrollar un objeto que funcionara en base a un circuito eléctrico. Para simular el comportamiento de la red en conjunto con la corriente eléctrica se trabajó con el simulador “Falstad”. Por otra parte, para generar diagramas, afianzar las piezas y diseño de las placas impresas se usó el software de KiCad. Estás últimas fueron fabricadas por “JLCPBC”, y entregadas al curso para su pronta soldadura de los componentes y montaje del objeto."
+
+Lámina 2 (sólo texto)
+
+"Estas piezas trascienden su función: son manifestaciones tangibles de un enfoque sistémico del diseño. Son resultado del potencial de las redes colaborativas, donde la interconexión humana fue tan esencial como las redes electrónicas. Es así que la muestra propone repensar la práctica del diseño electrónico como un ecosistema sinérgico, en el que la innovación rompe las barreras entre disciplinas, se despliega y hace eco gracias al flujo horizontal de saberes."
+
+#### 3. Cédulas de cada grupo
+
+A) Listado de elementos
+
+- Código del curso (DIS8644)
+- Semestre y año
+- Número del grupo
+- Nombre del proyecto
+- Nombre y apellido de los integrantes
+- Breve descripción del proyecto
+- Logotipo actual de la carrera de diseño
+- Logotipo desarrollado para el taller
+- Pictograma NFC
+
+Cómo cada equipo posee información variada se realizó una serie de redacciones y correcciones de forma constante con cada equipo, compartiendo dichas versiones en el servidor del “Discord” del taller. Además, la grilla y los elementos gráficos fueron adaptados a ideas relacionadas según los productos, por lo que cada lámina posee su propia identidad expuesta.
