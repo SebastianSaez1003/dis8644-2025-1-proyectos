@@ -22,7 +22,7 @@ Es por ello que se llegó a la conclusión de que tenía que ser un objeto que s
 
 ### Primeros bocetos y referentes
 
-**Petr Válek**
+Petr Válek
 
 Petr Válek es un artista electrónico, de ruidos analógicos, proveniente de República Checa. Sus obras usan muchos materiales caseros y chatarra para ser realizadas. Utiliza mucho los motores para hacer girar cosas y que se golpeen entre sí generando diversos sonidos. Lo que rescatamos de este referente es más que nada el uso del motor y el cómo hace girar los objetos con estos mismos, por eso pensamos que podía ser un buen referente para un juguete de gato. En un principio se exploró el concepto de motor vibrador pero finalmente no fue realizado.
 
@@ -82,7 +82,7 @@ La salida del chip 555 es la que controla si debemos o no mover el motor. Como e
 
 ## Protoboard
 
-El desarrollo de la protoboard es el primer paso para que nuestro circuito sea probado y verifiquemos que todo funcione de la manera en la cuál propusimos. 
+El desarrollo de la protoboard es el primer paso para que nuestro circuito sea probado y verifiquemos que todo funcione de la manera en la cuál propusimos.
 
 ![protoboard](./imagenes/protoboard/tme-grupo04-protoboard-registro01.JPG)
 
@@ -101,8 +101,6 @@ El proceso de pcb consistió en traspasar el circuito de la protoboard a una pla
 ![pcbkicad](./imagenes/pcb/tme-grupo04-pcbkicad-registro02.jpg)
 
 ![pcb](./imagenes/pcb/tme-grupo04-pcb-registro01.JPG)
-
-
 
 ## Soldadura
 
