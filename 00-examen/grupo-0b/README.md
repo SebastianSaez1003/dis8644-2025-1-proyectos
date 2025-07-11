@@ -64,6 +64,12 @@
 
 - Los registros fotográficos se realizaron principalmente durante el horario de taller, comenzando a partir de las 10 de la mañana. Para cubrir todos los procesos grupales, también se agendaron sesiones adicionales fuera del horario regular.
 
+![Fotografia](./imagenes/pcb/tme-grupo05-pcb-registro01.JPG)
+
+![Fotografia](./imagenes/pcb/tme-grupo05-pcb-registro07.JPG)
+
+![Fotografia](./imagenes/pcb/tme-grupo05-pcb-registro12.JPG)
+
 ### Postproducción
 
 - Las fotografías se editan en caso de que queden muy oscuras o si es necesario, eliminar alguna parte del fondo para mejorar su presentación. También se ajusta su tamaño a 1080x1080 píxeles, formato que elegimos para generar contenido para el Instagram del taller, en conjunto con mi compañera Camila Parada.
@@ -83,17 +89,7 @@
 - [Grupo 05](https://github.com/Bernardita-lobo/dis8644-2025-1-proyectos/tree/main/00-examen/grupo-05/imagenes)
 - [Grupo 06](https://github.com/Bernardita-lobo/dis8644-2025-1-proyectos/tree/main/00-examen/grupo-06/imagenes)
 
-### Registro fotográfico
-
-- Como ejemplo de lo que se trabajó, incluiré tres fotografías correspondientes al grupo 05.
-
-![Foto de registro fotográfico](./imagenes/tme-grupo05-registro02.jpg)
-
-![Foto de registro fotográfico](./imagenes/tme-grupo05-registro03.jpg)
-
-![Foto de registro fotográfico](./imagenes/tme-grupo05-registro04.jpg)
-
-## Propuesta de montaje de proyectos en sala de clases y en laboratorio (1 punto)
+## Propuesta de montaje de proyectos en sala de clases y en laboratorio
 
 La responsable de esta sección es @Bernardita-lobo.
 
@@ -108,6 +104,12 @@ La responsable de esta sección es @Bernardita-lobo.
 ### Sección Procesos
 
 - Esta sección estará dividida de acuerdo a las distintas etapas del proceso que desarrollaron los grupos. Entre estas se incluyen: el maqueteo en protoboard, la creación de los esquemáticos, el diseño y fabricación de las PCBs, las soldaduras, el modelado de las carcasas y sus impresiones. Cada parte estará acompañada por una pieza visual, por ejemplo, las protoboard o algunas de las primeras impresiones 3D que se fueron modificando a lo largo del proceso, lo que permitirá comprender fácilmente cada etapa. Además, se incluirá un video de apoyo. Esta sección funcionará como una recopilación de los procesos productivos que atravesaron los grupos de trabajo para llegar al resultado final.
+
+![Fotografia](./imagenes/modelado/tme-examen-modelado01.PNG)
+
+![Fotografia](./imagenes/modelado/tme-examen-modelado02.PNG)
+
+![Fotografia](./imagenes/modelado/tme-examen-modelado03.PNG)
 
 - Los archivos de Rhino están subidos en la carpeta [Modelados](https://github.com/Bernardita-lobo/dis8644-2025-1-proyectos/tree/main/00-proyecto-02/grupo-0b/modelados)
 
