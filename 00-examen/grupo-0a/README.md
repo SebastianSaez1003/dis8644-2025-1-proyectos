@@ -35,7 +35,7 @@ Como evaluación inicial tuvimos que crear una carcasa para la UDPUDU y realizar
 
 ![PCB UDPUDU](./archivos/udpudu/udpudu.png)
 
-La UDPUDU es la primera placa de circuito impreso que se mandó a hacer al extrantero. Su función es reproducir sonidos usando pinzas caimán para conectar losse  objetos, usando cosas cotidianas como resistencias variables. La idea es que la pcb pueda ser visible, para dejar de lado la incógnita de la caja negra. Por lo tanto decidimos usar acrílico para la parte superior y PLA para lo demás. La carcasa debe tener espacio para una entrada jack, un cable USB como fuente de poder y un espacio para pinzas caimán
+La UDPUDU es la primera placa de circuito impreso que se mandó a hacer al extrantero. Su función es reproducir sonidos usando pinzas caimán para conectar los  objetos, usando cosas cotidianas como resistencias variables. La idea es que la pcb pueda ser visible, para dejar de lado la incógnita de la caja negra. Por lo tanto decidimos usar acrílico para la parte superior y PLA para lo demás. La carcasa debe tener espacio para una entrada jack, un cable USB como fuente de poder y un espacio para pinzas caimán
 
 ![carcasa UDPUDU](./archivos/udpudu/carcasa-base.png)
 
@@ -157,12 +157,18 @@ Partieron planteando referentes de piezas acrilicas de colores ensambladas, para
 
 ![espectraReferente](./archivos/grupo-03/spectraReferente.jpg)
 
-Este grupo modeló su propia carcasa y acudió al grupo 0a por consejos relacionados con impresión 3D y los procesos para fijar la placa. Al mostrarnos su modelo vimos que tenían pensado imprimir muchas piezas distintas y pequeñas, por lo que nosotros les
-recomendamos hacer esas piezas directamente en la base final para que sea más fácil imprimirlo y armarlo.
-
-![Primera versión de la carcasa]
+Este grupo modeló su propia carcasa y acudió al grupo 0a por consejos relacionados con impresión 3D y los procesos para fijar la placa. Al mostrarnos su modelo vimos que tenían pensado imprimir muchas piezas distintas y pequeñas, por lo que nosotros les recomendamos hacer esas piezas directamente en la base final para que sea más fácil imprimirlo y armarlo.
 
 ![carcasaGrupo03](./archivos/grupo-03/CarcasaGrupo03.gif)
+
+![Primera versión de la carcasa](./archivos/grupo-03/version01-final.png)
+
+Necesitaban que su carcasa tuviera espacios para 2 potenciómetros, un interruptor rectangular y un micrófono de 9mm. Modificamos la parte de los componenetes sólo para qeu pudieran entrar de la mejor forma y ahorrarnos errores. Además, tenían 6 leds que debían estar más alto que el borde de la carcasa. Como se mencionó antariormente, ellas usarían acrílico y para ponerlo, la carcasa tiene un ángulo para darle forma de polígono.
+
+![Partes final Carcasa grupo-03](./archivos/grupo-03/partes.png)
+
+![Carcasa final grupo-03](./archivos/grupo-03/final.png)
+
 
 ## Grupo 04 MeowTech
 
@@ -301,4 +307,4 @@ A partir de este proceso como grupo aprendimos a adentrarnos en las mentes y con
 
 Reafirmamos lo relevante que es organizar tiempos para pruebas, errores y modificaciones.
 
-Finalmente valoramos  cada elemento o situación presente en el proceso y como estos nutren nuestro aprendizaje
+Finalmente valoramos  cada elemento o situación presente en el proceso y como estos nutren nuestro aprendizaje.
