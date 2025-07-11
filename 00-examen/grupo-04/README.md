@@ -86,7 +86,7 @@ Debido a que el esquemático en el cuál está basado la protoboard contiene muc
 
 ## PCB
 
-El proceso de pcb consistió en traspasar el circuito de la protoboard a una placa pcb, para esto se buscó seguir de la mejor manera posible lo que ya estaba armado en esquemático y protoboard para mantener un orden y coherencia con lo que ya se había planteado. En este caso no fue necesario seguir al 100% la composición de la protoboard ya que se busca la mejor forma en que la placa quede ordenada
+El proceso de pcb consistió en traspasar el circuito de la protoboard a una placa pcb, para esto se buscó seguir de la mejor manera posible lo que ya estaba armado en esquemático y protoboard para mantener un orden y coherencia con lo que ya se había planteado. En este caso no es necesario seguir al 100% la composición de la protoboard ya que se busca la mejor forma en que la placa quede ordenada por lo cuál se pueden plantear cambios de posición.
 
 
 
