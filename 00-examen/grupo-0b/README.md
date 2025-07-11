@@ -48,6 +48,12 @@
 
 - También organicé los horarios de las sesiones fotográficas, considerando tanto los tiempos disponibles dentro del taller como la necesidad de sesiones adicionales fuera del horario habitual.
 
+![Fotografia](./imagenes/protoboard/tme-grupo03-protoboard-registro02.JPG)
+
+![Fotografia](./imagenes/protoboard/tme-grupo03-protoboard-registro03.JPG)
+
+![Fotografia](./imagenes/protoboard/tme-grupo03-protoboard-registro04.JPG)
+
 ### Ejecución y Registro del Proceso
 
 - Para llevar a cabo las tomas fotográficas, primero se realizó el montaje del set. Las fotos se tomaron en una caja de luz con fondo infinito, equipada con iluminación integrada. Se utilizó también un trípode y una cámara para garantizar estabilidad y calidad en los registros.
