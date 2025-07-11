@@ -2,7 +2,7 @@
 
 ## Grupo-0b
 
-### integrantes
+### Integrantes
 
 - [José Morales](https://github.com/jotamorales-romulus)
 - [Bernardita Lobo](https://github.com/Bernardita-lobo)
@@ -30,7 +30,7 @@ La responsable de esta sección es @Bernardita-lobo.
 
 - La idea es que la imagen no solo muestre el objeto, sino también se halla inmerso en su entorno o cómo podría ser utilizado en una situación real. <http://martisans.com/portfolio/>
 
-![Foto de referente fotográfico](./imagenes/referentes/tme-proyecto02-referente03.jpeg)
+![Foto de referente fotográfico](./imagenes/referentes/tme-examen-referente03.jpeg)
 
 ▼ Fuentes: Marshall BCN 201 R3. Recuperado de <http://martisans.com/wp-content/uploads/2022/06/Marshall-BCN_201_R3-6000x4000.jpg>
 
@@ -80,6 +80,8 @@ La responsable de esta sección es @Bernardita-lobo.
 
 ![Foto de referente fotográfico](./imagenes/referentes/tme-examen-drive.png)
 
+![Foto de referente fotográfico](./imagenes/tme-grupo00-pcb-registro01.jpeg)
+
 ### archivos de fotos
 
 En el siguiente listado se incluyen los enlaces a los registros fotográficos de cada grupo, donde es posible acceder al conjunto completo de imágenes documentadas durante el proceso
@@ -100,25 +102,67 @@ En el siguiente listado se incluyen los enlaces a los registros fotográficos de
 
 La responsable de esta sección es @Bernardita-lobo.
 
+### Referentes y Motivaciones
+
+- Como taller visitamos el Museo MAC para ver la exposición de Matías Serrano. Cuando fui, no solo quedé maravillada, sino que también me pareció un referente perfecto para esta parte de mi trabajo.
+
+- Uno de los mayores retos para el montaje fue trabajar en una sala tan grande, donde predominan superficies planas y espacios abiertos que pueden sentirse fríos o vacíos.
+
+- Para evitar esa sensación y darle más dinamismo al espacio, decidí incorporar iluminación estratégica que genera volumen y contrastes. inspirándome en el uso de la luz que observé en el Museo MAC.
+
+![Foto de referente](./imagenes/referentes/tme-examen-referente04.jpeg)
+
+![Foto de referente](./imagenes/referentes/tme-examen-referente01.jpeg)
+
+- En un principio, me habían encargado desarrollar dos propuestas de montaje, ya que aún no sabíamos con certeza de qué sala íbamos a disponer. Por lo tanto, elaboré dos alternativas considerando distintas condiciones de espacio e iluminación.
+
 ### Elementos clave a mostrar en el montaje
 
 - Para el montaje es fundamental lograr explicar, de manera concisa y accesible, cómo se llegó a los resultados finales. Este taller en especial, trabaja en una disciplina algo diferente y puede resultar difícil de comprender. En ese sentido, la propuesta del montaje se dividirá en dos secciones: una donde se expongan los proyectos finales y otra donde se evidencien todos los procesos por los que tuvieron que pasar los grupos de trabajo.
 
-### Sección Proyectos finales
-
-- En esta sección se presentará la pieza final, compuesta por la PCB y su carcasa. Cada grupo tendrá su propio espacio, donde el proyecto será expuesto sobre una mesa. Frente a cada objeto se colocará una lámina simple, en la que se explicará únicamente la parte conceptual y la interacción del proyecto, con el objetivo de comunicar su funcionamiento y propósito.
-
-### Sección Procesos
-
-- Esta sección estará dividida de acuerdo a las distintas etapas del proceso que desarrollaron los grupos. Entre estas se incluyen: el maqueteo en protoboard, la creación de los esquemáticos, el diseño y fabricación de las PCBs, las soldaduras, el modelado de las carcasas y sus impresiones. Cada parte estará acompañada por una pieza visual, por ejemplo, las protoboard o algunas de las primeras impresiones 3D que se fueron modificando a lo largo del proceso, lo que permitirá comprender fácilmente cada etapa. Además, se incluirá un video de apoyo. Esta sección funcionará como una recopilación de los procesos productivos que atravesaron los grupos de trabajo para llegar al resultado final.
-
-![Fotografia](./imagenes/tme-examen-modelado01.PNG)
+![Fotografia](./imagenes/tme-examen-modelado01.JPG)
 
 ![Fotografia](./imagenes/tme-examen-modelado02.PNG)
 
-![Fotografia](./imagenes/tme-examen-modelado03.PNG)
+### Sección Proyectos finales
 
-- Los archivos de Rhino están subidos en la carpeta [Modelados](https://github.com/Bernardita-lobo/dis8644-2025-1-proyectos/tree/main/00-proyecto-02/grupo-0b/modelados)
+- En esta sección se presentará la pieza final, compuesta por la PCB y su carcasa. Cada grupo contará con un espacio propio, donde su proyecto será expuesto sobre una mesa.
+
+- Frente a cada objeto se colocará una cédula con los nombres de los integrantes del grupo y una breve descripción del enfoque conceptual del proyecto.
+
+- Además, se decidió incorporar tecnología NFC en las cédulas, de modo que al escanearlas se redirija al repositorio del grupo en GitHub, permitiendo acceder a la documentación completa del trabajo.
+
+### Sección Procesos
+
+- Esta sección estará organizada según las distintas etapas del proceso que desarrollaron los grupos de trabajo.
+
+- Entre estas etapas se incluyen: el maqueteo en protoboard, la creación de esquemáticos, el diseño y fabricación de las placas PCB, las soldaduras, el modelado de las carcasas y sus respectivas impresiones 3D.
+
+- Cada fase estará acompañada por una pieza visual representativa, como las protoboard o algunas de las primeras versiones impresas en 3D que fueron modificadas a lo largo del desarrollo. Esto permitirá visualizar y comprender fácilmente el avance de cada etapa.
+
+- Además, se incluirá un video de apoyo que muestra a los estudiantes trabajando y documentando sus procesos. Este material será proyectado tanto en un monitor como en el data. La sección funcionará como una recopilación visual y narrativa de los procesos productivos recorridos por los grupos para llegar al resultado final.
+
+![Fotografia](./imagenes/tme-examen-modelado03.JPG)
+
+![Fotografia](./imagenes/tme-trabajo.jpeg)
+
+### Bill of Materials (BOM)
+
+|                    Elemento | Cantidad    |
+|----------------------------	|-----------	|
+| Ampolleta LED GU10         	| 6         	|
+| Soquete cérámico GU10      	| 6         	|
+| Cable eléctrico polarizado 	| 25 metros 	|
+| Listones de pino (1" x 2") 	| 4         	|
+| Grapas metálicas           	| 50        	|
+| Tela negra                 	| 10 metros 	|
+| Enchufes macho             	| 2         	|
+| Tabletas                   	| 6         	|
+| Monitor LED                	| 1         	|
+| Etiquetas NFC              	| 7         	|
+| Soportes PLA               	| 6         	|
+
+- Los archivos de Rhino están subidos en la carpeta [Modelados](https://github.com/Bernardita-lobo/dis8644-2025-1-proyectos/tree/main/00-examen/grupo-0b/modelado)
 
 ***
 

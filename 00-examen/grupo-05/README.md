@@ -7,7 +7,11 @@ grupo-05
   - Natalia Pilar [@sz-mada](https://github.com/sz-mada)
   - Paulina Vargas [@paulinavargasf](https://github.com/paulinavargasf)
 
-## proyecto-02
+## proyecto-02.
+
+### introducción del proyecto
+
+Nuestro proyecto propone una ruleta de luces que se activa mediante la detección de la sombra y la voz del usuario, interpretando así su vibra. El sistema se compone de una entrada con un sensor LDR que capta la sombra, y una salida que despliega una secuencia de luces LED encendiéndose de manera dinámica.
 
 ### aprendizajes
 
@@ -34,6 +38,38 @@ Con ayuda de [FranUDP](https://github.com/FranUDP) y Aarón pudimos descubrir el
 ![Conexión a tierra del pin 4](./imagenes/procesos/proceso_03.jpg)
 
 ![Conexión a alimentación de los pines 4 y 11](./imagenes/procesos/proceso_04.jpg)
+
+## esquemático
+
+![esquemático circuito ruleta](./imagenes/procesos/esquematico_01.png)
+
+![esquemático circuito mic falso](./imagenes/procesos/esquematico_02.png)
+
+## bill of materials
+
+|QTY|NAME|VALUE|OBS
+|:-:|-|-|-
+|3|Socket 8-pin|-|-
+|1|Socket 14-pin|-|-
+|1|Socket 18-pin|-|-
+|7|Resistencia|10k|-
+|3|Resistencia|1k|-
+|1|Resistencia|100k|-
+|2|Diodo|1n4007|-
+|1|LDR|LDR|-
+|3|Condensador cerámico|474n|-
+|1|Transistor|PN2222A|-
+|1|Micrófono electret|MIC|-
+|3|Condensador electrolítico|1u|-
+|1|Condensador electrolítico|100u|-
+|11|LED 5mm|LED|Distintos colores
+|1|Potenciómetro|500k|-
+|3|DIP-8|NE555|-
+|1|DIP-14|LM324|-
+|1|DIP-16|CD4017|-
+|2|Terminal Block|2-pin|-
+|2|Switch spdt|-|-
+|26|Cables dupont|-|-
 
 ## PCB
 
