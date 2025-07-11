@@ -9,6 +9,10 @@ grupo-02
 ## Proyecto-02
 Nombre del proyecto: BONGAZO
 
+Descripción del proyecto:
+
+Instrumento de percusión electrónico que utiliza un sensor piezoeléctrico para captar vibraciones y convertirlas en variaciones de frecuencia audibles mediante un parlante. Su espectro tonal es regulable a través de un potenciometro que permite ajustar la sensibilidad y volumen en función de la intensidad del impacto.
+
 - Aprendizajes:
 
 Enfrentarnos a la frustración y aprender a manejarla cuando nos encontramos con un resultado inesperado o cuando algo simplemente no funciona como queríamos. Al principio costaba más, pero con el tiempo fuimos tomando las cosas con otra actitud, entendiendo que siempre hay una forma de resolver los problemas y que el pedir ayuda, ya sea a los docentes, como a nuestros propios compañeres, siempre será necesario para nuestro entendimiento y aprendizaje.
