@@ -182,21 +182,29 @@ Cumplir con la primera parte fue un proceso lento pero sencillo. El contacto con
 Menciono que en por temas de tiempo no fue posible la obtención del nuevo logotipo de la facultad que actualmente se encuentra en desarrollo por parte de “Constanza Gaggero” (Gaggero Works) pese a haber asistido a la charla el pasado 13 de junio.
 Dicho evento pudo ser un apoyo al entendimiento del desarrollo de una identidad colectiva. Una guía para pensar en el desarrollo de la pieza clave que representa el taller: un logotipo.
 
-### Desarrollo del logotipo para el taller
+### Conceptualización
 
 En un comienzo todo fue muy abstracto. 
 Al no tener un camino establecido es que se elige como punto de partida el estudio aquellos elementos creados para la identidad y cuenta de Instagram del “Laboratorio de Interacción Digital” (LID), un espacio-hermano que se encuentra en contacto constante con la cuenta del taller (teee.udp) y que se dedican a exponer contenido de carácter exploratorio e inclusivo de máquinas y proyectos. 
 
 Ante ello surge la idea de un “vínculo” entre dichos espacios virtuales y el entorno físico de la universidad, manteniéndose “abiertos” ante la variedad de proyectos que se pueden ir desarrollando dentro del ecosistema UDP (no solo en la facultad de diseño, sino en la psicología y más). Al enfocarse en el tipo de contenidos he de concluir que son de carácter “inclusivo” en cuanto a la “diversidad” de tecnologías que son compartidas.
 
-Con esta conceptualización de la esencia del taller se toma la decisión de explorar con la tipografía “Space Grotesk”, una fuente digital que se encuentra presente en los logotipos del “LID”. Se comienza a moldear cada carácter de forma libre. Con el tiempo el nombre “teee” se vuelve un problema dada la repetición de la vocal, por lo que se elije el acotarlo al termino “te3”.
+Con esta conceptualización de la esencia del taller se toma la decisión de explorar con la tipografía “Space Grotesk”, una fuente digital que se encuentra presente en los logotipos del “LID”. 
+
+### Profundizando en los elementos identitarios
+
+Ya con estos antecedentes decidí realizar un "moodboard", un collage de referentes que reune las ideas que tengo en mente para las gráficas tales como tipografías, texturas, figuras y formas, colores, entre otros. Para ello decidí indagar usando páginas tales como Behance y Pinterest. En el caso de la segunda página, suelo usarla bastante para navegar y descubrir cosas nuevas que voy agregando a mis tableros personales, obteniendo referencias que vienen desde distintas partes (afiches, logotipos, experimentos, entre otros).
+
+
+### Desarrollo del logotipo para el taller
+
+Se comienza a moldear cada carácter de forma libre. Con el tiempo el nombre “teee” se vuelve un problema dada la repetición de la vocal, por lo que se elije el acotarlo al termino “te3”.
 Otra idea que se aplica al momento del desarrollo es la “continuidad” del taller. Este espacio es solo una versión de una serie de cursos que se ven vinculados con “tecnologías”, pero que por limitaciones de tiempo este semestre se acota al desarrollo de circuitos eléctricos. Ello hace que me decida por diseñar una pieza que por un lado conserve una letra y estructura rígida, a la par de presentar un carácter que pueda ser modificada según la temática futura que abordará el taller.
 Para ejemplificar esto se crean 4 versiones de un mismo logo acotado, además de presentar otros dos logotipos extendidos de presentan un concepto asociado al taller en si.
 Tras ello se escoge la propuesta que presenta sobriedad y equilibrio visual. Esta dará inicio a un futuro de posibilidades de nuevas representaciones.
 
 
-### Profundizando en los elementos identitarios
-  
+### Desarrollo de publicaciones digitales
 
 
 ### Desarrollo de soportes impresos
