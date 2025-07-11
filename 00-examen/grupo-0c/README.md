@@ -431,6 +431,6 @@ Mediciones de mesas para curatoría y distribución espacial de proyectos.
 
 ## Conclusiones generales
 
-Se destaca el **ambiente colaborativo** digital y físico de cada uno de los integrantes de este Taller. Transparencia, comunicación efectiva
+Se destaca el **ambiente colaborativo** digital y físico de cada uno de los integrantes de este Taller. **Transparencia, comunicación efectiva y voluntad de cada uno de los integrantes** en desarrollar colectivamente cada proyecto-02.
 
-Este proceso no solo consolidó habilidades técnicas, sino que también reforzó el valor del **trabajo en red.** La sinergia entre roles demuestra que la conexión entre partes diversas genera un resultado mayor que la suma de sus individualidades. La exhibición final es, en sí misma, un testimonio de cómo la colaboración estructurada y la creatividad compartida pueden transformar desafíos complejos en soluciones tangibles.
+Se reforzó el valor del **trabajo en red.** La sinergia entre roles demuestra que la conexión entre partes diversas genera un resultado mayor que la suma de sus partes. La exhibición final es un testimonio de cómo la **colaboración estructurada y la creatividad compartida pueden transformar desafíos complejos en soluciones tangibles**.
