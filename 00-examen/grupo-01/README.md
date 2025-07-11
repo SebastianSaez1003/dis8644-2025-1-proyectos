@@ -72,7 +72,7 @@ Y en este segundo esquemático las placas modulares.
 
 Contamos con 2 PCBs, una de control que posee el detector de sombra, el controlador de velocidad o timer, y el secuenciador. Y la segunda, llamada módulo, que es la que tomamos para poder conectar los transistores y los diodos y ubicarla en distintas partes de la carcasa. Se conectan a través de cables a la placa de control.
 
-En estas imágenes podemos ver nuestro poceso en kicad, desde diseñar la placa, hasta poder visualizarla en 3d.
+En estas imágenes podemos ver nuestro proceso en kicad, desde diseñar la placa, hasta poder visualizarla en 3d.
 
 Como primer ejemplo la placa de control.
 
