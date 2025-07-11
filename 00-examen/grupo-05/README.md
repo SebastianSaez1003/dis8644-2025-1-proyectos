@@ -9,6 +9,10 @@ grupo-05
 
 ## proyecto-02.
 
+### introducción del proyecto
+
+Nuestro proyecto propone una ruleta de luces que se activa mediante la detección de la sombra y la voz del usuario, interpretando así su vibra. El sistema se compone de una entrada con un sensor LDR que capta la sombra, y una salida que despliega una secuencia de luces LED encendiéndose de manera dinámica.
+
 ### aprendizajes
 
 El mayor aprendizaje que obtuvimos durante el proyecto fue la importancia de pedir ayuda a personas externas al equipo. Al principio intentamos resolver todo solos, pero nos dimos cuenta que consultando con los docentes o gente de otros grupos, podíamos tener nuevas soluciones que nunca habríamos pensado. Si bien no logramos solucionar el principal problema que tuvimos durante todo el proyecto, el pedir ayuda nos permitió entender mejor la raíz de este error.
