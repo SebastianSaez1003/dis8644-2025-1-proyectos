@@ -35,6 +35,12 @@ Con ayuda de [FranUDP](https://github.com/FranUDP) y Aarón pudimos descubrir el
 
 ![Conexión a alimentación de los pines 4 y 11](./imagenes/procesos/proceso_04.jpg)
 
+## esquemático
+
+![esquemático circuito ruleta](./imagenes/procesos/esquematico_01.png)
+
+![esquemático circuito mic falso](./imagenes/procesos/esquematico_02.png)
+
 ## bill of materials
 
 |QTY|NAME|VALUE|OBS
@@ -45,7 +51,7 @@ Con ayuda de [FranUDP](https://github.com/FranUDP) y Aarón pudimos descubrir el
 |7|Resistencia|10k|-
 |3|Resistencia|1k|-
 |1|Resistencia|100k|-
-|1|Diodo|1n4007|-
+|2|Diodo|1n4007|-
 |1|LDR|LDR|-
 |3|Condensador cerámico|474n|-
 |1|Transistor|PN2222A|-
@@ -57,8 +63,8 @@ Con ayuda de [FranUDP](https://github.com/FranUDP) y Aarón pudimos descubrir el
 |3|DIP-8|NE555|-
 |1|DIP-14|LM324|-
 |1|DIP-16|CD4017|-
-|1|Terminal Block|2-pin|-
-|1|Switch spdt|-|-
+|2|Terminal Block|2-pin|-
+|2|Switch spdt|-|-
 |26|Cables dupont|-|-
 
 ## PCB
