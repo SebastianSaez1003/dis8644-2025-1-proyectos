@@ -39,18 +39,6 @@ Con ayuda de [FranUDP](https://github.com/FranUDP) y Aarón pudimos descubrir el
 
 El proyecto consiste en dos circuitos paralelos con sus respectivas PCBs; el primer circuito consiste en un detector de sombra que, por medio de un LDR, activa una secuencia de 10 pasos de LEDs, y el segundo es un micrófono electret que enciende una luz LED por medio del input de sonido. Estos circuitos **no** están relacionados en funcionalidad; el circuito del micrófono solo es un truco para el usuario.
 
-Imágenes de las protoboards de prototipado
-
-![protoboards vista lateral](./imagenes/protoboard/tme-grupo05-protoboard-registro01.JPG)
-
-![protoboard ruleta vista lateral](./imagenes/protoboard/tme-grupo05-protoboard-registro02.JPG)
-
-![protoboard ruleta vista superior](./imagenes/protoboard/tme-grupo05-protoboard-registro03.JPG)
-
-![protoboard ruleta detalle 01](./imagenes/protoboard/tme-grupo05-protoboard-registro04.JPG)
-
-![protoboard ruleta detalle 02](./imagenes/protoboard/tme-grupo05-protoboard-registro06.JPG)
-
 Imágenes de las placas PCB
 
 ![PCB vacía](./imagenes/pcb/tme-grupo05-pcb-registro01.JPG)
@@ -85,7 +73,7 @@ Finalmente, luego de terminar de soldar y arreglar los cables cortados, montamos
 
 ## carcasa
 
-La carcasa se construyó en dos partes: una tapa hecha en corte láser con terciado de 3mm, y el contendor en impresión 3D.
+La carcasa se construyó en dos partes: una tapa hecha con madera terciada de 3mm en corte láser, y el contendor en impresión 3D.
 
 Las luces LED de la ruleta se colocaron en la parte superior de la tapa en forma de arco, y el LDR fue situado en el centro para ser accesible al usuario.
 
