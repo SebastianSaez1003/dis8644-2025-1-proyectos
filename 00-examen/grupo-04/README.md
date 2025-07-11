@@ -82,15 +82,13 @@ Debido a que el esquemático en el cuál está basado la protoboard contiene muc
 
 Una vez verificado el funcionamiento del circuito en la protoboard, avanzamos a la siguiente fase del proyecto: la soldadura y ensamblaje de la PCB (Placa de Circuito Impreso). Esta etapa consistió en trasladar el diseño electrónico funcional desde la protoboard a una placa fabricada previamente, siguiendo un diseño generado en software especializado.
 
-![PCB01](./imagenes/pcb/tme-grupo04-pcb-registro02.JPG)
+![soldadura02](./imagenes/pcb/tme-grupo04-soldado-registro01.jpg)
 
 Esta fue una experiencia completamente nueva para nosotros, ya que nunca habíamos realizado soldaduras electrónicas antes. Gracias a la clase de soldadura impartida durante el curso, pudimos aprender las técnicas básicas y luego ponerlas en práctica para soldar correctamente los componentes en la PCB del proyecto.
 
-![PCB02](./imagenes/pcb/tme-grupo04-soldado-registro01.jpg)
+![soldadura03](./imagenes/pcb/tme-grupo04-pcb-registro04.JPG)
 
-![PCB03](./imagenes/pcb/tme-grupo04-pcb-registro04.JPG)
-
-![PCB04](./imagenes/pcb/tme-grupo04-soldado-registro02.jpg)
+![soldadura04](./imagenes/pcb/tme-grupo04-soldado-registro02.jpg)
 
 # Durante esta etapa, soldamos un total de tres placas:
 
@@ -102,7 +100,7 @@ Es la placa que está instalada dentro de la carcasa del juguete. En esta versi�
 - 2 potenciómetros
 - Terminal Jack de alimentación 
 
-![PCB05](./imagenes/pcb/tme-grupo04-soldado-registro08.jpg.jpg)
+![soldadura05](./imagenes/pcb/tme-grupo04-soldado-registro08.jpg.jpg)
 
 ### 2. Placa de muestra
 
@@ -115,8 +113,8 @@ Esta placa fue diseñada con **cables más cortos**, lo cual la hace más cómod
 
 Similar a la placa de muestra, pero armada con **cables trenzados y terminal blocks**, lo que facilita el reemplazo o conexión rápida de componentes si fuera necesario. Como se puede apreciar en las imágenes.
 
-![PCB08](./imagenes/pcb/tme-grupo04-soldado-registro09.jpg)
-![PCB09](./imagenes/pcb/tme-grupo04-soldado-registro10.jpg)
+![soldadura08](./imagenes/pcb/tme-grupo04-soldado-registro09.jpg)
+![soldadura09](./imagenes/pcb/tme-grupo04-soldado-registro10.jpg)
 
 ## Desafíos durante la soldadura
 
@@ -127,8 +125,8 @@ Durante el proceso de armado, nos enfrentamos a distintos **problemas técnicos*
 - **Orientación de componentes:** Aprendimos sobre la correcta orientación de los polos de componentes como transistores, diodos y el LDR. A medida que soldábamos más placas, nuestro entendimiento sobre polaridad y ubicación mejoró considerablemente.
 - **Problema con el LDR en la placa principal:** En la PCB principal, la que va dentro de la carcasa, el **LDR no funcionaba correctamente**, o su señal era **muy débil**. Esto se debió a un problema con las **resistencias SMD** en el diseño de la placa. Estas resistencias, al tener un **espacio muy pequeño entre el pin del LDR y la conexión a tierra**, generaban una **resistencia muy baja**, lo que impedía que el LDR recibiera la corriente adecuada. Como resultado, el sistema estaba **alimentando una resistencia fija de 10k** en lugar del LDR, y por eso este último no actuaba como debía. Este fue un error difícil de identificar inicialmente, pero nos ayudó a comprender mejor cómo afectan las pistas y componentes del diseño a nivel físico.
 
-![PCB09](./imagenes/pcb/tme-grupo04-soldado-registro04.jpg)
-![PCB10](./imagenes/pcb/tme-grupo04-soldado-registro05.jpg)
+![soldadura11](./imagenes/pcb/tme-grupo04-soldado-registro04.jpg)
+![soldadura12](./imagenes/pcb/tme-grupo04-soldado-registro05.jpg)
 
 ## Aprendizaje despues de la soldadura
 
