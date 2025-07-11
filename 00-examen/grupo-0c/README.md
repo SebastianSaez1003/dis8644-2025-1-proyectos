@@ -277,12 +277,12 @@ Tras la compra, se recopilaron las boletas para hacer un recuento de todo lo imp
 
 ## Observaciones y conclusiones
 
-Dificultades: Se me llego a dificultar mas que nada el como ordenar cada markdown de una forma mas rapida, por suerte, misaa llego a ayudarme con eso y enseñarme sobre como generar los markdown a partir de un excel usando la siguiente pagina:
+Dificultades:Mi principal reto fue organizar rápidamente los archivos Markdown. Afortunadamente, Misaa me ayudó mostrándome cómo generarlos desde Excel usando la siguiente pagina:
 
 - https://www.tablesgenerator.com/markdown_tables#
 
 
-Logros: Aprendí sobre los proveedores mas viables en el mercardo, así como comprar al por mayor y finalmente, pagar con factura.
+Logros: Aprendí a identificar los proveedores más viables del mercado, a comprar al por mayor y a realizar pagos con factura.
 
 
 ---
