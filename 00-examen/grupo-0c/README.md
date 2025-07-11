@@ -345,7 +345,7 @@ A continuación, las labores realizadas.
 
 Resolución de dudas mediante commits, issues en Github y comunicación externa tanto en Whatsapp como presencialmente.
 
-![commits](./imagenes/commits-imagen)
+![commits](./imagenes/commits-imagen.jpg)
 
 ▼ **Fuente:** DiseñoUDP. *Commits*.[Github] Recuperado de <https://github.com/disenoUDP/dis8644-2025-1-proyectos/commits?author=IzhakVillegas&since=2025-07-01&until=2025-07-11>
 
