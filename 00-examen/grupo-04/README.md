@@ -90,6 +90,18 @@ Debido a que el esquemático en el cuál está basado la protoboard contiene muc
 
 ## PCB
 
+El proceso de desarrollo de la pcb en KiCad fue mucho más difícil que hacer la protoboard, se cometieron más errores en el camino y costaba mucho más encontrarlos, en este proceso surgieron un montón de dudas las cuáles fueron respondidas por el equipo docente y colegas. En la PCB se recrea lo que está en la protoboard y esquemático, en este caso no es necesario seguirlo al 100% ya que hay que ver cómo quedan los componentes ordenados en la placa, la idea es que quede lo más claro y ordenado posible para poder hacer un buen ruteo de pistas en la placa.
+
+![pcbkicad](./imagenes/pcb/tme-grupo04-pcbkicad-registro00.jpg)
+
+![pcbkicad](./imagenes/pcb/tme-grupo04-pcbkicad-registro001.jpg)
+
+![pcbkicad](./imagenes/pcb/tme-grupo04-pcbkicad-registro01.jpg)
+
+![pcbkicad](./imagenes/pcb/tme-grupo04-pcbkicad-registro02.jpg)
+
+![pcb](./imagenes/pcb/tme-grupo04-pcb-registro01.JPG)
+
 ## Soldadura
 
 Una vez verificado el funcionamiento del circuito en la protoboard, avanzamos a la siguiente fase del proyecto: la soldadura y ensamblaje de la PCB (Placa de Circuito Impreso). Esta etapa consistió en trasladar el diseño electrónico funcional desde la protoboard a una placa fabricada previamente, siguiendo un diseño generado en software especializado.
