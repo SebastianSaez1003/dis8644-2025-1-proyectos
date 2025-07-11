@@ -122,7 +122,7 @@ La responsable de esta sección es @Bernardita-lobo.
 
 ![Fotografia](./imagenes/tme-examen-modelado01.JPG)
 
-![Fotografia](./imagenes/tme-examen-modelado03.JPG)
+![Fotografia](./imagenes/tme-examen-modelado02.PNG)
 
 ### Sección Proyectos finales
 
@@ -142,7 +142,7 @@ La responsable de esta sección es @Bernardita-lobo.
 
 - Además, se incluirá un video de apoyo que muestra a los estudiantes trabajando y documentando sus procesos. Este material será proyectado tanto en un monitor como en el data. La sección funcionará como una recopilación visual y narrativa de los procesos productivos recorridos por los grupos para llegar al resultado final.
 
-![Fotografia](./imagenes/tme-examen-modelado02.PNG)
+![Fotografia](./imagenes/tme-examen-modelado03.JPG)
 
 ![Fotografia](./imagenes/tme-trabajo.jpeg)
 
