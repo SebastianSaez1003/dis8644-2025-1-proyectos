@@ -2,7 +2,7 @@
 
 ## Grupo-0b
 
-### integrantes
+### Integrantes
 
 - [José Morales](https://github.com/jotamorales-romulus)
 - [Bernardita Lobo](https://github.com/Bernardita-lobo)
