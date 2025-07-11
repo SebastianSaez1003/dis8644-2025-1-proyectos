@@ -51,9 +51,9 @@ Se decidió trabajar con dos estilos principales según el formato:
 
 ## Salida final
 
-[![VIDEO DE REGISTRO - TALLER MÁQUINAS ELECTRÓNICAS](https://img.youtube.com/vi/-KC4m3A0Mtk/0.jpg)](https://youtu.be/-KC4m3A0Mtk)
+[VIDEO DE REGISTRO - TALLER MÁQUINAS ELECTRÓNICAS](https://youtu.be/-KC4m3A0Mtk)
 
-- Los videos se subieron a la cuenta de Instagram del taller, y adicionalmente se subieron al canal [https://www.youtube.com/@jothitaromulus](https://www.youtube.com/@jothitaromulus) y fueron entregados via Wetransfer
+- Los videos se subieron a la cuenta de Instagram del taller, y adicionalmente se subieron al canal [https://www.youtube.com/@jothitaromulus](https://www.youtube.com/@jothitaromulus) y fueron entregados via Wetransfer.
 - Los formatos utilizados fueron:
   - Resolución *1080p*
   - Formato *MP4*
