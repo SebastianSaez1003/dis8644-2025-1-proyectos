@@ -20,7 +20,7 @@ Como evaluación inicial tuvimos que crear una carcasa para la UDPUDU y realizar
 ## Cotización
 
 | Materiales de fijación | Especificación  | Cantidad | Precio | Proveedores |
-| ---------------------- | --------------- | -------- | ------ | --------------------------------------------------------------------------------------------------------- |
+| ---------------------- | --------------- | -------- | ------ | --------------------------------------- |
 | Pernos | M3 20mm DIN7985 | 50 | $5.500 | [Victronics](https://www.victronics.cl/hardware/perno-m320-cincado-negro-din7985-50u/) |
 | Tuercas | M3 DIN934 | 20 | $1.936 | [Victronics](https://www.victronics.cl/hardware/tuerca-m3-cincado-negro-din934-50u/) |
 | Adhesivo instantaneo | La Gotita | 2 | $2.780 | [Mercado libre](https://articulo.mercadolibre.cl/MLC-2031807832-la-gotita-gel-3gr-_JM?matt_tool=16931662) |
@@ -29,13 +29,13 @@ Como evaluación inicial tuvimos que crear una carcasa para la UDPUDU y realizar
 | -------------- | -------------- | ----------- | ------- | ------- |
 | Acrilico | 3mm o 2mm | 1 de 120x40 | $10.800 | Acrilicos Chile |
 | Terciado | 3mm | 1 de 144x220cm   | $9.800  | [Imperial](https://www.imperial.cl/terciados/terciado-eucaliptus-rosado-3mm-144x220mt/product/104758?srsltid=AfmBOopOXERjgIg-dKOKwRMRTMQxq2_KSK7vkKB4Qd6P6lHKCeTpgV_4) |
-| Filamentos | PLA+ 1.75 | Por definir | $14.380 | [TodoToner](https://www.todotoner.cl/impresoras/impresoras-3d/filamentos/pla-plus-1kg-rojo-fuego-esun?source_impresee=7cs24374qdr2d7y72u3ig2b6p2)                      |
+| Filamentos | PLA+ 1.75 | Por definir | $14.380 | [TodoToner](https://www.todotoner.cl/impresoras/impresoras-3d/filamentos/pla-plus-1kg-rojo-fuego-esun?source_impresee=7cs24374qdr2d7y72u3ig2b6p2) |
 
 ## UDPUDU
 
 ![PCB UDPUDU](./archivos/udpudu/udpudu.png)
 
-La UDPUDU es la primera placa de circuito impreso que se mandó a hacer al extrantero. Su función es reproducir sonidos usando pinzas caimán para conectar los  objetos, usando cosas cotidianas como resistencias variables. La idea es que la pcb pueda ser visible, para dejar de lado la incógnita de la caja negra. Por lo tanto decidimos usar acrílico para la parte superior y PLA para lo demás. La carcasa debe tener espacio para una entrada jack, un cable USB como fuente de poder y un espacio para pinzas caimán
+La UDPUDU es la primera placa de circuito impreso que se mandó a hacer al extrantero. Su función es reproducir sonidos usando pinzas caimán para conectar losse  objetos, usando cosas cotidianas como resistencias variables. La idea es que la pcb pueda ser visible, para dejar de lado la incógnita de la caja negra. Por lo tanto decidimos usar acrílico para la parte superior y PLA para lo demás. La carcasa debe tener espacio para una entrada jack, un cable USB como fuente de poder y un espacio para pinzas caimán
 
 ![carcasa UDPUDU](./archivos/udpudu/carcasa-base.png)
 
@@ -53,11 +53,13 @@ A pesar de que este plazo fue cumplido muchos grupos tuvieron inconvenientes, si
 
 ## Grupo-01 KET-cloud
 
+### Integrantes 01
+
 - Emilia Contreras
 - Katalina Riquelme
 - Thyare Santander
 
-### Placa de circuito impreso-01
+#### Placa de circuito impreso 01
 
 ![PCB control grupo-01](./archivos/g01-control.png)
 
@@ -91,15 +93,15 @@ Este grupo decidió, desde el inicio, ser parte única del desarrollo de todos s
 
 #### Descripción del proyecto 02
 
-Es un instrumento de percusión que mediante un piezo eléctrico se envían señales para alterar la frecuencia de un speaker.
+Es un instrumento de percusión que mediante un piezo eléctrico se envía señales para alterar la frecuencia de un speaker.
 
 #### Proceso 02
 
-Desde el primer momento tuvieron definida una identidad visual que se complementa perfectamente con las decisiones formales, al integrar ambos aspectos se consiguió que el objeto invite a la percusión mediante su color vibrante y formas puntiagudas presentes en su logo. El equipo nos pidió ayuda con el diseño, modelado e impresión de la carcasa, ya que, al ser de la mención gráfico, no están familiarizadas con el modelado 3D.
+Desde el primer momento tuvieron definida una identidad visual que se complementa perfectamente con las decisiones formales, al integrar ambos aspectos se consiguió que el objeto invite a la percusión mediante su color vibrante y formas puntiagudas presentes en su logo. El equipo nos pidió ayuda con el diseño, modelado e impresión de la carcasa, ya que, al ser de la mención gráfico, no están familiarizadas con el modelado 3D. 
 
-Usaron de referente el EF105 [Drum Thing](https://www.electrofaustus.com/ef105-drum-thing), un “Dispositivo de ruido”. En el tema de la carcasa, se guiaron por el color vibrante y el dibujo en la parte superior.
+Usaron de referente el EF105 [Drum Thing](https://www.electrofaustus.com/ef105-drum-thing), un “Dispositivo de ruido”. En el tema de la carcasa, se guiaron por el color vibrante y el dibujo en la parte superior. 
 
-![Referente “Drum Thing”](./archivos/grupo-02/referencia-grupo02.jpg)
+![Referente “Drum Thing”](./archivos/grupo-02/referencia-grupo-02)
 
 Ellas nos propusieron la forma principal y las dimensiones, usando un cilindro para imitar a un tambor, querían usar PLA rojo vibrante para llamar la atención.
 
@@ -111,7 +113,7 @@ Pusimos una figura con puntas simulando una explosión o golpe en la parte super
 
 ![Tapa y speaker con explosión](./archivos/grupo-02/explosion.png)
 
-Ubicamos los componentes de forma que cada uno tenga su lugar. En la parte superior, dentro de la tapa, se encuentra el piezo, ya que es el lugar donde éste recibirá las señales al ser golpeado. En el interior, en uno de los laterales, está el potenciómetro con una perilla para un agarre más amigable, a la derecha de este están los espacios para el interruptor, la entrada jack y la salida del cable USB. En el lateral contrario, se encuentran unos rieles para ubicar el speaker de forma que quede fijo a la carcasa. Finalmente, sobre todos esos espacios, están las bases donde se ubicará la PCB.
+Ubicamos los componentes de forma que cada uno tenga su lugar. En la parte superior, dentro de la tapa, se encuentra el piezo, ya que es el lugar donde éste recibirá las señales al ser golpeado. En el interior, en uno de los laterales, está el potenciómetro con una perilla para un agarre más amigable, a la derecha de éste, están los espacios para el interruptor, la entrada jack y la salida del cable USB. En el lateral contrario, se encuentran unos rieles para ubicar el speaker de forma que quede fijo a la carcasa. Finalmente, sobre todos esos espacios, están las bases donde se ubicará la PCB.
 
 ![Carcasa completa y piezo en la tapa](./archivos/grupo-02/final-piezo.png)
 
@@ -123,7 +125,7 @@ En el proceso hicimos una prueba para ver cómo sería finalmente.
 
 Al hablar con el grupo, decidimos cambiar el tipo de interruptor, antes era un switch muy pequeño, así que lo cambiamos por uno más grande y circular para que tenga relación con la forma de la carcasa. También cambiamos la orientación del potenciómetro para que sea más cómodo a la hora de ponerlo junto a la placa.
 
-Luego de ver el tamaño final y cómo quedaría, pasamos a hacer pruebas de calce y tolerancia solo para los componentes. Para ahorrar tiempo y no gastar filamento. Luego de la prueba de los 3 componentes, sólo tuvimos que agrandar un poco los espacios para que las piezas pudieran caber sin forzarlas demasiado. En la segunda impresión, quedaron perfectos.
+Luego de ver el tamaño final y cómo quedaría, pasamos a hacer pruebas de calce y tolerancia sólo para los componentes. Para ahorrar tiempo y no gastar filamento. Luego de la prueba de los 3 componentes, sólo tuvimos que agrandar un poco los espacios para que las piezas pudieran caber sin forzarlas demasiado. En la segunda impresión, quedaron perfectos.
 
 Para la parte del potenciómetro sólo tuvimos que hacer una impresión, ya que quedó perfecto a la primera.
 
@@ -143,11 +145,11 @@ Para la parte del potenciómetro sólo tuvimos que hacer una impresión, ya que 
 
 #### Descripción del proyecto 03
 
-Es un controlador de luces LEDs de colores que se activan con el sonido.
+Es un controlador de luces leds de colores que se activan con el sonido.
 
 #### Proceso 03
 
-El equipo planteó desde el inicio el uso de acrílico, por lo que se volvió un desafío el fijar la placa a su carcasa sin romper la transparencia del material. Como primera propuesta, por parte de nuestro grupo, se planteó el uso de acrílico curvado para crear una especie de riel dentro de la estructura, lo que lograba no romper la transparencia y exponer al exterior la placa.
+El equipo planteó desde el inicio el uso de acrílico, por lo que se volvió un desafío el fijar la placa a su carcasa sin romper la transparencia del material. Como primera propuesta, por parte de nuestro grupo, se planteó el uso de acrílico curvado para crear una especie de riel dentro de la estructura, lo que lograba no romper la transparencia y exponer al exterior la placa. 
 
 ![Propuesta “rieles de acrílico”](./archivos/grupo-03/PropuestaAcrilico.jpg)
 
@@ -157,18 +159,12 @@ Partieron planteando referentes de piezas acrilicas de colores ensambladas, para
 
 ![espectraReferente](./archivos/grupo-03/spectraReferente.jpg)
 
-Este grupo modeló su propia carcasa y acudió al grupo 0a por consejos relacionados con impresión 3D y los procesos para fijar la placa. Al mostrarnos su modelo vimos que tenían pensado imprimir muchas piezas distintas y pequeñas, por lo que nosotros les recomendamos hacer esas piezas directamente en la base final para que sea más fácil imprimirlo y armarlo.
+Este grupo modeló su propia carcasa y acudió al grupo 00a por consejos relacionados a la impresión 3D y los procesos para fijar la placa. Al mostrarnos su modelo vimos que tenían pensado imprimir muchas piezas distintas y pequeñas, por lo que nosotros les
+recomendamos hacer esas piezas directamente en la base final para que sea más fácil imprimirlo y armarlo.
+
+![Primera versión de la carcasa]
 
 ![carcasaGrupo03](./archivos/grupo-03/CarcasaGrupo03.gif)
-
-![Primera versión de la carcasa](./archivos/grupo-03/version01-final.png)
-
-Necesitaban que su carcasa tuviera espacios para 2 potenciómetros, un interruptor rectangular y un micrófono de 9mm. Modificamos la parte de los componenetes sólo para qeu pudieran entrar de la mejor forma y ahorrarnos errores. Además, tenían 6 leds que debían estar más alto que el borde de la carcasa. Como se mencionó antariormente, ellas usarían acrílico y para ponerlo, la carcasa tiene un ángulo para darle forma de polígono.
-
-![Partes final Carcasa grupo-03](./archivos/grupo-03/partes.png)
-
-![Carcasa final grupo-03](./archivos/grupo-03/final.png)
-
 
 ## Grupo 04 MeowTech
 
@@ -184,17 +180,17 @@ Necesitaban que su carcasa tuviera espacios para 2 potenciómetros, un interrupt
 
 #### Descripción del proyecto 04
 
-Este proyecto consiste en una pequeña rampa con un sensor de sombra que activa un motor que hace girar un juguete para gatos.
+Este proyecto  consiste en una pequeña rampa con un sensor de sombra que activa un motor que hace girar un juguete para gatos.
 
 #### Proceso 04
 
 Durante el proceso los integrantes tienen definida una forma inicial de rampa, para que el gato pudiera apoyar sus patas al momento de querer alcanzar el objeto giratorio, es por eso que el desafío se encontraba en desarrollar y organizar su estructura interna.
 
-Al conocer los diversos componentes que este grupo utiliza se llegó a una propuesta inicial, que consiste en la creación de orificios para potenciómetros, alimentación, LEDs e interruptor, junto a un soporte interno que permite fijar el motor a la carcasa.
-
 Enviaron un referente a considerar en cuanto a la forma de las curvas, sin considerar las dimensiones, ya que por tiempo y dimensiones de la impresora se decidió disminuir el tamaño al máximo posible para que el usuario logre una buena interacción.
 
 ![referente04](./archivos/grupo-04/referente04.jpg)
+
+Al conocer los diversos componentes que este grupo utiliza se llegó a una propuesta inicial, que consiste en la creación de orificios para potenciómetros, alimentación, leds e interruptor, junto a un soporte interno que permite fijar el motor a la carcasa.
 
 ![croquis inicial grupo-04](./archivos/grupo-04/croquisInicial.jpg)
 
@@ -218,7 +214,7 @@ Al imprimir la cubierta inferior hubo un problema relacionado a la distancia de 
 
 ![cuberta04](./archivos/grupo-04/cubierta04)
 
-Tuvimos que rectificar los orificios de la PCB con un dremel y broca de 3mm para poder usar los pernos M3 disponibles.
+Tuvimos que rectificar los orificios de la pcb con un dremel y broca de 3mm para poder usar los pernos m3 disponibles.
 
 ![rectificacionOrificios](./archivos/grupo-04/rectificacionOrificios.jpg)
 
@@ -256,15 +252,15 @@ En primera instancia este grupo planteó la fabricación de su proyecto en base 
 
 ![referencia](./archivos/grupo-05/referencia.jpg)
 
-En un principio se planteó una forma bastante curva, la cual el grupo rechazó, enfatizando en que las curvas de los extremos no fueran tan pronunciadas.
+En un principio se planteó una forma bastante curva, la cual el grupo rechazó, enfatizando en que las curvas de los extremos no fueran tan pronunciadas. 
 
 ![PropuestaInicial](./archivos/grupo-05/propuestaInicial05.png)
 
 Para luego llegar a la forma final.
 
-![Modelado 3D grupo-05](./archivos/grupo-05/modelado3D-grupo05.png)
+![Modelado 3D grupo-05](./archivos/grupo-05/modelado3D-grupo-05.png)
 
-![timelapse05](./archivos/grupo-05/timelapse05.gif)
+![timelapse05](./archivos/grupo-05/timelapseo5.gif)
 
 ## Grupo 06 fps555
 
@@ -280,24 +276,21 @@ Para luego llegar a la forma final.
 
 #### Descripción del proyecto 06
 
-Es un dispositivo que regula la orientación de un lente de sol mediante un motor.
+Es un dispositivo que regula la orientación de un lente de sol mediante un motor. 
 
 #### Proceso 06
 
-Al igual que el grupo-01 este grupo llevó a cabo cada parte de su proyecto, incluyendo la fabricación, de igual manera los integrantes se acercaron a pedir opiniones respecto a que relleno creíamos mejor para que su producto fuera cómodo y adaptable al usuario.
+Al igual que el grupo 01 este grupo llevó a cabo cada parte de su proyecto, incluyendo la fabricación, de igual manera los integrantes se acercaron a pedir opiniones respecto a que relleno creíamos mejor para que su producto fuera cómodo y adaptable al usuario.
 
-Similarmente a los demás grupos usaron impresión 3D, pero en este caso, al ser un proyecto wearable se imprimió en filamento TPU, por sus propiedades flexibles.
+Al igual que los demás grupos usaron impresión 3D, pero en este caso, al ser un proyecto wearable se imprimió en filamento TPU, por sus propiedades flexibles.
 
 ![PiezaGrupo06](./archivos/grupo-06/PiezaGrupo06.jpg)
 
-Al saber de su proyecto se propone como referente los lentes de cíclope de x-men.
-
-Luego de la producción de las carcasas, se acompañó a cada grupo en el proceso de armado de sus productos finales, indicando métodos de fijación, terminaciones y resolución de problemas que surgieron.
-
 El grupo realizó un moodboard de referentes en base a como ubicar los circuitos y lograr que el proyecto sea wearable, cabe destacar que su intención de no disimular el dispositivo, se ve muy reflejada en estos referentes.
 
-Como referente formal más directo usaron el proyecto [Bo-Katan LED Headband](https://learn.adafruit.com/led-headband/overview)
- de Ruiz Brothers.
+Como referente formal más directo usaron el proyecto Bo-Katan LED Headband de Ruiz Brothers.
+
+![Bo-Katan LED Headband](https://learn.adafruit.com/led-headband/overview)
 
 Luego de la producción de las carcasas, se acompañó a cada grupo en el proceso de armado de sus productos finales, indicando métodos de fijación, terminaciones y resolución de problemas que surgieron.
 
