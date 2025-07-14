@@ -17,14 +17,17 @@ El registro en video se realizó con el objetivo de dejar constancia en el tiemp
 ### Referentes e investigación para los registros
 
 ### The Life of Crystals – Mónica Bate
+
 - Durante una visita a la universidad, Mónica Bate nos mostró el video [The Life of Crystals](https://vimeo.com/79735959), donde documenta su proyecto de arte sonoro con cristales piezoeléctricos. Este registro fue un referente clave, ya que su enfoque minimalista y claro resulta cercano a lo que queríamos realizar en el taller. La edición sencilla y la manera en que muestra los avances y la interacción con el objeto aportaron ideas valiosas para la documentación de los proyectos.
 
 ### Reels y videos de Taller: Celebración UDP – Carolina Kusanovich y Felipe Cardemil
+
 Otro referente importante fueron los registros audiovisuales que han realizado anteriormente en el Taller de Celebración. Se hace registro de las clases y trabajo de los alumnos. Anteriormente habia cursado este taller y había realizado registro en este. También tomé como referencia los reels de Instagram que se publican semanalmente, los cuales buscan captar la atención con cortes breves, música de fondo y un formato vertical pensado para redes sociales. Este tipo de registros son fáciles de grabar y editar, y suelen tener una duración de entre 30 segundos y 1 minuto.
 
 ### Decisiones sobre el estilo de los videos
 
 Se decidió trabajar con dos estilos principales según el formato:
+
 - Para los reels de Instagram, se optó por un estilo dinámico, con cortes rápidos y música de fondo que mantuvieran la atención del espectador. La idea es generar contenido que llame la atención de las personas y despierte su interés por el taller.
 - Para los videos de registro completo, se eligió un enfoque más neutro y detallado, con planos más largos que permitieran observar cada etapa del proceso con claridad y una amplia variedad de tomas que mostraran casi en su totalidad el trabajo realizado en clases.
 
@@ -76,16 +79,18 @@ Se decidió trabajar con dos estilos principales según el formato:
 Al iniciar el examen se hara uso de un video el acompañará la presentación deñ taller y cumplirá la función de contextualizar el trabajo realizado. Contiene los siguientes elementos:
 
   -Este video se presentará como apoyo para la introducción del taller ante la comisión, mostrando el avance y trabajo realizado por los alumnos.
-  - Registro de sesiones de clase: fragmentos que muestran el trabajo colectivo, el desarrollo de prototipos, la colaboración entre grupos y los distintos momentos de aprendizaje durante el semestre.
-  - Presentación del equipo docente:
-  - Nombres de los profesores responsables.
-  - Nombre de la ayudante de taller.
-  - Créditos finales: mención a todos los estudiantes participantes, indicando sus grupos de trabajo y los nombres de cada proyecto.
+
+- Registro de sesiones de clase: fragmentos que muestran el trabajo colectivo, el desarrollo de prototipos, la colaboración entre grupos y los distintos momentos de aprendizaje durante el semestre.
+- Presentación del equipo docente:
+- Nombres de los profesores responsables.
+- Nombre de la ayudante de taller.
+- Créditos finales: mención a todos los estudiantes participantes, indicando sus grupos de trabajo y los nombres de cada proyecto.
 
 Para la presentación de cada grupo se acompañara con un video con el registro de su trabajo en loop en tablets o iPads apoyadas en un soporte impreso en PLA
+
 - A cada grupo se le hace envio de sus respectivos videos mediante WeTransfer.
 
-### Estructura de videos grupales 
+### Estructura de videos grupales
 
 1. intro y descricipion del del proyecto con los nombre de los integrantes
 2. Registro protoboard
@@ -239,18 +244,18 @@ La responsable de esta sección es @Bernardita-lobo.
 ### Bill of Materials (BOM)
 
 |                    Elemento | Cantidad    |
-|----------------------------	|-----------	|
-| Ampolleta LED GU10         	| 6         	|
-| Soquete cérámico GU10      	| 6         	|
-| Cable eléctrico polarizado 	| 25 metros 	|
-| Listones de pino (1" x 2") 	| 4         	|
-| Grapas metálicas           	| 50        	|
-| Tela negra                 	| 10 metros 	|
-| Enchufes macho             	| 2         	|
-| Tabletas                   	| 6         	|
-| Monitor LED                	| 1         	|
-| Etiquetas NFC              	| 7         	|
-| Soportes PLA               	| 6         	|
+|---------------------------- |----------- |
+| Ampolleta LED GU10          | 6          |
+| Soquete cérámico GU10       | 6          |
+| Cable eléctrico polarizado  | 25 metros  |
+| Listones de pino (1" x 2")  | 4          |
+| Grapas metálicas            | 50         |
+| Tela negra                  | 10 metros  |
+| Enchufes macho              | 2          |
+| Tabletas                    | 6          |
+| Monitor LED                 | 1          |
+| Etiquetas NFC               | 7          |
+| Soportes PLA                | 6          |
 
 - Los archivos de Rhino están subidos en la carpeta [Modelados](https://github.com/Bernardita-lobo/dis8644-2025-1-proyectos/tree/main/00-examen/grupo-0b/modelado)
 
@@ -261,34 +266,35 @@ La responsable de esta sección es @Bernardita-lobo.
 Espacio a cargo de [@Camila-Parada](https://github.com/Camila-Parada)
 
 En un inicio las tareas asignadas al cargo consistieron en las labores de:
+
 - Recuperación de logotipos institucionales desarrollados por organismos involucrados con el contexto de la entrega: “La Escuela de Diseño”, “la Facultad de Arte, Arquitectura y Diseño” y la Universidad Diego Portales.
 - Desarrollo y producción de una identidad gráfica para el taller, y por ende, la exhibición.
 
 ### Recuperación de logotipos institucionales
 
-Cumplir con la primera parte fue un proceso lento pero sencillo. El contacto con estudiantes de la carrera, el desarrollo de encargos previos de otros talleres en conjunto con el desarrollo personal de archivos vectoriales fue imprescindible para la obtención de cinco versiones de logotipos presentes en formatos svg, jpg y png. 
+Cumplir con la primera parte fue un proceso lento pero sencillo. El contacto con estudiantes de la carrera, el desarrollo de encargos previos de otros talleres en conjunto con el desarrollo personal de archivos vectoriales fue imprescindible para la obtención de cinco versiones de logotipos presentes en formatos svg, jpg y png.
 
-<img width="1920" height="1080" alt="01" src="https://github.com/user-attachments/assets/b4874591-ea5d-49dc-90ae-616b9e6779ee" />
+![logos faad y diseño udp](./diseno-grafico/01.png)
 
 ▼ Fuente: Recurso de manufactura propia (captura de computador)
 
 Menciono que en por temas de tiempo no fue posible la obtención del nuevo logotipo de la facultad que actualmente se encuentra en desarrollo por parte de “Constanza Gaggero” (Gaggero Works) pese a haber asistido a la charla el pasado 13 de junio.
 Dicho evento pudo ser un apoyo al entendimiento del desarrollo de una identidad colectiva. Una guía para pensar en el desarrollo de la pieza clave que representa el taller: un logotipo.
 
-<img width="518" height="805" alt="02" src="https://github.com/user-attachments/assets/4b86ee28-dea2-402b-ab35-fb64bd2b2f52" />
+![afiche charla nueva identidad faad udp](./diseno-grafico/02.jpg)
 
 ▼ Fuente: [Discord del curso, canal "dis8644-taller"](https://media.discordapp.net/attachments/1318882679659171892/1382021652623134963/image.png?ex=685580f6&is=68542f76&hm=c322744209bbcb7178bff5600806b7fc19fa43e29d604add118e55843890c714&=&format=webp&quality=lossless&width=518&height=805). Enviado por "misaa.cc" — 10/6/25, 11:40
 
 ### Conceptualización
 
-En un comienzo todo fue muy abstracto. 
-Al no tener un camino establecido es que se elige como punto de partida el estudio aquellos elementos creados para la identidad y cuenta de Instagram del “Laboratorio de Interacción Digital” (LID), un espacio-hermano que se encuentra en contacto constante con la cuenta del taller (teee.udp) y que se dedican a exponer contenido de carácter exploratorio e inclusivo de máquinas y proyectos. 
+En un comienzo todo fue muy abstracto.
+Al no tener un camino establecido es que se elige como punto de partida el estudio aquellos elementos creados para la identidad y cuenta de Instagram del “Laboratorio de Interacción Digital” (LID), un espacio-hermano que se encuentra en contacto constante con la cuenta del taller (teee.udp) y que se dedican a exponer contenido de carácter exploratorio e inclusivo de máquinas y proyectos.
 
 Ante ello surge la idea de un “vínculo” entre dichos espacios virtuales y el entorno físico de la universidad, manteniéndose “abiertos” ante la variedad de proyectos que se pueden ir desarrollando dentro del ecosistema UDP (no solo en la facultad de diseño, sino en la psicología y más). Al enfocarse en el tipo de contenidos he de concluir que son de carácter “inclusivo” en cuanto a la “diversidad” de tecnologías que son compartidas.
 
-Con esta conceptualización de la esencia del taller se toma la decisión de explorar con la tipografía “Space Grotesk”, una fuente digital que se encuentra presente en los logotipos del “LID”. 
+Con esta conceptualización de la esencia del taller se toma la decisión de explorar con la tipografía “Space Grotesk”, una fuente digital que se encuentra presente en los logotipos del “LID”.
 
-![03](https://github.com/user-attachments/assets/38f5a67a-9bf0-4dd3-8909-79175ae0f329)
+![03](./diseno-grafico/03.jpg)
 
 ▼ Fuente: [Unblast](https://unblast.com/space-grotesk-sans-serif-font/).
 
@@ -296,52 +302,51 @@ Con esta conceptualización de la esencia del taller se toma la decisión de exp
 
 Ya con estos antecedentes decidí realizar un "moodboard", un collage de referentes que reune las ideas que tengo en mente para las gráficas tales como tipografías, texturas, figuras y formas, colores, entre otros. Para ello decidí indagar usando páginas tales como Behance y Pinterest. En el caso de la segunda página, suelo usarla bastante para navegar y descubrir cosas nuevas que voy agregando a mis tableros personales, obteniendo referencias que vienen desde distintas partes (afiches, logotipos, experimentos, entre otros).
 
-<img width="5616" height="4501" alt="04" src="https://github.com/user-attachments/assets/7f4fd80f-df67-4050-ba1f-e008d82964e5" />
+![04](./diseno-grafico/04.png)
 
 ▼ Fuente: Recurso de manufactura propia. Producción hecha con Illustrator.
 
-Tras ello se utiliza una imagen para generar propuestas de paletas de 4 colores cada una. Estos tonos representan paletas vibrantes de colores que sólo pueden observarse en una pantalla. 
+Tras ello se utiliza una imagen para generar propuestas de paletas de 4 colores cada una. Estos tonos representan paletas vibrantes de colores que sólo pueden observarse en una pantalla.
 
-<img width="5600" height="5304" alt="09" src="https://github.com/user-attachments/assets/a32917fd-9b8d-4849-b476-c29ee4c44bd6" />
+![09](./diseno-grafico/09.png)
 
 ▼ Fuente: Recurso de manufactura propia. Producción hecha con Illustrator.
 
-A la par, recuerdan al logotipo de Apple en versión arcoíris. 
+A la par, recuerdan al logotipo de Apple en versión arcoiris.
 
-<img width="208" height="243" alt="image" src="https://github.com/user-attachments/assets/60f179f7-6644-4ca9-90fd-9bef1276f8d6" />
+![apple](./diseno-grafico/apple.png)
 
 ▼ Fuente: Wikipedia.
 
 Estas paletas son sometidas a votación por parte del curso, teniendo como resultante la opción 2.
 
-<img width="2926" height="4456" alt="10" src="https://github.com/user-attachments/assets/21015b8b-ee88-445c-911f-e852700ccfd2" />
+![10](./diseno-grafico/10.png)
 
 ▼ Fuente: Recurso de manufactura propia. Producción hecha con Illustrator.
 
 Por otra parte se destacan nuevas piezas que inspiran a la creación de gráficas, lo que permite trabajar con una grilla cuadrada, donde el texto contrasta con el fondo y recuerdan a pantallas de códigos.
 
-![A](https://github.com/user-attachments/assets/b5c76484-7c5d-4aaf-8969-b2586c56893f)
+![A](./diseno-grafico/A.jpeg)
 
-![B](https://github.com/user-attachments/assets/9cf74a69-ed69-4042-a2a1-90b05d62c3d9)
+![B](./diseno-grafico/B.jpg)
 
 ▼ Fuente: Pinterest.
 
 Cómo último recurso, se decide trabajar con una tipografía "Neo Geo" de W Type Foundry, fuente formada por figuras tales como cuadrados y circulos. Esta permite ser aplicada tanto en títulos como e textos acotados.
 
-<img width="632" height="632" alt="image" src="https://github.com/user-attachments/assets/f06da3bd-0c37-4590-a4b8-2a1aa3e6ff80" />
+![neogeo-01](./diseno-grafico/neogeo-01.png)
 
-<img width="632" height="632" alt="image" src="https://github.com/user-attachments/assets/5a4af104-21bd-423f-956e-592274786584" />
+![neogeo-02](./diseno-grafico/neogeo-02.png)
 
-<img width="632" height="632" alt="image" src="https://github.com/user-attachments/assets/aa7b56b1-f431-42fb-aa0d-ff73e9ab980e" />
+![neogeo-03](./diseno-grafico/neogeo-03.png)
 
 ▼ Fuente: Behance.
 
-
 ### Desarrollo del logotipo para el taller
 
-Se comienza a moldear cada carácter de forma libre. 
+Se comienza a moldear cada carácter de forma libre.
 
-<img width="1920" height="1080" alt="05" src="https://github.com/user-attachments/assets/aa8673be-c98b-4fa0-8a47-32c66dfb8d72" />
+![05](./diseno-grafico/05.png)
 
 ▼ Fuente: Recurso de manufactura propia. Producción hecha con Illustrator.
 
@@ -355,36 +360,35 @@ Para ejemplificar esto se crean 4 versiones de un mismo logo acotado, además de
 
 ▼ Fuente: Recurso de manufactura propia. Producción hecha con Illustrator.
 
-
 ![07](https://github.com/user-attachments/assets/e49ac92b-1087-476a-b1b3-4ec7bd6ea92c)
 
 ▼ Fuente: Recurso de manufactura propia. Producción hecha con Illustrator.
 
-
 Tras ello se escoge la propuesta que presenta sobriedad y equilibrio visual. Esta dará inicio a un futuro de posibilidades de nuevas representaciones.
 
-<img width="4501" height="4501" alt="08" src="https://github.com/user-attachments/assets/69fd61c3-770b-44ee-bdbc-e4ecd1fbb8b3" />
+![08](./diseno-grafico/08.png)
 
-<img width="591" height="592" alt="11" src="https://github.com/user-attachments/assets/74aeee74-16d7-4d86-8e59-06e6e2d21e36" />
+![11](./diseno-grafico/11.png)
 
 ▼ Fuentes: Recursos de manufactura propia. Producción hecha con Illustrator. Arriba logotipo, abajo formato sticker.
 
-
 ### Desarrollo de publicaciones digitales
 
-Se trabaja con una grilla cuadrada, la cual pese a contener dichas figuras permite acomodar elementos tales como fotografías, logotipos, fuentes, entre otros de forma más fluida gracias a la unión de estas figuras para la creación de piezas. 
+Se trabaja con una grilla cuadrada, la cual pese a contener dichas figuras permite acomodar elementos tales como fotografías, logotipos, fuentes, entre otros de forma más fluida gracias a la unión de estas figuras para la creación de piezas.
 
 Primero se crean piezas para introducir al taller y presentar contenido para el examen.
 
-<img width="4501" height="4501" alt="12" src="https://github.com/user-attachments/assets/0fb10563-8f9e-42c9-a19f-56375641c5c9" />
-<img width="4501" height="4501" alt="13" src="https://github.com/user-attachments/assets/623de276-d3cb-4724-a7d0-ae402851ec8e" />
-<img width="4501" height="4501" alt="14" src="https://github.com/user-attachments/assets/6775c443-4889-4e55-9d5d-e2c44e88ec33" />
+![12](./diseno-grafico/12.png)
+
+![13](./diseno-grafico/13.png)
+
+![14](./diseno-grafico/14.png)
 
 Segundo se crean plantillas para modificar los contenidos para cada equipo.
 
-<img width="4502" height="4502" alt="15" src="https://github.com/user-attachments/assets/689752e6-f268-48d0-ad3b-849adc4cbb63" />
-<img width="4501" height="4502" alt="16" src="https://github.com/user-attachments/assets/d6fb3b7a-06c6-4439-b773-a7e269d67c7e" />
+![15](./diseno-grafico/15.png)
 
+![16](./diseno-grafico/16.png)
 
 ### Desarrollo de soportes impresos
 
@@ -415,7 +419,7 @@ Bienvenides a un espacio que funciona metafóricamente como una máquina electr�
 
 C) Resultado
 
-![17](https://github.com/user-attachments/assets/efec74e6-7e6e-45b1-83a9-290e9eccb961)
+![17](./diseno-grafico/17.jpg)
 
 #### 2. Cédulas introductoras de los contenidos
 
@@ -433,7 +437,6 @@ C) Resultados
 
 ![19](https://github.com/user-attachments/assets/469c5097-e50d-4b05-8fff-51742140b651)
 
-
 #### 3. Cédulas de cada grupo
 
 A) Listado de elementos
@@ -450,12 +453,16 @@ A) Listado de elementos
 
 B) Resultados
 
-<img width="2481" height="1241" alt="20" src="https://github.com/user-attachments/assets/97ae82d3-57c4-4e3d-b858-6ff7cfe16981" />
-<img width="2481" height="1241" alt="21" src="https://github.com/user-attachments/assets/00c722ac-e759-4cf7-a7fd-fb2439398372" />
-<img width="2482" height="1241" alt="22" src="https://github.com/user-attachments/assets/0d0a511b-4aec-4288-8e23-02fcdc24bcd7" />
-<img width="2481" height="1241" alt="23" src="https://github.com/user-attachments/assets/71daab61-2444-4ba1-a8a8-76cc4e5e3e8f" />
-<img width="2481" height="1241" alt="24" src="https://github.com/user-attachments/assets/167eb8c0-919a-4ee5-b7e9-4810ea9eb6fc" />
-<img width="2481" height="1241" alt="25" src="https://github.com/user-attachments/assets/a4fa63cb-a3ac-42cd-b0c5-204590d46e6c" />
+![20](./diseno-grafico/20.png)
 
+![21](./diseno-grafico/21.png)
+
+![22](./diseno-grafico/22.png)
+
+![23](./diseno-grafico/23.png)
+
+![24](./diseno-grafico/24.png)
+
+![25](./diseno-grafico/25.png)
 
 Cómo cada equipo posee información variada se realizó una serie de redacciones y correcciones de forma constante con cada equipo, compartiendo dichas versiones en el servidor del “Discord” del taller. Además, la grilla y los elementos gráficos fueron adaptados a ideas relacionadas según los productos, por lo que cada lámina posee su propia identidad expuesta.
